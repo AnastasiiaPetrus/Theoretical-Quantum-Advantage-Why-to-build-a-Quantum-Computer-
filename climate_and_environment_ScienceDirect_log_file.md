@@ -790,8 +790,7 @@ Pengyuan Shen et al.
 **[Optimising building envelope retrofits under future climates: Integrating passive, active, and renewable strategies](https://doi.org/10.1016/j.csite.2025.106219)**  
 Duc Minh Le et al.  
 - Simulation‑Based Optimization Framework  
-- Heuristic MCDM, Multi‑Objective Optimization Algorithms :contentReference[oaicite:2]{index=2}
-
+- Heuristic MCDM, Multi‑Objective Optimization Algorithms
 ---
 
 **[Changing climate in Italian cities and Italian building regulations: Analysis focused on future climate change scenarios](https://www.sciencedirect.com/science/article/pii/S0378778825007014)**  
