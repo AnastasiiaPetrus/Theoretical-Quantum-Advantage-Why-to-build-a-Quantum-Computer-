@@ -835,7 +835,7 @@ Zhaohui An et al.
 - Heuristic Function Optimization  
 - Node Optimization Strategy  
 - Second‑Order Bezier Curve Smoothing  
-- Dynamic Window Approach (DWA) :contentReference[oaicite:1]{index=1}
+- Dynamic Window Approach (DWA) 
 
 ---
 
@@ -843,7 +843,7 @@ Zhaohui An et al.
 Yifei Cai et al.  
 - Energy Activity Value Function  
 - Occupancy Grid Representation  
-- Terrain‑Based Backtracking Mechanism :contentReference[oaicite:2]{index=2}
+- Terrain‑Based Backtracking Mechanism 
 
 ---
 
