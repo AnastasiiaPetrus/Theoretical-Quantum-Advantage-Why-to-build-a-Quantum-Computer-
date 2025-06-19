@@ -5,17 +5,11 @@
 - **Keyword(s):** climate AND algorithm
 - **Date of search:** 2025-06-19
 - **Articles reviewed:** 100
-- **Time window:** 2024–2025
+- **Time window:** 2025–2025
 
 ---
 
 ## Log Entries
-
----
-
-**[Consenting to share data from electronic health records to research deposits: Constraints, obstacles, and proxy](https://www.sciencedirect.com/science/article/pii/S0001691825004895)**  
-Ève-Marie Roy, Iva Georgieva, Laurent Fradet, Laddawan Kaewkitipong, Matthieu J. Guitton  
-- —
 
 ---
 
@@ -47,17 +41,6 @@ Liang Mei, Xuekai Hong, Hangyi Liu, Xinglong Yang, Wei Peng, Zheng Kong
 - Data Correction Algorithms  
 - Comparison with AERONET Data  
 - Simulated Aerosol Models  
-
----
-
-**[Experimental investigation of near-critical ammonia injections using ECN Spray M injector](https://www.sciencedirect.com/science/article/pii/S0016236125017466)**  
-Mohamed Qenawy, Shizhao Zhang, Yonghui Qiao, Hengjie Guo  
-- High-speed Schlieren Imaging  
-- Self-Organizing Map Analysis  
-- Data Analysis of Spray Dynamics  
-- No explicit mention of named classical algorithms, mostly experimental methods and standard image/data analysis procedures  
-
----
 
 ---
 
@@ -173,14 +156,6 @@ Pradipta Biswas et al.
 
 ---
 
-**[Evolutionary insights into the geographic spread of pathogenic and opportunistic Leptospira strains](https://www.sciencedirect.com/science/article/pii/S0882401025005509)**  
-Saranya S, Chellapandi P  
-- Phylogenetic Tree Construction  
-- Bootstrapping Techniques  
-- Cluster Analysis  
-
----
-
 **[A neural network method for the escape rate in metastable systems](https://www.sciencedirect.com/science/article/pii/S037843712500411X)**  
 Tao Zhou et al.  
 - Neural Network Method  
@@ -207,37 +182,6 @@ Boqiang Lin, Zhijun Wang
 Ibrahim Shaik et al.  
 - Ratio Algorithm (Novel for this context, classical ratio-based estimation)  
 - Trend Analysis  
-
----
-
-**[A dual-fingerprint approach based on parameter systems for comprehensive quality evaluation of Belamcandae Rhizoma](https://www.sciencedirect.com/science/article/pii/S0731708525003814)**  
-Xinrui Lui, Guoxiang Sun  
-- Modified Euclidean Distance Method  
-- Principal Component Analysis (PCA)  
-- K-Means Clustering  
-- Cosine Similarity (for comparison)  
-
----
-
----
-
-**[Cross-cluster precision-guided knowledge fusion for fair and personalized federated learning](https://www.sciencedirect.com/science/article/pii/S1110016825006842)**  
-Anam Nawaz Khan et al.  
-- Precision-Centric Clustered Federated Learning (PPCFL) (proposed method)  
-- Angular Dissimilarity-based Clustering  
-- Class Precision-Centric Aggregation  
-- Bias-aware Model Consolidation  
-- Functional Parameter Decoupling  
-- No named classical algorithms; mostly new/combined strategies specific to federated learning
-
----
-
-**[Microphysical and Cloud-to-Ground Lightning Characteristics of Three Tornadoes in a Squall Line](https://www.sciencedirect.com/science/article/pii/S1364682625001609)**  
-Min Bao et al.  
-- S-band Dual-polarimetric Doppler Radar Analysis  
-- VLF/LF 3D Lightning Location System  
-- Correlation Analysis  
-- No explicit classical named algorithms (primarily observational and correlation/statistical analysis)
 
 ---
 
@@ -272,55 +216,18 @@ Ali Azedou et al.
 
 ---
 
-**[Population genomics of a sailing siphonophore reveals genetic structure in the open ocean](https://www.sciencedirect.com/science/article/pii/S0960982225006827)**  
-Samuel H. Church et al.  
-- Ocean Circulation Modeling  
-- Morphological Classification (Image Analysis)  
-- No explicit classical algorithms (mainly genomics, modeling, and statistical clustering)  
-
----
-
-**[Spatial heterogeneity patterns along the human footprint gradient and their ecological implications: A case study in South Korea](https://www.sciencedirect.com/science/article/pii/S1470160X25007010)**  
-Kyoung-Ho Kim et al.  
-- Local Indicators of Spatial Association (LISA)  
-- Gray-Level Co-Occurrence Matrix (GLCM) Indices  
-- Self-Organizing Map (SOM) Clustering  
-- Random Forest (RF)  
-- Machine Learning Models  
-- No other classical named algorithms  
-
----
-
-**[Review of transmission planning and scaling of renewable energy in energy communities](https://www.sciencedirect.com/science/article/pii/S136403212500601X)**  
-Kivanc Basaran et al.  
-- Systematic Literature Review  
-- Optimization Algorithms (general; no explicit classical algorithms detailed in abstract)  
-- No explicit classical named algorithms  
-
----
-
 **[The empowerment of smart city construction on the synergy effect of pollution control and carbon reduce in China: Empirical analysis with double machine learning method](https://www.sciencedirect.com/science/article/pii/S0959652625013083)**  
 Neng Shen et al.  
 - Double Machine Learning (DML)  
 - Panel Data Analysis  
 - Robustness Tests  
-- No other specific classical algorithms listed  
-
----
-
-**[New GIS Tools for wind fetch analysis: A case study of changes in wave exposure in Isfjorden (Svalbard) due to reduced fast ice coverage](https://www.sciencedirect.com/science/article/pii/S1364815225002683)**  
-Jacek Andrzej Urbański  
-- Vector GIS Analysis  
-- Fetch Calculation Tools  
-- No specific named classical algorithms  
 
 ---
 
 **[Forest-Water Nexus: An Evapotranspiration assessment of the Kafue River Sub-Basin using remote sensing](https://www.sciencedirect.com/science/article/pii/S1474706525001482)**  
 Muyaka Kamamba et al.  
 - Surface Energy Balance Algorithm for Land (SEBAL)  
-- Forest Inventory Assessment  
-- No other classical algorithms named  
+- Forest Inventory Assessment   
 
 ---
 
@@ -329,7 +236,6 @@ Débora Pantojo de Souza et al.
 - APSIM Platform (Agricultural Production Systems sIMulator)  
 - Statistical Indices (CCC, NSE, RMSE)  
 - Model Calibration  
-- No additional classical named algorithms  
 
 ---
 
@@ -337,7 +243,6 @@ Débora Pantojo de Souza et al.
 Zhou Wang et al.  
 - Machine Learning Model (not specified in abstract)  
 - Statistical Analysis (trend, correlation)  
-- No explicit classical named algorithms  
 
 ---
 
@@ -345,16 +250,14 @@ Zhou Wang et al.
 Prashant Kumar et al.  
 - Deep Learning Multi-Layer Perceptron Neural Network (DLMLPNN)  
 - Feature Importance (FI) Score  
-- Correlation Analysis  
-- No other classical named algorithms  
+- Correlation Analysis   
 
 ---
 
 **[How does land use transfer affect ecosystem services in Northwest China?](https://www.sciencedirect.com/science/article/pii/S0925857425002022)**  
 Pingping Zhou et al.  
 - InVEST Model (Integrated Valuation of Ecosystem Services and Tradeoffs)  
-- Scenario Analysis  
-- No other classical named algorithms  
+- Scenario Analysis   
 
 ---
 
@@ -362,7 +265,6 @@ Pingping Zhou et al.
 Colin K. Bloom et al.  
 - Linear Regression (for fit/correlation analysis)  
 - Rolling Average Estimation  
-- No other classical named algorithms  
 
 ---
 
@@ -371,14 +273,6 @@ Xing Zhou et al.
 - Explainable Machine Learning Framework  
 - Analog Simulation  
 - Policy Simulation  
-- No other classical named algorithms  
-
----
-
-**[Integrating radiative cooling and thermoelectric: A comprehensive review](https://www.sciencedirect.com/science/article/pii/S1364032125006197)**  
-S. Ali Akbar Mousavi et al.  
-- Review Article (methods discussed, but no original algorithms; mentions use of Machine Learning and IoT in future research)  
-- No explicit classical named algorithms  
 
 ---
 
@@ -391,14 +285,6 @@ Zhenyu Dong et al.
 - Gradient Boosted Decision Trees (GBDT)  
 - Derivative Spectral Transformation  
 - Statistical Evaluation (R2, RMSE, etc.)  
-
----
-
-**[Revolutionary NiCo layered double hydroxide electrodes: Advances, challenges, and future prospects for high-performance supercapacitors](https://www.sciencedirect.com/science/article/pii/S0927796X25001184)**  
-Syed Shaheen Shah et al.  
-- Density Functional Theory (DFT) Modeling  
-- Computational Modeling  
-- No explicit classical algorithms (mainly review/discussion of methods)  
 
 ---
 
@@ -421,12 +307,6 @@ Saranya S, Chellapandi P
 
 ---
 
-**[Synergistic 3D nanofibers for enhanced microbial control and moisture regulation in fruit preservation](https://www.sciencedirect.com/science/article/pii/S1385894725058838)**  
-Lin Wang et al.  
-- Dissipative Particle Dynamics Simulations  
-- No explicit classical algorithms (mainly simulation and experimental work)  
-
----
 
 **[Mode II fracture behavior of Norway spruce: CBBM and DIC analysis at small and structural scales](https://www.sciencedirect.com/science/article/pii/S0950061825024110)**  
 Jiří Kunecký et al.  
@@ -436,23 +316,12 @@ Jiří Kunecký et al.
 
 ---
 
-**[Exploring the annual seasonal impacts on the ecological restoration of post-mining sites](https://www.sciencedirect.com/science/article/pii/S0925857425001983)**  
-Rugana Imbaná et al.  
-- Rehabilitation Quality Index (RQI)  
-- Permutation Tests (Resemblance)  
-- Field Surveys & Laboratory Analyses  
-- No explicit classical named algorithms  
-
----
-
 **[A dual-fingerprint approach based on parameter systems for comprehensive quality evaluation of Belamcandae Rhizoma](https://www.sciencedirect.com/science/article/pii/S0731708525003814)**  
 Xinrui Lui, Guoxiang Sun  
 - Modified Euclidean Distance Method  
 - Principal Component Analysis (PCA)  
 - K-Means Clustering  
 - Cosine Similarity (comparison method)  
-
----
 
 ---
 
@@ -478,28 +347,6 @@ Ruttachai Seelajaroen, Boonlert Jitmaneeroj
 
 ---
 
-**[Carbon compensation prioritization in the Loess Plateau based on ecosystem service flows](https://www.sciencedirect.com/science/article/pii/S2589004225012015)**  
-Yuhe Ma et al.  
-- Ecological Compensation Index (custom model)  
-- Flow Modeling of Ecosystem Services  
-- No classical named algorithms  
-
----
-
-**[Transcriptional changes at different developmental stages of rice (Oryza sativa L.) following lunar orbit flight](https://www.sciencedirect.com/science/article/pii/S2214552425000768)**  
-Xiaohui Du et al.  
-- Comparative Transcriptomic Analysis  
-- No explicit classical algorithms (standard bioinformatics/statistics)  
-
----
-
-**[Glacier Distribution, Changes, and Water Resource impacts in the Turpan−Hami Basin, Xinjiang, China](https://www.sciencedirect.com/science/article/pii/S2097158325000722)**  
-Hao Ma et al.  
-- Spatial Analysis  
-- Glacier Inventory Comparison  
-- No explicit classical named algorithms  
-
----
 
 **[Quantifying Spatiotemporal Patterns of Urban Heat, Dry and Wet-Bulb Islands across Representative Local Climate Zones through Field Measurements and Artificial Neural Networks](https://www.sciencedirect.com/science/article/pii/S2210670725004329)**  
 Yixuan Liu et al.  
@@ -515,35 +362,12 @@ Akanksha Singh et al.
 
 ---
 
-**[Transcriptomic profile of Lutraria sieboldii larvae: Insights into the molecular mechanisms of attachment and metamorphosis](https://www.sciencedirect.com/science/article/pii/S1744117X25001583)**  
-Taiyue Xv et al.  
-- Weighted Gene Co-expression Network Analysis (WGCNA)  
-- RNA-seq Differential Expression Analysis  
-- No classical named algorithms  
-
----
-
 **[Analysis and forecasting of meteorological drought using PROPHET and SARIMA models deploying Machine Learning Technique for southwestern region of Bangladesh](https://www.sciencedirect.com/science/article/pii/S2665972725001825)**  
 Mohammad Alamgir Hossain et al.  
 - PROPHET Model (Structural Time Series)  
 - Seasonal Autoregressive Integrated Moving Average (SARIMA)  
 - Correlation Analysis  
 
----
-
-**[Towards Forest 4.0: UAVs and Smartphones Applied to Community-based Forest Management in the Brazilian Amazon](https://www.sciencedirect.com/science/article/pii/S221146452500140X)**  
-Tom Adnet Moura et al.  
-- UAV-based Mapping  
-- No explicit classical named algorithms (mainly geospatial mapping and data collection)  
-
----
-
-**[Integrated anaerobic digestion/pyrolysis scheme for sustainable textile-dyeing wastewater and biowaste valorization: A life cycle assessment and techno-economic perspective](https://www.sciencedirect.com/science/article/pii/S2214714425012310)**  
-Derrick Dadebo et al.  
-- Life Cycle Assessment (LCA)  
-- Techno-Economic Analysis (TEA)  
-- Batch Bioreactor Experiment  
-- No explicit classical named algorithms  
 
 ---
 
@@ -619,13 +443,6 @@ Amit Vishwakarma, Ajanta Goswami
 
 ---
 
-**[A survey of flood warning sensor network operational and maintenance practices across the United States](https://www.sciencedirect.com/science/article/pii/S2666165925000894)**  
-Mubarak ADESINA et al.  
-- Qualitative Analysis (Interviews, Surveys)  
-- No explicit classical named algorithms  
-
----
-
 **[Postprocessing of convection permitting precipitation forecast using UNets](https://www.sciencedirect.com/science/article/pii/S157495412500264X)**  
 Marcos Esquivel-González et al.  
 - UNet Convolutional Neural Networks (CNN)  
@@ -648,21 +465,11 @@ Walid Abdelfattah et al.
 
 ---
 
-**[Properly Positioning Coal Power in Decarbonizing the Global Power Systems](https://www.sciencedirect.com/science/article/pii/S2095809925003169)**  
-Jinze Li et al.  
-- Flexibility Metrics Calculation  
-- Cost Analysis  
-- No explicit classical named algorithms  
-
----
-
 **[Effects of irrigation and canal networks on groundwater–land surface interactions in the middle Heihe River Basin, China](https://www.sciencedirect.com/science/article/pii/S221458182500357X)**  
 Zheng Lu et al.  
 - 3D Integrated Hydrologic Modeling  
 - Model Validation  
 - Numerical Experiments  
-
----
 
 ---
 
@@ -672,30 +479,6 @@ Taha Karami, Mohammad Reza Zangeneh
 - Flow Field Design and Modification  
 - Uniformity Index Calculation  
 - Net Power Density Analysis  
-
----
-
-**[Regenerating rural soil and ecosystems: A 15-year systematic review of emerging methods and technologies](https://www.sciencedirect.com/science/article/pii/S0048969725015669)**  
-Sumanta Das et al.  
-- Bibliometric Analysis  
-- Thematic Analysis  
-- Qualitative Synthesis  
-- No explicit classical algorithms; review of emerging and established methods (including bioremediation, AI, remote sensing, etc.)  
-
----
-
-**[Preface to the special issue on “Marine Engineering Geology in Developing Ocean Resources and Energy”](https://www.sciencedirect.com/science/article/pii/S0013795225003023)**  
-Xiaolei Liu et al.  
-- —  
-
----
-
-**[Century-long soil profile truncation in eastern South Dakota agricultural fields](https://www.sciencedirect.com/science/article/pii/S001670612500237X)**  
-Eli Halverson et al.  
-- Comparative Soil Profile Analysis  
-- Soil Morphology and Horizon Depth Comparison  
-- Quantification of Soil Loss (based on field and legacy data)  
-- No named classical algorithms  
 
 ---
 
@@ -719,14 +502,6 @@ Jomon A. Paul, Xinfang Wang
 
 ---
 
-**[High temperature and humification reduce DNA viruses in food waste composting](https://www.sciencedirect.com/science/article/pii/S0013935125014288)**  
-Miaolian Hua et al.  
-- Statistical Analysis  
-- Germination Index (GI) Calculation  
-- No explicit classical algorithms  
-
----
-
 **[Optimizing emergency supply storage locations in urban flood disasters from the perspectives of cost and safety](https://www.sciencedirect.com/science/article/pii/S0022169425010601)**  
 Wei Du et al.  
 - Risk Reduction Greedy Algorithm (RRGA)  
@@ -735,21 +510,6 @@ Wei Du et al.
 - P-median Problem (for comparison)  
 - Accessibility Distance Analysis  
 - Cost and Safety Indicator Calculation  
-
----
-
-**[Different altitudinal distributions of the two chemical varieties of Pseudevernia furfuracea collide with the conserved physiological response of transplanted lichens](https://www.sciencedirect.com/science/article/pii/S0098847225001030)**  
-Elva Cecconi et al.  
-- Statistical Analysis (ANOVA, parameter comparisons)  
-- No explicit classical algorithms  
-
----
-
-**[Virtual Flying Carpets and Digital Disaster Rooms: Towards a critical analysis of immersive speculative environments in Museums of the Future](https://www.sciencedirect.com/science/article/pii/S0016328725001053)**  
-Jessica Pykett et al.  
-- Integrative Literature Review  
-- Conceptual Framework Development  
-- No explicit classical algorithms  
 
 ---
 
@@ -764,23 +524,6 @@ Jiaxing Wang et al.
 Junbeom Jo et al.  
 - SuWAT Model (integrated storm surge, tides, waves, wave overtopping, pluvial processes)  
 - Multi-process Coupled Modeling  
-
----
-
-**[Rapid retreat of marsh-edge cliffs, Jiangsu coast, China](https://www.sciencedirect.com/science/article/pii/S0025322725001318)**  
-Yunwei Wang et al.  
-- Satellite Remote Sensing  
-- Temporal and Spatial Pattern Analysis  
-- No explicit classical algorithms  
-
----
-
-**[Making Waves: Emphasizing Integrated Research on Harmful Algal Blooms Over Single-Species Laboratory Studies](https://www.sciencedirect.com/science/article/pii/S0043135425009595)**  
-Boling Li et al.  
-- Ecological Modelling  
-- Big Data Analysis  
-- Real-time Monitoring and Remote Sensing  
-- No explicit classical algorithms  
 
 ---
 
@@ -877,9 +620,223 @@ Xinli Qi et al.
 
 ---
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**[Does managerial climate risk perception improve environmental, social and governance (ESG) performance?](https://www.sciencedirect.com/science/article/pii/S0959652625008457)**  
+Ye Tian, Mengyang Zhao  
+- Textual Analysis  
+- Endogeneity Correction Methods (not specified)  
 
+---
+
+**[Restrictions and alternatives for the development data-based energy prediction models in buildings located in tropical climate: Literature review](https://www.sciencedirect.com/science/article/pii/S2214629624001336)**  
+J. Cárdenas-Rangel et al.  
+- Building Energy Simulation  
+- Machine Learning Algorithms (not specified)  
+- Transfer Learning  
+- Feature Selection  
+
+---
+
+**[Firm-level climate change exposure and firm efficiency](https://www.sciencedirect.com/science/article/pii/S0140988324008489)**  
+Khanh Hoang et al.  
+- Data Envelopment Analysis (DEA)  
+- Textual Data Analysis  
+
+---
+
+**[Climate change impact on the distribution and priority areas for conservation of Sterculia setigera Delile in Benin, West Africa](https://www.sciencedirect.com/science/article/pii/S0048969725015240)**  
+Rissicath Foumilayo Djaboutou et al.  
+- Maximum Entropy Algorithm (MaxEnt)  
+- Species Distribution Modeling (SDM)  
+- Niche Similarity Test  
+- Zonation Software (habitat prioritization)  
+
+---
+
+**[Variation in the potential impacts of climate change on the baobab in Sub-Saharan Africa: A continental analysis across major climate zones](https://www.sciencedirect.com/science/article/pii/S0048969725015929)**  
+Mariette Agbohessou et al.  
+- Ensemble Species Distribution Models (SDMs)  
+- Schoener’s D (niche overlap metric)  
+
+---
+
+**[Modeling the spatial distribution of the tití shrimp (Xyphopenaeus riveti) under climate change scenarios for end of the century in the Colombian Pacific](https://www.sciencedirect.com/science/article/pii/S1470160X24001729)**  
+Yumer Alexis Florez Caicedo et al.  
+- Random Forest Algorithm  
+- Species Distribution Modeling (SDM)  
+- Bathymetric Projection (BP) Method  
+
+---
+
+**[Demonstrating almost half of cotton fiber quality variation is attributed to climate change using a hybrid machine learning-enabled approach](https://www.sciencedirect.com/science/article/pii/S0048969725015556)**  
+Xin Li et al.  
+- Bayesian Model Average (BMA)  
+- Linear Regression  
+- Support Vector Regression (SVR)  
+- Random Forest Regression (RFR)  
+- Gradient Boosted Decision Trees (GBDT)  
+- LightGBM  
+- XGBoost  
+- Bootstrap Resampling  
+- Recursive Feature Elimination with Cross-Validation (RFECV)  
+
+---
+
+**[Unveiling uncertainties in soil organic carbon modeling: the critical role of climate response functions](https://www.sciencedirect.com/science/article/pii/S0048969725015451)**  
+Huiwen Li et al.  
+- Double Layer Carbon Model (DLCM)  
+- Particle Swarm Optimization (PSO)  
+- Machine Learning Baseline Maps (not specified)  
+
+---
+
+**[Transition to a greener economy: Climate change risks and resilience in a state-space framework](https://www.sciencedirect.com/science/article/pii/S0048969725015418)**  
+Soumya Bhadury et al.  
+- Dynamic Factor Model (DFM)  
+- Predator-Prey Interaction Model  
+
+---
+
+**[Enhanced NDVI prediction accuracy in complex geographic regions by integrating machine learning and climate data—a case study of Southwest basin](https://www.sciencedirect.com/science/article/pii/S2352938525001021)**  
+Zehui Zhou et al.  
+- LSKRX Model (integrated ML framework)  
+- Multiple Machine Learning Algorithms (not specified)  
+
+---
+
+**[A many-objective optimization approach to design office building façade considering energy-daylight balance concept within prevalent climate types of Iran](https://www.sciencedirect.com/science/article/pii/S0378778825007753)**  
+Ali Kangazian, Mehdi Pourghanbari  
+- NSGA-III (Non-dominated Sorting Genetic Algorithm III)  
+- Weighted Sum Method (WSM)  
+- Friedman Test (statistical comparison)  
+
+---
+
+**[Machine learning ensemble model prediction of northward shift in potato cyst nematodes (Globodera rostochiensis and G. pallida) distribution under climate change conditions](https://www.sciencedirect.com/science/article/pii/S2590197425002022)**  
+Yitong He et al.  
+- Artificial Neural Network (ANN)  
+- Machine Learning Ensemble Models (single- and multi-algorithm)  
+
+---
+
+**[Predicting climate change: A comparative analysis of time series models for CO2 concentrations and temperature anomalies](https://www.sciencedirect.com/science/article/pii/S0169207024000811)**  
+Zahra Rezaei et al.  
+- Long Short-Term Memory (LSTM)  
+- Extreme Gradient Boosting (XGBoost)  
+- Convolutional Neural Network (CNN)  
+- Facebook Prophet  
+- Hybrid CNN-LSTM  
+- Energy Balance Model (EBM, physics-based)  
+- General Circulation Model (GCM, physics-based, NASA GISS framework)  
+
+---
+
+**[Spatial distribution of energy consumption: Integrating climate and macro-statistics for insights from clustering and sensitivity analysis](https://www.sciencedirect.com/science/article/pii/S2211467X25001863)**  
+Changhai Peng et al.  
+- K-means Clustering  
+- Clustering Algorithm Sensitivity Analysis  
+
+---
+
+**[Seagrass Ecosystems in Peril: Climate Change Threatens Blue Carbon Storage and Ecosystem Services](https://www.sciencedirect.com/science/article/pii/S0048969725015286)**  
+Linlin Song et al.  
+- Ensemble Modeling (under RCP scenarios; SDMs implied)  
+
+---
+
+**[Generic fuzzy-based optimal energy management strategy for efficient performance of realistic micro-grids with battery lifetime enhancement under climate changes](https://www.sciencedirect.com/science/article/pii/S2352484725003121)**  
+Mohamed Kouki et al.  
+- Fuzzy Linear Programming  
+- Multi-linear Membership Functions (fuzzy modeling)  
+- Tunicate Swarm Algorithm  
+
+---
+
+**[Future projections and life cycle assessment of end-of-life tires to energy conversion in Hong Kong: Environmental, climate and energy benefits for regional sustainability](https://www.sciencedirect.com/science/article/pii/S0306261924004868)**  
+Chaoshuo LIU et al.  
+- AutoRegressive Integrated Moving Average (ARIMA)  
+- Life Cycle Assessment (ReCiPe2016 method)  
+- Genetic Algorithm Optimization  
+
+---
+
+**[Future climate change increase species vulnerability and present new opportunities for biodiversity conservation in China](https://www.sciencedirect.com/science/article/pii/S2352938525000922)**  
+Xuede Dong et al.  
+- Species Distribution Models (SDMs)  
+
+---
+
+**[Ensemble modeling of aquatic plant invasions and economic cost analysis in China under climate change scenarios](https://www.sciencedirect.com/science/article/pii/S2212041624002210)**  
+Zixuan Feng et al.  
+- Ensemble Models (multiple algorithms; Biomod2 platform)  
+- Economic Cost Analysis (Invacost database)  
+
+---
+
+**[Unveiling user dynamics in the evolving social debate on climate crisis during the conferences of the parties](https://www.sciencedirect.com/science/article/pii/S0959652625008445)**  
+Liliana Martirano, Lucio La Cava, Andrea Tagarelli  
+- Graph Mining  
+- Network Analysis  
+- Topic Modeling  
+- Affective Computing (Sentiment and Emotion Analysis)  
+- Community Detection Algorithms (not specified)  
+
+---
+
+**[An interpretable machine learning approach reveals the interaction between air pollutants and climate factors on tuberculosis](https://www.sciencedirect.com/science/article/pii/S0959652625008123)**  
+Shuo Wang et al.  
+- Interpretable Machine Learning Models (not specified, but likely tree-based)  
+- SHAP (Shapley Additive Explanations)  
+
+---
+
+**[Risk spillover effects of climate uncertainty on commodity markets: From the dual perspective of physical risk and transition risk](https://www.sciencedirect.com/science/article/pii/S0921800924010306)**  
+Haiqin Ouyang et al.  
+- Time-Varying Parameter Vector Autoregressive Model (TVP-VAR)  
+- Dynamic Conditional Correlation Generalized Autoregressive Conditional Heteroskedasticity (DCC-GARCH)  
+- Spillover Index  
+- Impulse Response Analysis  
+
+---
+
+**[Recent progress in building energy retrofit analysis under changing future climate: A review](https://www.sciencedirect.com/science/article/pii/S2214629624001403)**  
+Pengyuan Shen et al.  
+- Building Simulation Tools  
+- Downscaling Techniques for Climate Models  
+- Optimization Methods for Retrofit (not specified)  
+
+---
+
+**[Optimising building envelope retrofits under future climates: Integrating passive, active, and renewable strategies](https://www.sciencedirect.com/science/article/pii/S0378778825006708)**  
+Duc Minh Le et al.  
+- Simulation-Based Optimization Framework  
+- Heuristic Multi-Criteria Decision Making (MCDM)  
+- Multi-Objective Optimization Algorithms (not specified)  
+
+---
+
+**[Changing climate in Italian cities and Italian building regulations: Analysis focused on future climate change scenarios](https://www.sciencedirect.com/science/article/pii/S0378778825007014)**  
+Krizia Berti et al.  
+- Degree-Day Methodology  
+- Climate Zoning Analysis
+
+---
+
+**[Optimizing cropland management to mitigate climate-induced nitrogen leakage risk in Chinese ecosystems](https://www.sciencedirect.com/science/article/pii/S0048969725015740)**  
+Di Zhao et al.  
+- Random Forest  
+- Linear Mixed-Effects Models  
+
+---
+
+**[Multi-stage optimization framework for synergetic grey-green infrastructure in response to long-term climate variability based on shared socio-economic pathways](https://www.sciencedirect.com/science/article/pii/S2210670725003874)**  
+Shiqi Zhou et al.  
+- Multi-Stage Optimization Framework  
+- Graph Theory  
+- Genetic Algorithm  
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Log: Climate and Environment – ScienceDirect – keyword: "environment AND algorithm"
 
 ## Search Metadata
 - **Platform:** ScienceDirect
@@ -892,15 +849,1178 @@ Xinli Qi et al.
 
 ## Log Entries
 
+---
 
+**[Improved Bidirectional JPS Algorithm for Mobile Robot Path Planning in Complex Environments](https://www.sciencedirect.com/science/article/pii/S1546221825002899)**  
+Zhaohui An et al.  
+- Improved Bidirectional Jump Point Search (I-BJPS)  
+- Heuristic Function Optimization  
+- Node Optimization Strategy  
+- Second-Order Bezier Curve Smoothing  
+- Dynamic Window Approach (DWA)  
+
+---
+
+**[EA-OSPGB: Multiple robots dynamic online algorithm for solving full coverage path planning of multiple robots in unknown terrain environments](https://www.sciencedirect.com/science/article/pii/S0957417425021888)**  
+Yifei Cai et al.  
+- Energy Activity Value Function  
+- Occupancy Grid Representation  
+- Terrain-Based Backtracking Mechanism  
+
+---
+
+**[Evaluation of visual SLAM algorithms in unstructured planetary-like and agricultural environments](https://www.sciencedirect.com/science/article/pii/S016786552400285X)**  
+Víctor Romero-Bautista et al.  
+- Visual SLAM Algorithms (ORB-SLAM2, DSO, SVO, LSD-SLAM, etc.)  
+- Statistical Scene Analysis  
+
+---
+
+**[A modified A* algorithm for path planning in the radioactive environment of nuclear facilities](https://www.sciencedirect.com/science/article/pii/S0306454925000507)**  
+Biao Zhang et al.  
+- Modified A* Algorithm (with Weighted Cost Balancing)  
+- Heuristic Search  
+- Probabilistic Roadmap Method (PRM) (for comparison)  
+
+---
+
+**[Bi-directional virtual search algorithm for efficient and collision-free path planning in autonomous robots navigating static and dynamic environments](https://www.sciencedirect.com/science/article/pii/S2090447925002679)**  
+M.D. Yeshwanth Kumar, K. Rajchandar  
+- Bi-Directional Virtual Searching Algorithm  
+- Grid Cell Selection Method  
+
+---
+
+**[Unveiling sources of organophosphate esters in marine environments utilizing multi-factor multi-modal high-dimensional clustering algorithm](https://www.sciencedirect.com/science/article/pii/S0043135425007948)**  
+Nan Hu et al.  
+- Multi-Factorial Multi-Modal High-Dimensional Clustering (MFM-Clustering)  
+- Unsupervised Machine Learning  
+- Clustering Analysis  
+
+---
+
+**[Efficient algorithms for optimal path planning of unmanned aerial vehicles in complex three-dimensional environments](https://www.sciencedirect.com/science/article/pii/S0950705125003910)**  
+Mohamed Abdel-Basset et al.  
+- Spherical Vector-Based Spider Wasp Optimizer (SSWO)  
+- Spherical Vector-Based Secretary Bird Optimization Algorithm (SSBOA)  
+- Spherical Vector-Based Improved Spider Wasp Optimizer (SISWO)  
+
+---
+
+**[Infrared and visible image fusion algorithm for fire scene environment perception](https://www.sciencedirect.com/science/article/pii/S0950423025001056)**  
+Dan Zhang et al.  
+- CNN-Transformer Hybrid Image Fusion Algorithm  
+- YOLOv8s Target Detection  
+
+---
+
+**[Maritime image defogging algorithm for maritime management promotion in sea fog environment](https://www.sciencedirect.com/science/article/pii/S0964569125002455)**  
+Yubo Wang, Rong Zhen  
+- Transmission Estimation via Variogram Function  
+- Weighted Guided Filtering  
+- Quadtree Search Method  
+
+---
+
+**[Path planning of RRT* algorithm with subregional dynamic probabilistic sampling based on artificial potential field in radiation environments](https://www.sciencedirect.com/science/article/pii/S1738573325002748)**  
+Yanjun Wang et al.  
+- ASD-RRT* (Artificial Potential Field + Subregional Dynamic Probabilistic Sampling + RRT*)  
+- Douglas-Peucker Path Smoothing Algorithm  
+
+---
+
+**[A bi-level hybrid algorithm for solving multi-target inspection path planning problem of mobile robot in complex radioactive indoor environment](https://www.sciencedirect.com/science/article/pii/S0957417424029622)**  
+De Zhang et al.  
+- ACO-GA-A* Hybrid Algorithm (Ant Colony Optimization, Genetic Algorithm, Modified A*)  
+- Bi-Level Multi-Objective Programming  
+
+---
+
+**[Obstacle avoidance path planning for AUVs in a three-dimensional unknown environment based on the C-APF-TD3 algorithm](https://www.sciencedirect.com/science/article/pii/S0029801824032244)**  
+Xiaohong Li, Shuanghe Yu  
+- Constrained Artificial Potential Field (C-APF)  
+- Twin Delayed Deep Deterministic Policy Gradient (TD3)  
+
+---
+
+**[MixSegNext: A CNN-Transformer hybrid model for semantic segmentation and picking point localization algorithm of Sichuan pepper in natural environments](https://www.sciencedirect.com/science/article/pii/S0168169925006702)**  
+Pengjun Xiang et al.  
+- MixSegNext (CNN-Transformer Hybrid for Semantic Segmentation)  
+- Morphological Operations  
+- Maximal Connectivity Analysis  
+- Edge Extraction Algorithm  
+
+---
+
+**[Innovative Approaches to Task Scheduling in Cloud Computing Environments Using an Advanced Willow Catkin Optimization Algorithm](https://www.sciencedirect.com/science/article/pii/S1546221825001237)**  
+Jeng-Shyang Pan et al.  
+- Advanced Willow Catkin Optimization (AWCO)  
+- Quasi-Opposition-Based Learning Strategy  
+- Sinusoidal Mapping  
+
+---
+
+**[A multi-branch and multi-scale feature fusion underwater image enhancement algorithm for diverse water environments](https://www.sciencedirect.com/science/article/pii/S156849462500626X)**  
+Zhen Li et al.  
+- Multi-Branch and Multi-Scale Feature Fusion (MM-DUIE)  
+- Deep Learning-Based Image Enhancement  
+
+---
+
+**[Deep learning optimization positioning algorithm based on UWB/IMU fusion in complex indoor environments](https://www.sciencedirect.com/science/article/pii/S1874490725001053)**  
+Zhou Zhaoxia et al.  
+- CNN-LSTM-DEKF (Convolutional Neural Network + LSTM + Distributed Extended Kalman Filter)  
+
+---
+
+**[A real-time A* algorithm for trajectories generation and collision avoidance in uncertain environments for assembly applications](https://www.sciencedirect.com/science/article/pii/S0360835225001056)**  
+Ahmed Nhouchi et al.  
+- Real-Time A* Pathfinding Algorithm (Adapted for Static and Dynamic Obstacles)  
+- Collision Detection within CAD (FreeCAD)  
+
+---
+
+**[RCA-SI: A Rapid Consensus Algorithm for Swarm Intelligence in unstable network environments](https://www.sciencedirect.com/science/article/pii/S1084804525000992)**  
+Guangquan Zeng et al.  
+- RCA-SI (Raft-based Consensus Algorithm for Swarm Intelligence)  
+- Node Management Protocol  
+- Cluster Operation Protocol  
+- Formal Verification with TLA+  
+
+---
+
+**[A fruit fly-inspired path planning algorithm for unmanned aerial vehicle in underground environments based on low-discrepancy sequences](https://www.sciencedirect.com/science/article/pii/S0952197625012515)**  
+Huageng Zhong et al.  
+- HBC-RRT (Halton-based Clustering Rapidly-Exploring Random Tree)  
+- Fruit Fly Guidance Mechanism  
+
+---
+
+**[Algorithm for automated generating pitting surfaces on steel structures in offshore and atmosphere environments](https://www.sciencedirect.com/science/article/pii/S2352012425009968)**  
+Xu Jiang et al.  
+- Fractal Interpolation Algorithm  
+- W-M Surface Generation  
+- Statistical Distribution Model for Surface Features  
+
+---
+
+**[Optimized ant colony system algorithm for path planning in radiation environments](https://www.sciencedirect.com/science/article/pii/S1738573325000397)**  
+Xiaochang Zheng et al.  
+- PRM-ACSO (Probabilistic Roadmap + Ant Colony System Optimization)  
+- Dynamic Evaporation Coefficient  
+- Dead Ant Path Pheromone Update Strategy  
+- Dynamic Pheromone and Heuristic Weight Adjustment  
+
+---
+
+**[Vehicle tracking trajectory optimization algorithm based on bidirectional long short-term memory with Savitzky–Golay in a vehicle-road cooperative environment](https://www.sciencedirect.com/science/article/pii/S1547245025000106)**  
+Zijian Wang et al.  
+- BiLSTM-SG (Bidirectional Long Short-Term Memory with Savitzky–Golay Smoothing)  
+- DeepSORT Tracker Improvement  
+
+---
+
+**[Path planning in radioactive environment of nuclear facilities based on modified A-star algorithm and search neighborhood optimization](https://www.sciencedirect.com/science/article/pii/S1738573325002797)**  
+Biao Zhang et al.  
+- Modified A* Algorithm (Dose-Based Heuristic, Dynamic Weighting, Search Neighborhood Optimization)  
+- Comparison with PRM  
+
+---
+
+**[An advantage duPLEX dueling multi-agent Q-learning algorithm for multi-UAV cooperative target search in unknown environments](https://www.sciencedirect.com/science/article/pii/S1569190X2500053X)**  
+Xiaoran Kong et al.  
+- Advantage duPLEX Dueling Multi-Agent Q-Learning (Advantage QPLEX)  
+- Decentralized Partially Observable Markov Decision Processes (Dec-POMDP)  
+
+---
+
+**[ZO-APFPG: a provably zeroth-order adaptive personalized federated policy gradient algorithm for reinforcement learning with environment heterogeneity](https://www.sciencedirect.com/science/article/pii/S0957417425021165)**  
+Jiamei Feng et al.  
+- ZO-APFPG (Zeroth-Order Adaptive Personalized Federated Policy Gradient Algorithm)  
+- Zeroth-Order Optimization  
+- Federated Reinforcement Learning  
+- Personalized Model Aggregation  
+
+---
+
+**[A robust federated learning algorithm for partially trusted environments](https://www.sciencedirect.com/science/article/pii/S0957417424024565)**  
+Yong Li, TongTong Liu, HaiChao Ling, Wei Du, XiangLin Ren  
+- Cosine Similarity  
+- Local Outlier Factor  
+- (Comparison: multiple aggregation algorithms, but only as benchmarks, not used in method)  
+
+---
+
+**[Computer Algorithm Optimization of BIM and Reinforcement Learning in Complex Building Structure Construction Process Optimization Under Big Data Environment](https://www.sciencedirect.com/science/article/pii/S1877050924001328)**  
+Yuan Li, Yifei Zhang  
+- Deep Q-Network (DQN) (Reinforcement Learning, but not a classical algorithm)  
+- BIM technology (not a classical algorithm)  
+
+---
+
+**[Efficiency-optimized path planning algorithm for car-like mobile robots in bilateral constraint corridor environments](https://www.sciencedirect.com/science/article/pii/S0098135424000637)**  
+Junkui Zhong, Deyi Kong, Yuliang Wei, Xiaojuan Hu, Yang Yang  
+- Dubins Curves  
+- Clothoid Curves  
+- Hybrid A* Algorithm (only for comparison, not in main method)  
+- Breadth-First Search (BFS, only in deadlock case, not main method)  
+
+---
+
+**[EM-ACO-ARM: An Enhanced Multiple Ant Colony Optimization Algorithm for Adaptive Resource Management in Cloud Environment](https://www.sciencedirect.com/science/article/pii/S2666827024000642)**  
+Prathamesh Lahande, Parag Kaveri, Harvinder Singh, Sukhjit Singh Sehra, Jatinderkumar R. Saini  
+- Ant Colony Optimization (ACO)  
+- Regression models (for stability evaluation)  
+
+---
+
+**[VBDPA Multi-Criteria Task Scheduling Algorithm in Container Based Cloud Computing Environment](https://www.sciencedirect.com/science/article/pii/S2405452624000366)**  
+Himanshukamal Verma, Vivek Shrivastava  
+- VIKOR (multi-criteria decision making)  
+- Promethee-II (comparison only)  
+
+---
+
+**[Simulation of indoor thermal energy radiators and visualization design of indoor environment layout based on genetic algorithm and light sensor](https://www.sciencedirect.com/science/article/pii/S2214785323035794)**  
+Lin Shao, Aiping Li, Pei Wang  
+- Genetic Algorithm  
+
+---
+
+**[JaGW: A hybrid meta-heuristic algorithm for IoT workflow placement in fog computing environment](https://www.sciencedirect.com/science/article/pii/S2405452624000433)**  
+Hemant Kumar Apat, Bibhudatta Sahoo  
+- Integer Linear Programming (ILP) (formulation only)  
+- Jaya Algorithm  
+- Grey Wolf Optimization (GWO)  
+- Ant Colony Optimization (ACO) (comparison only)  
+- Particle Swarm Optimization (PSO) (comparison only)  
+
+---
+
+**[Unmanned combat aerial vehicle path planning in complex environment using multi-strategy sparrow search algorithm with double-layer coding](https://www.sciencedirect.com/science/article/pii/S2590005624000424)**  
+Liangdong Qu, Jingkun Fan  
+- Sparrow Search Algorithm (SSA)  
+- Quadratic Interpolation (QI)  
+
+---
+
+**[DZ-SLAM: A SAM-based SLAM algorithm oriented to dynamic environments](https://www.sciencedirect.com/science/article/pii/S0957417424018929)**  
+Zhe Chen, Qiuyu Zang, Kehua Zhang  
+- ORB-SLAM3 (base)  
+- FastSAM  
+- Dense Optical Flow  
+
+---
+
+**[Optimization of temperature prediction algorithms and simulation of future neighborhood-scale thermal environments in Chongqing](https://www.sciencedirect.com/science/article/pii/S1364032124009639)**  
+Lina Jiang, Zhixuan Fan, Yafeng Gao, Xing Su, Jasur Rashidov  
+- Levenberg-Marquardt Optimization Algorithm  
+- Monte Carlo Simulation  
+- ARIMA Modeling  
+- SARIMA Prediction  
+
+---
+
+**[Modified bidirectional rapidly exploring random tree star (Bi-RRT*) algorithm with variable node parameter for optimized path planning in nuclear decommissioning environment](https://www.sciencedirect.com/science/article/pii/S0957417424018082)**  
+Justina Onyinyechukwu Adibeli, Yong-Kuo Liu, Nan Chao, Ngbede Junior Awodi  
+- Bidirectional Rapidly-Exploring Random Tree* (Bi-RRT*)  
+- RRT* (comparison)  
+- RRT (comparison)  
+
+---
+
+**[Beyond game environments: Evolutionary algorithms with parameter space noise for task-oriented dialogue policy exploration](https://www.sciencedirect.com/science/article/pii/S0957417424019851)**  
+Qingxin Xiao, Yangyang Zhao, Lingwei Dang, Yun Hao, Le Che, Qingyao Wu  
+- Evolutionary Algorithms  
+- Parameter Space Noise  
+
+---
+
+**[A hybrid Ant Lion Optimization algorithm based lightweight deep learning framework for cyber attack detection in IoT environment](https://www.sciencedirect.com/science/article/pii/S2214212624002865)**  
+Brij B. Gupta, Akshat Gaurav, Razaz Waheeb Attar, Varsha Arya, Shavi Bansal, Ahmed Alhomoud, Kwok Tai Chui  
+- Ant Lion Optimization Algorithm  
+- (Deep Learning for attack detection, but not a classical algorithm)  
+
+---
+
+**[Multi-strategy improved sand cat optimization algorithm-based workflow scheduling mechanism for heterogeneous edge computing environment](https://www.sciencedirect.com/science/article/pii/S0957417424018161)**  
+P. Jayalakshmi, S.S. Subashka Ramesh  
+- Multi-Strategy Improved Sand Cat Swarm Optimisation Algorithm (MSISCSOA)  
+- Sand Cat Optimization Algorithm (SCOA)  
+- Ant Colony Optimization Algorithm (IACOAWS, for comparison)  
+- Quadratic Penalty Function-based Particle Swarm Optimization Algorithm (QPF-PSOA, for comparison)  
+- Biogeography Optimization (BBO, for comparison)  
+- Differential Evolution-based Task Clustering and Scheduling (DETCS, for comparison)  
+
+---
+
+**[Hybrid IACO-A*-PSO optimization algorithm for solving multiobjective path planning problem of mobile robot in radioactive environment](https://www.sciencedirect.com/science/article/pii/S0957417424009719)**  
+De Zhang et al.  
+- Improved Ant Colony Optimization (IACO)  
+- A* Algorithm  
+- Particle Swarm Optimization (PSO)  
+- Genetic Algorithm (for comparison)  
+
+---
+
+**[MDTA: An efficient, scalable and fast Multiple Disjoint Tree Algorithm for dynamic environments](https://www.sciencedirect.com/science/article/pii/S2405452624000445)**  
+Diego Lopez-Pajares et al.  
+- Multiple Disjoint Tree Algorithm (MDTA)  
+
+---
+
+**[An experimental review of the ensemble-based data stream classification algorithms in non-stationary environments](https://www.sciencedirect.com/science/article/pii/S2405452624000214)**  
+Shirin Khezri et al.  
+- Ensemble Learning Algorithms (21 types, e.g., online bagging/boosting, Adaptive Random Forest, Leveraging Bagging, etc.)  
+
+---
+
+**[Improved genetic algorithm for integrated process planning and scheduling in distributed heterogeneous manufacturing environment](https://www.sciencedirect.com/science/article/pii/S0957417424015132)**  
+Xiaoyu Wen et al.  
+- Improved Genetic Algorithm (IGA)  
+- Hierarchical Crossover Operator  
+
+---
+
+**[Multi-objective discrete Cuckoo search algorithm for optimization of bag-of-tasks scheduling in fog computing environment](https://www.sciencedirect.com/science/article/pii/S2405452624000147)**  
+Seyed Mahyar Hosseini et al.  
+- Multi-objective Discrete Cuckoo Search Algorithm (MoDCSA)  
+- Discrete Operators (within MoDCSA)  
+
+---
+
+**[Indoor thermal energy environment control and beauty health management based on image encryption algorithm](https://www.sciencedirect.com/science/article/pii/S2451904924006851)**  
+Li Lei  
+- Image Encryption Algorithms  
+- Chaotic Sequence Generation  
+- Compression Encryption  
+
+---
+
+**[Optimization of building thermal environment and VR industrial heritage landscape design enhanced by computer vision algorithms](https://www.sciencedirect.com/science/article/pii/S2451904924005444)**  
+Lv You  
+- Deep Learning (for feature extraction, not a classical algorithm)  
+- Computer Vision Algorithms  
+
+---
+
+**[Beyond game environments: Evolutionary algorithms with parameter space noise for task-oriented dialogue policy exploration](https://www.sciencedirect.com/science/article/pii/S0957417424019851)**  
+Qingxin Xiao, Yangyang Zhao, Lingwei Dang, Yun Hao, Le Che, Qingyao Wu  
+- Evolutionary Algorithms  
+- Parameter Space Noise  
+
+---
+
+**[A hybrid Ant Lion Optimization algorithm based lightweight deep learning framework for cyber attack detection in IoT environment](https://www.sciencedirect.com/science/article/pii/S2214212624002865)**  
+Brij B. Gupta, Akshat Gaurav, Razaz Waheeb Attar, Varsha Arya, Shavi Bansal, Ahmed Alhomoud, Kwok Tai Chui  
+- Ant Lion Optimization Algorithm  
+- (Deep Learning for attack detection, but not a classical algorithm)  
+
+---
+
+**[A SHAP algorithm-based prediction of the interlaminar shear strength degradation of G/BFRP bars embedded in concrete exposed to marine environment](https://www.sciencedirect.com/science/article/pii/S0950061824008749)**  
+Xuan Zhao, Pei-Fu Zhang, Qi Zhao, Daxu Zhang, Yiliyaer Tuerxunmaimaiti, Heng Cao  
+- SHAP Algorithm  
+- (Regression for comparison)  
+
+---
+
+**[Prediction of chloride concentration in concrete under multi-salt environment: Optimization of integrated algorithm based on MSCPO and interpretability analysis](https://www.sciencedirect.com/science/article/pii/S0950061824006270)**  
+Daming Luo, Kanglei Du, Ditao Niu  
+- XGBoost  
+- LightGBM  
+- CatBoost  
+- SHAP (explainability method)
+
+---
+
+**[Hybridization of deep learning models with crested porcupine optimizer algorithm-based cybersecurity detection on industrial IoT for smart city environments](https://www.sciencedirect.com/science/article/pii/S1319157824004807)**  
+Sarah A. Alzakari et al.  
+- Min-max normalization  
+
+---
+
+**[Path planning of mobile robot based on improved TD3 algorithm in dynamic environment](https://www.sciencedirect.com/science/article/pii/S0957417424015089)**  
+Peng Li et al.  
+- Prioritized Experience Replay  
+- Transfer Learning  
+- Ornstein-Uhlenbeck (OU) Noise
+
+---
+
+**[A meta-heuristic algorithm combined with deep reinforcement learning for multi-sensor positioning layout problem in complex environment](https://www.sciencedirect.com/science/article/pii/S0957417424018689)**  
+Yida Ning et al.  
+- Deep Q Network (DQN)  
+
+---
+
+**[MMPA: A modified marine predator algorithm for 3D UAV path planning in complex environments with multiple threats](https://www.sciencedirect.com/science/article/pii/S0957417424019260)**  
+Lixin Lyu, Fan Yang  
+- Differential Evolution (mutation operator used in modifications)  
+- Cauchy Mutation Operator  
+
+---
+
+**[Location of safflower filaments picking points in complex environment based on improved Yolov5 algorithm](https://www.sciencedirect.com/science/article/pii/S1537511024002800)**  
+Xiaorong Wang et al.  
+- YOLOv5  
+- Swin Transformer (attention mechanism)  
+- Bbox and Mask (geometric operation)  
+
+---
+
+**[Model fusion algorithms for digital twinning in built environments: Extending behavioral models in a real HVAC system](https://www.sciencedirect.com/science/article/pii/S1364032124009366)**  
+Jeyoon Lee et al.  
+- Model Coupling  
+- Prediction Model Assembly  
+- Benchmark Model Assembly  
+
+---
+
+**[Multi-AUVs cooperative path planning in 3D underwater terrain and vortex environments based on improved multi-objective particle swarm optimization algorithm](https://www.sciencedirect.com/science/article/pii/S0957417424007322)**  
+Bing Sun, Nana Niu  
+- Particle Swarm Optimization (PSO)  
+- Differential Evolution (within hybrid)  
+- Cubic Spline Interpolation (for path smoothing)
+
+---
+
+**[Research on ship navigation strategy in dynamic sea ice environments based on flexibility velocity obstacles algorithm](https://www.sciencedirect.com/science/article/pii/S1877050924001316)**  
+Bo Li et al.  
+- Velocity Obstacles Algorithm  
+
+---
+
+**[Sustainable 4D TSP to reduce carbon emission using reference point MOQO Jaya algorithm in uncertain environment](https://www.sciencedirect.com/science/article/pii/S2666827024000538)**  
+Aaishwarya S. Bajaj et al.  
+- Jaya Algorithm  
+- Fuzzy Programming Technique (FPT)  
+- Genetic Algorithm (GA) (as baseline for comparison)  
+- Rao Algorithm  
+- (TSP – Travelling Salesman Problem is the domain problem)
+
+---
+
+**[Design and implementation of an Autonomous Systems Training Environment framework for control algorithm evaluation in autonomous plant operation](https://www.sciencedirect.com/science/article/pii/S2468013324000902)**  
+Artan Markaj et al.  
+- PID Controller (implied as common for process control, but not explicitly stated)  
+
+---
+
+**[An Intelligent Completion Time Aware Task Scheduling (CTATS) Algorithm for Fog Computing Environment for Delay Sensitive IoT Applications](https://www.sciencedirect.com/science/article/pii/S2666827024000617)**  
+Ranjit Kumar Behera et al.  
+- Reinforcement Learning  
+- QBT (Q-learning Based Technique, mentioned as baseline for comparison)  
+- Prioritized Scheduled Mechanism (baseline for comparison)
+
+---
+
+**[Predicting the impacts of urban development on urban thermal environment using machine learning algorithms in Nanjing, China](https://www.sciencedirect.com/science/article/pii/S0360544224008273)**  
+Maomao Zhang et al.  
+- CA-ANN (Cellular Automata-Artificial Neural Network)  
+- ANN (Artificial Neural Network)
+
+---
+
+**[Optimized TD3 algorithm for robust autonomous navigation in crowded and dynamic human-interaction environments](https://www.sciencedirect.com/science/article/pii/S0957417424018007)**  
+Husam A. Neamah et al.  
+- TD3 (Twin Delayed Deep Deterministic Policy Gradient; RL)  
+
+---
+
+**[Special Vehicle Target Detection and Tracking Based on Virtual Simulation Environment and YOLOv5-Block+DeepSort Algorithm](https://www.sciencedirect.com/science/article/pii/S1877050924000883)**  
+Mingyuan Zhai et al.  
+- YOLOv5  
+- DeepSort  
+- Efficient Channel Attention Networks (ECA-Net)  
+
+---
+
+
+
+
+
+
+**Mahtab Shahin et al., _Towards Smarter Maritime Security: Apriori Algorithm Optimization in Serverless Environments_**  
+- Apriori Algorithm  
+- AES-256 (encryption; not an algorithm for data analysis, but security)
+
+---
+
+**Jian Xiao et al., _A deep reinforcement learning based distributed multi-UAV dynamic area coverage algorithm for complex environment_**  
+- Soft Actor-Critic (SAC; RL algorithm)  
+
+---
+
+**Yanfeng Zhou et al., _Modeling and identification of hysteresis of marine damper considering shock environment based on evolutionary sparrow search algorithm_**  
+- Radial Basis Function Neural Network (RBFNN)  
+- Sparrow Search Algorithm  
+- Differential Evolution (within hybrid)
+
+---
+
+**Kavita R․ Shelke, Subhash K․ Shinde, _SAOA: Skill archimedes optimization algorithm based privacy enhancement for blockchain storage optimization in medical IoT environment_**  
+- Advanced Encryption Standard (AES)  
+- Fuzzy Clustering  
+
+---
+
+**Liangang Yin et al., _A novel robust algorithm for path planning of multiple autonomous underwater vehicles in the environment with ocean currents_**  
+- Min–Max Multiple Traveling Salesman Problem (MTSP)  
+- Cooperative Genetic Algorithm
+
+---
+
+**Huiwu Huang et al., _IPHM: Incremental periodic high-utility mining algorithm in dynamic and evolving data environments_**  
+- Incremental Utility-List Structure  
+
+---
+
+**Jia Tian, Ryozo Ooka, _Prediction of building-scale solar energy potential in urban environment based on parametric modelling and machine learning algorithms_**  
+- Parametric Modelling  
+- Machine Learning Algorithms (not specified, likely includes regression/ANN/ensemble methods)
+
+---
+
+**Maomao Zhang et al., Predicting the impacts of urban development on urban thermal environment using machine learning algorithms in Nanjing, China**  
+- CA-ANN (Cellular Automata–Artificial Neural Network)  
+- ANN (Artificial Neural Network)  
+
+---
+
+**Yida Ning et al., A meta-heuristic algorithm combined with deep reinforcement learning for multi-sensor positioning layout problem in complex environment**  
+- Deep Q Network (DQN)  
+
+---
+
+**Lixin Lyu, Fan Yang, MMPA: A modified marine predator algorithm for 3D UAV path planning in complex environments with multiple threats**  
+- Differential Evolution (used in mutation strategy)  
+- Cauchy Mutation Operator (randomization)  
+
+---
+
+**Mingyuan Zhai et al., Special Vehicle Target Detection and Tracking Based on Virtual Simulation Environment and YOLOv5-Block+DeepSort Algorithm**  
+- YOLOv5  
+- DeepSort  
+- Efficient Channel Attention Network (ECA-Net)  
+
+---
+
+
+
+
+**Mahtab Shahin et al., Towards Smarter Maritime Security: Apriori Algorithm Optimization in Serverless Environments**  
+- Apriori Algorithm  
+
+---
+
+**Yanfeng Zhou et al., Modeling and identification of hysteresis of marine damper considering shock environment based on evolutionary sparrow search algorithm**  
+- Radial Basis Function Neural Network (RBFNN)  
+- Differential Evolution (within hybrid)  
+
+---
+
+**Kavita R․ Shelke, Subhash K․ Shinde, SAOA: Skill archimedes optimization algorithm based privacy enhancement for blockchain storage optimization in medical IoT environment**  
+- Advanced Encryption Standard (AES)  
+- Bayesian fuzzy clustering  
+
+---
+
+**Liangang Yin et al., A novel robust algorithm for path planning of multiple autonomous underwater vehicles in the environment with ocean currents**  
+- Min–Max Multiple Traveling Salesmen Problem (MTSP)  
+- Cooperative Genetic Algorithm  
+
+---
+
+**Bo Li et al., Research on ship navigation strategy in dynamic sea ice environments based on flexibility velocity obstacles algorithm**  
+- Velocity Obstacles Algorithm  
+
+---
+
+**Aaishwarya S. Bajaj et al., Sustainable 4D TSP to reduce carbon emission using reference point MOQO Jaya algorithm in uncertain environment**  
+- Jaya Algorithm  
+- Fuzzy Programming Technique (FPT)  
+- Genetic Algorithm (GA) (for comparison)  
+- Rao Algorithm (for comparison)  
+
+---
+
+**Ranjit Kumar Behera et al., An Intelligent Completion Time Aware Task Scheduling (CTATS) Algorithm for Fog Computing Environment for Delay Sensitive IoT Applications**  
+- QBT (Q-learning Based Technique, for comparison)  
+- Prioritized Scheduled Mechanism (for comparison)  
+
+---
+
+**Zhe Yue et al., Vehicle-mounted GNSS navigation and positioning algorithm considering signal obstruction and fuzzy logic in urban environment**  
+- Image Segmentation Algorithm  
+- Nearest Pixel Point Principle  
+- Fuzzy Logic (Weighted Comprehensive Assessment)  
+
+---
+
+**Yong Wang, An intelligent path planning algorithm for dynamic football training environments**  
+- Artificial Bee Colony Optimization (ABC) (Intelligent Ant Colony Optimization, IACO)  
+
+---
+
+**Hend Khalid Alkahtani et al., Leveraging ensemble learning with metaheuristic optimization algorithms for an intelligent cyberattack defense framework in an IoT environment**  
+- Cat Swarm Optimization (CSO)  
+- Artificial Bee Colony (ABC)  
+- Min-max normalization (preprocessing)  
+
+---
+
+**Jiabin Yu et al., A path planning algorithm for unmanned surface vessel with pose constraints in an unknown environment**  
+- D*Lite Algorithm  
+- Dubins Search Tree Algorithm  
+- Reeds-Shepp Curves  
+
+---
+
+**Chao Liu, Di Liu, Deep reinforcement learning algorithm based on multi-agent parallelism and its application in game environment**  
+- Deep Q-Network (DQN)  
+- Actor-Critic Algorithm  
+- Policy Gradient Methods  
+- Convolutional Neural Network (CNN)  
+
+---
+
+**Husam A. Neamah et al., Optimizing autonomous navigation in unknown environments: A novel trap avoiding vector field histogram algorithm VFH+T**  
+- Vector Field Histogram Plus (VFH+)  
+- Trap Recognition/Trap Avoidance Mechanisms  
+- Geometric Rules for Path Planning  
+
+---
+
+
+
+**Xiaohong Li et al., Path planning and obstacle avoidance control of UUV based on an enhanced A* algorithm and MPC in dynamic environment**  
+- Enhanced A* Algorithm  
+- Model Predictive Control (MPC)  
+
+---
+
+**Mengyuan He et al., Machine learning-based assessment of thermal comfort for the elderly in warm environments: Combining the XGBoost algorithm and human body exergy analysis**  
+- XGBoost  
+- Gradient Boosting Decision Tree (GBDT)  
+- AdaBoost  
+
+---
+
+**Ezhilarasie Rajapackiyam et al., An efficient computation offloading in edge environment using genetic algorithm with directed search techniques for IoT applications**  
+- Genetic Algorithm (GA)  
+- Directed Search Operators  
+
+---
+
+**Varatharajan Nainamalai et al., Automated algorithm for medical data structuring, and segmentation using artificial intelligence within secured environment for dataset creation**  
+- Automated Directory Creation Algorithm (custom, AI-based)  
+- Segmentation using AI Model  
+
+---
+
+**Mehrtash Eskandaripour, Shahrokh Soltaninia, Optimal low-impact development Facility Design in Urban Environments: A multidimensional optimization approach employing slime mould and nondominated sorting genetic algorithms**  
+- Slime Mould Algorithm (SMA)  
+- Nondominated Sorting Genetic Algorithm II (NSGA-II)  
+
+---
+
+**Zhongqi Yu et al., Optimization framework for daylight and thermal environment of retractable roof natatoriums based on generative adversarial network and genetic algorithm**  
+- Genetic Algorithm  
+- Non-dominated Sorting Genetic Algorithm (NSGA)  
+- Generative Adversarial Network (GAN)  
+
+---
+
+**Jiahui Tong et al., Noncontact full-field spatial-temporal deformation measurement of rockfall prevention structure with deep learning-based optic flow algorithm under complex Environments**  
+- Deep Learning-Based Optical Flow Algorithm  
+- Motion Amplitude Analysis  
+- Boundary Gradient Detection  
+
+---
+
+**Nattapong Promkaew et al., Development of metaheuristic algorithms for efficient path planning of autonomous mobile robots in indoor environments**  
+- Improved Particle Swarm Optimization (IPSO)  
+- Improved Grey Wolf Optimizer (IGWO)  
+- Artificial Bee Colony (ABC)  
+- A* Algorithm (for comparison, baseline in ROS2)  
+
+---
+
+**Shuaibo Wang et al., Development of China's atmospheric environment monitoring satellite CO2 IPDA lidar retrieval algorithm based on airborne campaigns**  
+- CO2 Retrieval Algorithm (IPDA Lidar Retrieval, custom for satellite)  
+
+---
+
+**Wenchao Ji et al., A hybrid PSO-WO algorithm for identification of irregular inner wall defects of a body in a thermal environment**  
+- Particle Swarm Optimization (PSO)  
+- Whale Optimization Algorithm (WO)  
+- Hybrid PSO-WO Algorithm  
+- Radial Integral Boundary Element Method (RIBEM)  
+
+---
+
+**Jingkun Fan, Liangdong Qu, Innovative differential evolution algorithm with double-layer coding for autonomous underwater vehicles path planning in complex environments**  
+- Differential Evolution (DE)  
+- Adaptive Elite Neighborhood Learning (AENL)  
+- Rank-Guided Crossover Probability Selection (RCPS)  
+- Distance-Greedy Selection (DGS)  
+
+---
+
+**Ning Dai et al., An AUV collision avoidance algorithm in unknown environment with multiple constraints**  
+- Dubins Improved Hybrid A* (DIHA*)  
+- Fuzzy Heading Avoidance (FHA) (Fuzzy Controller)  
+
+---
+
+**Gilbert Larochelle Martin, Danielle Monfet, Comparison of EnergyPlus inside surfaces convective heat transfer coefficients algorithms for energy modelling of high-density controlled environment agriculture**  
+- Simple Algorithm (for CHTC, EnergyPlus)  
+- TARP Algorithm (for CHTC, EnergyPlus)  
+- ASTMC1340 Algorithm (for CHTC, EnergyPlus)  
+- Adaptive Convection Algorithm  
+- Computational Fluid Dynamics (CFD) as reference  
+
+---
+
+**Hongde Qin et al., An environment information-driven online Bi-level path planning algorithm for underwater search and rescue AUV**  
+- Improved Ant Colony Algorithm  
+- Global Path Planning Algorithm (custom, with coverage search)  
+
+---
+
+**Xin Weng et al., Improved Mask R-CNN algorithm: Multi-ore detection and positioning based multi-sensor fusion in complex field environment**  
+- Mask R-CNN (Deep Learning)  
+- Monocular Vision Algorithms  
+- LiDAR-Camera Data Fusion  
+
+---
+
+**Mrinmay Pathak et al., Selection of best location for household waste recycling plants using novel information measures and algorithm in fermatean fuzzy environment**  
+- Entropy Measure (EM)  
+- Step-wise Weight Assessment Ratio Analysis (SWARA)  
+- Weighted Aggregated Sum Product Assessment (WASPAS)  
+- Fermatean Fuzzy Set (FFS) Algorithms  
+- Logarithmic Score Function  
+- Distance Measure Algorithm (novel)  
+
+---
+
+**Biao Zhang et al., Minimum dose walking path planning in a nuclear radiation environment based on a modified A* algorithm**  
+- Modified A* Algorithm  
+- Probabilistic Roadmap (PRM) Algorithm (for comparison)  
+- Traditional A* Algorithm (for comparison)  
+
+---
+
+**Diego Lopez-Pajares et al., MDTA: An efficient, scalable and fast Multiple Disjoint Tree Algorithm for dynamic environments**  
+- Multiple Disjoint Tree Algorithm (MDTA)  
+
+---
+
+**P. Jayalakshmi, S.S. Subashka Ramesh, Multi-strategy improved sand cat optimization algorithm-based workflow scheduling mechanism for heterogeneous edge computing environment**  
+- Multi-Strategy Improved Sand Cat Swarm Optimisation Algorithm (MSISCSOA)  
+- Sand Cat Optimization Algorithm (SCOA)  
+- Ant Colony Optimization Algorithm (IACOAWS, for comparison)  
+- Quadratic Penalty Function-based Particle Swarm Optimization Algorithm (QPF-PSOA, for comparison)  
+- Biogeography Optimization (BBO, for comparison)  
+- Differential Evolution-based Task Clustering and Scheduling (DETCS, for comparison)
+
+- ---
+
+**Zohaib Khan et al., Deep learning improved YOLOv8 algorithm: Real-time precise instance segmentation of crown region orchard canopies in natural environment**  
+- YOLOv8 (deep learning)  
+- Dilated Convolution  
+- GELU Activation Function  
+- Adaptive Gradient Algorithm (AdaGrad)  
+- ReduceLROnPlateau Scheduler  
+
+---
+
+**Junyeong An et al., Decision support algorithm for efficient environmental impact assessments: Focusing on aquatic environment assessment in South Korea**  
+- Workflow Algorithm (custom decision support workflow)  
+- Subroutine Algorithms for Soil Runoff Reduction  
+- Subroutine Algorithms for Wastewater Treatment  
+
+---
+
+**Dileep Kumar Sajnani et al., Secure workflow scheduling algorithm utilizing hybrid optimization in mobile edge computing environments**  
+- Feedback Artificial Remora Optimization (FARO)  
+- Feedback Artificial Tree (FAT)  
+- Remora Optimization Algorithm (ROA)  
+
+---
+
+**Zhaofeng Song et al., A novel path planning algorithm for ships in dynamic current environments**  
+- Improved A* Algorithm (A*-DCE)  
+- Attractive/Repulsive Field (cost estimation)  
+- B-spline Curve (for path smoothing)  
+- NSGA-II (Non-dominated Sorting Genetic Algorithm II)  
+
+---
+
+**Chenglin Wang et al., Litchi picking points localization in natural environment based on the Litchi-YOSO model and branch morphology reconstruction algorithm**  
+- Litchi-YOSO (deep learning segmentation)  
+- Branch Morphology Reconstruction Algorithm  
+- Prim’s Algorithm  
+- Longest Root Path Algorithm  
+- Harris Corner Detection  
+- Sliding Window Algorithm  
+
+---
+
+**Hegang Ji et al., Study on stress prediction model of EH36 steel in polar environments: Optimization of basis functions using adaptive genetic algorithm and simulated annealing**  
+- Adaptive Genetic Algorithm  
+- Simulated Annealing  
+
+---
+
+**Junyan Sun et al., Robust optimization of a closed-loop supply chain network based on an improved genetic algorithm in an uncertain environment**  
+- Minimum Spanning Tree Algorithm  
+- Two-layer Adaptive Genetic Algorithm (Prim-DMGA)  
+
+---
+
+**Erlianasha Samsuria et al., Adaptive fuzzy-genetic algorithm operators for solving mobile robot scheduling problem in job-shop FMS environment**  
+- Genetic Algorithm (GA)  
+- Adaptive Fuzzy Logic (for GA operators)  
+
+---
+
+**Bo Li, Yayi Huang, Portfolio optimization with mental accounts under uncertain random environment and butterfly optimization algorithm with adaptive strategies**  
+- Improved Butterfly Optimization Algorithm (IBOA)  
+
+---
+
+**Qihong Tan, Research on sustainable carrying capacity of urban tourism environment based on multi objective optimization algorithm**  
+- Improved NSGA-II (Non-dominated Sorting Genetic Algorithm II)  
+
+---
+
+**Sepideh Taghikhani et al., A hybrid modified PSO algorithm for the inverse p-median location problem in fuzzy random environment**  
+- Hybrid Modified Particle Swarm Optimization (PSO)  
+
+---
+
+**Shravan Murthy et al., Reducing unnecessary free thyroid hormone testing by the reinforcement of a reflexive algorithm in an outpatient environment**  
+- Reflex Testing Algorithm (clinical workflow, rule-based)  
+
+---
+
+**Yuyan Liu et al., Space debris environment engineering model 2019: Algorithms improvement and comparison with ORDEM 3.1 and MASTER-8**  
+- Variable Step-Size Orbital Propagating Algorithm  
+- Spatial Density Algorithm (J2 perturbation)  
+- Spacecraft Flux Algorithm  
+
+---
+
+**Miyombo Ernest Miyombo et al., Optimal path planning in a real-world radioactive environment: A comparative study of A-star and Dijkstra algorithms**  
+- A* Algorithm  
+- Dijkstra Algorithm  
+
+---
+
+**Xue Du et al., A novel multi-source navigation algorithm based on factor graph in complex underwater environments of polar regions**  
+- Factor Graph Algorithm (with confidence function, sliding window, inertial navigation)  
+
+---
+
+**Bin Cai, Dongsheng Wang, Prediction of psychological intervention for college students in digital entertainment media environment based on artificial intelligence and parallel computing algorithms**  
+- Parallel Computing Algorithm  
+- Machine Learning Algorithms (not specified, general ML)  
+
+---
+
+**Xiaoyu Wen et al., Improved genetic algorithm for integrated process planning and scheduling in distributed heterogeneous manufacturing environment**  
+- Improved Genetic Algorithm (IGA)  
+- Hierarchical Crossover Operator  
+
+---
+
+**Seyed Mahyar Hosseini et al., Multi-objective discrete Cuckoo search algorithm for optimization of bag-of-tasks scheduling in fog computing environment**  
+- Multi-objective Discrete Cuckoo Search Algorithm (MoDCSA)  
+- Discrete Operators (within MoDCSA)  
+
+---
+
+**Qiujie Li, Hongyi Zhu, Performance evaluation of 2D LiDAR SLAM algorithms in simulated orchard environments**  
+- Hector SLAM  
+- GMapping SLAM  
+- Cartographer SLAM  
+
+---
+
+**Shirin Khezri et al., An experimental review of the ensemble-based data stream classification algorithms in non-stationary environments**  
+- Ensemble Learning Algorithms (21 types, e.g., online bagging/boosting, Adaptive Random Forest, Leveraging Bagging, etc.)  
+
+---
+
+**Ipsita Behera, Srichandan Sobhanayak, HTSA: A novel hybrid task scheduling algorithm for heterogeneous cloud computing environment**  
+- Genetic Algorithm (GA)  
+- Gravitational Search Algorithm (GSA)  
+
+---
+
+**De Zhang et al., Hybrid IACO-A*-PSO optimization algorithm for solving multiobjective path planning problem of mobile robot in radioactive environment**  
+- Improved Ant Colony Optimization (IACO)  
+- A* Algorithm  
+- Particle Swarm Optimization (PSO)  
+- Genetic Algorithm (for comparison)  
+
+---
+
+**Ntsikelelo Yalezo et al., Developing machine learning algorithms to predict the dissolution of zinc oxide nanoparticles in aqueous environment**  
+- Random Forest Regression  
+- Extreme Gradient Boosting (XGBoost)  
+- Multiple Linear Regression  
+
+---
+
+**Gengyan Cui, Li Zhang, Improved faster region convolutional neural network algorithm for UAV target detection in complex environment**  
+- Faster R-CNN (with Deformable Convolution, Hybrid Attention Mechanism, Soft-NMS)  
+
+---
+
+**Lubo Li, Haohua Zhang, Sijun Bai, A multi-surrogate genetic programming hyper-heuristic algorithm for the manufacturing project scheduling problem with setup times under dynamic and interference environments**  
+- Genetic Programming (GP)  
+- Hyper-heuristic Algorithm (HH-MGP)  
+- Multi-surrogate Model  
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Log: Climate and Environment – ScienceDirect – keyword: "ecology OR weather AND algorithm"
 
 ## Search Metadata
-- **Platform:** arXiv
+- **Platform:** ScienceDirect
 - **Keyword(s):** ecology OR weather AND algorithm
-- **Date of search:** 2025-06-17
+- **Date of search:** 2025-06-19
 - **Articles reviewed:** 100
 - **Time window:** 2024–2025
 
 ---
 
 ## Log Entries
+
+---
+
+**[Applications of pollination biology in studies of evolution, ecology and agriculture: Perspectives and trends from South Africa](https://www.sciencedirect.com/science/article/pii/S0254629925003254)**  
+Steven D. Johnson, Sjirk Geerts, Anton Pauw, Timotheüs van der Niet  
+- Pollination syndromes, floral deception, and convergent evolution  
+- Coevolution and pollinator-driven speciation analysis  
+- Ecological dependence and mutualism failure risk studies  
+- Trait-based invasion prediction methods  
+- Ecosystem service evaluation in agriculture
+
+---
+
+**[Towards new ecologies of automation: Robotics and the re-engineering of nature](https://www.sciencedirect.com/science/article/pii/S0016718523001513)**  
+Andrew Lockhart, Simon Marvin, Aidan While  
+- Operational ecologies framework  
+- Automation/robotics applications in environmental management  
+- Political ecology and technology integration  
+- Typology creation and cross-sectoral case studies  
+- Literature synthesis and conceptual modeling
+
+---
+
+**[Decoding Flow-Ecology Relationships: A Machine learning framework for flow regime Characterization and riparian vegetation prediction](https://www.sciencedirect.com/science/article/pii/S1470160X25004479)**  
+Yifan Huang, Xiang Zhang, Jing Xu, Liangkun Deng, Yilun Li  
+- Hybrid attribution framework: seasonality analysis + machine learning  
+- Structural equation modeling (SEM)  
+- LSTM-Transformer neural networks for NDVI prediction  
+- Scenario-based ecohydrological projections (SSP2-4.5/5-8.5)  
+- Optimization algorithm-coupled time series modeling
+
+---
+
+**[Spatial pattern and driving factors of cropland ecosystem services in a major grain-producing region: A production-living-ecology perspective](https://www.sciencedirect.com/science/article/pii/S1470160X23011664)**  
+Hongjie Peng, Xuesong Zhang, Wei Ren, Ju He  
+- Production-living-ecology index for cropland services  
+- Multi-source spatial data integration  
+- REDCAP clustering for agricultural zoning  
+- Redundancy analysis (RDA) for identifying drivers  
+- Spatial trade-off analysis among ecosystem functions
+
+---
+
+**[Assessing the ecology of cluster-based enterprise trust networks through percolation theory: Is your business environment trustworthy?](https://www.sciencedirect.com/science/article/pii/S0160791X25000296)**  
+Guanghui He, Shicheng Zhou  
+- Enterprise trust ecology modeling  
+- Cluster-based enterprise trust networks (C-ETNs)  
+- Percolation theory for network robustness  
+- Entropy-based trust value calculation  
+- Empirical simulation and phase-transition analysis
+
+---
+
+**[Political ecologies of livestock predation: Agrarian change, farming subjectivities and human-wildlife conflict in the European Uplands](https://www.sciencedirect.com/science/article/pii/S0016718525000715)**  
+Agnese Marino, Tom Fry  
+- Political ecology of human-wildlife conflict  
+- Qualitative case studies (Scotland & Spain)  
+- Farmer subjectivity and emotion analysis  
+- Agrarian change and conservation interaction  
+- Critical and feminist approaches in ecology
+
+---
+
+**[Integral ecology approach to life cycle assessment of solar arrays](https://www.sciencedirect.com/science/article/pii/S2772940024000389)**  
+Charles E. Sprouse  
+- Integral ecology life cycle assessment (LCA)  
+- Comparative LCA of solar technologies (thin-film vs c-Si)  
+- Value-choice analysis and precautionary principle  
+- Scenario modeling and conceptual expansion of LCA  
+- Broader-scope impact assessment methodology
+
+---
+
+**[The connection between social and emotional wellbeing and Indigenous language use varies across language ecologies in Australia](https://www.sciencedirect.com/science/article/pii/S0277953624010013)**  
+Yonatan Dinku, Francis Markham, Denise Angelo, Jane Simpson  
+- Language ecology typology for Indigenous populations  
+- Regression analysis of wellbeing and language use  
+- Geographical and repertoire-based classification  
+- Survey data integration for social and emotional wellbeing  
+- Analysis of context-dependent language benefits
+
+---
+
+**[Ecosystem ecology needs an ecology of molecules](https://www.sciencedirect.com/science/article/pii/S0169534724003148)**  
+Erika C. Freeman, Tianna Peller, Florian Altermatt  
+- Ecology of molecules framework  
+- High-resolution mass spectrometry in ecosystem studies  
+- Integration of organic compound diversity and interactions  
+- Biogeochemical process modeling  
+- Molecular biology techniques in ecosystem research
+
+---
+
+**[Floodplain lakes: Linking hydrology to ecology and conservation](https://www.sciencedirect.com/science/article/pii/S0012825224002952)**  
+Fan Xue, Qi Zhang, John M. Melack, Hongwu Tang, et al.  
+- Review of hydrology-ecology relationships in floodplain lakes  
+- River-lake connectivity and seasonal fluctuation studies  
+- Biogeochemical process and community structure analysis  
+- Synthesis of adaptive strategies and regime shifts  
+- Recommendations for biodiversity monitoring and modeling
+
+---
+
+**[Impossible ecologies: Interaction networks and stability of coexistence in ecological communities](https://www.sciencedirect.com/science/article/pii/S2405471225001309)**  
+Yu Meng, Szabolcs Horvát, Carl D. Modes, Pierre A. Haas  
+- Network analysis of ecological communities  
+- Lotka-Volterra dynamics and stability assessment  
+- Numerical and exact classification of interaction networks  
+- Identification of “impossible” and “irreducible” ecologies  
+- Statistical sampling of network arrangements
+
+---
+
+**[Psychoanalytic political ecology](https://www.sciencedirect.com/science/article/pii/S0962629825000290)**  
+Pieter de Vries, Ilan Kapoor  
+- Negative psychoanalytic approach to political ecology  
+- Analysis of nature-society rupture and conservation politics  
+- Case study: Colombian Pacific  
+- Critique of “reconciliation” narratives in ecology  
+- Emphasis on the subaltern and crisis responses
+
+---
+
+**[Challenges of passive citizen science in ecology within a shifting social media landscape](https://www.sciencedirect.com/science/article/pii/S1574954125002870)**  
+Pablo Otero, Javier Menéndez-Blázquez, David March  
+- Review of passive citizen science methods  
+- Social media data mining for biodiversity monitoring  
+- Analysis of platform evolution and data access issues  
+- Integration of AI for image/text classification  
+- Policy recommendations for data democratization
+
+---
+
+**[Comparing public and private intermediaries co-existing in ecologies of intermediation](https://www.sciencedirect.com/science/article/pii/S2210422425000115)**  
+Lisa Bastås, Ingrid Mignon  
+- Ecologies of intermediation for renewable energy adoption  
+- Survey analysis of public vs private intermediary roles  
+- Complementarity in target groups and timing  
+- Ecosystem mapping for solar PV adoption support  
+- Discussion on system maturity and innovation context
+
+---
+
+**[Quantifying basin water balance considering water-economic society-ecology nexus](https://www.sciencedirect.com/science/article/pii/S0022169425004056)**  
+Qingsong Wu, Qiting Zuo, Lekai Zhang, Yihu Ji, Zhizhuo Zhang  
+- Basin water balance (BWB) in socio-ecological context  
+- Dual water cycle (nature and society) modeling  
+- Distributed human-water relationship simulation  
+- Multi-scale, multi-index water balance quantification  
+- Empirical case study: Qin River Basin, China
+
+---
+
+**[Socio-educational ecologies for learning, social change, and future thinking: Expanding educational psychology's boundaries](https://www.sciencedirect.com/science/article/pii/S000169182500469X)**  
+Alfredo Jornet, William R. Penuel, Moisès Esteban-Guitart, Sanne Akkermann  
+- Socio-educational ecologies framework  
+- Cultural-historical and ecological perspectives  
+- Conceptual analysis of learning across settings  
+- Call for expanded educational psychology boundaries  
+- Focus on social change and future-oriented learning
+
+---
+
+**[Moving north under the eye of the public: The dispersal ecology of the Nosferatu spider, documented by citizen scientists](https://www.sciencedirect.com/science/article/pii/S1439179125000155)**  
+Nadja Pernat, Sascha Buchholz, Jan Ole Kriegs, Jan Steen, Hilke Hollens-Kuhr  
+- Citizen science for tracking species dispersal  
+- Correlation of media coverage, search activity, and observations  
+- Temporal and spatial analysis of invasive species reports  
+- Data integration from multiple citizen science sources  
+- Insights into dispersal ecology of Zoropsis spinimana
+
+---
+
+**[Perspectives on the future of ecology, evolution, and biodiversity from the Council on Microbial Sciences of the American Society for Microbiology](https://www.sciencedirect.com/science/article/pii/S2379504224002923)**  
+Denise M. Akob, A. Elizabeth Oates, Peter R. Girguis, et al.  
+- Microbial ecology, evolution, and biodiversity (EEB)  
+- Transdisciplinary research and technology integration  
+- Role of machine learning in ecological sciences  
+- Interconnectedness of environmental and host health  
+- Advocacy for global and inclusive collaborations
+
+---
+
+**[No need for niches in new ecology](https://www.sciencedirect.com/science/article/pii/S1146609X25000190)**  
+C.J.M. Musters, Geert R. de Snoo  
+- Critique of the niche concept in ecology  
+- Agency, information, and complexity-driven ecological patterns  
+- Agent-based models and non-deterministic views  
+- AI and machine learning for ecological prediction  
+- Reframing community ecology beyond static niches
+
+---
+
+**[Automated near real-time monitoring in ecology: Status quo and ways forward](https://www.sciencedirect.com/science/article/pii/S1574954125001669)**  
+Anna Marie Davison, Koen de Koning, Franziska Taubert, Jan-Kees Schakel  
+- Near real-time (NRT) ecological monitoring workflows  
+- Automation and adaptive decision-making systems  
+- Digital twin models for evidence-based conservation  
+- Review of sensor technologies and data processing  
+- Identification of barriers and stakeholder collaboration needs
+
+---
+
+**[An improved coupled water quantity–quality–ecology model incorporating diurnal cycle as a key factor affecting algal blooms and application in large rivers](https://www.sciencedirect.com/science/article/pii/S0301479725004736)**  
+Xin Liu, Wanshun Zhang, Yue Wang, Hong Peng, Anna Jiang, Ao Li, Xu Zhang, Hao Wang  
+- Coupled water quantity–quality–ecology river modeling  
+- Integration of diurnal cycle and light effect equation  
+- High-resolution hourly environmental monitoring  
+- Calibration and validation with Chla concentration data  
+- Scenario-based analysis of algal bloom dynamics
+
+---
+
+**[Evolution Patterns of Water Ecology and Systematic Governance in the Yangtze River Basin](https://www.sciencedirect.com/science/article/pii/S3050472425000012)**  
+Wang Dianchang, Li Wei, Xu Xingya, Wang Yuchun, Wan Rongrong, Zhang Shuanghu  
+- Spatio-temporal evolution of water ecology  
+- Social-ecological systems perspective  
+- Quantitative analysis of lake wetlands, fluxes, and populations  
+- Division into centennial evolutionary stages  
+- Systematic governance strategy development for basin management
+
+---
+
