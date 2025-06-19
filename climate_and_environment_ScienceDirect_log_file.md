@@ -1474,14 +1474,14 @@ Jiabin Yu et al.
 Husam A. Neamah et al.  
 - Vector Field Histogram Plus (VFH+)  
 - Trap Recognition / Trap Avoidance Mechanisms  
-- Geometric Rules for Path Planning :contentReference[oaicite:0]{index=0}  
+- Geometric Rules for Path Planning 
 
 ---
 
 **[Path planning and obstacle avoidance control of UUV based on an enhanced A* algorithm and MPC in dynamic environment](https://www.sciencedirect.com/science/article/abs/pii/S0029801824009211)**  
 Xiaohong Li et al.  
 - Enhanced A* Algorithm  
-- Model Predictive Control (MPC) :contentReference[oaicite:1]{index=1}  
+- Model Predictive Control (MPC) 
 
 ---
 
@@ -1489,28 +1489,28 @@ Xiaohong Li et al.
 Mengyuan He et al.  
 - XGBoost  
 - Gradient Boosting Decision Tree (GBDT)  
-- AdaBoost :contentReference[oaicite:2]{index=2}  
+- AdaBoost 
 
 ---
 
 **[An efficient computation offloading in edge environment using genetic algorithm with directed search techniques for IoT applications](https://www.sciencedirect.com/science/article/abs/pii/S0167739X24001523)**  
 Ezhilarasie Rajapackiyam et al.  
 - Genetic Algorithm (GA)  
-- Directed Search Operators :contentReference[oaicite:3]{index=3}  
+- Directed Search Operators  
 
 ---
 
 **[Automated algorithm for medical data structuring and segmentation using artificial intelligence within secured environment for dataset creation](https://www.sciencedirect.com/science/article/pii/S2352047724000376)**  
 Varatharajan Nainamalai et al.  
 - Automated Directory Creation Algorithm (custom, AI-based)  
-- Segmentation using AI Model :contentReference[oaicite:4]{index=4}  
+- Segmentation using AI Model 
 
 ---
 
 **[Optimal low-impact development facility design in urban environments: A multidimensional optimization approach employing slime mould and nondominated sorting genetic algorithms](https://www.sciencedirect.com/science/article/abs/pii/S2212095524001597)**  
 Mehrtash Eskandaripour, Shahrokh Soltaninia  
 - Slime Mould Algorithm (SMA)  
-- Nondominated Sorting Genetic Algorithm II (NSGA-II) :contentReference[oaicite:5]{index=5}  
+- Nondominated Sorting Genetic Algorithm II (NSGA-II) 
 
 ---
 
