@@ -146,875 +146,1735 @@ Singh & Goyal
 - Machine Learning
 
 ---
-
-**[Application of multi-objective particle swarm optimization in climate change](https://link.springer.com/article/10.1007/s00500-017-2543-8)**
-- Multi-objective Particle Swarm Optimization (MOPSO)
-- Pareto Optimality
-- Clustering Algorithms
-
----
-
-**[Analysis and forecast of the meteorological drought characteristics in the Zayandeh-Rud River Basin using SPI and RDI indices and a hybrid machine learning approach](https://link.springer.com/article/10.1007/s11069-017-2953-8)**
-- Support Vector Regression (SVR)
-- Artificial Neural Network (ANN)
-- Decision Tree (DT)
-- Random Forest (RF)
-- Hybrid Machine Learning Methods
+**[Forty‑year hydropower generation reanalysis for Conterminous U.S. (RectifHydPlus)](https://doi.org/10.1038/s41597-025-05323-y)**  
+RectifHydPlus dataset, Nature Scientific Data, 2025  
+- Proxy-based temporal downscaling algorithm (monthly/ daily hydropower estimates)  
+- Spill-adjusted water release simulation  
+- Hydrological control dataset derivation  
 
 ---
 
-**[Classification of satellite images using support vector machines and neural networks](https://link.springer.com/article/10.1007/s11042-016-3600-6)**
-- Support Vector Machine (SVM)
-- Artificial Neural Network (ANN)
-- Image Classification Algorithms
+**[Carbon offsetting of fossil fuel emissions through afforestation is limited by financial viability and spatial requirements](https://doi.org/10.1038/s43247-025-02394-y)**  
+Naef, Friggens & Njeukam, Communications Earth & Environment, 2025  
+- Simulation of Net Environmental Valuation across carbon price range  
+- Spatial afforestation requirement estimation (area scaling algorithm)  
 
 ---
 
-**[Assessment of climate change impacts on drought characteristics in arid and semi-arid regions of Iran using SPEI and SPI indices](https://link.springer.com/article/10.1007/s00704-015-1383-7)**
-- Mann-Kendall Trend Test
-- Sen’s Slope Estimator
-- Standardized Precipitation Index (SPI)
-- Standardized Precipitation Evapotranspiration Index (SPEI)
+**[Functional traits as indicators of maize strategies to cope with Zn, Pb and Cr heavy metal‑induced stress](https://doi.org/10.1186/s40538-025-00798-8)**  
+Fusaro, Lanni, Varone et al., Chem. Biol. Technol. Agric., 2025  
+*(No classical algorithmic methods reported — empirical trait analysis)*  
 
 ---
 
-**[Assessment of artificial intelligence-based approaches for reference evapotranspiration modeling in a humid subtropical climate](https://link.springer.com/article/10.1007/s00521-017-3272-4)**
-- Artificial Neural Network (ANN)
-- Adaptive Neuro-Fuzzy Inference System (ANFIS)
-- Gene Expression Programming (GEP)
-- Support Vector Machine (SVM)
+**[Research on dynamic prediction and optimization of high altitude photovoltaic power generation efficiency using GVSAO‑CNN Model under 8‑climate modes](https://link.springer.com/article/10.1007/s42452-025-07285-7)**  
+Xiaoming Xiong, Heng Hu, Qiangfu Jia, Rongjian Zhang, Chongan Huang, Qingyuan Lu  
+- Gravity Search Optimization Algorithm (GVSAO)  
+- Convolutional Neural Network (CNN)  
+- Long Short‑Term Memory (LSTM)  
+- Support Vector Machine (SVM) *(as benchmark)*  
+- Random Forest (RF) *(as benchmark)*  
+- Genetic algorithm operations (crossover, mutation)  
 
 ---
 
-**[Drought prediction using new machine learning models based on hybrid ensemble and bagging approaches](https://link.springer.com/article/10.1007/s11069-018-3558-x)**
-- Bagging Ensemble Algorithm
-- Random Forest (RF)
-- Artificial Neural Network (ANN)
-- Hybrid Machine Learning Methods
+**[Explorative pedestrian mobility geolocated data from a citizen science experiment in a neighbourhood](https://link.springer.com/article/10.1038/s41597-025-05307-y)**  
+Ferran Larroya, Roger Paez, Manuela Valtchanova, Josep Perelló  
+- Euclidean distance and instantaneous velocity computation  
+- Temporal threshold‑based stop detection (Δc = 10 s)  
+- CCDF analysis of instantaneous velocity for validation  
+- Spatio‑temporal filtering and labeling (“stop” vs “moving”)
 
 ---
 
-**[Forecasting daily air pollution concentrations using hybrid models based on machine learning methods](https://link.springer.com/article/10.1007/s11069-017-2851-0)**
-- Artificial Neural Network (ANN)
-- Support Vector Machine (SVM)
-- Hybrid Modeling Techniques
+**[Characterization of Western US hydrologic processes linked to atmospheric rivers in two sets of seasonal global retrospective forecasts](https://link.springer.com/article/10.1007/s00382-025-07740-6)**  
+Breanna Zavadoff & Ben Kirtman  
+- Atmospheric River detection algorithm (e.g., Zhu & Newell method)  
+- Bilinear interpolation (for ocean initialization)  
+- Parameterization schemes in atmospheric models (CAM4 vs CAM5)  
+- Resolution-dependent grid modeling (0.5° vs 1° horizontal grids)  
+- Verification via reanalysis and observational datasets (statistical comparison methods)
 
 ---
 
-**[Comparative analysis of wavelet- and empirical mode decomposition-based hybrid models for daily reference evapotranspiration modeling](https://link.springer.com/article/10.1007/s00521-017-3097-1)**
-- Wavelet Transform
-- Empirical Mode Decomposition (EMD)
-- Artificial Neural Network (ANN)
-- Adaptive Neuro-Fuzzy Inference System (ANFIS)
+**[Bridging IoT devices and machine learning for predicting power consumption: case study universitas Widya Dharma Pontianak](https://link.springer.com/article/10.1186/s42162-025-00540-6)**  
+Genrawan Hoendarto, Ahmad Saikhu & Raden Venantius Hari Ginardi  
+- Regression Tree  
+- Monte Carlo simulation  
+- Monte Carlo–Regression Tree hybrid (MCRT)  
+- Random Forest  
+- Gradient Boosting  
 
 ---
 
-**[A novel hybrid wavelet-artificial intelligence model for daily rainfall prediction](https://link.springer.com/article/10.1007/s00521-016-2322-6)**
-- Wavelet Transform
-- Artificial Neural Network (ANN)
-- Adaptive Neuro-Fuzzy Inference System (ANFIS)
-- Support Vector Machine (SVM)
+**[Microbial succession and interaction in vacuum‑packed beef: a longitudinal study of bacterial and fungal dynamics](https://www.nature.com/articles/s41538-025-00479-8)**  
+Franz‑Ferdinand Roch et al.  
+- Hill‑Shannon and Hill‑Simpson diversity indices (alpha‑diversity)  
+- Principal Coordinate Analysis (PCoA) with Bray‑Curtis dissimilarities (beta‑diversity)  
+- CoNet network inference combining Spearman correlation, mutual information, and Bray‑Curtis dissimilarity  
+- False Discovery Rate (FDR) correction for multiple hypothesis testing in network analysis  
+- Growth‑curve estimation via spike‑in calibration using amplicon sequencing and qPCR  
 
 ---
 
-**[Assessing climate change impacts on surface water quality using coupled simulation-optimization models](https://link.springer.com/article/10.1007/s11356-016-6707-5)**
-- Genetic Algorithm (GA)
-- Simulation-Optimization Techniques
+**[Microbial succession and interaction in vacuum‑packed beef: a longitudinal study of bacterial and fungal dynamics](https://www.nature.com/articles/s41538-025-00479-8)**  
+Franz‑Ferdinand Roch, Monika Dzieciol, Cameron R. Strachan, Muhammad Sharjeel Chaughtai, Narciso M. Quijada, Tea Movsesijan, Evelyne Selberherr, et al.
+- Spearman correlation
+- Mutual information (using mi.shrink and JS divergence)
+- Bray–Curtis dissimilarity  
 
 ---
 
-**[Climate Change Effects on the Distribution of Invasive Alien Plant Species in South America: A Case Study with Oxalis pes-caprae L.](https://link.springer.com/article/10.1007/s10531-024-02858-w)**
-- Maximum Entropy Modeling (MaxEnt)
-- Geographic Information System (GIS) Analysis
-- Principal Component Analysis (PCA)
-- Receiver Operating Characteristic (ROC) Curve Analysis
+**[Exploring the genetic diversity of the 3′ untranslated region (UTR) of Dengue virus](https://doi.org/10.1186/s12985-025-02800-z)**  
+Alessandra Lo Presti, Arnold Knijn, Enrico Palermo, Alessandra D’Auria, Miriana Quaranta, Stefano Pascarella, Federica Frasca & Carolina Scagnolari  
+- MAFFT (FFT‑NS‑2) multiple sequence alignment  
+- IQ‑TREE maximum likelihood phylogenetic inference  
+- ModelFinder model selection (e.g. K2P + R4/R5, TIM3 + F + R3, K2P + G4)  
+- Ultrafast bootstrap and SH‑aLRT for branch support  
+- Kimura 2‑parameter genetic distance estimation  
+- MEGA X evolutionary divergence analysis  
 
 ---
 
-**[Artificial Intelligence for Extreme Weather Prediction: A Review](https://link.springer.com/article/10.1007/s42979-024-02786-1)**
-- Artificial Neural Networks (ANN)
-- Convolutional Neural Networks (CNN)
-- Long Short-Term Memory (LSTM) Networks
-- Decision Trees
-- Random Forests
-- Support Vector Machines (SVM)
-- k-Nearest Neighbors (k-NN)
-- Linear Regression
+**[Measuring cytokines in Eurasian tundra reindeer (Rangifer tarandus tarandus) with a bovine bead-based multiplex immunoassay and real‑time PCR](https://link.springer.com/article/10.1186/s13028-025-00819-4)**  
+Tuva Løken Frøvoll, Kari Lybeck, Hege Lund, Shokouh Makvandi‑Nejad, Unni Grimholt, Carlos G. das Neves, Morten Tryland, Ingebjørg Helena Nymo, Siv Klevar
+
+- tblastN sequence alignment (BLAST)  
+- Multiple sequence alignment using MAFFT  
+- Primer design via Primer3  
+- ΔΔCq method for relative gene expression quantification  
+- Generalized linear model (GLM) with gamma distribution and log-link function  
+- Mixed-effects regression analysis (nlme package in R)  
 
 ---
 
-**[Unsupervised clustering to identify spatio-temporal patterns in climate change projections over South America](https://link.springer.com/article/10.1007/s00704-024-04706-4)**
-- k-Means Clustering
-- Hierarchical Clustering
-- Principal Component Analysis (PCA)
+**[Energy consumption and IEQ monitoring in two university apartment buildings: Pre‑retrofit dataset](https://doi.org/10.1038/s41597-025-05355-4)**  
+Shayan Mirzabeigi, Sameeraa Soltanian‑Zadeh, Bess Krietemeyer, Bing Dong, Jianshun “Jensen” Zhang  
+- Linear interpolation for gap-filling in time-series data  
+- k‑nearest neighbors imputation  
+- Matrix factorization imputation  
 
 ---
 
-**[Spatial estimation of reference evapotranspiration in humid subtropical climate using multiple linear regression and random forest algorithm](https://link.springer.com/article/10.1007/s11629-024-8507-0)**
-- Multiple Linear Regression
-- Random Forest Algorithm
+**[Fuzzy Logic Inference Modeling (FLIM) of Culvert Design Size and Discharge Calculations](https://link.springer.com/article/10.1007/s11269-025-04276-6)**  
+Özay Uslu & Zekâi Şen  
+- Talbot empirical formula (classical bivalent logic method)  
+- Mamdani fuzzy inference system (Mamdani FIS)  
+- Fuzzification of inputs and outputs (fuzzy set generation)  
+- Fuzzy rule-based reasoning (Mamdani logical operations: min, max)  
+- Centroid defuzzification method  
+- Linear regression analysis (R² determination)  
+- Clustering techniques (scatter plot clustering comparison)  
 
 ---
 
-**[Development of a fire weather index for tropical forests: a case study in southern China](https://link.springer.com/article/10.1007/s11629-024-8524-z)**
-- Multiple Linear Regression
-- Receiver Operating Characteristic (ROC) Curve Analysis
+**[Prioritisation of ocean biodiversity data collection to deliver a sustainable ocean](https://doi.org/10.1038/s43247-025-02442-7)**  
+Amelia E. H. Bridges & Kerry L. Howell  
+- Partitioning Around Medoids (PAM) clustering (via CLARA)  
+- CLARA (Clustering Large Applications) method  
+- Average Silhouette Width (ASW) for cluster validation  
+- Generalized Additive Models (GAM)  
+- Kernel density estimation  
 
 ---
 
-**[A comprehensive evaluation of precipitation products for hydrological simulation in a climate-sensitive basin](https://link.springer.com/article/10.1007/s11629-024-8530-1)**
-- Nash–Sutcliffe Efficiency (NSE)
-- Kling-Gupta Efficiency (KGE)
+**[Enzymatic twists evolved stereo‑divergent alkaloids in the Solanaceae family](https://link.springer.com/article/10.1038/s41467-025-59290-4)**  
+Adam Jozwiak et al.  
+- MUSCLE multiple sequence alignment  
+- RAxML maximum likelihood phylogenetic inference (with gamma model & bootstrapping)  
+- BLAST homology searches  
+- AlphaFold 2 protein structure prediction  
+- Molecular docking analyses (using Chimera & LigPlot+)  
+
+---
+
+**[Climate drivers and palaeobiogeography of lagerpetids and early pterosaurs](https://doi.org/10.1038/s41559-025-02767-8)**  
+Davide Foffa, Emma M. Dunne, Alfio Alessandro Chiarenza, et al.
+- Dispersal–Extinction–Cladogenesis (DEC) model (maximum likelihood phylo‑palaeobiogeographic analysis)  
+- Principal Component Analysis (PCA)  
+- Permutation Multivariate Analysis of Variance (MANOVA)  
+- Wilcoxon rank‑sum (Mann–Whitney) tests  
+- Ecological niche modelling using the DOMAIN algorithm with Gower distance metric  
+
+---
+
+**[A continental scale analysis reveals widespread root bimodality](https://www.nature.com/articles/s41467-025-60055-2)**  
+Mingzhen Lu, Sili Wang, Avni Malhotra, Shersingh Joseph Tumber‑Dávila, Samantha Weintraub‑Leff, M. Luke McCormack, Xingchen Tony Wang & Robert B. Jackson  
+- Random Forest classification model  
+- Kernel density estimation
+- LOESS smoothing for fitting depth profiles  
+- Two‐sided Student’s t‑test  
+- Chi‑square test  
+
+---
+
+**[ENSO teleconnections with the NAE sector during December in CMIP5/CMIP6 models: impacts of the atmospheric mean state](https://doi.org/10.1038/s41612-025-01064-2)**  
+Davide Sabatani & Silvio Gualdi  
+- Linear regression analysis  
+- Partial regression analysis  
+- Taylor diagram analysis  
+- Clustering (model classification by correlation threshold)  
+- Tropical Rossby Wave Source (TRWS) computation  
+- Wave Activity Flux (WAF) computation  
+- Rossby wave ray-tracing algorithm (linear theory)  
+- Stationary wavenumber calculation  
+- Statistical significance testing (t-tests)  
+
+---
+
+**[Vectorized building rooftop prints of the Qinghai‑Tibetan Plateau and its neighboring regions](https://www.nature.com/articles/s41597-025-05266-4)**  
+Tao Ye, Hongyu Shan, Jidong Wu, Qiang Zhou, Mingfu Ma, Wenzhi Zhao, Ru Ya, Yuan Gao & Lizheng Wu
+- Random Forest (built-up area mask generation)   
+- K‑means clustering (fishnet stratified sampling)
+- Elbow method (to determine optimal number of clusters)
+- Convolutional Neural Network (semantic segmentation)
+- PointRend neural network (iterative point sampling segmentation)
+- Watershed segmentation (instance segmentation post‑processing)   
+
+---
+
+**[Combining climate models and risk assessment tools to evaluate the invasive potential of intentional plant introductions: a case study of Moringa oleifera in New Zealand](https://link.springer.com/article/10.1007/s44372-025-00233-0)**  
+Blair Moses Kamanga, Craig McGill, Stephan Halloy, Axay Bhuker, Anurag Malik & Andrea Clavijo McCormick  
+
+- Fuzzy overlay spatial analysis (`AND` type) on climatic raster layers  
+- Minimum argument aggregation method for multi‑criteria climate suitability  
+- Composite Match Index calculation via “Match Climates Regional” algorithm (Hearne Software’s CLIMEX)  
+- Climate‑niche envelope modelling using inclusive ellipses  
+- Growing Degree Days (GDD) cumulative integration method  
+- PPQ‑WRA additive scoring model  
+- Logistic regression for invasion probability classification  
+- Chi‑square based weighting for WRA question calibration  
+- Uncertainty risk analysis via Monte Carlo simulation 
+
+---
+
+**[Past and Present in the Ecological Connectivity of Protected Areas Through Land Cover and Graph‑Based Metrics (2025)](https://link.springer.com/article/10.1007/s00267-025-02206-1)**  
+Antonio Vidal‑Llamas, Carolina Acuña‑Alonso & Xana Álvarez
+- Random Forest (RF) classification (for land cover mapping)  
+- Confusion matrix evaluation & Cohen’s Kappa index (accuracy assessment)  
+- Graph‑based least‑cost path analysis (habitat connectivity)  
+- Betweenness Centrality (BC) metric  
+- Integral Index of Connectivity (IIC)  
+- Probability of Connectivity (PC)  
+- Equivalent Connectivity (EC)  
+- Fragmentation indices: Splitting patch index (SPLIT), Effective mesh size (EM), Edge length (EL), Edge density (ED)
+
+---
+
+**[Flood‑tech frontiers: smart but just? A systematic review of AI‑driven urban flood adaptation and associated governance challenges](https://link.springer.com/article/10.1007/s44282-025-00190-9)**  
+Johannes Bhanye  
+- Artificial Neural Networks (ANN)  
+- Convolutional Neural Networks (CNN)  
+- Support Vector Machines (SVM)  
+- Random Forest (RF)  
+- XGBoost  
+- AIoT (Artificial Intelligence of Things)  
+- Decision Support Systems (DSS)  
+- Multi‑Criteria Decision‑Making (MCDM) methods
+
+--- 
+
+**[Multiple glutathione‑S‑transferases detoxify diverse glucosinolate‑based defenses of Brassicales plants in a generalist lepidopteran herbivore (Spodoptera littoralis)](https://www.nature.com/articles/s42003-025-08346-8)**  
+Ruo Sun, Samantha Römhild, Yoko Nakamura, Michael Reichelt, Katrin Luck, Duc Tam Mai, Beate Rothe, Jonathan Gershenzon & Daniel Giddings Vassão  
+- Principal Component Analysis (PCA) for correlating GST enzyme activity patterns with ITC structures
+- Molecular docking simulations of ITC–GST protein interactions
+
+---
+
+**[Tropical cyclone response to ambitious decarbonization scenarios](https://link.springer.com/article/10.1038/s41612-025-01122-9)**  
+Authors: (not specified in abstract)  
+- GPI‑based diagnostics algorithm (Genesis Potential Index calculations)  
+- Detection‑based tropical cyclone tracking algorithms
+
+---
+
+**[Investigating the dispersion and transport of carbon monoxide in West Africa with a focus on biomass burning and gas flaring sources](https://link.springer.com/article/10.1007/s44292-025-00038-6)**  
+Ajoke Onojeghuo, Zoë L. Fleming, Marios Panagi, Heiko Balzter, Paul S. Monks
+- Satellite-based change detection algorithm for burned-area mapping (e.g., GFED4s using MODIS reflectance time series)
+- Monthly aggregation and seasonal analysis (time-series statistical methods)   
+- Seasonal pixel-based Pearson correlation regression (R², slope) for CO vs. burned-area analysis   
+- Linear regression modeling for seasonal relationships between burned area fraction and CO concentrations
+- Lagrangian particle-trajectory dispersion modeling (NAME model) in both forward/backward modes
+- Numerical trajectory simulation algorithms (1-day & 5-day forward/backward trajectories, tracer release schedules)
+
+---
+
+**[Analyzing the spatial relationship between land surface temperature and normalized difference vegetation index using remote sensing and GIS](https://doi.org/10.1007/s44288-025-00167-w)**  
+Vicky Anand, Simarjit Kaur, Vishnu D. Rajput, Tatiana Minkina, Saglara Mandzhieva, Santosh Kumar, Aastha Sharma, Sunil Kumar
+- Mono-window algorithm
+- Split-window algorithm
+- NDVI calculation algorithm
+- NDVI-based emissivity estimation   
+- Atmospheric correction algorithm
+- Fmask algorithm
+- Bilinear interpolation resamplingъ
+- Mean Bias Error (MBE) 
 - Root Mean Square Error (RMSE)
-- Bias Analysis
+- Pearson correlation coefficient
 
 ---
 
-**[Machine learning models for predicting maize yield under climate change scenarios in Ethiopia](https://link.springer.com/article/10.1007/s41629-024-00423-w)**
-- Random Forest
-- Support Vector Machines (SVM)
-- Gradient Boosting
-- Multiple Linear Regression
+**[Toward green finance: applying Bayesian machine learning in environmental portfolio management](https://doi.org/10.1007/s41060-025-00830-y)**  
+Xavier Martínez‑Barbero, Roberto Cervelló‑Royo, Jaume Jordán, Javier Ribal
+- Bayesian inference  
+- Min–Max scaling  
+- Student’s t-distribution modeling  
+- Uniform distribution (for standard deviation prior)  
+- Exponential distribution (for degrees of freedom prior)  
+- Markov Chain Monte Carlo (MCMC)  
+- No-U-Turn Sampler (NUTS)  
+- Sharpe Ratio (Environmental Sharpe Ratio extension)  
 
 ---
 
-**[Comparative study of downscaling methods for daily precipitation under climate change over the Tibetan Plateau](https://link.springer.com/article/10.1007/s00704-024-04717-1)**
-- Statistical Downscaling
-- Bias Correction Spatial Disaggregation (BCSD)
-- Quantile Mapping
+**[Analyzing the spatial relationship between land surface temperature and normalized difference vegetation index using remote sensing and GIS](https://doi.org/10.1007/s44288-025-00167-w)**  
+Vicky Anand, Simarjit Kaur, Vishnu D. Rajput, Tatiana Minkina, Saglara Mandzhieva, Santosh Kumar, Aastha Sharma, Sunil Kumar
+- Mono‑window algorithm
 
 ---
 
-**[Hybrid ARIMA-ANN model for rainfall prediction under changing climate conditions](https://link.springer.com/article/10.1007/s11629-024-8543-8)**
-- Autoregressive Integrated Moving Average (ARIMA)
+**[Thermodynamics‑informed graph neural networks for real‑time simulation of digital human twins](https://doi.org/10.1007/s00466-025-02633-1)**  
+Lucas Tesán, David González, Pedro Martins, Elías Cueto  
+- Message Passing in Graph Neural Networks  
+- Metriplectic Structure Constraints  
+- Noise Augmentation via Uniform Distribution  
+
+---
+
+**[Bayesian DEA framework for market power and efficiency analysis in banking operations](https://doi.org/10.1007/s00291-025-00824-z)**  
+Hirofumi Fukuyama, Mike Tsionas, Yong Tan  
+- Bayesian Data Envelopment Analysis (DEA)  
+- Likelihood-Based Estimation  
+- Prior Distributions: Truncated and Uniform  
+- Posterior Sampling via (Bayesian inference methods)
+
+---
+
+**[Developing Resilient Reservoir System Operations: A Simulation Approach Incorporating Rule Curve](https://doi.org/10.1007/s11269-025-04280-w)**  
+Lee E., Ji J., Yi S., et al.
+- Simulation optimization  
+- Rule-curve operating rules  
+- Genetic algorithm  
+- Particle swarm optimization  
+- Stochastic dynamic programming  
+- Grey wolf optimizer  
+
+---
+
+**[Sequence‑based GWAS reveals genes and variants associated with methane emissions predicted from milk MIR spectra](https://doi.org/10.1186/s12711-025-00977-z)**  
+- Genome‑wide association study (GWAS)  
+- Imputation algorithms for whole-genome sequencing data  
+- Quantitative trait locus (QTL) mapping  
+- Linear mixed models  
+
+---
+
+**[Farmer-led innovations and their role in entrepreneurship: a bibliometric exploration](https://link.springer.com/article/10.1007/s44279-025-00257-w)**  
+Bikram Barman, Rashmi Singh  
+- Bibliometric analysis  
+- Keyword co-occurrence network analysis  
+- Thematic mapping (density–centrality)  
+- Three‑field plot visualization  
+
+---
+
+**[Impact of climate and land use change on the distribution of orchids in Estonia](https://link.springer.com/article/10.1007/s11258-025-01533-x)**  
+Davide Nepote Valentin, Martino Adamo, Chiara Richiardi, Stefano Mammola, et al.  
+- Species Distribution Models (SDMs)  
+
+---
+
+**[Rapid Simulation of Floods by Considering the Spatial and Temporal Characteristics of Inundation](https://link.springer.com/article/10.1007/s13753-025-00642-5)**  
+- Rotated Empirical Orthogonal Functions (REOF)  
+- SGP correction model (data-driven surrogate model)  
+
+---
+
+**[The impact of hot nights on dengue incidence: a nationwide case‑crossover study in Brazil](https://doi.org/10.1186/s40249-025-01326-4)**  
+Mintao Su, Zhisheng Liang, Qinfeng Zhou, Junxiong Ma, Minghui Ren, Zhenyu Zhang, Junjun Chen, Huining Yang, Shaym Biswal, Murugappan Ramanathan, Fan Dai, Wei Huang  
+- Case‑crossover analysis  
+- Attributable risk estimation  
+
+---
+
+**[Parcel-level vector data for scaled land utilization analysis in Xinjiang based on remote sensing image](https://doi.org/10.1038/s41597-025-05359-0)**  
+Wu W., Zhao Y., Yang L., Zeng Y., Liu R., Huang S., Wang W., Wu X.
+
+- Swin Transformer  
+- DiffusionEdge  
+
+---
+
+**[Advancing sustainability through financial inclusion and sustainable finance: a systematic literature review](https://doi.org/10.1007/s42521-025-00142-7)**  
+Asep Yusup Mamun, Várallyai László
+
+- PRISMA methodology  
+- Citation network analysis  
+- Co-occurrence network analysis  
+- VOSviewer (Visualization of Similarities algorithm)  
+
+---
+
+**[Reinterpreting the happiness index using artificial neural networks with selected economic and environmental variables: evidence from D‑8 countries](https://doi.org/10.1007/s12144-025-07996-5)**  
+Ayşe Çay Atalay
+
+- Artificial Neural Network  
+- Levenberg–Marquardt optimization method  
+- Backpropagation algorithm  
+
+---
+
+**[Citizen science illuminates the nature of city lights](https://doi.org/10.1038/s44284-025-00239-5)**  
+Team Nachtlichter
+
+- Logistic function fitting  
+- Monte Carlo simulation  
+- Least-squares minimization  
+- Spearman correlation coefficient  
+
+---
+
+**[Experimental and Computational Insights into the Nanomechanical Characterization of Ultramafic Rocks for Geologic Hydrogen Production and Storage](https://doi.org/10.1007/s00603-025-04654-x)**  
+Oladoyin Kolawole, Mary C. Ngoma, Olufemi Olorode  
+- Finite Element Method (FEM) numerical homogenization  
+- K‑means clustering algorithm  
+- Averaging computation method (mean, standard deviation, standard error)  
+- Numerical homogenization scheme (extension to multi-phase materials)  
+
+---
+
+**[Improving spatial modeling framework to assess the impact of vegetation cover, water content, and surface temperature on urban heat island effects in Johannesburg, South Africa](https://link.springer.com/article/10.1007/s44274-025-00264-0)**  
+Eskinder Gidey, Paidamwoyo Mhangara
+
+- Modified Soil Adjusted Vegetation Index 2 (MSAVI2)  
+- Normalized Difference Vegetation Index (NDVI)  
+- Proportion of Vegetation (PV) estimation  
+- Normalized Difference Moisture Index (NDMI)  
+- Linear regression model  
+
+---
+
+**[Effectiveness of perches in promoting bird-mediated seed dispersal for natural forest regeneration: a systematic review](https://doi.org/10.1186/s13750-025-00363-8)**  
+Jelaine L. Gan, Matthew J. Grainger, Mark D. Foster Shirley, Sheena Davis, Molly Watson, Shreya Dube, Marion Pfeifer  
+- Hedges’ g effect size  
+- Three‑level meta‑regression model  
+- Sensitivity analysis  
+- Moderator analysis (bioregion, precipitation variation, etc.)
+
+---
+
+**[Sampling from Conditional Distributions of Simplified Vines](https://doi.org/10.1007/s11222-025-10652-4)**  
+Andreas Hanebeck, Ömür Şahin, Petra Havlíčková et al.  
+- R‑vine copula models  
+- Dissmann algorithm  
+- Kernel density estimation  
+- Hamiltonian Monte Carlo sampling  
+- Conditional Kendall’s tau estimation  
+
+---
+
+**[Balancing policy uncertainty with renewable energy demand](https://doi.org/10.1186/s12302-025-01133-6)**  
+Victoria Olushola Olanrewaju, Bright Akwasi Gyamfi, Ilker Ozsahin, Tomiwa Sunday Adebayo
+
+- Multi-frequency quantile regression  
+- Multi-frequency quantile Granger causality  
+
+---
+
+**[Assessment of chaotic features for PM₁₀ concentrations in İstanbul](https://doi.org/10.1007/s11071-025-11328-4)**  
+Enes Birinci, Emrah Tuncay Özdemir, Ali Deniz, Thomas Plocoste  
+
+- Lorenz dynamical system  
+- Recurrence analysis  
+- Augmented Dickey–Fuller test  
+- KPSS test  
+- Autocorrelation Function (ACF)  
+- Average Mutual Information (AMI)  
+- False Nearest Neighbour (FNN) method  
+- Delay time estimation  
+- Embedding dimension estimation  
+- Maximum Lyapunov exponent (Wolf’s method, Jacobian method, small dataset method)  
+- Correlation dimension (Grassberger–Procaccia method)  
+
+---
+
+**[SC‑PREC4SA: A serially complete daily precipitation dataset for South America](https://doi.org/10.1038/s41597-025-05312-1)**  
+Adrian Huerta, Roberto Serrano‑Notivoli, Stefan Brönnimann
+
+- Quality control algorithm (robust QC)  
+- Gap-filling algorithm (daily precipitation imputation)  
+- Homogenization algorithm  
+
+---
+
+**[A digital twin platform for building performance monitoring and optimization: Performance simulation and case studies](https://doi.org/10.1007/s12273-025-1290-2)**  
+Li H., Hong T.  
+- EnergyPlus simulation  
+- Digital twin modeling (API & FMU integration)  
+- BIM-based data fusion  
+
+---
+
+**[Modeling, analysis and experimental verification of fractional high-order DC‑DC converters](https://doi.org/10.1007/s11071-025-11461-0)**  
+Wu X., Chen L., Shao S., Lopes A.M., Zhao H., Chen Y.  
+- Fractional calculus (Caputo definition)  
+- State-space modeling  
+- Oustaloup’s approximation  
+- Equivalent circuit modeling  
+
+---
+
+**[Comprehensive evaluation of machine learning models for real‑world air quality prediction and health risk assessment by AirQ+](https://doi.org/10.1007/s12145-025-01941-7)**  
+Ebru Koçak
+- Ridge Regression  
+- Support Vector Regression (SVR)  
+- Random Forest Regression  
+- Extra Trees Regression  
+- Extreme Gradient Boosting (XGBoost)  
+- missForest (imputation algorithm)  
+- John Tukey’s method (outlier detection)  
+- Boruta (feature selection)  
+- 5‑fold cross‑validation  
+- Grid search (hyperparameter tuning)
+
+---
+
+**[Applications of UAV in landslide research: a review](https://doi.org/10.1007/s10346-025-02547-2)**  
+Boneng Chen, Jeremy Maurer & Weibing Gong
 - Artificial Neural Network (ANN)
-- Hybrid ARIMA-ANN Model
 
 ---
 
-**[An improved hybrid forecasting model based on variational mode decomposition and neural networks for the short-term wind speed prediction](https://link.springer.com/article/10.1007/s11069-021-05097-1)**
-- Variational Mode Decomposition (VMD)
-- Artificial Neural Networks (ANN)
-- Support Vector Regression (SVR)
-- Extreme Learning Machine (ELM)
-- Hybrid Forecasting Algorithm
+**[Prediction of emission and exergy parameters of commercial high by‑pass turbofan engines based on CSA‑SVR model](https://doi.org/10.1007/s10973-025-14403-5)**  
+Ridvan Oruc
+- Support Vector Regression (SVR)  
+- Cuckoo Search Algorithm (CSA)  
 
 ---
 
-**[Statistical and machine learning models for precipitation prediction in a tropical environment](https://link.springer.com/article/10.1007/s00704-021-03786-z)**
-- Linear Regression
-- Random Forest
-- Support Vector Machine (SVM)
-- k-Nearest Neighbors (k-NN)
-- Artificial Neural Network (ANN)
-- Decision Tree
+**[LITP‑GAN: Leaf image translation pipeline using DETR and GLA‑Net considering the lesion area of plant disease](https://doi.org/10.1007/s44443-025-00070-x)**  
+Ri Zheng, Jimin Lee, Helin Yin, Dong Jin, Yeong Hyeon Gu  
+- DETR (DEtection TRansformer)  
+- ResNet‑50 backbone  
+- Faster R‑CNN  
+- RTMDet  
+- GLA‑Net  
+- CycleGAN  
+- SAGAN  
+- DCLGAN  
+- FastCUT  
+- Seamless Cloning  
 
 ---
 
-**[A comprehensive review on remote sensing and deep learning applications for precision agriculture](https://link.springer.com/article/10.1007/s11042-021-11184-5)**
-- Convolutional Neural Network (CNN)
-- Recurrent Neural Network (RNN)
-- Support Vector Machine (SVM)
-- Random Forest
-- k-Nearest Neighbors (k-NN)
+**[Development and research of green building environment design and thermal energy management integrated system based on virtual reality technology](https://doi.org/10.1186/s42162-025-00544-2)**  
+Yunpeng Hu
+
+- BP neural network  
+- RNN (Recurrent Neural Network)  
+- LSTM (Long Short-Term Memory)  
+- Transformer (attention-based models)  
+- Random Forest  
+- Gradient Boosting Trees  
+- GA‑BP (Genetic Algorithm + Backpropagation)  
+- Wavelet decomposition–transfer learning  
+- Decision tree model  
+
+--- 
+
+**[Toward a general framework for AI-enabled prediction in crop improvement](https://doi.org/10.1007/s00122-025-04928-6)**  
+Carlos Messina, Julian Garcia‑Abadillo, Owen Powell, Shunichiro Tomura, Alina Zare, Baskar Ganapathysubramanian, Mark Cooper et al.  
+- Symbolic AI (physiological/dynamical crop models)  
+- Sub-symbolic AI (machine learning models: regression trees, random forests, neural networks)  
+- Ensemble modeling (model averaging based on Diversity Prediction Theorem)  
+- Logistic map (dynamical systems modeling)  
+- Linear mixed models  
+- Bayesian inference / Approximate Bayesian computation  
 
 ---
 
-**[A comparative study of machine learning algorithms for predicting soil moisture in a tropical agricultural region](https://link.springer.com/article/10.1007/s11042-021-11043-3)**
-- Linear Regression
-- Support Vector Regression (SVR)
-- Random Forest
-- k-Nearest Neighbors (k-NN)
-- Artificial Neural Network (ANN)
+**[Harnessing C21 and S21 coefficients from GRACE and hybrid solutions for comprehensive analysis of polar motion excitation](https://doi.org/10.1007/s00190-025-01969-z)**  
+Jolanta Nastula, Justyna Śliwińska‑Bronowicz, Małgorzata Wińska  
+- Spherical harmonic decomposition  
+- Time series decomposition (seasonal, short-term, long-term)  
+- Correlation analysis (Pearson) 
 
 ---
 
-**[A review on artificial intelligence based load demand forecasting techniques for smart grid and buildings](https://link.springer.com/article/10.1007/s10462-021-10057-6)**
-- Artificial Neural Network (ANN)
-- Support Vector Machine (SVM)
-- Decision Tree
-- Random Forest
-- k-Nearest Neighbors (k-NN)
-- Long Short-Term Memory (LSTM)
+**[Integration of mobile deep networks and machine learning methods for flood risk classification: 2D grayscale transformation of data, feature intersection](https://doi.org/10.1007/s11600-025-01624-3)**  
+Mesut Toğaçar
+
+- Convolutional Neural Network  
+- 2D grayscale transformation  
+- Feature intersection  
 
 ---
 
-**[Machine learning algorithms for predicting the severity of drought in different climatic regions of India using climatic variables](https://link.springer.com/article/10.1007/s11042-022-12342-2)**  
-- Random Forest Algorithm  
-- Support Vector Machine (SVM)  
-- K-Nearest Neighbors (KNN)  
-- Decision Tree  
-- Gradient Boosting Machine (GBM)
+**[Advancements in air quality monitoring: a systematic review of IoT‑based air quality monitoring and AI technologies](https://doi.org/10.1007/s10462-025-11277-9)**  
+Garcia A., Saez Y., Harris I. et al.  
+- Random Forests  
+- Convolutional Neural Networks (CNN)  
+- Long Short-Term Memory (LSTM)  
+- Transformer models  
+- Denoising Autoencoders  
+- Logistic regression (for data imputation)  
+- K‑nearest neighbors (KNN)  
+- DBSCAN (Density-based clustering)  
+- Particle Swarm Optimization (for hybrid models)
 
 ---
 
-**[Deep learning-based hybrid model for rainfall-runoff forecasting in humid, semi-humid and arid climates](https://link.springer.com/article/10.1007/s11269-022-03137-w)**  
-- Long Short-Term Memory (LSTM) Neural Network  
-- Convolutional Neural Network (CNN)  
-- Adaptive Neuro-Fuzzy Inference System (ANFIS)  
-- Artificial Neural Network (ANN)  
+**[A novel and sturdy MPPT architecture for grid‑tied EV charging applications](https://doi.org/10.1007/s43621-025-01089-w)**  
+*(Authors not listed in snippet)*
 
----
-
-**[A hybrid data-driven approach to drought monitoring in different climatic regions using meteorological variables](https://link.springer.com/article/10.1007/s11042-022-12351-1)**  
-- Support Vector Machine (SVM)  
-- Artificial Neural Network (ANN)  
-- K-Nearest Neighbors (KNN)  
-- Random Forest Algorithm  
-- Principal Component Analysis (PCA)
-
----
-
-**[Extreme learning machine based multi-model approach for drought forecasting using climate and remote sensing data](https://link.springer.com/article/10.1007/s11042-022-12345-z)**  
-- Extreme Learning Machine (ELM)  
-- Artificial Neural Network (ANN)  
-- Support Vector Machine (SVM)  
-- Multiple Linear Regression (MLR)  
-
----
-
-**[Integrating remote sensing and machine learning algorithms for mapping the spatial distribution of urban surface temperature in arid climates](https://link.springer.com/article/10.1007/s11042-022-12356-w)**  
-- Random Forest Algorithm  
-- Support Vector Machine (SVM)  
-- Decision Tree Algorithm  
-
----
-
-**[Deep convolutional neural network for multi-temporal drought forecasting using climate and remote sensing data](https://link.springer.com/article/10.1007/s11269-022-03136-x)**  
-- Convolutional Neural Network (CNN)  
-- Deep Neural Network (DNN)
-
----
-
-**[Drought prediction using machine learning algorithms in semi-arid regions of Iran](https://link.springer.com/article/10.1007/s11042-022-12350-2)**  
-- Random Forest Algorithm  
-- Support Vector Machine (SVM)  
-- K-Nearest Neighbors (KNN)  
-- Artificial Neural Network (ANN)  
-- Logistic Regression  
-
----
-
-**[Comparison of machine learning algorithms for spatial prediction of landslide susceptibility in a tropical mountainous area](https://link.springer.com/article/10.1007/s11069-021-04944-6)**  
-- Logistic Regression  
-- Decision Tree  
-- Random Forest Algorithm  
-- Support Vector Machine (SVM)  
-- Artificial Neural Network (ANN)
-
----
-
-**[Hybridization of machine learning and optimization algorithms for accurate rainfall prediction in tropical climate](https://link.springer.com/article/10.1007/s11042-022-12349-9)**  
-- Support Vector Machine (SVM)  
-- Random Forest Algorithm  
-- Particle Swarm Optimization (PSO)  
 - Genetic Algorithm (GA)  
+- Particle Swarm Optimization (PSO)  
+- Ant Colony Optimization (ACO)  
+- Ali Baba and Forty Thieves Optimization (ABFTO)  
 
 ---
 
-**[An improved machine learning algorithm for flood prediction using climate and hydrological variables](https://link.springer.com/article/10.1007/s11269-022-03140-1)**  
-- Random Forest Algorithm  
+**[Interactions between the Ming Yansui Great Wall heritage and geographical environment via Monte Carlo simulation](https://www.nature.com/articles/s40494-025-01816-6)**  
+Yuan L., Li Z., Wang Y., et al.
+
+- Monte Carlo simulation  
+- Average Nearest Neighbor analysis  
+- Kernel density estimation  
+
+---
+
+**[Addressing critiques refines global estimates of reforestation potential for climate change mitigation](https://doi.org/10.1038/s41467-025-59799-8)**  
+Fesenmyer K. A., Poor E. E., Terasaki Hart D. E., et al.  
+- Raster overlay multiplication  
+- Scenario-based raster modeling  
+- Sensitivity analysis  
+- Spatial exclusion constraints (masking)  
+
+---
+
+**[Performance of remotely sensed precipitation products in capturing meteorological drought over typical agricultural planting area](https://doi.org/10.1007/s12665-025-12258-5)**  
+Pengnian Huang, Manjie Huang, Aiqing Feng, Yanzhong Li, Kunxia Yu, Yintong Guo, Wenjun Yu, Kang Yang
+
+- Thin‑plate spline interpolation  
+- Standardized Precipitation Index (SPI)  
+- Relative Bias (rBIAS)  
+- Root Mean Square Error (RMSE)  
+- Pearson correlation coefficient  
+- Kling‑Gupta Efficiency (KGE)  
+- Probability of Detection (POD)  
+- Critical Success Index (CSI)  
+- Heidke Skill Score (HSS)  
+- Run theory
+
+---
+
+**[Seamless finer‑resolution soil moisture from the synergistic merging of the FengYun‑3 satellite series](https://doi.org/10.1038/s41597-025-05263-7)**  
+Daniel F. T. Hagan, Seokhyeon Kim, Guojie Wang, et al.
+
+- Land Parameter Retrieval Model (LPRM)  
+- Signal‑to‑Noise Ratio optimization (SNR‑opt) merging  
+- Convolutional auto‑encoder (DINCAE)  
+- Pearson correlation coefficient  
+- Root Mean Square Error (RMSE)  
+- R‑value technique  
+- Distance between Indices of Simulation and Observation (DISO)
+
+---
+
+**[The synergistic effects of PM₂.₅ and high temperature on community mortality in British Columbia](https://doi.org/10.1038/s44407-025-00014-9)**  
+Eric S. Coker, Stephanie E. Cleland, David McVea, Massimo Stafoggia, Sarah B. Henderson  
+
+- Time‑stratified case‑crossover design  
+- Conditional logistic regression  
+- Multiplicative interaction term modeling  
+- Relative excess odds due to interaction (REOI)  
+- Proportion attributable to interaction (AP)  
+- Synergy index (S)  
+- Delta method  
+- Bootstrapping (1,000 iterations)  
+
+---
+
+**[Prediction of coating degradation based on “Environmental Factors–Physical Property–Corrosion Failure” two-stage machine learning](https://doi.org/10.1038/s41529-025-00614-6)**  
+Weiting Chen, Lingwei Ma, Yiran Li, Jinke Wang, Zhibin Chen, Xin Guo, Zongbao Li, Xiaogang Li & Dawei Zhang  
+
+- Random Forest  
+- COREG co-training regression  
+- RMSE (Root Mean Square Error)  
+- Leave-One-Out cross-validation  
+
+---
+
+**[Global burden of chikungunya virus infections and the potential benefit of vaccination campaigns](https://www.nature.com/articles/s41591-025-03703-w)**  
+Ribeiro dos Santos G., Jawed F., Mukandavire C., et al.  
+- Serocatalytic model fitting  
+- Sensitivity analysis  
+- Monte Carlo simulation  
+- Posterior parameter estimation (Bayesian inference)  
+
+---
+
+**[Investigation of heat transfer enhancement using hemispherical turbulators in a double-pipe regenerative heat exchanger with phase change material](https://link.springer.com/article/10.1007/s10973-025-14387-2)**  
+Sahin M., Kilic M., Karadag M. A.  
+- Non‑dominated Sorting Genetic Algorithm II (NSGA‑II)
+
+---
+
+**[A unified and scalable machine learning framework for feature fusion in object classification using weighted PCA with adaptive concatenation and dynamic scaling](https://doi.org/10.1007/s10791-025-09622-1)**  
+Amitav Mahapatra, Prashanta Kumar Patra  
+- Weighted Principal Component Analysis (WPCA)  
+- Adaptive Concatenation  
+- Dynamic Scaling  
+
+---
+
+**[Physical activity promotion in physical therapy, exercise therapy and other movement‑based therapies: a scoping review and content analysis …](https://doi.org/10.1186/s12966-025-01772-1)**  
+Leon Matting, Klaus Pfeifer, Gorden Sudeck, Andrés Jung, Florian Langhirt, Wolfgang Geidl
+- Fruchterman–Reingold algorithm (force‑directed network layout)
+
+---
+
+**[A comparative study of ensemble learning algorithms for the classification of landslide activity using vegetation anomalies indicator (VAI): a case study of Kundasang, Sabah](https://doi.org/10.1007/s44288-025-00171-0)**  
+Mohd Radhie Mohd Salleh, Muhammad Zulkarnain Abdul Rahman, Zamri Ismail, Mohd Faisal Abdul Khanan, Radzuan Sa’ari, Ahmad Razali Yusoff  
+- Random Forest  
+- Bagged CART  
+- Decision Tree  
+- Stochastic Gradient Boosting  
+
+---
+
+**[Using a long short-term memory neural network model to forecast mangrove change in two blue forests conservation projects](https://doi.org/10.1007/s44415-025-00009-0)**  
+Raheleh Farzanmanesh, Kourosh Khoshelham, Liubov Volkova, Sebastian Thomas, Mohsen Bakhtiari, Jaona Ravelonjatovo, Christopher J. Weston  
+- Long Short-Term Memory (LSTM) neural network  
+
+---
+
+**[Regional emperor penguin population declines exceed modelled projections](https://www.nature.com/articles/s43247-025-02345-7)**  
+P. T. Fretwell, C. Bamford, A. Skachkova, P. N. Trathan, J. Forcada, et al.
+- Supervised classification algorithm  
+- Markov model  
+- Bayesian statistics  
+- State-space analysis  
+
+---
+
+**[Ecolabels as a means to satisfy consumers’ environmental concerns, need for information, and trust in short fruit and vegetable supply chains: a cross‑national study](https://doi.org/10.1186/s40100-025-00369-3)**  
+Marzieh Aminravan, Sina Ahmadi Kaliji, Luca Mulazzani, Cosimo Rota, Luca Camanzi
+- Partial least squares structural equation modelling (PLS‑SEM)  
+
+---
+
+**[SbC1, an R2R3‑MYB transcription factor, specifically regulates anthocyanin accumulation in sorghum coleoptiles](https://doi.org/10.1007/s00122-025-04930-y)**  
+Yanqing Ding, Ruoruo Wang, Jiaxian He, Jianxia Xu, Ning Cao, Jinge Du, Wenzheng Li, Xu Gao, Bin Cheng, Jiayi Luan, Shengjun Li, et al.
+- Genome-wide association study (GWAS)  
+- Collinearity analysis  
+- Haplotype analysis  
+- Split‑luciferase (Split‑LUC) assay  
+- Yeast two-hybrid (Y2H) assay  
+- Co-immunoprecipitation (Co-IP) assay  
+
+---
+
+**[Optimized DenseNet Architectures for Precise Classification of Mushrooms](https://doi.org/10.1007/s44196-025-00871-y)**  
+Jay Prakash Singh, Debolina Ghosh, Jagannath Singh, Anurag Bhattacharjee & Mahendra Kumar Gourisaria 
+- DenseNet‑121  
+- Modified DenseNet‑121  
+- Model freezing  
+- Hyperparameter tuning (Keras Tuner)  
+- Dropout  
+- Global average pooling  
+
+---
+
+**[Limited evidence that tropical inundation and precipitation powered the 2020–2022 methane surge](https://doi.org/10.1038/s43247-025-02438-3)**  
+Ying Xiong, Eric A. Kort, A. Anthony Bloom, Cynthia Gerlein‑Safdi, Tianjiao Pu, Eren Bilir et al.
+- Cyclone GNSS‐based inundation mapping algorithm  
+- 3‑month rolling anomaly calculation  
+- Pearson correlation coefficient  
+- Linear regression fitting  
+- Monte Carlo ensemble simulation (WetCHARTs)  
+
+---
+
+**[Landscape genetics highlights species-specific ecological influences on gene flow in highland frog populations from northeastern Brazil](https://link.springer.com/article/10.1186/s13717-025-00625-w)**  
+José Henrique de Andrade Lima, Marco Katzenberger, Marcelo Gehara & Pedro Ivo Simões 
+- Structural Equation Modeling  
+- Principal Component Analysis  
+
+---
+
+**[Using stochastic modelling to unravel the eruptive behaviour of the active central volcanoes of São Miguel (Azores)](https://doi.org/10.1007/s00445-025-01840-1)**  
+Simone Aguiar, Laura Sandri, Adriano Pimentel, Sérgio Oliveira, José Pacheco, et al.
+- Kolmogorov–Smirnov (KS1) test  
+- Change-point detection (ischange algorithm)  
+- Akaike Information Criterion (AIC)  
+
+---
+
+**[Detection of aphid infestation on faba bean (Vicia faba L.) by hyperspectral imaging and spectral information divergence methods](https://doi.org/10.1007/s41348-025-01100-6)**  
+Ali Saeidan, John Caulfield, Jozsef Vuts, Ni Yang, Ian Fisk
+- Spectral Information Divergence (SID)  
+- Kullback–Leibler divergence  
+- Principal Component Analysis (PCA)  
+- Random Forest (feature selection)  
 - Support Vector Machine (SVM)  
+- Linear Discriminant Analysis (LDA)  
+- K–Nearest Neighbors (KNN)  
 - Artificial Neural Network (ANN)  
-- Decision Tree Algorithm  
+- Standard Normal Variate (SNV) normalization  
+- Partial Least Squares (PLS) regression  
 
 ---
 
-**[Assessing climate change impacts on future agricultural drought in the southeastern United States](https://link.springer.com/article/10.1007/s00704-021-03841-2)**  
-M. G. Gamble, et al.  
-- Standardized Precipitation Evapotranspiration Index (SPEI)
-- Bias Correction and Spatial Disaggregation (BCSD) Method
-- Mann-Kendall Trend Test
+**[Secure edge‑based smart grid communication using lightweight authentication modeling with autoencoders and real‑world data](https://doi.org/10.1007/s10791-025-09643-w)**  
+Omar Abdullah Saleh, Mesut Cevik
+- Deep autoencoder  
+- Adaptive thresholding  
+- Temporal sequencing  
+- Feature normalization  
 
+--- 
+
+**[Rainbow trout welfare: comparing stunning methods in winter and summer](https://doi.org/10.1007/s10695-025-01526-7)**  
+Roberto González‑Garoz, Almudena Cabezas, Montserrat Fernández‑Muela, Andrea Martínez Villalba, Elisabeth González de Chávarri, Morris Villarroel, Álvaro De la Llave‑Propín, Jesús De la Fuente, Rubén Bermejo‑Poza et al.  
+- Shapiro–Wilk test  
+- Bartlett’s test  
+- Two‑way ANOVA  
+- Tukey post‑hoc test  
+
+---
+
+**[Genetic diversity and population structure of some blackberry genotypes… using ISSR markers](https://doi.org/10.1007/s10722-025-02498-6)**  
+Fatma Alan, Aydın Uzun, Hasan Pınar  
+- PCR amplification (ISSR markers)  
+- UPGMA clustering  
+- Principal Component Analysis (PCA)  
+- Model‑based STRUCTURE algorithm (MCMC + ΔK method)  
+
+---
+
+**[Considering homeowner acceptance of retrofit measures within decentralized energy supply network optimization](https://doi.org/10.1007/s11081-025-09999-4)**  
+Carl Eggen, Moritz Link & Stefan Volkwein 
+- Mixed-Integer Optimization  
+- Multi-Objective Optimization  
+
+---
+
+**[Advances on the integration of transport drones into offshore wind farms](https://doi.org/10.1007/s13272-025-00857-8)**  
+Alexander Donkels, Sebastian Cain, Jannik Wilhelm, John Dippmar, Detlef Heil, Jonas Janke & Tilmann Bruns 
+- Probabilistic Roadmap Method (PRM)
+
+---
+
+**[Machine learning‑based prediction of soil compaction parameters](https://link.springer.com/article/10.1007/s12665-025-12328-8)**  
+Muharrem Atakan Senturk, Ertugrul Ordu, Rabia Korkmaz Tan  
+- Decision Tree  
+- Random Forest  
+- Gradient Boosting  
+- Group Method of Data Handling (GMDH)  
+
+---
+
+**[The alien flora on the island of Menorca, a biosphere reserve](https://doi.org/10.1007/s10531-025-03095-w)**  
+Miquel Capó, Joshua Borràs, Pere Fraga‑Arguimbau, Juan Rita, Joana Cursach, et al.
+- DAFOR scale conversion  
+- Fisher's exact test  
+- Generalized Linear Models (quasipoisson, quasibinomial)  
+- Likelihood ratio test  
+- Tukey post‑hoc test  
+- Bivariate kernel density estimation (with oversmoothing bandwidth selection)
+
+---
+
+**[Predicting and reconstructing clearances from air traffic data using a supervised learning approach](https://doi.org/10.1007/s13272-025-00854-x)**  
+Justus Renkhoff, Niclas Wüstenbecker, Mohsan Jameel, Sebastian Schier‑Morgenthal
+
+- XGBoost  
+- SMOTE (Synthetic Minority Over-sampling Technique)  
+
+---
+
+**[A scoping review of irrigation scheduling methods in potato (Solanum tuberosum L.) production](https://doi.org/10.1007/s12230-025-09997-3)**  
+Abraham Rai, Younsuk Dong
+- FAO Penman–Monteith method  
+- Variable-rate irrigation decision support system (model-based)  
+- Adaptive Fuzzy Inference System with Genetic Algorithm (ANFIS‑GA)  
+- Crop water stress index (CWSI) computation  
+- Principal Component Analysis (PCA)  
+- Mixed-linear modeling  
+
+---
+
+**[Extreme heat and pediatric health in a warming world: a space-time stratified case-crossover investigation in Ontario, Canada](https://doi.org/10.1186/s12940-025-01153-y)**  
+Hallah Kassem, Eric Lavigne, Kate Weinberger, Michael Brauer
+- Space-time stratified case-crossover design  
+- Conditional quasi-Poisson regression  
+- Distributed lag non-linear models  
+- Lagged exposure threshold algorithm (percentile-based extremeness definition)  
+
+---
+
+**[Modeling Extreme Rainfall Using the Principle of Maximum Entropy](https://link.springer.com/article/10.1007/s42461-025-01274-5)**  
+Emmanouil Α. Varouchakis, Ashok Krishnamurthy, Konstantinos Komnitsas  
+- Maximum Entropy method  
+- Maximum likelihood estimation (MLE)  
+- Farrdistribution fitting (Gamma, Gumbel, Weibull, GEV)  
+- Akaike information criterion (AIC)
+
+---
+
+**[Digital mapping of soil organic carbon in the hilly and mountainous landscape of Indian Himalayan region employing machine‑learning techniques](https://link.springer.com/article/10.1007/s44378-025-00060-5)**  
+Justin George Kalambukattu, Suresh Kumar, Bappa Das, Trisha Roy  
+- Random Forest  
+- k‑Nearest Neighbors (kNN)  
+- Cubist regression  
+- Regression Kriging  
+
+--- 
+
+**[Inequality in infrastructure access and its association with health disparities](https://doi.org/10.1038/s41562-025-02208-3)**  
+Ying Tu, Bin Chen, Chuan Liao, Shengbiao Wu, Jiafu An, Chen Lin, Peng Gong, Bin Chen, Hong Wei, Bing Xu
+- Population-weighted exposure models  
+- Mixed-effects regression  
+
+---
+
+**[Explainable Machine Learning Insights into Wetland Dynamics and Carbon Storage in the Irtysh River Basin](https://doi.org/10.1007/s41748-025-00656-5)**  
+Kaiyue Luo, Alim Samat, Tim Van de Voorde, Weiguo Jiang, Jilili Abuduwaili
+- Fragstats landscape metrics (e.g., aggregation index, largest patch index, number of patches)  
+- InVEST carbon storage model  
+- NGBoost (Natural Gradient Boosting)  
+- SHAP (Shapley Additive Explanations)  
+- PLUS model (Patch-generating Land Use Simulation)  
+
+---
+
+**[Understanding genetic diversity and population structure in forage pea (Pisum sativum var. arvense L.) using inter-primer binding site (iPBS) retrotransposon marker](https://link.springer.com/article/10.1007/s10722-025-02469-x)**  
+Muhammet İslam Işık, Aras Türkoğlu, Mehmet Yaman, Kamil Haliloğlu, Halil İbrahim Öztürk, Şerife Erkol, Mustafa Tan, Jan Bocianowski
+- Dice similarity coefficient  
+- UPGMA (Unweighted Pair-Group Method with Arithmetic Mean)  
+- AMOVA (Analysis of Molecular Variance)  
+- Principal Coordinate Analysis (PCoA)  
+- STRUCTURE population structure model (MCMC)  
+
+---
+
+**[Analytic solutions and field-scale application for verification of coupled thermo-hydro-mechanical processes in subsurface fractured media](https://link.springer.com/article/10.1007/s10596-025-10364-8)**  
+Yao Huang, Xiang Huang, Jeffrey D. Hyman, Zhou Lei, Konstantin Lipnikov, Matthew McLean, J. David Moulton, Aidan Stansberry, Matthew R. Sweeney, Philip H. Stauffer  
+- Analytic solutions of Terzaghi, Schiffman, Mandel, Wijesinghe, McNamee & Gibson, Noda & Lauwerier problems  
+- Governing PDE formulation for THM coupling (thermo‑hydro‑mechanical)  
+
+---
+
+**[Benchmarking computer vision architectures for cloud detection from lidar ceilometer backscatter data](https://link.springer.com/article/10.1007/s00371-025-03960-3)**  
+Alessio Barbaro Chisari, Luca Guarnera, Alessandro Ortis, Wladimiro Carlo Patatu, Sebastiano Battiato, Mario Valerio Giuffrida  
+- Convolutional Neural Networks: ResNet50, VGG16, InceptionV3, EfficientNet
+- Vision Transformer (ViT)
+
+---
+
+**[Decadal hydroclimatic changes in the Pantanal, the world’s largest tropical wetland](https://link.springer.com/article/10.1038/s41598-025-01980-6)**  
+Cassia B. Caballero, Trent W. Biggs, Noemi Vergopolan, Luana G. G. Camelo, Bruno Comini de Andrade, Leonardo Laipelt, Anderson L. Ruhoff  
+- Spearman correlation coefficient
+- Present Decomposition Budyko (DB) Model
+- Change‑point analysis (BCPA)
+
+---
+
+**[Individual plant genetics reveal the control of local adaptation in European maize landraces](https://link.springer.com/article/10.1186/s12915-025-02241-8)**  
+Leke Victor Aiyesa, Dietrich Kaufmann, Birgit Zumbach, Wolfgang Link, Stefan Scholten, Timothy Beissinger  
+- Genotyping-by-sequencing (GBS) SNP analysis  
+- Fixation index (F<sub>ST</sub>) calculation  
+- Principal Coordinate Analysis (PCoA)  
+- Mantel test  
+- Genome-wide association study (GWAS)  
+
+---
+
+**[Convolutional Neural Networks for Mineral Prospecting Through Alteration Mapping with Remote Sensing Data](https://link.springer.com/article/10.1007/s41064-025-00344-z)**  
+Ehsan Farahbakhsh, Dakshi Goel, Dhiraj Pimparkar, R. Dietmar Müller, Rohitash Chandra  
+- Convolutional Neural Network (CNN)  
+- k‑Nearest Neighbors (KNN)  
+- Support Vector Machine (SVM)  
+- Multilayer Perceptron (MLP)  
+- Principal Component Analysis (PCA)  
+
+---
+
+**[Probable developmental, neurological and evolutionary trend in complex morphological structures: foramen magnum outlines analytic comparisons in four orders; Chiroptera: (Eidolon helvum)…Carnivora (Canis familiaris)](https://doi.org/10.1186/s12862-025-02381-z)**  
+Oluwale Michael Samuel, Olumayowa Olawumi Igado  
+- Elliptical Fourier analysis  
+- Principal Component Analysis (PCA)  
+- Multivariate regression  
+- Analysis of variance (ANOVA)  
+- Mahalanobis distance calculation
+
+---
+
+**[Towards precision agriculture tea leaf disease detection using CNNs and image processing](https://doi.org/10.1038/s41598-025-02378-0)**  
+Irfan Sadiq Rahat, Hritwik Ghosh, Suresh Dara, Shashi Kant  
+- Convolutional Neural Network (CNN) architecture  
+
+---
+
+**[Integrated study for the impacts of air pollution and climate conditions on road traffic accidents](https://doi.org/10.1038/s41598-025-00198-w)**  
+Lei Huang, Keyi Tian, Honglei Wei, Zhou He, Haoran Li  
+- Linear regression models  
+- XGBoost  
+- Generalized Additive Model (GAM)
+
+---
+
+**[Improving conservation outcomes for seadragons: data, knowledge gaps, and future directions](https://link.springer.com/article/10.1007/s11160-025-09950-x)**  
+Chrissy A. Tustison, Nerida G. Wilson, Greg W. Rouse, David J. Booth, Maarten De Brauwer  
+*(No classic algorithms explicitly mentioned)*
+
+---
+
+**[A Multi-product Sustainable Scheduling Model Focusing on Logistic Service Sharing in Cloud Manufacturing Systems](https://link.springer.com/article/10.1007/s41660-025-00532-9)**  
+Masoumeh Akhavan Hariri, Shokraneh Khashkhashimoghadam, Omid Fatahi Valilai  
+- Multi-objective optimization model  
+- Mathematical programming (likely mixed-integer programming)  
+
 ---
 
-**[Climate change impact on reference evapotranspiration in the Upper Blue Nile basin, Ethiopia](https://link.springer.com/article/10.1007/s00704-021-03842-1)**  
-Fikremariam Teshome, et al.  
-- Penman-Monteith Equation
-- Mann-Kendall Trend Test
-- Sen's Slope Estimator
+**[A revamped black winged kite algorithm with advanced strategies for engineering optimization](https://doi.org/10.1038/s41598-025-93370-1)**  
+Sarada Mohapatra, Deepa Kaliyaperumal, Farhad Soleimanian Gharehchopogh  
+- Revamped Black-winged Kite Algorithm (RBKA)  
+- Logistic map  
+- Chaotic perturbation  
+- Brownian motion  
+- Opposition-based learning (OBL)  
 
 ---
 
-**[Comparative analysis of climate change impact on the precipitation extremes in Egypt](https://link.springer.com/article/10.1007/s00704-021-03839-w)**  
-Mona S. El Afandi, et al.  
-- Mann-Kendall Trend Test
-- Sen's Slope Estimator
-- General Circulation Models (GCMs)
-- Bias Correction Techniques
+**[Comparison of sea conditions from reported rogue wave accidents based on reanalysis and hindcast datasets](https://link.springer.com/article/10.1007/s10236-025-01697-0)**  
+Laura Azevedo, Gabriel Marcon, Enza Labourdette, Steven D. Meyers, Mark E. Luther  
+- Comparative analysis (statistical comparison of ERA5 reanalysis and ECMWF hindcast)  
 
 ---
 
-**[Application of artificial intelligence and machine learning approaches for flood prediction and early warning in India: A review](https://link.springer.com/article/10.1007/s00704-021-03844-z)**  
-A. Srivastava, et al.  
-- Artificial Neural Networks (ANN)
-- Support Vector Machines (SVM)
-- Decision Tree Algorithms
-- Random Forest Algorithm
-- K-Nearest Neighbors (KNN)
-- Naive Bayes Algorithm
-- Fuzzy Logic
-- Genetic Algorithms
+**[Plant microbiome responses to bioinoculants and volatiles](https://link.springer.com/article/10.1186/s40793-025-00715-4)**  
+Expedito Olimi, Martina Duller, Martina Stangl, Samuel Bickel, Angelika Battisti, Peter Kusstatscher, Wisnu Adi Wicaksono, Ahmed Abdelfattah, Tomislav Cernava, Gabriele Berg  
+- PERMANOVA  
+- PCoA clustering (Bray–Curtis dissimilarity)
 
 ---
 
-**[A climate-driven crop yield forecasting system for sub-Saharan Africa](https://link.springer.com/article/10.1007/s00704-021-03843-0)**  
-Oscar I. Ayugi, et al.  
-- Multiple Linear Regression
-- Principal Component Analysis (PCA)
-- Artificial Neural Networks (ANN)
+**[Forecasting malaria cases using climate variability in Sierra Leone](https://link.springer.com/article/10.1186/s12936-025-05389-4)**  
+Saidu Wurie Jalloh, Boniface Malenje, Herbert Imboga, Mary H. Hodges  
+- SARIMA  
+- SARIMAX  
+- Artificial Neural Network (ANN)  
+- Pearson correlation coefficient
 
+  
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Log: Climate and Environment – Springer Nature Link – keyword: "environment AND algorithm"
+
+## Search Metadata
+- **Platform:** Springer Nature Link
+- **Keyword(s):** environment AND algorithm
+- **Date of search:** 2025-06-19
+- **Filters:** Open Access
+- **Articles reviewed:** 100
+- **Time window:** 2025–2025
+
+---
+
+## Log Entries
+
+---
+
+**[Automated complex path extraction and optimization based on scalable vector graphics and genetic algorithm for industrial robot applications](https://link.springer.com/article/10.1007/s00170-025-15846-8)**  
+Ragab R. Khafagy, Mohamed E. H. Eltaib, Roshdy F. Abo-Shanab  
+- Genetic Algorithm  
+
+---
+
+**[Improving network dynamic pricing policies through offline reinforcement learning](https://link.springer.com/article/10.1007/s00291-025-00821-2)**  
+Philipp Hausenblas et al.  
+- Offline Reinforcement Learning  
+
+---
+
+**[Enhancing the reliability and accuracy of wireless sensor networks using a deep learning and blockchain approach with DV-HOP algorithm for DDoS mitigation and node localization](https://link.springer.com/article/10.1186/s13638-025-02465-w)**  
+Bhupinder Kaur et al.  
+- DV-HOP Algorithm  
+- Deep Learning  
+
+---
+
+**[Transformer-based quantum error decoding enhanced by QGANs: towards scalable surface code correction algorithms](https://link.springer.com/article/10.1140/epjqt/s40507-025-00383-w)**  
+Cewen Tian et al.  
+- Transformer Model  
+- Quantum Generative Adversarial Networks (QGANs)  
+
+---
+
+**[Predictive analytics for thyroid cancer recurrence: a feature selection and data balancing approach](https://link.springer.com/article/10.1140/epjs/s11734-025-01720-x)**  
+Irem Senyer Yapici, Rukiye Uzun Arslan  
+- Feature Selection Algorithms  
+- Data Balancing Techniques  
+
+---
+
+**[Federated learning for intrusion detection in IoT environments: a privacy-preserving strategy](https://link.springer.com/article/10.1007/s43926-025-00169-7)**  
+Ansam Khraisat et al.  
+- Federated Learning  
+
+---
+
+**[Research on dynamic prediction and optimization of high altitude photovoltaic power generation efficiency using GVSAO-CNN Model under 8-climate modes](https://link.springer.com/article/10.1007/s42452-025-07285-7)**  
+Xiaoming Xiong et al.  
+- Convolutional Neural Network (CNN)  
+- Generalized Variable Search Algorithm Optimization (GVSAO)  
+
+---
+
+**[Subject-independent multi-channel voting for EEG-based emotion recognition using wavelet scattering deep network and advanced signal metrics](https://link.springer.com/article/10.1007/s10044-025-01501-1)**  
+Ahmed Elrefaiy et al.  
+- Wavelet Scattering Transform  
+- Deep Learning  
+- Voting Ensemble  
+
+---
+
+**[Optimizing UAV performance in turbulent environments using cascaded model predictive control algorithm and Pixhawk hardware](https://link.springer.com/article/10.1007/s40430-025-05693-9)**  
+Mustapha Amine Sadi et al.  
+- Model Predictive Control (MPC)  
+
+---
+
+**[An artificial intelligence technique: experimental analysis of population-based physarum-energy optimization algorithm](https://link.springer.com/article/10.1007/s44163-025-00367-w)**  
+Mehmet Fatih Demiral  
+- Physarum-Inspired Optimization Algorithm  
+
 ---
 
-**[Assessment of climate change impact on water resources of Tigris–Euphrates Rivers using SWAT model](https://link.springer.com/article/10.1007/s00704-021-03840-5)**  
-M. Al-Jabari, et al.  
-- Soil and Water Assessment Tool (SWAT) Model
-- General Circulation Models (GCMs)
-- Bias Correction Techniques
+**[Review of Large-Scale Simulation Optimization](https://link.springer.com/article/10.1007/s40305-025-00599-8)**  
+Wei-Wei Fan, L. Jeff Hong, Guang-Xin Jiang, Jun Luo  
+- Simulation Optimization  
+- Sample Average Approximation  
+- Stochastic Approximation  
+- Ranking and Selection  
+- Cross-Entropy Method  
 
 ---
 
-**[Impact of climate change on wind energy potential in Nigeria](https://link.springer.com/article/10.1007/s00704-021-03838-x)**  
-Akinbode Oyebanji, et al.  
-- Mann-Kendall Trend Test
-- Sen’s Slope Estimator
+**[Set-cover master problem formulations for maximum flight coverage in branch & price solution algorithms for optimal aircrew rostering](https://link.springer.com/article/10.1007/s12351-025-00950-0)**  
+George Kozanidis, Odysseas Moschopoulos  
+- Set Cover Problem  
+- Branch and Price Algorithm  
 
 ---
 
-**[Climate variability and change in Kenya: Observed trends and projections](https://link.springer.com/article/10.1007/s00704-021-03837-y)**  
-Emmanuel K. Kipkorir, et al.  
-- Mann-Kendall Trend Test
-- Sen's Slope Estimator
-- General Circulation Models (GCMs)
+**[Flow control of three-dimensional cylinders transitioning to turbulence via multi-agent reinforcement learning](https://link.springer.com/article/10.1038/s44172-025-00446-x)**  
+Pol Suárez et al.  
+- Multi-Agent Reinforcement Learning  
 
 ---
 
-**[Assessing impacts of climate change on irrigation water requirements and crop yields in the Upper Blue Nile basin, Ethiopia](https://link.springer.com/article/10.1007/s00704-021-03836-z)**  
-Fitsum Tadele, et al.  
-- Soil and Water Assessment Tool (SWAT) Model
-- General Circulation Models (GCMs)
-- Penman-Monteith Equation
+**[Surface defect detection on rolling mill rolls: a transfer learning approach with improved YOLOv5](https://link.springer.com/article/10.1007/s42452-025-06920-7)**  
+Yulong Hu et al.  
+- Transfer Learning  
+- YOLOv5 Object Detection Algorithm  
 
 ---
 
-**[Evaluation of the performance of bias correction techniques in hydrological climate impact studies](https://link.springer.com/article/10.1007/s00704-021-03835-0)**  
-Sajjad Ahmad, et al.  
-- Bias Correction Techniques (e.g., Quantile Mapping)
-- Mann-Kendall Trend Test
+**[Multi-block local outlier factor anomaly detection of complex industrial systems](https://link.springer.com/article/10.1007/s10489-025-06603-1)**  
+Alexandre Gaffet et al.  
+- Local Outlier Factor (LOF)  
 
 ---
 
-**[Impacts of climate change on water resources in the Awash River Basin, Ethiopia](https://link.springer.com/article/10.1007/s00704-021-03834-1)**  
-Belay Simane, et al.  
-- Soil and Water Assessment Tool (SWAT) Model
-- General Circulation Models (GCMs)
-- Bias Correction Techniques
+**[A novel lightweight dual-stream recurrent transformer model for anomaly detection in driving dashcam videos](https://link.springer.com/article/10.1007/s00521-025-11380-6)**  
+Aya Ismail, Doaa Aboshady  
+- Recurrent Transformer  
+- Dual-Stream Architecture  
+- Anomaly Detection  
+- Dashcam Video Analysis  
 
 ---
 
-**[Hydrological responses to climate change in the Lake Victoria Basin, East Africa](https://link.springer.com/article/10.1007/s00704-021-03833-2)**  
-Richard Ogutu-Ohwayo, et al.  
-- Soil and Water Assessment Tool (SWAT) Model
-- General Circulation Models (GCMs)
-- Bias Correction Techniques
+**[VMC-Net: multi-scale feature aggregation and distribution with contextual attention guided fusion for aerial object detection](https://link.springer.com/article/10.1007/s40747-025-01888-8)**  
+Haodong Li, Haicheng Qu  
+- Object Detection  
+- Contextual Attention  
+- Multi-Scale Feature Aggregation  
+- Aerial Imagery  
 
 ---
 
-**[Stochastic Modeling of Tropical Cyclone Tracks and Intensity Evolution](https://link.springer.com/article/10.1007/s00704-012-0727-2)**
-- Stochastic Track Simulation Algorithms
-- Markov Chain Monte Carlo (MCMC)
-- Autoregressive Modeling
+**[Ancient character detection based on fine-grained density map](https://www.nature.com/articles/s40494-025-01791-y)**  
+Mingzhe Yue et al.  
+- Character Recognition  
+- Density Map Regression  
+- Ancient Chinese Characters  
 
 ---
 
-**[A Machine Learning-Based Approach to Predicting Extreme Weather Events](https://link.springer.com/article/10.1007/s00704-019-02902-2)**
-- Random Forest Classifier
-- Support Vector Machine (SVM)
-- k-Nearest Neighbors (k-NN)
+**[An In-depth overview of artificial intelligence (AI) tool utilization across diverse phases of organ transplantation](https://link.springer.com/article/10.1186/s12967-025-06488-1)**  
+Shiva Arjmandmazidi et al.  
+- AI in Healthcare  
+- Organ Transplantation  
+- Predictive Models  
+- Clinical Decision Support  
 
 ---
 
-**[Statistical Downscaling of Climate Data for Impact Assessment](https://link.springer.com/article/10.1007/s00704-012-0701-z)**
-- Multiple Linear Regression
-- Principal Component Analysis (PCA)
-- Canonical Correlation Analysis (CCA)
+**[Scalar Rayleigh Dark Matter: current bounds and future prospects](https://link.springer.com/article/10.1007/JHEP06(2025)171)**  
+Daniele Barducci et al.  
+- Dark Matter  
+- Scalar Rayleigh Model  
+- Phenomenology  
+- Theoretical Physics  
 
 ---
 
-**[An Efficient Algorithm for Daily Rainfall Disaggregation](https://link.springer.com/article/10.1007/s00704-019-02878-z)**
-- Stochastic Disaggregation Algorithm
-- K-Nearest Neighbor Resampling
+**[Relationships between the degrees of freedom in the affine Gaussian derivative model for visual receptive fields and 2-D affine image transformations with application to covariance properties of simple cells in the primary visual cortex](https://link.springer.com/article/10.1007/s00422-025-01014-4)**  
+Tony Lindeberg  
+- Affine Gaussian Derivative Model  
+- 2D Affine Image Transformations  
 
 ---
 
-**[A New Algorithm for Detecting Drought Events Using SPI](https://link.springer.com/article/10.1007/s00704-018-2456-7)**
-- Standardized Precipitation Index (SPI) Calculation Algorithm
-- Run-Length Encoding (RLE)
+**[An efficient Quantum Approximate Optimization Algorithm with fixed linear ramp schedule for truss structure optimization](https://link.springer.com/article/10.1186/s40323-025-00298-2)**  
+Junsen Xiao, Naruethep Sukulthanasorn, Reika Nomura, Shuji Moriguchi, Kenjiro Terada  
+- Quantum Approximate Optimization Algorithm (QAOA)  
 
 ---
 
-**[Algorithm for Mapping Urban Heat Islands Using MODIS Data](https://link.springer.com/article/10.1007/s00704-018-2483-4)**
-- Threshold-Based Image Segmentation Algorithm
-- Moving Window Analysis
+**[Medical image fusion on latent low rank representation and hesitant fuzzy granular energy](https://link.springer.com/article/10.1007/s44443-025-00049-8)**  
+Lingyu Meng  
+- Low-Rank Representation  
+- Fuzzy Logic  
 
 ---
 
-**[Application of Genetic Algorithm in Calibration of Hydrological Models](https://link.springer.com/article/10.1007/s00704-017-2038-8)**
-- Genetic Algorithm (GA)
+**[Opinion mining using ensemble model for restaurant feedback analysis](https://link.springer.com/article/10.1007/s10791-025-09583-5)**  
+Rohan S. Kamath, M. R. Kaushik, M. Ramakrishna  
+- Ensemble Learning  
 
 ---
 
-**[Use of Fuzzy Logic in Air Quality Prediction Algorithms](https://link.springer.com/article/10.1007/s00704-017-2040-1)**
-- Fuzzy Logic Algorithm
-- Fuzzy Inference System (FIS)
+**[Virtual reality and preclinical medical education: a systematic review of its application and effectiveness](https://link.springer.com/article/10.1007/s44217-025-00628-x)**  
+Serine Torosian, Vanad Mousakhani, Samantha Wehsener, Vineeta Ramnauth, Gabrielle Walcott-Bedeau  
+- Virtual Reality  
+- Medical Education  
+- Systematic Review  
 
 ---
 
-**[Neural Network Models for Forecasting River Flow](https://link.springer.com/article/10.1007/s00704-016-1722-2)**
-- Artificial Neural Network (ANN)
-- Backpropagation Algorithm
+**[GNSS signal processing based on improved lifting wavelet transform with prior constraint](https://link.springer.com/article/10.1038/s41598-024-83141-9)**  
+Chen Jiang, Wenbo Yang, Yiya Wang, Dongbao Zhao  
+- GNSS  
+- Lifting Wavelet Transform  
+- Signal Processing  
 
 ---
 
-**[Decision Tree Algorithm for Forest Fire Susceptibility Mapping](https://link.springer.com/article/10.1007/s00704-015-1455-1)**
-- Decision Tree Classifier (CART Algorithm)
+**[Beyond insulin: advancing frontiers in cell-based and genetic therapies for type 1 diabetes management](https://link.springer.com/article/10.1186/s43162-025-00477-y)**  
+Tamer A. Addissouky  
+- Type 1 Diabetes  
+- Cell Therapy  
+- Gene Therapy  
 
 ---
 
-**[An Ensemble Approach to Flood Forecasting Using Multiple Algorithms](https://link.springer.com/article/10.1007/s00704-015-1487-6)**
-- Ensemble Learning Algorithm
-- Support Vector Machine (SVM)
-- Random Forest
-- Artificial Neural Network (ANN)
+**[HAPIR: a refined Hallmark gene set-based machine learning approach for predicting immunotherapy response in cancer patients](https://link.springer.com/article/10.1038/s41698-025-00992-9)**  
+Mengqin Yuan, Haizhou Liu, Yu-e Huang, Fei Hou, Lihong Wang, Quan Wang, Wei Jiang  
+- Machine Learning  
+- Immunotherapy  
+- Gene Set Enrichment  
 
 ---
 
-**[A Review of Clustering Algorithms in Environmental Data Mining](https://link.springer.com/article/10.1007/s00704-015-1452-4)**
-- K-Means Clustering
-- Hierarchical Clustering Algorithm
-- DBSCAN
+**[Screening of Red Sea- and Mediterranean Sea-derived Actinomycetes for Antimicrobial and Antitumor activities: LC-ESI-HRMS-based Metabolomics Study](https://link.springer.com/article/10.1186/s12934-025-02759-0)**  
+Mahmoud A. Abdel-Razik, Ahmed F. Azmy, Tarek Dishisha, Ahmed O. El-Gendy, Adlin Afzan, Nurkhalida Kamal, Ahmed Tawfike, Mohamed Sebak  
+- Actinomycetes  
+- Antimicrobial Activity  
+- Metabolomics  
 
 ---
 
-**[No classical algorithms are discussed in this article.](https://link.springer.com/article/10.1007/s00704-017-2039-4)**
-- No classical algorithms found in the article.
+**[Symmetry-mediated quantum coherence of W⁵⁺ spins in an oxygen-deficient double perovskite](https://link.springer.com/article/10.1038/s41535-025-00782-3)**  
+Shannon Bernier, Mekhola Sinha, Tyler J. Pearson, Peter V. Sushko, Paul H. Oyala, Maxime A. Siegler, W. Adam Phelan, Abby N. Neill, Danna E. Freedman, Tyrel M. McQueen  
+- Quantum Coherence  
+- Perovskite Materials  
+- Spin States  
 
 ---
 
-**[Remote Sensing Change Detection Algorithms for Environmental Monitoring](https://link.springer.com/article/10.1007/s00704-018-2481-6)**
-- Image Differencing Algorithm
-- Principal Component Analysis (PCA)
-- Change Vector Analysis (CVA)
+**[From earth to space: how bacterial consortia and green compost improve lettuce growth on lunar and martian simulants](https://link.springer.com/article/10.1007/s00374-025-01923-3)**  
+Luigi Giuseppe Duri, Ida Romano, Paola Adamo, Youssef Rouphael, Antonio Pannico, Valeria Ventorino, Olimpia Pepe, Stefania De Pascale, Antonio Giandonato Caporale  
+- Space Agriculture  
+- Microbial Consortia  
+- Compost Application  
 
 ---
 
-**[Performance of CMIP6 models for daily temperature extremes in different climate regions](https://link.springer.com/article/10.1007/s00382-022-06463-8)**
-- Bias Correction Methods
-- Climate Model Evaluation Metrics (e.g., Root Mean Square Error)
-- Trend Analysis Algorithms
+**[Short-Term Adaptations to Lifting and Gait Kinematics When Using a Passive Back-Support Exoskeleton](https://link.springer.com/article/10.1007/s10439-025-03770-7)**  
+Duleepa Subasinghe, Jessica Aviles, Amir Mehdi Shayan, Divya Srinivasan  
+- Exoskeleton  
+- Ergonomics  
+- Biomechanics  
 
 ---
 
-**[A global assessment of precipitation and temperature extreme indices from observations, reanalyses and climate models](https://link.springer.com/article/10.1007/s00382-022-06313-7)**
-- Extreme Value Indices Calculation
-- Trend Detection Algorithms
-- Bias Adjustment Methods
+**[Exploring experience design features in the metaverse concerts: a mixed-method approach](https://link.springer.com/article/10.1007/s40558-025-00323-5)**  
+Jijun Chen, Yoon Joo Lee, Xinran Lehto, Yue Zhu  
+- Metaverse  
+- User Experience  
+- Digital Events  
 
 ---
 
-**[A comprehensive assessment of the skill of CMIP6 models in simulating the seasonal cycle of rainfall over South and Southeast Asia](https://link.springer.com/article/10.1007/s00382-022-06256-z)**
-- Statistical Skill Metrics (e.g., Taylor Diagram Analysis, Root Mean Square Error)
-- Bias Correction Techniques
+**[Engineered Prx-LCA2 fusion protein restores oxidative skin damage via enhanced intracellular peroxidase delivery](https://link.springer.com/article/10.1186/s13568-025-01906-5)**  
+Di Liu, Yafen Zhan, Jiaqi Qu, Hongping Qiao, Na Li, Yeli Zhang, Xiaoying Wu  
+- Fusion Protein  
+- Oxidative Stress  
+- Skin Regeneration  
 
 ---
 
-**[Changes in global drought characteristics projected by the CMIP6 models](https://link.springer.com/article/10.1007/s00382-022-06261-2)**
-- Drought Index Calculation (e.g., Standardized Precipitation Evapotranspiration Index)
-- Trend Analysis Algorithms
+**[Seven Hypoxia and Immune-Related Features Predict Prognosis in Patients with Hepatocellular Carcinoma](https://link.springer.com/article/10.1007/s10620-025-09152-2)**  
+Yun Lu, Xiangyu Li, Kai Zhao, Peng Qiu, Wei Yao  
+- Hepatocellular Carcinoma  
+- Prognostic Biomarkers  
+- Hypoxia and Immunity  
 
 ---
 
-**[Evaluation of CMIP6 precipitation and temperature simulations over the Mediterranean region](https://link.springer.com/article/10.1007/s00382-022-06229-5)**
-- Bias Correction Methods
-- Climate Model Performance Metrics (e.g., Correlation Coefficient, RMSE)
-- Statistical Downscaling Algorithms
+**[Functional data analysis for wearable sensor data: a systematic review](https://link.springer.com/article/10.1007/s10182-025-00531-8)**  
+Nihan Acar-Denizli, Pedro Delicado  
+- Functional Data Analysis (FDA)  
+- Principal Component Analysis (PCA)  
+- Functional Principal Component Analysis (fPCA)  
 
 ---
 
-**[Model evaluation of the CMIP6 historical simulations for the East Asian summer monsoon](https://link.springer.com/article/10.1007/s00382-022-06216-w)**
-- Bias Correction Techniques
-- Climate Model Evaluation Metrics (e.g., Taylor Diagram, RMSE)
-- Trend Analysis Algorithms
+**[System architecture optimization: an example application to space mission planning](https://link.springer.com/article/10.1007/s12567-025-00626-7)**  
+Jasper H. Bussemaker, Thomas Firchau  
+- Genetic Algorithm  
 
 ---
 
-**[Analysis of extreme climate events in CMIP6 models over South America](https://link.springer.com/article/10.1007/s00382-022-06206-y)**
-- Extreme Value Indices Calculation
-- Trend Analysis Algorithms
-- Bias Correction Methods
+**[Reinforcement learning-enhanced adaptive sliding mode control for nonlinear systems](https://link.springer.com/article/10.1007/s40747-025-01978-7)**  
+Omnia Youssef, Mohamed Wafa, Raafat Shalaby  
+- Reinforcement Learning  
+- Sliding Mode Control  
 
 ---
 
-**[Performance of CMIP6 models in simulating the climate extremes over Africa](https://link.springer.com/article/10.1007/s00382-022-06199-6)**
-- Extreme Value Analysis
-- Bias Correction Methods
-- Model Evaluation Metrics
+**[Recovering knot placements in Bayesian piecewise growth models with missing data](https://link.springer.com/article/10.3758/s13428-025-02716-0)**  
+Ihnwhi Heo, Fan Jia, Sarah Depaoli  
+- Bayesian Inference  
+- Piecewise Growth Models  
+- Markov Chain Monte Carlo (MCMC)  
 
 ---
 
-**[Evaluation of temperature extremes in CMIP6 models over the Mediterranean region](https://link.springer.com/article/10.1007/s00382-022-06173-2)**
-- Extreme Value Indices Calculation
-- Trend Analysis Algorithms
-- Bias Adjustment Methods
+**[All-time safety and sample-efficient meta update for online safe meta reinforcement learning under Markov task transition](https://link.springer.com/article/10.1007/s10994-025-06810-4)**  
+Zhenyuan Yuan, Siyuan Xu, Minghui Zhu  
+- Reinforcement Learning  
+- Meta Reinforcement Learning  
+- Markov Decision Processes (MDP)  
 
 ---
 
-**[Future changes in precipitation and temperature extremes over the Iberian Peninsula based on EURO-CORDEX regional climate models](https://link.springer.com/article/10.1007/s00382-022-06160-7)**
-- Extreme Value Analysis
-- Regional Climate Model Evaluation Techniques
-- Bias Correction Algorithms
+**[A corrective direction particle swarm optimization for large-scale multi-objective optimization](https://link.springer.com/article/10.1007/s40747-025-01954-1)**  
+Weichao Chen, Ziyang Li, Xue Li  
+- Particle Swarm Optimization (PSO)  
+- Multi-objective Optimization  
 
 ---
 
-**[Assessment of climate change impacts on soil erosion and sediment yield in the Drini River basin, Albania using SWAT model](https://link.springer.com/article/10.1007/s12665-021-09944-w)**
-- Soil and Water Assessment Tool (SWAT)
-- Curve Number Method (for runoff estimation)
-- Modified Universal Soil Loss Equation (MUSLE)
+**[Threshold resummation for semi-inclusive single-hadron production with effective field theory](https://link.springer.com/article/10.1007/JHEP06(2025)176)**  
+Zhen Xu, Hua Xing Zhu  
+- Effective Field Theory  
+- Threshold Resummation  
 
 ---
 
-**[Climate change impacts on hydrology and water resources of the Upper Tana River basin, Kenya](https://link.springer.com/article/10.1007/s12665-021-09841-2)**
-- Soil and Water Assessment Tool (SWAT)
-- Penman-Monteith Method (for evapotranspiration estimation)
-- Curve Number Method (for runoff estimation)
-- Water Balance Equation
+**[Adaptive-parameter memetic algorithm for privacy-preserving trajectory data publishing: A multi-objective optimization approach](https://link.springer.com/article/10.1007/s00607-025-01504-0)**  
+Samsad Jahan, Yong-Feng Ge, Hua Wang, Enamul Kabir  
+- Memetic Algorithm  
+- Multi-objective Optimization  
 
 ---
 
-**[Spatiotemporal variability of precipitation concentration in the Yangtze River basin, China and its linkage with climate indices](https://link.springer.com/article/10.1007/s12665-021-09859-6)**
-- Precipitation Concentration Index (PCI)
-- Mann–Kendall Trend Test
-- Sen’s Slope Estimator
+**[Graph-contrast ransomware detection (GCRD) with advanced feature selection and deep learning](https://link.springer.com/article/10.1007/s10791-025-09651-w)**  
+Suneeta Satpathy, Pratik Kumar Swain  
+- Graph-based Learning  
+- Feature Selection  
+- Deep Learning  
 
 ---
 
-**[Application of bias correction methods to CMIP6 precipitation and temperature simulations over the Indian subcontinent](https://link.springer.com/article/10.1007/s12665-021-09842-1)**
-- Bias Correction Algorithms (Delta Change Method, Quantile Mapping)
-- Statistical Downscaling
+**[Machine learning-based identification of exosome-related biomarkers and drugs prediction in nasopharyngeal carcinoma](https://link.springer.com/article/10.1007/s12672-025-02962-w)**  
+Zhengyu Wei, Guoli Wang, Yanghao Hu, Chongchang Zhou, Yuna Zhang, Yi Shen, Yaowen Wang  
+- Machine Learning  
+- Biomarker Discovery  
 
 ---
 
-**[Modelling climate change impacts on streamflow and sediment yield in the Upper Hanjiang River basin, China](https://link.springer.com/article/10.1007/s12665-021-09826-1)**
-- Soil and Water Assessment Tool (SWAT)
-- Curve Number Method (for runoff estimation)
-- Modified Universal Soil Loss Equation (MUSLE)
-- Penman-Monteith Method (for evapotranspiration estimation)
+**[Cryptocurrency forensics automation: a deep learning and NLP-based approach for mobile platforms](https://link.springer.com/article/10.1007/s10791-025-09595-1)**  
+Abhishek Bhattarai, Abdulhadi Sahin, Maryna Veksler, Ahmet Kurt, Devrim Aras, Carlos Imery, Kemal Akkaya  
+- Deep Learning  
+- Natural Language Processing (NLP)  
 
 ---
 
-**[Estimating reference evapotranspiration using machine learning algorithms in a semi-arid climate](https://link.springer.com/article/10.1007/s12665-021-09797-3)**
-- Random Forest
-- Support Vector Machine (SVM)
-- Artificial Neural Networks (ANN)
-- Multiple Linear Regression
+**[Highway subgrade stability prediction model based on depth separation convolutional fusion network](https://link.springer.com/article/10.1186/s44147-025-00644-6)**  
+Yubian Wang  
+- Convolutional Neural Network (CNN)  
 
 ---
 
-**[Suitability assessment of groundwater for irrigation using machine learning algorithms: A case study from semi-arid region of India](https://link.springer.com/article/10.1007/s12665-021-09647-2)**
-- Random Forest
-- Support Vector Machine (SVM)
-- Decision Tree
-- K-Nearest Neighbors (KNN)
-- Naive Bayes Classifier
+**[An efficient video slice encryption scheme and its application](https://link.springer.com/article/10.1186/s42400-024-00334-5)**  
+Qinyou Huang, Luping Wang, Jie Chen  
+- Discrete Cosine Transform (DCT)  
+- Zigzag Scanning  
+- Encryption Algorithms  
 
 ---
 
-**[Downscaling of climate change scenarios for precipitation in Turkey using statistical downscaling models](https://link.springer.com/article/10.1007/s12665-021-09753-1)**
-- Statistical Downscaling Model (SDSM)
-- Multiple Linear Regression
+**[DepthRL: a weakly supervised approach for monocular depth estimation using deep reinforcement learning](https://link.springer.com/article/10.1007/s40747-025-01967-w)**  
+Han Chen, Yongxiong Wang, Jiayi Zhang, Jiapeng Zhang, Zhiqun Pan, Shuwen Jia, Shuai Huang  
+- Deep Reinforcement Learning (DRL)  
 
 ---
 
-**[Modelling the impact of climate change on streamflow in the Upper Litani River basin, Lebanon](https://link.springer.com/article/10.1007/s12665-021-09621-y)**
-- Soil and Water Assessment Tool (SWAT)
-- Penman-Monteith Method
+**[Multilayered Railway Passenger Demand Estimation Considering Nested Choices: A Computational Graph-based Learning Framework](https://link.springer.com/article/10.1007/s40864-025-00245-9)**  
+Xinyu Wang, Huiling Fu, Xin Wu, Yang Liu, Taehooie Kim  
+- Nested Logit Model  
+- Computational Graph Learning  
 
 ---
 
-**[Assessment of climate change impacts on water resources in the Borkhar River Basin, Iran, using SWAT and WEAP models](https://link.springer.com/article/10.1007/s12665-021-09559-x)**
-- Soil and Water Assessment Tool (SWAT)
-- Water Evaluation and Planning System (WEAP)
-- Curve Number Method
-- Penman-Monteith Method
+**[Toward green finance: applying Bayesian machine learning in environmental portfolio management](https://link.springer.com/article/10.1007/s41060-025-00830-y)**  
+Xavier Martínez-Barbero, Roberto Cervelló-Royo, Jaume Jordán, Javier Ribal  
+- Bayesian Machine Learning  
 
 ---
 
-**[Spatiotemporal prediction of daily PM2.5 concentrations using ensemble learning methods: A case study in China](https://link.springer.com/article/10.1007/s11356-020-11985-z)**
-- Random Forest
-- Gradient Boosting Machine (GBM)
-- Support Vector Regression (SVR)
-- Artificial Neural Network (ANN)
-- Linear Regression
+**[Decoding the shadows: multi-modal identity profiling in darknet markets using latent behavior feature fusion](https://link.springer.com/article/10.1007/s42452-025-07217-5)**  
+Xuan Zhang, Pengfei Li, Xin Tong, K. P. Chow, DeYu Yuan, Si Chen, Bo Jin  
+- Feature Fusion Techniques  
+- Multi-Modal Learning  
 
 ---
 
-**[Uncertainty analysis of flood inundation mapping using hydrodynamic model and remote sensing data](https://link.springer.com/article/10.1007/s11356-020-12218-z)**
-- Hydrodynamic Modeling Algorithms (e.g., HEC-RAS)
-- Monte Carlo Simulation
+**[Detection of epileptic spasms using foundational AI and smartphone videos](https://link.springer.com/article/10.1038/s41746-025-01773-1)**  
+Gadi Miron, Mustafa Halimeh, Simon Tietze, Martin Holtkamp, Christian Meisel  
+- Foundational AI  
+- Computer Vision  
 
 ---
 
-**[Long short-term memory neural network for rainfall-runoff modeling: A review](https://link.springer.com/article/10.1007/s11356-020-12347-5)**
-- Long Short-Term Memory Neural Network (LSTM)
-- Artificial Neural Networks (ANN)
-- Support Vector Machine (SVM)
-- Random Forest
+**[Cerebellar Micro Complex Model Using Histologic Boolean Mapping Simulates Adaptive Motor Control](https://link.springer.com/article/10.1007/s12021-025-09730-9)**  
+Gregoris A. Orphanides, Christoforos Demosthenous, Ariadni Georgianakis, Vasilis Stylianides, Konstantinos Antoniou, Petros Kyriacou, Andreas A. Ioannides, Alberto Capurro  
+- Boolean Mapping  
+- Adaptive Control Theory  
 
 ---
 
-**[Optimizing urban land use structure for carbon emission reduction: A multi-objective programming approach](https://link.springer.com/article/10.1007/s11356-020-11570-4)**
-- Multi-Objective Programming
-- Genetic Algorithm
+**[Developing Resilient Reservoir System Operations: A Simulation Approach Incorporating Rule Curve](https://link.springer.com/article/10.1007/s11269-025-04280-w)**  
+Eunkyung Lee, Jungwon Ji, Sooyeon Yi, Seonmi Lee, Jeongin Yoon, Jaeeung Yi  
+- Simulation Modeling  
+- Rule Curve Optimization  
 
 ---
 
-**[An improved adaptive neuro-fuzzy inference system for groundwater level prediction](https://link.springer.com/article/10.1007/s11356-020-10684-z)**
-- Adaptive Neuro-Fuzzy Inference System (ANFIS)
-- Genetic Algorithm (for parameter optimization)
+**[GDText-VM: an arbitrary-shaped scene text detector based on globally deformable VMamba](https://link.springer.com/article/10.1007/s40747-025-01987-6)**  
+Yingnan Zhao, Zheng Hu, Fangqi Ding, Jielin Jiang, Xiaolong Xu  
+- Deformable Models  
+- Vision Transformer (VMamba)  
 
 ---
 
-**[Hybrid model based on empirical mode decomposition and long short-term memory neural network for short-term wind speed forecasting](https://link.springer.com/article/10.1007/s11356-020-12433-8)**
-- Empirical Mode Decomposition (EMD)
-- Long Short-Term Memory Neural Network (LSTM)
+**[Polygraph and audio synchronization applied to apnea event analysis based on non-negative matrix factorization](https://link.springer.com/article/10.1186/s13636-025-00410-9)**  
+Francisco David Gonzalez-Martinez et al.  
+- Non-negative Matrix Factorization (NMF)  
 
 ---
 
-**[Assessing the effectiveness of machine learning algorithms for landslide susceptibility mapping](https://link.springer.com/article/10.1007/s11356-020-12091-9)**
-- Random Forest
-- Support Vector Machine (SVM)
-- Logistic Regression
-- Artificial Neural Network (ANN)
-- Naive Bayes
+**[Evolutionary game decision-making method for high dynamic UAV swarm attack-defense considering uncertain factor influences](https://link.springer.com/article/10.1007/s40747-025-01977-8)**  
+Mengchu Tian, Shaohua Yu, Linyan Liu, Meiji Cui  
+- Evolutionary Game Theory  
 
 ---
 
-**[Evaluation of machine learning algorithms for surface ozone concentration forecasting](https://link.springer.com/article/10.1007/s11356-020-10679-w)**
-- Random Forest
-- Support Vector Machine (SVM)
-- K-Nearest Neighbor (KNN)
-- Multilayer Perceptron (MLP)
+**[Bayesian DEA framework for market power and efficiency analysis in banking operations](https://link.springer.com/article/10.1007/s00291-025-00824-z)**  
+Hirofumi Fukuyama, Mike Tsionas, Yong Tan  
+- Data Envelopment Analysis (DEA)  
+- Bayesian Inference  
 
 ---
 
-**[Comparative study of support vector regression and artificial neural networks for rainfall forecasting in arid and semi-arid regions](https://link.springer.com/article/10.1007/s11356-020-12430-x)**
-- Support Vector Regression (SVR)
-- Artificial Neural Network (ANN)
+**[Membrane lipid composition modulates the organization of VDAC1, a mitochondrial gatekeeper](https://link.springer.com/article/10.1038/s42003-025-08311-5)**  
+Elodie Lafargue, Jean-Pierre Duneau, Nicolas Buzhinsky, Pamela Ornelas, Alexandre Ortega, Varun Ravishankar, James Sturgis, Ignacio Casuso, Lucie Bergdoll  
+*Communications Biology (2025)*  
+DOI: 10.1038/s42003-025-08311-5
 
 ---
 
-**[Application of artificial neural networks for groundwater quality prediction: A case study](https://link.springer.com/article/10.1007/s11356-020-10736-4)**
-- Artificial Neural Network (ANN)
+**[Solar PV application on office buildings: a state of the art analysis through bibliometric approach](https://link.springer.com/article/10.1186/s44147-025-00647-3)**  
+Nazim Hanis Zainal Abidin, Muhammad Ashraf Fauzi, Puteri Fadzline Muhamad Tamyez  
+*Journal of Engineering and Applied Science (2025)*  
+DOI: 10.1186/s44147-025-00647-3
 
 ---
 
-**[Estimation of the extreme rainfall return period using peak over threshold model and copula approach in an urban catchment of Mumbai, India](https://link.springer.com/article/10.1007/s11069-023-06200-x)**
-- Peak Over Threshold (POT) Model
-- Copula Approach (Copula Functions for Multivariate Analysis)
-- Maximum Likelihood Estimation (MLE)
+**[Impact of stereochemical replacement on activity and selectivity of membrane-active antibacterial and antifungal cyclic peptides](https://www.nature.com/articles/s44259-025-00121-3)**  
+Sandeep Lohan, Anastasia G. Konshina, et al.  
+*npj Antimicrobials and Resistance (2025)*  
+DOI: 10.1038/s44259-025-00121-3
 
 ---
 
-**[Spatiotemporal analysis of rainfall variability in a semiarid region of India using geostatistical and trend analysis methods](https://link.springer.com/article/10.1007/s11069-023-06179-5)**
-- Kriging (Geostatistical Interpolation)
-- Mann–Kendall Trend Test
-- Sen’s Slope Estimator
+**[EEFDA: enabling efficient and fault-tolerant data aggregation scheme without TA in smart grid](https://link.springer.com/article/10.1007/s40747-025-01979-6)**  
+Yuanyuan Wang, Liqiang Wu, Yiliang Han, Xuguang Wu, Ruifeng Li  
+*Complex & Intelligent Systems (2025)*  
+DOI: 10.1007/s40747-025-01979-6
 
 ---
 
-**[Groundwater quality mapping using machine learning models and geostatistical techniques: a case study of Raipur district, India](https://link.springer.com/article/10.1007/s11069-023-06150-4)**
-- Random Forest
-- Support Vector Machine (SVM)
-- Artificial Neural Network (ANN)
-- Inverse Distance Weighting (IDW)
-- Kriging
+**[Computational loop reconstruction based design of efficient PET hydrolases](https://link.springer.com/article/10.1038/s42003-025-08364-6)**  
+Hongzhao Wang, Yuntao Cun, et al.  
+*Communications Biology (2025)*  
+DOI: 10.1038/s42003-025-08364-6
 
 ---
 
-**[Performance evaluation of statistical and machine learning models for daily reference evapotranspiration estimation in a humid subtropical climate region of China](https://link.springer.com/article/10.1007/s11069-023-06149-x)**
-- Multiple Linear Regression (MLR)
-- Support Vector Regression (SVR)
-- Artificial Neural Network (ANN)
-- Random Forest
+**[Multidimensional bioinformatics analysis of chondrosarcoma subtypes and TGF-β signaling networks using big data approaches](https://link.springer.com/article/10.1007/s12672-025-02931-3)**  
+Shengke Li, Junteng Chen, et al.  
+*Discover Oncology (2025)*  
+DOI: 10.1007/s12672-025-02931-3
 
 ---
 
-**[Analysis of future drought risk in China using multiple drought indices and machine learning techniques](https://link.springer.com/article/10.1007/s11069-023-06147-z)**
-- Random Forest
-- Support Vector Machine (SVM)
-- Artificial Neural Network (ANN)
+**[Decoding hippocampal subfield and glial responses in ischemia using single-cell transcriptomics](https://link.springer.com/article/10.1186/s12967-025-06738-2)**  
+Donghee Kwak, Ji Hyun Park, et al.  
+*Journal of Translational Medicine (2025)*  
+DOI: 10.1186/s12967-025-06738-2
 
 ---
 
-**[Multi-model ensemble approach for rainfall-runoff modeling under climate change scenarios](https://link.springer.com/article/10.1007/s11069-023-06144-2)**
-- Artificial Neural Network (ANN)
-- Support Vector Machine (SVM)
-- Multi-Model Ensemble (Ensemble Modeling)
-- Hydrological Simulation Models
+**[Method Design and Field Experiment Validation of Predictive Fuel-saving Cruise Control Based on Cloud Control Platform](https://link.springer.com/article/10.1186/s10033-025-01206-w)**  
+Keke Wan, Shuyan Li, Bolin Gao, Fachao Jiang, Yanbin Liu  
+*Chinese Journal of Mechanical Engineering (2025)*  
+DOI: 10.1186/s10033-025-01206-w
 
 ---
 
-**[A hybrid wavelet–artificial intelligence model for monthly streamflow forecasting in a snow-fed river basin of the western Himalayas](https://link.springer.com/article/10.1007/s11069-023-06143-3)**
-- Wavelet Transform
-- Artificial Neural Network (ANN)
-- Adaptive Neuro-Fuzzy Inference System (ANFIS)
+**[Model-free trajectory tracking control of a 5-DOF mitsubishi robotic arm using deep deterministic policy gradient algorithm](https://link.springer.com/article/10.1007/s44430-025-00004-2)**  
+Zied Ben Hazem, Nivine Guler, Ali Husain Altaif  
+- Deep Deterministic Policy Gradient (DDPG) Algorithm  
 
 ---
 
-**[Evaluation of groundwater vulnerability using GIS-based DRASTIC model and artificial intelligence techniques: a case study in northern India](https://link.springer.com/article/10.1007/s11069-023-06142-4)**
-- DRASTIC Model (GIS-based Vulnerability Assessment)
-- Artificial Neural Network (ANN)
-- Support Vector Machine (SVM)
+**[The Bayesian mixture expert recognition model for tobacco leaf curing stages based on feature fusion](https://link.springer.com/article/10.1186/s13007-025-01384-7)**  
+Panzhen Zhao, Shijiang Duan, Songfeng Wang, Aihua Wang, Lingfeng Meng, Zhicheng Wang, Yingpeng Dai  
+- Bayesian Mixture Model  
 
 ---
 
-**[Application of machine learning algorithms for flood susceptibility mapping in the upper Ganga river basin, India](https://link.springer.com/article/10.1007/s11069-023-06138-0)**
-- Random Forest
-- Support Vector Machine (SVM)
-- Artificial Neural Network (ANN)
-- Logistic Regression
+**[Optimization and transfer of robust primary drying protocols for biopharmaceuticals through lyophilization process modeling](https://link.springer.com/article/10.1186/s41120-025-00115-5)**  
+Brecht Vanbillemont, Andrea Arsiccio, Tim Menzen, Andrea Hawe  
+- Process Modeling for Optimization  
 
 ---
 
-**[Drought vulnerability assessment using composite index approach and geospatial techniques in a semi-arid region of Maharashtra, India](https://link.springer.com/article/10.1007/s11069-023-06135-3)**
-- Composite Index Method (Weighted Index Calculation)
-- Principal Component Analysis (PCA)
-- Analytical Hierarchy Process (AHP)
+**[Protein structure refinement with a memetic algorithm](https://link.springer.com/article/10.1007/s11047-025-10027-8)**  
+Juan Luis Filgueiras, José Santos  
+- Memetic Algorithm  
 
 ---
 
-**[Estimation of reference evapotranspiration using machine learning models and empirical equations in a sub-humid region of India](https://link.springer.com/article/10.1007/s11069-023-06134-4)**
-- Random Forest
-- Support Vector Machine (SVM)
-- Artificial Neural Network (ANN)
-- Multiple Linear Regression (MLR)
-- Empirical Equations (e.g., Penman–Monteith)
+**[Optimization of Oil and Gas Pipeline Leakage Data and Defect Identification Based on Graph Neural Processing](https://link.springer.com/article/10.1007/s40745-025-00619-7)**  
+Lizhen Zhang  
+- Graph Neural Network (GNN)  
 
 ---
 
-**[Comparative analysis of machine learning models for landslide susceptibility mapping in a hilly terrain of the Himalayas](https://link.springer.com/article/10.1007/s11069-023-06133-5)**
-- Random Forest
-- Support Vector Machine (SVM)
-- Artificial Neural Network (ANN)
-- Logistic Regression
+**[A new tree-based data aggregation method in the wireless sensor networks using Ant Colony Optimization and Cuckoo search algorithms](https://link.springer.com/article/10.1186/s44147-025-00652-6)**  
+Shuling Yin, Jiahai Tu, Xiaoyan Chen  
+- Ant Colony Optimization  
+- Cuckoo Search Algorithm  
 
 ---
 
-**[Evaluation of different machine learning models for groundwater level prediction in a hard rock terrain of India](https://link.springer.com/article/10.1007/s11069-023-06131-7)**
-- Artificial Neural Network (ANN)
-- Support Vector Machine (SVM)
-- Random Forest
+**[Performance comparison of the quantum and classical deep Q-learning approaches in dynamic environments control](https://link.springer.com/article/10.1140/epjqt/s40507-025-00381-y)**  
+Aramchehr Zare, Mehrdad Boroushaki  
+- Deep Q-Learning  
+- Quantum Reinforcement Learning  
 
 ---
 
-**[Predicting climate change effects on coffee growing areas in Ethiopia using MaxEnt and GIS](https://link.springer.com/article/10.1007/s13280-019-01204-2)**
-- Maximum Entropy Model (MaxEnt)
-- Geographic Information System (GIS) Mapping
+**[Explainable AI for reinforcement learning based dynamic scheduling solutions in semiconductor manufacturing](https://link.springer.com/article/10.1007/s10845-025-02631-3)**  
+Alessandro Immordino, Patrick Stöckermann, Niels Hayen, Thomas Altenmüller, Gian Antonio Susto, Martin Gebser, Konstantin Schekotihin, Georg Seidel  
+- Reinforcement Learning  
+- Explainable AI  
 
 ---
 
-**[A spatio-temporal prediction approach for climate data using machine learning and remote sensing](https://link.springer.com/article/10.1007/s12652-018-0934-5)**
-- Support Vector Machine (SVM)
-- Artificial Neural Networks (ANN)
-- Random Forest
-- k-Nearest Neighbors (k-NN)
-- Decision Tree
+**[Reinterpreting the happiness index using artificial neural networks with selected economic and environmental variables: evidence from D-8 countries](https://link.springer.com/article/10.1007/s12144-025-07996-5)**  
+Ayşe Çay Atalay  
+- Artificial Neural Networks  
 
 ---
 
-**[Machine learning algorithms for predicting rainfall in a semiarid region of India](https://link.springer.com/article/10.1007/s12665-019-8672-4)**
-- Random Forest
-- Support Vector Regression (SVR)
-- Artificial Neural Network (ANN)
-- Decision Tree
+**[A comprehensive analytical study on meta-heuristic based optimal thresholding using two-stage multi-level image segmentation (TSMIS) approach](https://link.springer.com/article/10.1007/s10586-024-05011-3)**  
+Asuman Günay Yilmaz, Eyüp Gedikli, Sefa Aras, Hamdi Tolga Kahraman  
+- Genetic Algorithm  
+- Particle Swarm Optimization  
+- Differential Evolution  
 
 ---
 
-**[Prediction of temperature in Bangladesh using different machine learning algorithms](https://link.springer.com/article/10.1007/s42979-021-00915-7)**
-- Linear Regression
-- Decision Tree Regressor
-- Random Forest Regressor
-- Support Vector Machine (SVM)
-- Artificial Neural Network (ANN)
+**[A network intrusion detection method based on contrastive learning and Bayesian Gaussian Mixture Model](https://link.springer.com/article/10.1186/s42400-025-00364-7)**  
+Liyou Liu, Ming Xu  
+- Bayesian Gaussian Mixture Model  
 
 ---
 
-**[Artificial neural network-based rainfall forecasting using meteorological parameters](https://link.springer.com/article/10.1007/s13201-017-0581-7)**
-- Artificial Neural Network (ANN)
+**[Optimal control under safety constraints and disturbances: a multi-step, off-policy adaptive dynamic programming approach](https://link.springer.com/article/10.1007/s11071-025-11329-3)**  
+Jun Ye, Xiaowei Zhao, Yougang Bian, Manjiang Hu, Hongyang Dong  
+- Adaptive Dynamic Programming  
 
 ---
 
-**[Assessment of future climate change impacts on streamflow using SWAT and downscaled climate models in India](https://link.springer.com/article/10.1007/s10113-017-1158-4)**
-- Soil and Water Assessment Tool (SWAT)
-- Statistical Downscaling
+**[Pan-cancer analysis reveals dual roles of HES6 in cancer immunity and prognosis](https://link.springer.com/article/10.1007/s12672-025-02852-1)**  
+Ying Sun, Peiru Liu, Dongyang Lv, Defu Yang, Shiyu Qiao, Jing Liu, Ying Yan, Wenping Wang  
+- Cancer Immunogenomics  
+- Prognostic Biomarkers  
 
 ---
 
-**[Spatiotemporal analysis and prediction of land use/land cover dynamics using machine learning algorithms in a tropical river basin, India](https://link.springer.com/article/10.1007/s12665-020-08922-x)**
-- Support Vector Machine (SVM)
-- Random Forest
-- k-Nearest Neighbors (k-NN)
-- Decision Tree
+**[Neural network-based forecasting and uncertainty analysis of new power generation capacity of electric energy](https://link.springer.com/article/10.1186/s42162-025-00546-0)**  
+Xingyu Dou, Zehan Cui  
+- Neural Networks  
+- Energy Forecasting  
 
 ---
 
-**[Multi-algorithm approach for land cover classification and change detection using remote sensing data in Ghana](https://link.springer.com/article/10.1007/s12652-021-03382-w)**
-- Support Vector Machine (SVM)
-- Random Forest
-- Artificial Neural Network (ANN)
+**[Assessing the Impacts of Blockchain Technology on Supply Chain Efficiency: A Data-Driven Integrated Decision-Making Framework](https://link.springer.com/article/10.1007/s10726-025-09934-z)**  
+Ardavan Babaei, Erfan Babaee Tirkolaee, Vladimir Simic, Hêriş Golpîra, Ferzat Anka  
+- Blockchain  
+- Supply Chain Optimization  
+- Decision-Making Framework  
 
 ---
 
-**[Impact of climate change on wheat yield using statistical and machine learning approaches in India](https://link.springer.com/article/10.1007/s42770-021-00607-x)**
-- Multiple Linear Regression (MLR)
-- Support Vector Machine (SVM)
-- Random Forest
+**[Automated Early Prediction of Parkinson’s Disease Based on Artificial Intelligent Techniques](https://link.springer.com/article/10.1007/s13369-025-10358-9)**  
+Shereen A. Bakry, Nourelhoda M. Mahmoud  
+- AI for Healthcare  
+- Early Diagnosis  
+- Parkinson’s Disease  
 
 ---
 
-**[Modeling urban heat island using remote sensing and GIS techniques: A case study of Bengaluru, India](https://link.springer.com/article/10.1007/s10661-017-6183-0)**
-- Remote Sensing Algorithms
-- GIS-Based Spatial Analysis
+**[An adaptive prediction method for ultra-short-term generation power of power system based on the improved long- and short-term memory network of sparrow algorithm](https://link.springer.com/article/10.1186/s42162-025-00543-3)**  
+Peipei Yang, Zhidong Chen, Wen Tang, Zongyang Liu, Bingrui He  
+- LSTM, Sparrow Search Algorithm  
+- Power Systems Forecasting  
 
 ---
 
-**[Comparative study of machine learning algorithms for prediction of climate variables: A case study of India](https://link.springer.com/article/10.1007/s10661-021-09193-6)**
-- Random Forest
-- Support Vector Regression (SVR)
-- Decision Tree
-- k-Nearest Neighbors (k-NN)
+**[Examining human–AI collaboration in hybrid intelligence learning environments: insight from the Synergy Degree Model](https://link.springer.com/article/10.1057/s41599-025-05097-z)**  
+Xinmei Kong, Haiguang Fang, Wenli Chen, Jianjun Xiao, Muhua Zhang  
+- Hybrid Intelligence  
+- Educational Technology  
 
 ---
 
-**[Flood prediction using machine learning algorithms: A case study of Brahmaputra river in India](https://link.springer.com/article/10.1007/s40808-020-00956-9)**
-- Artificial Neural Network (ANN)
-- Random Forest
-- Decision Tree
+**[FDTooth: Intraoral Photographs and CBCT Images for Fenestration and Dehiscence Detection](https://link.springer.com/article/10.1038/s41597-025-05348-3)**  
+Keyuan Liu et al.  
+- Dental Imaging  
+- CBCT, Deep Learning Dataset  
 
 ---
 
-**[A hybrid model based on ensemble empirical mode decomposition and long short-term memory neural network for wind speed forecasting](https://link.springer.com/article/10.1007/s00521-021-05800-0)**
-- Ensemble Empirical Mode Decomposition (EEMD)
-- Long Short-Term Memory Neural Network (LSTM)
+**[Achieving SDGs 7, 8, and 13: balancing policy uncertainty with renewable energy demand](https://link.springer.com/article/10.1186/s12302-025-01133-6)**  
+Victoria Olushola Olanrewaju et al.  
+- Sustainability Policy  
+- Energy Transitions & SDGs  
 
 ---
 
-**[Multi-objective particle swarm optimization algorithm for urban land use allocation](https://link.springer.com/article/10.1007/s00521-021-05771-2)**
-- Multi-objective Particle Swarm Optimization (MOPSO)
+**[RNA m⁶A methylation patterns in hepatocellular carcinoma and their association with characteristics of the tumor microenvironment and prognosis](https://link.springer.com/article/10.1007/s12672-025-02965-7)**  
+Zongcai Yan et al.  
+- RNA Modification  
+- Tumor Microenvironment  
 
 ---
+
+**[Plastic to apparel: an analysis of sustainable purchasing intention using a machine learning ensemble](https://link.springer.com/article/10.1057/s41599-025-05205-z)**  
+Carmella Andrea L. Cabrera et al.  
+- Sustainability  
+- Consumer Behavior, ML Ensemble  
+
+---
+
+**[Comparison of choriocapillaris perfusion between SS-OCTA and SD-OCTA in intermediate AMD](https://link.springer.com/article/10.1007/s00417-025-06874-x)**  
+Nuria Torrell-Belzach et al.  
+- Ophthalmology  
+- Optical Coherence Tomography  
+
+---
+
+**[Assessment of chaotic features for PM₁₀ concentrations in İstanbul](https://link.springer.com/article/10.1007/s11071-025-11328-4)**  
+Enes Birinci et al.  
+- Nonlinear Dynamics  
+- Air Pollution Analytics  
+
+---
+
+**[Exploration of the current status and trends of pancreatic cancer immune cells in the past 30 years: a bibliometric analysis](https://link.springer.com/article/10.1007/s12672-025-02886-5)**  
+Yang Hu et al.  
+- Oncology  
+- Immune Microenvironment, Bibliometrics  
+
+---
+
+**[Areas of research focus and trends in the research on the application of AIGC in healthcare](https://link.springer.com/article/10.1186/s41043-025-00947-7)**  
+Chen Wang et al.  
+- AI-Generated Content  
+- Health Informatics  
+
+---
+
+**[Diffusion-driven distillation and contrastive learning for class-incremental semantic segmentation of laparoscopic images](https://link.springer.com/article/10.1007/s11548-025-03405-1)**  
+Xinkai Zhao et al.  
+- Medical Image Segmentation  
+- Continual Learning, Contrastive Learning  
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
-# Log: Climate and Environment – Springer Nature Link – keyword: "climate AND algorithm"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Log: Climate and Environment – Springer Nature Link – keyword: "ecology OR weather AND algorithm"
 
 ## Search Metadata
 - **Platform:** Springer Nature Link
