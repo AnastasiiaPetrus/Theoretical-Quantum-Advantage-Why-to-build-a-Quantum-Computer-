@@ -1833,225 +1833,890 @@ Lubo Li, Haohua Zhang, Sijun Bai
 
 ## Log Entries
 
----
-
-**[Applications of pollination biology in studies of evolution, ecology and agriculture: Perspectives and trends from South Africa](https://www.sciencedirect.com/science/article/pii/S0254629925003254)**  
-Steven D. Johnson, Sjirk Geerts, Anton Pauw, Timotheüs van der Niet  
-- Pollination syndromes, floral deception, and convergent evolution  
-- Coevolution and pollinator-driven speciation analysis  
-- Ecological dependence and mutualism failure risk studies  
-- Trait-based invasion prediction methods  
-- Ecosystem service evaluation in agriculture
+**[Timely assessment of maize lodging severity with limited samples using multi-temporal Sentinel-1 and Sentinel-2 data across large spatial extents](https://www.sciencedirect.com/science/article/pii/S016816992500777X)**  
+Cheng Cai, Huixia Zhao, Haoyu Zhang, Chen Wang, Ziming Wang, Mengyu Liu, Jiaqi Chen, Huanxue Zhang  
+- Support Vector Machine (SVM)  
+- Random Forest (RF)  
+- Minimum Distance Classification  
+- Correlation Analysis  
+- J-M Distance  
 
 ---
 
-**[Towards new ecologies of automation: Robotics and the re-engineering of nature](https://www.sciencedirect.com/science/article/pii/S0016718523001513)**  
-Andrew Lockhart, Simon Marvin, Aidan While  
-- Operational ecologies framework  
-- Automation/robotics applications in environmental management  
-- Political ecology and technology integration  
-- Typology creation and cross-sectoral case studies  
-- Literature synthesis and conceptual modeling
+**[Regional scale multi-crop water footprint quantification based on improved WOFOST model and remote sensing data assimilation](https://www.sciencedirect.com/science/article/pii/S0168192325003119)**  
+Xi Chen, Shuqing Yang, Xiaoyu Wen, Wei Wang  
+- Ensemble Kalman Filter (EnKF)  
 
 ---
 
-**[Decoding Flow-Ecology Relationships: A Machine learning framework for flow regime Characterization and riparian vegetation prediction](https://www.sciencedirect.com/science/article/pii/S1470160X25004479)**  
-Yifan Huang, Xiang Zhang, Jing Xu, Liangkun Deng, Yilun Li  
-- Hybrid attribution framework: seasonality analysis + machine learning  
-- Structural equation modeling (SEM)  
-- LSTM-Transformer neural networks for NDVI prediction  
-- Scenario-based ecohydrological projections (SSP2-4.5/5-8.5)  
-- Optimization algorithm-coupled time series modeling
+**[Wheat yield prediction using an enhanced WOFOST with soil stratified hydrothermal module driven by GLASS and ERA5-land products over Yellow River Basin](https://www.sciencedirect.com/science/article/pii/S0168169925007756)**  
+Jing Zhang, Guijun Yang, Meiling Gao, Lijie Zhang, Weinan Chen, Miao Liu, Youming Zhang, Aohua Tang, Zhenhong Li  
+- Ensemble Kalman Filter (EnKF)  
 
 ---
 
-**[Spatial pattern and driving factors of cropland ecosystem services in a major grain-producing region: A production-living-ecology perspective](https://www.sciencedirect.com/science/article/pii/S1470160X23011664)**  
-Hongjie Peng, Xuesong Zhang, Wei Ren, Ju He  
-- Production-living-ecology index for cropland services  
-- Multi-source spatial data integration  
-- REDCAP clustering for agricultural zoning  
-- Redundancy analysis (RDA) for identifying drivers  
-- Spatial trade-off analysis among ecosystem functions
+**[Path planning and scheduling of multiple unmanned Ground vehicles for orchard plant protection operations](https://www.sciencedirect.com/science/article/pii/S0168169925007215)**  
+Yang Xu, Xinyu Xue, Zhu Sun, Longfei Cui, Chen Cai, Qingqing Zhou, Chen Chen, Wei Gu  
+- Particle Swarm Optimization (PSO)  
 
 ---
 
-**[Assessing the ecology of cluster-based enterprise trust networks through percolation theory: Is your business environment trustworthy?](https://www.sciencedirect.com/science/article/pii/S0160791X25000296)**  
-Guanghui He, Shicheng Zhou  
-- Enterprise trust ecology modeling  
-- Cluster-based enterprise trust networks (C-ETNs)  
-- Percolation theory for network robustness  
-- Entropy-based trust value calculation  
-- Empirical simulation and phase-transition analysis
+**[How do urban green space designs shape avian communities: Optimizing distribution, size and shape](https://www.sciencedirect.com/science/article/pii/S0301479725021073)**  
+Yaqian Zhang, Xun Zhu, Zheng Guo  
+- Species-Area Relationship (SAR)  
+- Boosted Regression Trees (BRT)  
+- Morphological Spatial Pattern Analysis (MSPA)  
+- Fragstats Landscape Metrics  
 
 ---
 
-**[Political ecologies of livestock predation: Agrarian change, farming subjectivities and human-wildlife conflict in the European Uplands](https://www.sciencedirect.com/science/article/pii/S0016718525000715)**  
-Agnese Marino, Tom Fry  
-- Political ecology of human-wildlife conflict  
-- Qualitative case studies (Scotland & Spain)  
-- Farmer subjectivity and emotion analysis  
-- Agrarian change and conservation interaction  
-- Critical and feminist approaches in ecology
+**[Quantification of implicit price flexibility of household customers’ load demand with machine learning and Shapley analysis](https://www.sciencedirect.com/science/article/pii/S0360544225026222)**  
+Jouni Haapaniemi, Juha Haakana, Otto Räisänen, Ville Tikka, Jukka Lassila, Antti Rautiainen  
+- Gaussian Process Regression (GPR)  
+- Shapley Value Analysis  
 
 ---
 
-**[Integral ecology approach to life cycle assessment of solar arrays](https://www.sciencedirect.com/science/article/pii/S2772940024000389)**  
-Charles E. Sprouse  
-- Integral ecology life cycle assessment (LCA)  
-- Comparative LCA of solar technologies (thin-film vs c-Si)  
-- Value-choice analysis and precautionary principle  
-- Scenario modeling and conceptual expansion of LCA  
-- Broader-scope impact assessment methodology
+**[Study on the identification of microplastics in agricultural soils using segmented GASF combined with deep learning based on confocal micro-Raman spectroscopy](https://www.sciencedirect.com/science/article/pii/S0263224125015854)**  
+Yanping Zhu, Shutao Wang, Jiangtao Lv, Jiahao Yin, Deming Kong  
+- Support Vector Machine (SVM)  
+- K-Nearest Neighbors (KNN)  
+- Random Forest (RF)  
+- Principal Component Analysis (PCA)  
+- Isomap  
+- Locally Linear Embedding (LLE)  
 
 ---
 
-**[The connection between social and emotional wellbeing and Indigenous language use varies across language ecologies in Australia](https://www.sciencedirect.com/science/article/pii/S0277953624010013)**  
-Yonatan Dinku, Francis Markham, Denise Angelo, Jane Simpson  
-- Language ecology typology for Indigenous populations  
-- Regression analysis of wellbeing and language use  
-- Geographical and repertoire-based classification  
-- Survey data integration for social and emotional wellbeing  
-- Analysis of context-dependent language benefits
+**[Study on Critical Success Factors of the Energy Performance Contracting Program in Petrochemical Industry under the Dual Carbon Background](https://www.sciencedirect.com/science/article/pii/S0360544225027914)**  
+Zhenhua Luo, Guangyao Yuan, Qin Zhang, HaiZe Pan, MengJie Deng  
+- Interpretive Structural Modeling (ISM)  
+- DEMATEL  
+- G1 Method (Improved Hierarchical Analysis)  
 
 ---
 
-**[Ecosystem ecology needs an ecology of molecules](https://www.sciencedirect.com/science/article/pii/S0169534724003148)**  
-Erika C. Freeman, Tianna Peller, Florian Altermatt  
-- Ecology of molecules framework  
-- High-resolution mass spectrometry in ecosystem studies  
-- Integration of organic compound diversity and interactions  
-- Biogeochemical process modeling  
-- Molecular biology techniques in ecosystem research
+**[The empowerment of smart city construction on the synergy effect of pollution control and carbon reduce in China: Empirical analysis with double machine learning method](https://www.sciencedirect.com/science/article/pii/S0959652625013083)**  
+Neng Shen, Lin Zhang, Qunwei Wang  
+- Double Machine Learning  
 
 ---
 
-**[Floodplain lakes: Linking hydrology to ecology and conservation](https://www.sciencedirect.com/science/article/pii/S0012825224002952)**  
-Fan Xue, Qi Zhang, John M. Melack, Hongwu Tang, et al.  
-- Review of hydrology-ecology relationships in floodplain lakes  
-- River-lake connectivity and seasonal fluctuation studies  
-- Biogeochemical process and community structure analysis  
-- Synthesis of adaptive strategies and regime shifts  
-- Recommendations for biodiversity monitoring and modeling
+**[How do diseases spread at the critical state?](https://www.sciencedirect.com/science/article/pii/S0960077925007076)**  
+Li-Feng Hou, Shifu Wang, Li Li, Xin Lu, Gui-Quan Sun  
+- Reaction–Diffusion SI Model  
+- SIR Model with Saturated Incidence  
+- Optimal Control Theory  
+- Spatial Entropy Analysis  
 
 ---
 
-**[Impossible ecologies: Interaction networks and stability of coexistence in ecological communities](https://www.sciencedirect.com/science/article/pii/S2405471225001309)**  
-Yu Meng, Szabolcs Horvát, Carl D. Modes, Pierre A. Haas  
-- Network analysis of ecological communities  
-- Lotka-Volterra dynamics and stability assessment  
-- Numerical and exact classification of interaction networks  
-- Identification of “impossible” and “irreducible” ecologies  
-- Statistical sampling of network arrangements
+**[Couple stress effects on thermosolutal convection in Navier–Stokes–Voigt fluid](https://www.sciencedirect.com/science/article/pii/S0577907325002242)**  
+Deepak Kumar, Sunil, Reeta Devi  
+- Normal Mode Technique  
+- Energy Method  
+- Galerkin Method  
 
 ---
 
-**[Psychoanalytic political ecology](https://www.sciencedirect.com/science/article/pii/S0962629825000290)**  
-Pieter de Vries, Ilan Kapoor  
-- Negative psychoanalytic approach to political ecology  
-- Analysis of nature-society rupture and conservation politics  
-- Case study: Colombian Pacific  
-- Critique of “reconciliation” narratives in ecology  
-- Emphasis on the subaltern and crisis responses
+**[Joint optimization of spare parts inventory and maintenance for wind turbine systems](https://www.sciencedirect.com/science/article/pii/S0957417425022079)**  
+Haibo Jin, Huawei Li, Jiayu Bi, Mengjiao Li  
+- Genetic Algorithm  
+- Particle Swarm Optimization  
+- GA-PSO Hybrid Algorithm  
 
 ---
 
-**[Challenges of passive citizen science in ecology within a shifting social media landscape](https://www.sciencedirect.com/science/article/pii/S1574954125002870)**  
-Pablo Otero, Javier Menéndez-Blázquez, David March  
-- Review of passive citizen science methods  
-- Social media data mining for biodiversity monitoring  
-- Analysis of platform evolution and data access issues  
-- Integration of AI for image/text classification  
-- Policy recommendations for data democratization
+**[A green multi-period request assignment problem for road freight transport](https://www.sciencedirect.com/science/article/pii/S0959652625012053)**  
+Elham Jelodari Mamaghani, Yousef Ghiami, Emrah Demir, Tom Van Woensel  
+- Mixed-Integer Linear Programming  
+- Adaptive Large Neighborhood Search  
+- Tabu Search  
 
 ---
 
-**[Comparing public and private intermediaries co-existing in ecologies of intermediation](https://www.sciencedirect.com/science/article/pii/S2210422425000115)**  
-Lisa Bastås, Ingrid Mignon  
-- Ecologies of intermediation for renewable energy adoption  
-- Survey analysis of public vs private intermediary roles  
-- Complementarity in target groups and timing  
-- Ecosystem mapping for solar PV adoption support  
-- Discussion on system maturity and innovation context
+**[Exploring the annual seasonal impacts on the ecological restoration of post-mining sites](https://www.sciencedirect.com/science/article/pii/S0925857425001983)**  
+Rugana Imbaná, Fernanda Daniele de Almeida Valente, Maísa Quintiliano Alves, Sandro Lucio Silva Moreira, Fernanda Zeidan Oliveira, Amanda de Abreu Anunciação, Rosilene Rodrigues Silva, Felipe Tadashi Asao Coelho, Igor Rodrigues de Assis  
+- Permutation Tests  
+- Rehabilitation Quality Index  
 
 ---
 
-**[Quantifying basin water balance considering water-economic society-ecology nexus](https://www.sciencedirect.com/science/article/pii/S0022169425004056)**  
-Qingsong Wu, Qiting Zuo, Lekai Zhang, Yihu Ji, Zhizhuo Zhang  
-- Basin water balance (BWB) in socio-ecological context  
-- Dual water cycle (nature and society) modeling  
-- Distributed human-water relationship simulation  
-- Multi-scale, multi-index water balance quantification  
-- Empirical case study: Qin River Basin, China
+**[Harnessing deep learning and CRF for prior-knowledge modeling of crop dynamics](https://www.sciencedirect.com/science/article/pii/S1569843225002638)**  
+Laura Elena Cué La Rosa, Dario Augusto Borges Oliveira, Raul Queiroz Feitosa  
+- Conditional Random Fields  
+- Deep Learning  
 
 ---
 
-**[Socio-educational ecologies for learning, social change, and future thinking: Expanding educational psychology's boundaries](https://www.sciencedirect.com/science/article/pii/S000169182500469X)**  
-Alfredo Jornet, William R. Penuel, Moisès Esteban-Guitart, Sanne Akkermann  
-- Socio-educational ecologies framework  
-- Cultural-historical and ecological perspectives  
-- Conceptual analysis of learning across settings  
-- Call for expanded educational psychology boundaries  
-- Focus on social change and future-oriented learning
+**[Agricultural Drought assessment using Deep Learning and Multi-sensor Remote Sensing data integration](https://www.sciencedirect.com/science/article/pii/S1474706525001561)**  
+Prashant Kumar, Sonvane Chetan Chandrakant, Sudhanshu Ranjan, Akshar Tripathi  
+- Multi-Layer Perceptron Neural Network  
 
 ---
 
-**[Moving north under the eye of the public: The dispersal ecology of the Nosferatu spider, documented by citizen scientists](https://www.sciencedirect.com/science/article/pii/S1439179125000155)**  
-Nadja Pernat, Sascha Buchholz, Jan Ole Kriegs, Jan Steen, Hilke Hollens-Kuhr  
-- Citizen science for tracking species dispersal  
-- Correlation of media coverage, search activity, and observations  
-- Temporal and spatial analysis of invasive species reports  
-- Data integration from multiple citizen science sources  
-- Insights into dispersal ecology of Zoropsis spinimana
+**[Understanding the risks: Health and safety challenges for food delivery couriers](https://www.sciencedirect.com/science/article/pii/S2210539525001567)**  
+Chao-Hung Chiang, Kuo-Cheng Chung  
+- Partial Least Squares Structural Equation Modeling (PLS-SEM)  
 
 ---
 
-**[Perspectives on the future of ecology, evolution, and biodiversity from the Council on Microbial Sciences of the American Society for Microbiology](https://www.sciencedirect.com/science/article/pii/S2379504224002923)**  
-Denise M. Akob, A. Elizabeth Oates, Peter R. Girguis, et al.  
-- Microbial ecology, evolution, and biodiversity (EEB)  
-- Transdisciplinary research and technology integration  
-- Role of machine learning in ecological sciences  
-- Interconnectedness of environmental and host health  
-- Advocacy for global and inclusive collaborations
+**[Students’ perceived social support in the transition from primary to secondary education: Grade-related trends and association with cybervictimization](https://www.sciencedirect.com/science/article/pii/S2530380525000103)**  
+Mónica Rodríguez-Enríquez, David Álvarez-García, Sarai Rodríguez-Alvarado, Martina Ares-Ferreirós  
+- Analysis of Variance (ANOVA)  
+- Multiple Regression  
+- Mediation Analysis  
 
 ---
 
-**[No need for niches in new ecology](https://www.sciencedirect.com/science/article/pii/S1146609X25000190)**  
-C.J.M. Musters, Geert R. de Snoo  
-- Critique of the niche concept in ecology  
-- Agency, information, and complexity-driven ecological patterns  
-- Agent-based models and non-deterministic views  
-- AI and machine learning for ecological prediction  
-- Reframing community ecology beyond static niches
+**[Unknown Power Quality Disturbances Classification Based on Transfer Learning Approach with Imbalanced Data Considerations](https://www.sciencedirect.com/science/article/pii/S259012302501936X)**  
+Mohammad Mosayebi, Sasan Azad, Mohammad Taghi Ameli  
+- Adaptive Synthetic Sampling (ADASYN)  
+- Convolutional Neural Network (CNN)  
+- Long Short-Term Memory (LSTM)  
+- Wasserstein Distance  
+- Transfer Learning  
 
 ---
 
-**[Automated near real-time monitoring in ecology: Status quo and ways forward](https://www.sciencedirect.com/science/article/pii/S1574954125001669)**  
-Anna Marie Davison, Koen de Koning, Franziska Taubert, Jan-Kees Schakel  
-- Near real-time (NRT) ecological monitoring workflows  
-- Automation and adaptive decision-making systems  
-- Digital twin models for evidence-based conservation  
-- Review of sensor technologies and data processing  
-- Identification of barriers and stakeholder collaboration needs
+**[Quantifying Spatiotemporal Patterns of Urban Heat, Dry and Wet-Bulb Islands across Representative Local Climate Zones through Field Measurements and Artificial Neural Networks](https://www.sciencedirect.com/science/article/pii/S2210670725004329)**  
+Yixuan Liu, Jian Hang, Yurong Shi, Hua Yuan, Dong Xia  
+- Co-Kriging Interpolation  
+- Artificial Neural Network (ANN)  
 
 ---
 
-**[An improved coupled water quantity–quality–ecology model incorporating diurnal cycle as a key factor affecting algal blooms and application in large rivers](https://www.sciencedirect.com/science/article/pii/S0301479725004736)**  
-Xin Liu, Wanshun Zhang, Yue Wang, Hong Peng, Anna Jiang, Ao Li, Xu Zhang, Hao Wang  
-- Coupled water quantity–quality–ecology river modeling  
-- Integration of diurnal cycle and light effect equation  
-- High-resolution hourly environmental monitoring  
-- Calibration and validation with Chla concentration data  
-- Scenario-based analysis of algal bloom dynamics
+**[Nature-based solutions for urban challenges: A simple framework based on ecosystem services for a World Heritage City](https://www.sciencedirect.com/science/article/pii/S2212041625000506)**  
+B. Fernández de Manuel, L. Peña, A. Berreteaga, B. Diosdado, J. Laso, I. Ametzaga-Arregi  
+- Multi-Criteria Analysis (MCA)  
 
 ---
 
-**[Evolution Patterns of Water Ecology and Systematic Governance in the Yangtze River Basin](https://www.sciencedirect.com/science/article/pii/S3050472425000012)**  
-Wang Dianchang, Li Wei, Xu Xingya, Wang Yuchun, Wan Rongrong, Zhang Shuanghu  
-- Spatio-temporal evolution of water ecology  
-- Social-ecological systems perspective  
-- Quantitative analysis of lake wetlands, fluxes, and populations  
-- Division into centennial evolutionary stages  
-- Systematic governance strategy development for basin management
+**[A Community-Based Nature Understanding Framework for Exploring Socio-Ecological Dynamics in Rural Romania](https://www.sciencedirect.com/science/article/pii/S2213305425000220)**  
+Kinga Olga Reti, Tibor Hartel, Andreea Ocrain, Dacinia Crina Petrescu, Florentina Călugăr, Iulia Ajtai, Ruxandra Malina Petrescu-Mag  
+- Grounded Theory  
+- Causal Network Modeling  
 
 ---
+
+**[Missing data imputation of climate time series: A review](https://www.sciencedirect.com/science/article/pii/S2215016125003000)**  
+Lizette Elena Alejo-Sanchez, Aldo Márquez-Grajales, Fernando Salas-Martínez, Anilu Franco-Arcega, Virgilio López-Morales, Otilio Arturo Acevedo-Sandoval, César Abelardo González-Ramírez, Ramiro Villegas-Vega  
+- Mean Imputation  
+- Simple Linear Regression  
+- Multiple Linear Regression  
+- Interpolation Methods  
+- Principal Component Analysis (PCA)  
+
+---
+
+**[Assessment of machine and deep learning models integrated with variational mode decomposition for photovoltaic power forecasting using real-world data from the semi-arid region of Djelfa, Algeria](https://www.sciencedirect.com/science/article/pii/S2590174525002405)**  
+Ferial El Robrini, Badia Amrouche, Umit Cali, Taha Selim Ustun  
+- Variational Mode Decomposition (VMD)  
+- Artificial Neural Network (ANN)  
+- Support Vector Machine (SVM)  
+- Random Forest  
+- Convolutional Neural Network (CNN)  
+- Long Short-Term Memory (LSTM)  
+
+---
+
+**[Assessement of soil erosion susceptibility in Maga, Sudano-Sahelian zone (Far North Cameroon): Contribution of RUSLE model coupled with a GIS](https://www.sciencedirect.com/science/article/pii/S2352009425000677)**  
+Denis Tiki, Lionelle Bitom-Mamdem, Achille Ibrahim, Aboubakar Amina, Sabine Danala, Patrick Mounouneck, Elisabeth Yaboki, Abdou Razak, Olivier Leumbe Leumbe, Françis Ngome  
+- Revised Universal Soil Loss Equation (RUSLE)  
+
+---
+
+**[Modelling for drought evolution and some hydrological implications over a semi-arid terrain using earth observation techniques](https://www.sciencedirect.com/science/article/pii/S2352801X25000712)**  
+Amit Vishwakarma, Ajanta Goswami  
+- Soil and Water Assessment Tool (SWAT)  
+- Standardized Runoff Index (SRI)  
+- Standardized Precipitation Index (SPI)  
+
+---
+
+**[Seasonal variability changes and trends in minimum discharge for Western Balkan rivers](https://www.sciencedirect.com/science/article/pii/S2214581825003544)**  
+Igor Leščešen, Slobodan Gnjato, Duško Vujačić, Ana M. Petrović, Ivan Radevski  
+- Seasonal Mann–Kendall Trend Test  
+
+---
+
+**[Interdependencies among SDGs: evidence-based insights for sustainable development indicators and policy](https://www.sciencedirect.com/science/article/pii/S2665972725001837)**  
+Ruttachai Seelajaroen, Boonlert Jitmaneeroj  
+- Expectation Maximization (EM) Clustering  
+- Tree-Augmented Naïve Bayes (TAN)  
+- Structural Equation Modeling (SEM)  
+
+---
+
+**[Distributed nonlinear model predictive control for building energy systems: An ALADIN implementation study](https://www.sciencedirect.com/science/article/pii/S2666546825000680)**  
+Steffen Eser, Ben Spoek, Augustinus Schütz, Phillip Stoffel, Dirk Müller  
+- Alternating Direction Method of Multipliers (ADMM)  
+- Augmented Lagrangian Alternating Direction Inexact Newton (ALADIN)  
+
+---
+
+**[The impact of climate change on flowering plants-bees-Vespa orientalis model](https://www.sciencedirect.com/science/article/pii/S2666720725000694)**  
+Shireen Jawad, Ashraf Adnan Thirthar, Kottakkaran Sooppy Nisar  
+- Stability Analysis  
+- Hopf Bifurcation  
+
+---
+
+**[Analysis and forecasting of meteorological drought using PROPHET and SARIMA models deploying Machine Learning Technique for southwestern region of Bangladesh](https://www.sciencedirect.com/science/article/pii/S2665972725001825)**  
+Mohammad Alamgir Hossain, Md. Moklesur Rahman, Shaikh Shamim Hasan, Azhar Mahmud, Ling Bai  
+- Seasonal Autoregressive Integrated Moving Average (SARIMA)  
+- PROPHET (Structural Time Series Forecasting Model)  
+
+---
+
+**[Modal decomposition for the analysis of solar radiation variability in urban areas](https://www.sciencedirect.com/science/article/pii/S0017931025006556)**  
+Guillaume Le Gall, Martin Thebault, Cyril Caliot, Julien Ramousse  
+- Principal Component Analysis (PCA)  
+
+---
+
+**[Enhancing machine learning runoff simulation via wavelet-based abnormality pattern recognition](https://www.sciencedirect.com/science/article/pii/S0022169425010674)**  
+Yiwei Liu, Hongyi Li, Yaru Yang, Xin Pang, Liting Niu  
+- Continuous Wavelet Transform (CWT)  
+- Cross-Wavelet Transform (XWT)  
+
+---
+
+**[Assessing the risk of traffic accidents in lisbon using a gradient boosting algorithm with a hybrid classification/regression approach](https://www.sciencedirect.com/science/article/pii/S2590198225001745)**  
+Nuno Alpalhão, Pedro Sarmento, Bruno Jardim, Miguel de Castro Neto  
+- Gradient Boosting Algorithm  
+
+---
+
+**[Adult Individual Resilience Interventions: A PRISMA-compliant meta-analysis](https://www.sciencedirect.com/science/article/pii/S0022395625004194)**  
+Ru-Wen Liao, Wan-Chung Hu, Chan-Yen Kuo, Wan-Ling Hsu, I-Shiang Tzeng  
+- Random-effects Meta-analysis  
+- Standardized Mean Difference (SMD)  
+- Cognitive Behavioral Therapy (CBT)  
+
+---
+
+**[A Scenario Robust Bi-objective Model for Integrating Disaster Mitigation and Preparedness](https://www.sciencedirect.com/science/article/pii/S0038012125001090)**  
+Jomon A. Paul, Xinfang Wang  
+- Scenario-Based Robust Optimization  
+- Bi-objective Optimization  
+- Cost-Benefit Analysis  
+
+---
+
+**[An improved weather routing method based on non-uniform waypoint network](https://www.sciencedirect.com/science/article/pii/S002980182501577X)**  
+Ran Cao, Longxia Qian, Mei Hong, Dongyu Li, Tianhao Zhu  
+- A* Search Algorithm  
+- Sparrow Search Algorithm (SSA)  
+
+---
+
+**[Ensuring safety and reliability in offshore operations: A fuzzy DEMATEL study on dynamic positioning system hazards](https://www.sciencedirect.com/science/article/pii/S0029801825015902)**  
+Mustafa ATAŞ, Hakan DEMİREL  
+- Fuzzy DEMATEL  
+
+---
+
+**[Neural spatial-temporal tensor representation for infrared small target detection](https://www.sciencedirect.com/science/article/pii/S0031320325005898)**  
+Fengyi Wu, Simin Liu, Haoan Wang, Bingjie Tao, Junhai Luo, Zhenming Peng  
+- Low-Rank Tensor Modeling  
+- Total Variation Regularization  
+
+---
+
+**[Modelling of airborne birch pollen over Central Europe – model evaluation and sensitivity analysis](https://www.sciencedirect.com/science/article/pii/S0048969725015141)**  
+Jan Boreczek et al.  
+- Chemical Transport Modeling (EMEP MSC-W)  
+- Sensitivity Analysis  
+- Degree-Day Model  
+
+---
+
+**[Ensemble just-in-time learning model driven by multi-similarity measurement methods for urban flood rapid prediction](https://www.sciencedirect.com/science/article/pii/S0022169425010704)**  
+Guangzhao Chen et al.  
+- Just-in-Time Learning (JITL)  
+- Locally Weighted Partial Least Squares (LW-PLS)  
+
+---
+
+**[F-ResPoint: a multi-modal fusion object detection algorithm based on frustum culling](https://www.sciencedirect.com/science/article/pii/S0141938225001726)**  
+Jinjun Rao et al.  
+- Frustum Culling  
+- Residual Neural Network (ResNet)  
+- YOLOv5  
+
+---
+
+**[Cooperative trajectory tracking control of USV-UAV with non-singular sliding mode surface and RBF neural network](https://www.sciencedirect.com/science/article/pii/S0029801825015781)**  
+Wenyu Xu, Xianku Zhang, Zexu Miao  
+- Non-singular Sliding Mode Control  
+- Radial Basis Function (RBF) Neural Network  
+
+---
+
+**[CoCA: Spatial cooperative simulation and future prediction of “land-population-economy” in urban agglomerations](https://www.sciencedirect.com/science/article/pii/S0169204625001495)**  
+Chenglong Zeng, Yao Yao, Jiayao Liu, Zhenhui Sun, Kun Zhou, Dongsheng Chen, Qingfeng Guan  
+- Cellular Automata  
+- S-curve Algorithm  
+
+---
+
+**[Inflation targeting and the changing transmission mechanism of monetary policy in India](https://www.sciencedirect.com/science/article/pii/S0264999325001361)**  
+Dony Alex  
+- Time-Varying Bayesian Vector Autoregression (TV-BVAR)  
+
+---
+
+**[Probabilistic calibration of design resistance models for the anchorage length of prestressing strands considering model uncertainty](https://www.sciencedirect.com/science/article/pii/S0167473025000591)**  
+Sergio Belluco, Flora Faleschini  
+- Monte Carlo Simulation  
+- Reliability Index Calculation  
+- Probabilistic Modeling  
+
+---
+
+**[Multi-objective optimization framework for enhancing efficiency and sustainability in smart grids](https://www.sciencedirect.com/science/article/pii/S019689042500603X)**  
+R. Revathi, N. Senthilnathan, V. Kumar Chinnaiyan, J. Sevugan Rajesh  
+- Non-dominated Sorting Genetic Algorithm III (NSGA-III)  
+- Adaptive Differential Evolution (ADE)  
+- Strength Pareto Evolutionary Algorithm (SPEA)  
+
+---
+
+**[An autoencoder-clustering-based framework of daily wind speed pattern recognition and prediction for mountainous valley bridges](https://www.sciencedirect.com/science/article/pii/S0263224125014228)**  
+Rujin Ma, Junrui Zhang, Nanxi Chen, Wenpeng Ren, Hao Liu, Haocheng Chang, Airong Chen  
+- Variational Mode Decomposition (VMD)  
+- Autoencoder  
+- Clustering Algorithm  
+
+---
+
+**[Long-span bridge flutter analysis in non-stationary downburst-like flows by Floquet Theory](https://www.sciencedirect.com/science/article/pii/S0167610525001345)**  
+Luca Caracoglia  
+- Floquet Theory  
+
+---
+
+**[Enterprise-friendly demand response optimization in modern grid](https://www.sciencedirect.com/science/article/pii/S0360544225026520)**  
+Bo Wu, Xiuli Wang, Li Guan, Pai Li, Bangyan Wang, Qiyue Ma  
+- Mixed-Integer Nonlinear Programming (MINLP)  
+- Sobol Sequence Sampling  
+- Non-Dominated Sorting Whale Optimization Algorithm  
+
+---
+
+**[Demand and supply curve forecasting using a monotonic autoencoder for short-term day-ahead electricity market bid curves](https://www.sciencedirect.com/science/article/pii/S0306261925009924)**  
+Nabangshu Sinha, Carlo Lucheroni  
+- Echo State Network (ESN)  
+- Autoencoder  
+- Curve Fitting Optimization  
+
+---
+
+**[Optimal battery storage capacity planning model and DOD regulation strategy for islanded microgrid based on distributed generation and a microturbine](https://www.sciencedirect.com/science/article/pii/S0360544225028427)**  
+Gong Wang, Ke Dong, Yuanhua Song, Shengxian Cao, Jie Duan, Guichao Duan, Dan Wu, Shaofan Li  
+- Monte Carlo Simulation  
+
+---
+
+**[A novel wall windcatcher (WWC) natural ventilation system evaluated through CFD and experimental field testing](https://www.sciencedirect.com/science/article/pii/S0360132325007875)**  
+Salah Almazmumi, Hao Sun, Miaomiao Liu, John Calautit, Carlos Jimenez-bescos  
+- Computational Fluid Dynamics (CFD)  
+
+---
+
+**[Developing a Framework for Sustainable Retrofit of Residential Buildings Based on Ensemble Learning Algorithm](https://www.sciencedirect.com/science/article/pii/S0360132325007917)**  
+Shulong Luo, Philip F. Yuan, Mosha Zhao, Jiawei Yao, Feng Yang  
+- Gradient Boosting Decision Tree (GBDT)  
+- eXtreme Gradient Boosting (XGBoost)  
+- Strength Pareto Evolutionary Algorithm 2 (SPEA2)  
+
+---
+
+**[Collaborative governance of cyber violence: A two-phase, multi-scenario four-party evolutionary game and SBI1 I2R public opinion dissemination](https://www.sciencedirect.com/science/article/pii/S0306457325001839)**  
+Xiaoting Yang, Wei Lv, Ting Yang, Bart Baesens  
+- Evolutionary Game Theory  
+- SBI1I2R Epidemic Spread Model  
+
+---
+
+**[A novel approach to accelerate ideotyping using model-aided envirotyping](https://www.sciencedirect.com/science/article/pii/S0308521X25001702)**  
+Brian Collins, Najeeb Ullah, Youhong Song, Keith G. Pembleton  
+- Genetic Algorithm  
+- Cluster Analysis  
+
+---
+
+**[Lessons learned from a detailed exploration of APEX as a tool to represent corn residue management and cover crops](https://www.sciencedirect.com/science/article/pii/S0308521X25001635)**  
+Carlos Alberto Arnillas, Lamees Shah, George Arhonditsis  
+- Agricultural Policy/Environmental eXtender (APEX) Model  
+- Mechanistic Modeling  
+
+---
+
+**[Machine Learning-Powered Multi-Omics for Food Microbiology and Smarter Food Safety](https://www.sciencedirect.com/science/article/pii/S092422442500281X)**  
+Sherry Bansal, Catarina Z. Rodriguez, Katherine A. Thompson-Witrick, Yu Wang, Diana H. Taft, Boce Zhang  
+- Machine Learning Algorithms (general)  
+- Pattern Detection Techniques  
+
+---
+
+**[Predictive analysis of criticality for underground medium voltage lines](https://www.sciencedirect.com/science/article/pii/S0378779625005383)**  
+M. Bindi, M. Intravaia, A. Luchetta, G.M. Lozito, L. Becchi, F. Grasso, M. Manno, C.M. Annigliato, F. Ferri, E. Bartoccini  
+- Feed-Forward Neural Networks  
+
+---
+
+**[Seismic survey of the Danevirke: Determining the multiple construction phases of a medieval fortification system through full waveform inversion (FWI)](https://www.sciencedirect.com/science/article/pii/S0926985125001776)**  
+Manuel Zolchow, Daniel Köhn, Dennis Wilken, Wolfgang Rabbel  
+- Full Waveform Inversion (FWI)  
+- Electric Resistivity Tomography (ERT)  
+
+---
+
+**[Exploring the portability of ML-based lightning nowcasting models](https://www.sciencedirect.com/science/article/pii/S0378779625003992)**  
+Ehsan Mansouri, Amirhossein Mostajabi, Hannes Kohlmann, Chong Tong, Marcos Rubinstein, Farhad Rachidi  
+- Gradient Boosting  
+- XGBoost  
+
+---
+
+**[Adversarial network for unsupervised infrared image colorization based on full-scale feature fusion and cosine contrastive learning](https://www.sciencedirect.com/science/article/pii/S0925231225013852)**  
+Tingting Liu, Yujue Cai, Guiping Chen, Hongguang Wei, Junqi Bai, Yuan Liu, Xiubao Sui, Qian Chen  
+- UNet Architecture  
+- Cosine Contrastive Learning  
+- Generative Adversarial Network (GAN)  
+
+---
+
+**[Deep learning-based displacement identification and quantification for structures with surface features loss](https://www.sciencedirect.com/science/article/pii/S0888327025006776)**  
+Lishuai Zhu, Qun Xie, Yanjun Li, Feng Liu, Ruijun Liang, Jinping Li  
+- YOLOv8n  
+- Gradient Correlation Matching  
+
+---
+
+**[PolarFusion: A multi-modal fusion algorithm for 3D object detection based on polar coordinates](https://www.sciencedirect.com/science/article/pii/S0893608025005842)**  
+Peicheng Shi, Runshuai Ge, Xinlong Dong, Chadia Chakir, Taonian Liang, Aixi Yang  
+- Region Proposal-based Segmentation  
+- Self-Attention Mechanism  
+
+---
+
+**[Assessing residents’ preference and willingness to pay for waste classification service modes: Evidence from discrete choice experiments in Beijing](https://www.sciencedirect.com/science/article/pii/S0956053X25003721)**  
+Shufen Dai, Di Zhang, Chen Wang, Lin Zhu, Wei Gu  
+- Mixed Logit Model  
+- Discrete Choice Experiment (DCE)  
+
+---
+
+**[Heavy metal pollution in aquatic systems of the Hunhe River Basin, China: source apportionment, ecological and health risk assessments](https://www.sciencedirect.com/science/article/pii/S0957582025007451)**  
+Haijian Xie, Mengcheng Zhang, Yanghui Shi, Yanhao Wu, Mei Li, Qun Li, Yuanchao Zhao, Jing Hua  
+- Monte Carlo Simulation  
+- Positive Matrix Factorization (PMF)  
+- Potential Ecological Risk Index (PERI)  
+- Hazard Index (HI)  
+- Heavy Metal Pollution Index (HPI)  
+
+---
+
+**[Sequential state estimation based target tracking algorithm for unmanned underwater vehicle target grasping](https://www.sciencedirect.com/science/article/pii/S0952197625013156)**  
+Yanli Li, Weidong Liu, Wenbo Zhang, Le Li  
+- Kalman Filter  
+
+---
+
+**[Optimized hyperparameters for retail sales forecasting using grid search](https://www.sciencedirect.com/science/article/pii/S0952197625014745)**  
+Manjunath S. Vhatkar, Pramod Sanjay Mahajan, Rakesh D. Raut, Naoufel Cheikhrouhou, Sudishna Ghoshal  
+- Grid Search  
+- Gradient Boosting Regression  
+- Recurrent Neural Network (RNN)  
+- Long Short-Term Memory (LSTM)  
+- Gated Recurrent Unit (GRU)  
+
+---
+
+**[PSO-SVM optimized DBD plasma for energy-efficient degradation of sulfamethoxazole in wastewater](https://www.sciencedirect.com/science/article/pii/S1001074225003833)**  
+Jia-Wei Song, Ju-Xiang Chen, Wen-Hai Chu, Yu-Qiong Gao, Nai-Yun Gao  
+- Particle Swarm Optimization (PSO)  
+- Support Vector Machine (SVM)  
+
+---
+
+**[An exact optimization model for the electric bus charging station location problem under inter-station travel time and energy consumption uncertainties](https://www.sciencedirect.com/science/article/pii/S0968090X2500186X)**  
+Androniki Dimitriadou, Konstantinos Gkiotsalitis, Tao Liu, Oded Cats  
+- Mixed-Integer Nonlinear Programming (MINLP)  
+- Mixed-Integer Linear Programming (MILP)  
+- Stochastic Optimization  
+
+---
+
+**[Prescribed-time synchronization of multi-layer nested high order networks under aperiodic intermittent control](https://www.sciencedirect.com/science/article/pii/S1007570425004058)**  
+Xiaoqi Liu, Han Lin, Tianrui Chen, Ju H. Park  
+- Lyapunov Method  
+
+---
+
+**[Improving current forecast by Leveraging Measured Data and numerical models via LiESNs](https://www.sciencedirect.com/science/article/pii/S1364815225002403)**  
+Felipe M. Moreno, Marcel R. de Barros, Artur Jordão, Marlon S. Mathias, Marcelo Dottori, Anna H. Reali Costa, Edson S. Gomi, Fabio G. Cozman, Eduardo A. Tannuri  
+- Leaky-integrator Echo State Networks (LiESN)  
+
+---
+
+**[Metro ridership recoverability and the built environment: Exploring station-level non-linear impacts](https://www.sciencedirect.com/science/article/pii/S1361920925002627)**  
+Mengying Cui, Lijie Yu, Zhe Dai, Yuxuan Wu, Yuecheng Wang, Jason Cao  
+- eXtreme Gradient Boosting (XGBoost)  
+
+---
+
+**[A regional comprehensive soil quality evaluation method for orchard green agricultural development: Integrating soil fertility and environmental indicators in Hainan, China](https://www.sciencedirect.com/science/article/pii/S1125471825000167)**  
+Xiaofang Wu, Liqiang Zhang, Qiong Fan, Xiaogang Wang, Aini Deng, Yi Xie, Bingxia Su  
+- Technique for Order Preference by Similarity to Ideal Solution (TOPSIS)  
+- Fuzzy Mathematical Model  
+
+---
+
+**[Multi-criteria decision analysis and geospatial methods for identifying potential aquifer discharge zones in the upper Omo-Gibe River basin, Ethiopia](https://www.sciencedirect.com/science/article/pii/S1464343X25002018)**  
+Legesse Begashaw, Tenalem Ayenew, Taye Alemayehu  
+- Analytical Hierarchy Process (AHP)  
+- Geographic Information System (GIS)  
+
+---
+
+**[A streamlined universal method for VRF unit configuration in the early design stage](https://www.sciencedirect.com/science/article/pii/S1359431125018290)**  
+Jaesuk Park, Jae Hwan Cha, Kwang Ho Lee  
+- Artificial Neural Network (ANN)  
+
+---
+
+**[Multi-equipment integrated scheduling for stereo container terminals](https://www.sciencedirect.com/science/article/pii/S136655452500300X)**  
+Zhongbin Zhao, Jihong Chen, Mengru Shen, Yuxin Liang, Zheng Wan, Hao Wang  
+- Mixed-Integer Programming (MIP)  
+- Genetic Algorithm (GA)  
+- Differential Evolution (DE)  
+- GA-based LSHADE-cnEpSin Algorithm  
+
+---
+
+**[An integrated survey system for the Nuraghe Sa Jua, Sardinia, Italy](https://www.sciencedirect.com/science/article/pii/S2212054825000426)**  
+Antonio Dessena, Paolo Marcialis, Nicola Careddu  
+- Photogrammetry  
+- Terrestrial Laser Scanning (TLS)  
+
+---
+
+**[Towards supervisory Model Predictive Control for circular life support systems in long-term space missions](https://www.sciencedirect.com/science/article/pii/S2214552425000707)**  
+Gionata Cimini, Marco Gatti, Daniele Bernardini, Alberto Bemporad, Chloé Audas, Claude-Gilles Dussap  
+- Nonlinear Model Predictive Control (MPC)  
+
+---
+
+**[Performance Assessment of Meta-Heuristic MPPT Strategies for Solar Panels Under Complex Partial Shading Conditions and Load Variation](https://www.sciencedirect.com/science/article/pii/S2096511725000556)**  
+Abdulbari Talib Naser, Nur Fadilah Ab Aziz, Karam Khairullah Mohammed, Karmila binti Kamil, Saad Mekhilef  
+- Differential Evolution (DE)  
+- Grey Wolf Optimization (GWO)  
+- Particle Swarm Optimization (PSO)  
+- Cuckoo Search (CS)  
+- Perturb and Observe (P&O)  
+
+---
+
+**[SMOTE-ENN Resampling Technique with Bayesian Optimization for Multi-Class Classification of Dry Bean Varieties](https://www.sciencedirect.com/science/article/pii/S1568494625007781)**  
+Arnab Mukherjee, Mohammad Reza Chalak Qazani, B.M. Jewel Rana, Shahina Akter, Amirhossein Mohajerzadeh, Nusrat Jahan Sathi, Lasker Ershad Ali, Md. Salauddin Khan, Houshyar Asadi  
+- SMOTE (Synthetic Minority Oversampling Technique)  
+- Edited Nearest Neighbours (ENN)  
+- Bayesian Optimization  
+
+---
+
+**[A Lime-Lstsnm Approach Based Green Building Sustainability Prediction Using Bim Design](https://www.sciencedirect.com/science/article/pii/S2210537925000769)**  
+Yan Xia, Yaning Li, Siqing Liu  
+- Kalman Filter (Multiresolution Kalman Filter - MKF)  
+- K-Means Algorithm (KMA)  
+
+---
+
+**[An expert-based evaluation of fuel alternatives for green road passenger transport in Germany](https://www.sciencedirect.com/science/article/pii/S2213624X25001397)**  
+Javier Perez Vera, Ali Ebadi Torkayesh, Sandra Venghaus  
+- Multi-Criteria Decision Analysis (MCDA)  
+- Entropy Weighting Method  
+
+---
+
+**[Emissions and reduction potential of greenhouse gas derived from facility cultivation production: Evidence from China](https://www.sciencedirect.com/science/article/pii/S2211464525001447)**  
+Yan Yin, Xiaoyu Zhang, Fengming Xi, Jiaoyue Wang, Longfei Bing, Qinqin Hu, Jie Lv, Zhanxiang Sun  
+- Logarithmic Mean Divisia Index (LMDI)  
+- Scenario Analysis  
+
+---
+
+**[Performance Improvement Approach for Retrofitting a Data Center](https://www.sciencedirect.com/science/article/pii/S2352710225014755)**  
+Nitesh Singh, Indra Permana, Hamza H.S. Helal, Chu-Cheng Wei, Fu-Jen Wang  
+- Computational Fluid Dynamics (CFD)  
+
+---
+
+**[Remote Sensing for Aboveground Biomass Monitoring in Terrestrial Ecosystems: A Systematic Review](https://www.sciencedirect.com/science/article/pii/S2352938525001880)**  
+Sana Ullah, Majid Nazeer, Man Sing Wong, Gomal Amin  
+- Light Detection and Ranging (LiDAR)  
+- Synthetic Aperture Radar (SAR)  
+
+---
+
+**[A Multi-channel Spatiotemporal SegNet Model for Short Term Wind Power Prediction with Sequence Decomposition and Reconstruction](https://www.sciencedirect.com/science/article/pii/S2590123025018687)**  
+Xingdou Liu, Liang Zou, Li Zhang, Jiangong Wang, Zhiyun Han, Yong Li  
+- Complementary Ensemble Empirical Mode Decomposition (CEEMD)  
+- Maximum Information Coefficient (MIC)  
+
+---
+
+**[Evaluation of Best Management Practices (BMPs) for mitigating non-point source pollution in the Wang River Basin of Thailand based on the SWAT Model](https://www.sciencedirect.com/science/article/pii/S235218642500313X)**  
+Zheng Li, Wenchao Xue, Issara Sereewatthanawut  
+- Soil & Water Assessment Tool (SWAT)  
+
+---
+
+**[Predicting suitable habitats and conservation areas for Suaeda salsa using MaxEnt and Marxan models](https://www.sciencedirect.com/science/article/pii/S2589004225011940)**  
+Yongji Wang, Zhusong Liu, Kefan Wu, Jiamin Peng, Yanyue Mao, Guanghua Zhao, Fenguo Zhang  
+- Maximum Entropy Model (MaxEnt)  
+- Marxan Model  
+
+---
+
+**[Control of Rhipicephalus sanguineus ticks and Rocky Mountain spotted fever informed by an in silico tool](https://www.sciencedirect.com/science/article/pii/S2468042725000557)**  
+Francesca Rubino, Patrick Foley, Janet Foley  
+- Susceptible-Infected-Recovered (SIR) Model  
+
+---
+
+**[Enhanced Multi-level K-means Clustering and Cluster Head Selection Using a Modernized Pufferfish Optimization Algorithm for Lifetime Maximization in Wireless Sensor Networks](https://www.sciencedirect.com/science/article/pii/S2590123025019073)**  
+Anjana Koyalil, Sivacoumar Rajalingam  
+- K-Means Algorithm  
+- Pufferfish Optimization Algorithm  
+
+---
+
+**[Data-driven approach to generate typical reference year weather files for building energy simulations](https://www.sciencedirect.com/science/article/pii/S235271022501455X)**  
+Shweta Lall, E. Rajasekar, D.S. Arya, Sukumar Natarajan  
+- Entropy Weighting Method  
+- eXtreme Gradient Boosting (XGBoost)  
+
+---
+
+**[Evaluation of acid fracturing in carbonatite geothermal reservoirs based on a coupled thermo-hydro-mechanical-chemical model considering discrete fracture networks](https://www.sciencedirect.com/science/article/pii/S2352380825000693)**  
+Jia Liu, Wenqi Zhang, Yi Xue, Huimin Wang, Shi-Tong Li, Yun Zhang, Weihua Li  
+- Thermo-Hydro-Mechanical-Chemical (THMC) Coupled Modeling  
+
+---
+
+**[Utilization of glass from weee as construction materials for optimizing the consistency and thermal compliance of an eco-friendly building](https://www.sciencedirect.com/science/article/pii/S3050475925004026)**  
+Labilé Lamah, Banah Florent Degni, Haba Cisse Théodore  
+- Arduino-Based Heat Transmission Measurement  
+
+---
+
+**[MultiBanFakeDetect: Integrating advanced fusion techniques for multimodal detection of Bangla fake news in under-resourced contexts](https://www.sciencedirect.com/science/article/pii/S2667096825000291)**  
+Fatema Tuj Johora Faria, Mukaffi Bin Moin, Zayeed Hasan, Md. Arafat Alam Khandaker, Niful Islam, Khan Md Hasib, M.F. Mridha  
+- DenseNet-169  
+- mBERT  
+- Early, Intermediate, and Late Fusion Techniques  
+
+---
+
+**[Transforming Nano Grids to Smart Grid 3.0: AI, Digital Twins, Blockchain, and the Metaverse Revolutionizing the Energy Ecosystem](https://www.sciencedirect.com/science/article/pii/S2590123025019218)**  
+Herman Zahid, Adil Zulfiqar, Muhammad Adnan, Muhammad Sajid Iqbal, Anwar Shah, Usman Abbasi, Salah Eldeen Gasim Mohamed  
+- Digital Twin  
+- Blockchain  
+- Artificial Intelligence  
+
+---
+
+**[Application of Computational Fluid Dynamics (CFD) for Optimal Temperature Sensor Placement in a Greenhouse Equipped with a Pad-Fan Cooling (PFC) System](https://www.sciencedirect.com/science/article/pii/S2772375525003429)**  
+Alireza Kalbasinia, Mehrnoosh Jafari, Ramin Kouhikamali, Morteza Sadeghi, Ali Nikbakht, Amir Tayefi  
+- Computational Fluid Dynamics (CFD)  
+- Entropy-Based Method  
+- K-Means Clustering  
+
+---
+
+**[CBAM-U-Net and SCT-Based Outcrop Fracture Extraction and Connectivity Characterization with Limited Labeled Data](https://www.sciencedirect.com/science/article/pii/S2949891025004154)**  
+Pei Shengjie, Fan Tingen, Shen Jinsong, Zhang Xianwen, Du Xin  
+- CBAM-U-Net (Convolution Block Attention Module U-Net)  
+- Skeleton Convolution Topology (SCT)  
+
+---
+
+**[Test case generation of onboard ATP for heavy haul railway based on hybrid whale optimization algorithm](https://www.sciencedirect.com/science/article/pii/S3050814225000032)**  
+Yanpeng Zhang, Le Yang, Yanmin Wu, Daofei Dou, Shaozhou Zhang  
+- Whale Optimization Algorithm (WOA)  
+- Q-Learning  
+- Lévy Flight  
+- Combinatorial Testing  
+
+---
+
+**[Prediction of weather and financial time-series data via a Hamiltonian-based filter-projection approach](https://www.sciencedirect.com/science/article/pii/S2950636025001306)**  
+Henrik Kiefer, Denis Furtel, Cihan Ayaz, Anton Klimek, Jan O. Daldrop, Roland R. Netz  
+- Generalized Langevin Equation (GLE)  
+- Convolution Filtering  
+- Hamiltonian Projection  
+
+---
+
+**[A protocol for assessing histological changes and biometry in Ucides cordatus (Crustacea, Decapoda, Ocypodidae) using linear indices](https://www.sciencedirect.com/science/article/pii/S002220112500120X)**  
+Wanda Batista de Jesus, Raimunda Nonata Fortes Carvalho Neta, Raimundo Nonato Diniz Costa Filho, Débora Batista Pinheiro Sousa  
+- Linear Indices Modeling  
+- Sensitivity Analysis  
+
+---
+
+**[Numerical and experimental investigation of the coupling effect of double plume discharge sources in deep-sea mining](https://www.sciencedirect.com/science/article/pii/S0029801825015677)**  
+Shihang Liu, Jianmin Yang, Haining Lu, Zhongqin Lin, Pengfei Sun, Bei Zhang  
+- Computational Fluid Dynamics (CFD)  
+
+---
+
+**[Evaluation of a novel approach to partitioning respiration and photosynthesis using eddy covariance, wavelets and conditional sampling](https://www.sciencedirect.com/science/article/pii/S0168192325003041)**  
+Pedro Henrique H. Coimbra, Benjamin Loubet, Olivier Laurent, Matthias Mauder, Bernard Heinesch, Jonathan Bitton, Nicolas Delpierre, Daniel Berveiller, Jérémie Depuydt, Pauline Buysse  
+- Wavelet Decomposition  
+- Conditional Sampling  
+
+---
+
+**[Can karst aquifer for public supply threatened by lead smelting be sustainably managed? Part II: Evidence from groundwater modeling](https://www.sciencedirect.com/science/article/pii/S0043135425009479)**  
+Bei-Yi Xu, Run-Zhi Xie, Wu-Tian Cai, Yan Zheng  
+- Groundwater Flow Modeling  
+- Particle Tracking Simulation  
+- Sustainability Index Calculation  
+
+---
+
+**[MG-OPT: intelligent multi-objective Pareto-based optimization framework and transactive energy for Hybrid Renewable Energy Systems with hydrogen integration](https://www.sciencedirect.com/science/article/pii/S0196890425005667)**  
+Hossam A. Gabber, Omar S. Hemied  
+- Mixed-Integer Linear Programming (MILP)  
+- Pareto-Based Optimization  
+
+---
+
+**[Predicting wind-driven rain amount on building facade based on machine learning models](https://www.sciencedirect.com/science/article/pii/S0360132325007887)**  
+Biao Lu, Yunjie Li, Xianqi Huang, Min Jiang, Chi Feng  
+- ASHRAE Model  
+- Support Vector Machine (SVM)  
+- Radial Basis Function Neural Network (RBF-NN)  
+- Backpropagation Neural Network (BP-NN)  
+- Random Forest  
+- Hyperparameter Optimization  
+
+---
+
+**[Are better combinations of DERs more profitable?: Combinatorial optimization for aggregation of DERs in wholesale electricity markets](https://www.sciencedirect.com/science/article/pii/S0306261925009948)**  
+Eo Jin Choi, Gab-Su Seo, Seung Wan Kim  
+- Monte Carlo Simulation  
+- Genetic Algorithm  
+
+---
+
+**[A hybrid landscape metric-enhanced cellular automata model (LE-CA) for land use/land cover change simulation: An application to coastal wetlands](https://www.sciencedirect.com/science/article/pii/S0304380025001942)**  
+Shi-Hua Li, Wei Lin  
+- Cellular Automata (CA)  
+- Artificial Neural Network (ANN)  
+- Markov Chain  
+- Genetic Algorithm  
+
+---
+
+**[Deciphering the overlooked role of dielectric exclusion in the ion selectivity of nanofiltration membranes](https://www.sciencedirect.com/science/article/pii/S0376738825006556)**  
+Shuyi Xu, Ruiqi Zheng, Zhiying Li, Xin Tong, Xin Yu, Yangying Zhao  
+- Donnan-Steric Pore Model with Dielectric Exclusion (DSPM-DE)  
+- Steric, Electric and Dielectric Exclusion (SEDE) Model  
+
+---
+
+**[Calibration of the FullCAM model for Australian native vegetation](https://www.sciencedirect.com/science/article/pii/S0304380025001899)**  
+David I. Forrester et al.  
+- Full Carbon Accounting Model (FullCAM)  
+
+---
+
+**[Optimization of nitrogen removal through an intelligent automated operational strategy based on real-time process simulation in an A2O membrane bioreactor](https://www.sciencedirect.com/science/article/pii/S0301479725022091)**  
+Hyuck Kwon, Yuchan Park, Seonju Kim, Hojoon Yun, Jaeho Bae  
+- Activated Sludge Model (ASM 2d)  
+- Machine Learning  
+- Multi-parameter Process Control Optimization  
+
+---
+
+**[Demand response control of heating system in office building based on adapted neutral temperature in hot summer and cold winter climate zone of China](https://www.sciencedirect.com/science/article/pii/S0360544225027987)**  
+Chen Li, Yong Cheng, Risto Kosonen, Juha Jokisalo, Yuxin Wu, et al.  
+- Multi-objective Model Predictive Control (MPC)  
+- Non-dominated Sorting Genetic Algorithm II (NSGA-II)  
+
+---
+
+**[Impact of synergy among university dormitory design elements on the diffusion of air-conditioning anthropogenic heat](https://www.sciencedirect.com/science/article/pii/S0378778825007650)**  
+Zhichao Yu, Ziyu Tong, Zihao Wu, Jinpei Yang, Zhonggao Chen  
+- Computational Fluid Dynamics (CFD)  
+
+---
+
+**[Population retention factors for sparsely populated regions: Evidence from the Northern Territory of Australia](https://www.sciencedirect.com/science/article/pii/S0743016725001846)**  
+Andrew Taylor, Maneka Jayasinghe, Fiona Shalley  
+- Probit Modeling  
+
+---
+
+**[The microbial network exhibits higher complexity in the rhizosphere than in bulk soils along elevational gradients in the alpine forests](https://www.sciencedirect.com/science/article/pii/S0929139325004020)**  
+Dungang Wang, Shaojun Deng, Han Yang, Na Li, Qiuhong Feng, Jia Liu, Huajun Yin  
+- Random Forest Model  
+
+---
+
+**[TPM-EViT: Tri-Probability Map-Enhanced Vision Transformer Framework for UAV Object Detection](https://www.sciencedirect.com/science/article/pii/S0950705125010287)**  
+Weiye Wang, Qing Li  
+- Vision Transformer (ViT)  
+- Tri-Probability Maps  
+- Feature Pyramid Network  
+
+---
+
+**[A morphological information-guided detection network for various morphological objects in remote sensing imagery](https://www.sciencedirect.com/science/article/pii/S0952197625013533)**  
+Xiao Huang, Jiwei Hu, Quan Liu, Guangpeng Zhao, Qiwen Jin  
+- Frequency-Domain Analysis  
+- Convolutional Neural Network (CNN)  
+- Morphological Feature Extraction  
+
+---
+
+**[Multivariate time series forecasting based on time-frequency transform mixed convolution](https://www.sciencedirect.com/science/article/pii/S0950705125009578)**  
+Jiaxin Dou, Yaling Xun, Haifeng Yang, Jianghui Cai, Yanfeng Li, Shuo Han  
+- Discrete Cosine Transform (DCT)  
+- Continuous Wavelet Transform (CWT)  
+- Convolutional Neural Network (CNN)  
+
+---
+
+**[Modeling of smart inverter functions executed by photovoltaic systems for power flow analysis](https://www.sciencedirect.com/science/article/pii/S037877962500464X)**  
+Miguel F. Sampaio, Cristhian G.R. Oliveira, João B.A. London  
+- Newton–Raphson Power Flow Algorithm  
+
+---
+
+**[Optimal planning of solar PV-based electric vehicle charging stations empowered by energy storage system](https://www.sciencedirect.com/science/article/pii/S0960148125013771)**  
+Zafer Ozturk, Alpaslan Demirci, Musa Terkes, Recep Yumurtaci  
+- Optimization Modeling  
+- Techno-Economic Analysis  
+
+---
+
+**[Capacity of corroded steel beam-column substructure in column loss: Test, parametric analysis and design-oriented method](https://www.sciencedirect.com/science/article/pii/S0950061825024432)**  
+Li-Kui Cai, Ping Tan, Jing-Zhou Zhang, Zhi-Wei Yu  
+- Finite Element Analysis (FEA)  
+- Fractional Brownian Motion Modeling  
+
+---
+
+**[The driving effect of crystal phase on boosting the property of MnO2 for VOCs mixture destruction](https://www.sciencedirect.com/science/article/pii/S0925838825032384)**  
+Juan Lei, Baobao Bai, Liangmu Pei, Ying Huang, Xiaoli Ren, Lijun Cheng, Shuang Wang, Jiancheng Wang  
+- Langmuir–Hinshelwood (L-H) Mechanism  
+- Mars–van Krevelen (MvK) Mechanism  
 
