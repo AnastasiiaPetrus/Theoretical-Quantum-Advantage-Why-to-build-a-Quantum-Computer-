@@ -1306,105 +1306,117 @@ Husam A. Neamah et al.
 
 ---
 
-
-
-**Mahtab Shahin et al., _Towards Smarter Maritime Security: Apriori Algorithm Optimization in Serverless Environments_**  
+**[Towards Smarter Maritime Security: Apriori Algorithm Optimization in Serverless Environments](https://www.sciencedirect.com/science/article/pii/S1877050925007951)**  
+Mahtab Shahin et al.  
 - Apriori Algorithm  
-- AES-256 (encryption; not an algorithm for data analysis, but security)
+- AES-256 (encryption; not an algorithm for data analysis, but security)  
 
 ---
 
-**Jian Xiao et al., _A deep reinforcement learning based distributed multi-UAV dynamic area coverage algorithm for complex environment_**  
+**[A deep reinforcement learning based distributed multi-UAV dynamic area coverage algorithm for complex environment](https://www.sciencedirect.com/science/article/pii/S0925231224006751)**  
+Jian Xiao et al.  
 - Soft Actor-Critic (SAC; RL algorithm)  
 
 ---
 
-**Yanfeng Zhou et al., _Modeling and identification of hysteresis of marine damper considering shock environment based on evolutionary sparrow search algorithm_**  
+**[Modeling and identification of hysteresis of marine damper considering shock environment based on evolutionary sparrow search algorithm](https://www.sciencedirect.com/science/article/pii/S0029801824023333)**  
+Yanfeng Zhou et al.  
 - Radial Basis Function Neural Network (RBFNN)  
 - Sparrow Search Algorithm  
-- Differential Evolution (within hybrid)
+- Differential Evolution (within hybrid)  
 
 ---
 
-**Kavita R․ Shelke, Subhash K․ Shinde, _SAOA: Skill archimedes optimization algorithm based privacy enhancement for blockchain storage optimization in medical IoT environment_**  
+**[SAOA: Skill archimedes optimization algorithm based privacy enhancement for blockchain storage optimization in medical IoT environment](https://www.sciencedirect.com/science/article/pii/S0045790625002137)**  
+Kavita R. Shelke, Subhash K. Shinde  
 - Advanced Encryption Standard (AES)  
 - Fuzzy Clustering  
 
 ---
 
-**Liangang Yin et al., _A novel robust algorithm for path planning of multiple autonomous underwater vehicles in the environment with ocean currents_**  
+**[A novel robust algorithm for path planning of multiple autonomous underwater vehicles in the environment with ocean currents](https://www.sciencedirect.com/science/article/pii/S0029801824025988)**  
+Liangang Yin et al.  
 - Min–Max Multiple Traveling Salesman Problem (MTSP)  
-- Cooperative Genetic Algorithm
+- Cooperative Genetic Algorithm  
 
 ---
 
-**Huiwu Huang et al., _IPHM: Incremental periodic high-utility mining algorithm in dynamic and evolving data environments_**  
+**[IPHM: Incremental periodic high-utility mining algorithm in dynamic and evolving data environments](https://www.sciencedirect.com/science/article/pii/S2405844024137929)**  
+Huiwu Huang et al.  
 - Incremental Utility-List Structure  
 
 ---
 
-**Jia Tian, Ryozo Ooka, _Prediction of building-scale solar energy potential in urban environment based on parametric modelling and machine learning algorithms_**  
+**[Prediction of building-scale solar energy potential in urban environment based on parametric modelling and machine learning algorithms](https://www.sciencedirect.com/science/article/pii/S2210670724008795)**  
+Jia Tian, Ryozo Ooka  
 - Parametric Modelling  
-- Machine Learning Algorithms (not specified, likely includes regression/ANN/ensemble methods)
+- Machine Learning Algorithms (not specified, likely includes regression/ANN/ensemble methods)  
 
 ---
 
-**Maomao Zhang et al., Predicting the impacts of urban development on urban thermal environment using machine learning algorithms in Nanjing, China**  
+**[Predicting the impacts of urban development on urban thermal environment using machine learning algorithms in Nanjing, China](https://www.sciencedirect.com/science/article/pii/S0301479724005462)**  
+Maomao Zhang et al.  
 - CA-ANN (Cellular Automata–Artificial Neural Network)  
 - ANN (Artificial Neural Network)  
 
 ---
 
-**Yida Ning et al., A meta-heuristic algorithm combined with deep reinforcement learning for multi-sensor positioning layout problem in complex environment**  
+**[A meta-heuristic algorithm combined with deep reinforcement learning for multi-sensor positioning layout problem in complex environment](https://www.sciencedirect.com/science/article/pii/S0957417424024229)**  
+Yida Ning et al.  
 - Deep Q Network (DQN)  
 
 ---
 
-**Lixin Lyu, Fan Yang, MMPA: A modified marine predator algorithm for 3D UAV path planning in complex environments with multiple threats**  
+**[MMPA: A modified marine predator algorithm for 3D UAV path planning in complex environments with multiple threats](https://www.sciencedirect.com/science/article/pii/S0957417424018220)**  
+Lixin Lyu, Fan Yang  
 - Differential Evolution (used in mutation strategy)  
 - Cauchy Mutation Operator (randomization)  
 
 ---
 
-**Mingyuan Zhai et al., Special Vehicle Target Detection and Tracking Based on Virtual Simulation Environment and YOLOv5-Block+DeepSort Algorithm**  
+**[Special vehicle target detection and tracking based on virtual simulation environment and YOLOv5-Block + DeepSort algorithm](https://www.sciencedirect.com/org/science/article/pii/S1546221824007689)**  
+Mingyuan Zhai et al.  
 - YOLOv5  
 - DeepSort  
 - Efficient Channel Attention Network (ECA-Net)  
 
 ---
 
-
-
-
-**Mahtab Shahin et al., Towards Smarter Maritime Security: Apriori Algorithm Optimization in Serverless Environments**  
+**[Towards Smarter Maritime Security: Apriori Algorithm Optimization in Serverless Environments](https://www.sciencedirect.com/science/article/pii/S1877050925007951)**  
+Mahtab Shahin et al.  
 - Apriori Algorithm  
 
 ---
 
-**Yanfeng Zhou et al., Modeling and identification of hysteresis of marine damper considering shock environment based on evolutionary sparrow search algorithm**  
+**[Modeling and identification of hysteresis of marine damper considering shock environment based on evolutionary sparrow search algorithm](https://www.sciencedirect.com/science/article/pii/S0029801824023333)**  
+Yanfeng Zhou et al.  
 - Radial Basis Function Neural Network (RBFNN)  
 - Differential Evolution (within hybrid)  
 
 ---
 
-**Kavita R․ Shelke, Subhash K․ Shinde, SAOA: Skill archimedes optimization algorithm based privacy enhancement for blockchain storage optimization in medical IoT environment**  
+**[SAOA: Skill archimedes optimization algorithm based privacy enhancement for blockchain storage optimization in medical IoT environment](https://www.sciencedirect.com/science/article/pii/S0045790625002137)**  
+Kavita R. Shelke, Subhash K. Shinde  
 - Advanced Encryption Standard (AES)  
 - Bayesian fuzzy clustering  
 
 ---
 
-**Liangang Yin et al., A novel robust algorithm for path planning of multiple autonomous underwater vehicles in the environment with ocean currents**  
+**[A novel robust algorithm for path planning of multiple autonomous underwater vehicles in the environment with ocean currents](https://www.sciencedirect.com/science/article/pii/S0029801824025988)**  
+Liangang Yin et al.  
 - Min–Max Multiple Traveling Salesmen Problem (MTSP)  
 - Cooperative Genetic Algorithm  
 
 ---
 
-**Bo Li et al., Research on ship navigation strategy in dynamic sea ice environments based on flexibility velocity obstacles algorithm**  
+**[Research on ship navigation strategy in dynamic sea ice environments based on flexibility velocity obstacles algorithm](https://www.sciencedirect.com/science/article/pii/S0029801824021814)**  
+Bo Li et al.  
 - Velocity Obstacles Algorithm  
 
 ---
 
-**Aaishwarya S. Bajaj et al., Sustainable 4D TSP to reduce carbon emission using reference point MOQO Jaya algorithm in uncertain environment**  
+**[Sustainable 4D TSP to reduce carbon emission using reference point MOQO Jaya algorithm in uncertain environment](https://www.sciencedirect.com/science/article/pii/S0959652624039362)**  
+Aaishwarya S. Bajaj et al.  
 - Jaya Algorithm  
 - Fuzzy Programming Technique (FPT)  
 - Genetic Algorithm (GA) (for comparison)  
@@ -1412,158 +1424,179 @@ Husam A. Neamah et al.
 
 ---
 
-**Ranjit Kumar Behera et al., An Intelligent Completion Time Aware Task Scheduling (CTATS) Algorithm for Fog Computing Environment for Delay Sensitive IoT Applications**  
+**[An Intelligent Completion Time Aware Task Scheduling (CTATS) Algorithm for Fog Computing Environment for Delay Sensitive IoT Applications](https://www.sciencedirect.com/science/article/pii/S1877050925015406)**  
+Ranjit Kumar Behera et al.  
 - QBT (Q-learning Based Technique, for comparison)  
 - Prioritized Scheduled Mechanism (for comparison)  
 
 ---
 
-**Zhe Yue et al., Vehicle-mounted GNSS navigation and positioning algorithm considering signal obstruction and fuzzy logic in urban environment**  
+**[Vehicle-mounted GNSS navigation and positioning algorithm considering signal obstruction and fuzzy logic in urban environment](https://www.sciencedirect.com/science/article/pii/S0263224125002787)**  
+Zhe Yue et al.  
 - Image Segmentation Algorithm  
 - Nearest Pixel Point Principle  
 - Fuzzy Logic (Weighted Comprehensive Assessment)  
 
 ---
 
-**Yong Wang, An intelligent path planning algorithm for dynamic football training environments**  
+**[An intelligent path planning algorithm for dynamic football training environments](https://www.sciencedirect.com/science/article/pii/S0957417425003914)**  
+Yong Wang  
 - Artificial Bee Colony Optimization (ABC) (Intelligent Ant Colony Optimization, IACO)  
 
 ---
 
-**Hend Khalid Alkahtani et al., Leveraging ensemble learning with metaheuristic optimization algorithms for an intelligent cyberattack defense framework in an IoT environment**  
-- Cat Swarm Optimization (CSO)  
-- Artificial Bee Colony (ABC)  
-- Min-max normalization (preprocessing)  
-
----
-
-**Jiabin Yu et al., A path planning algorithm for unmanned surface vessel with pose constraints in an unknown environment**  
-- D*Lite Algorithm  
-- Dubins Search Tree Algorithm  
-- Reeds-Shepp Curves  
-
----
-
-**Chao Liu, Di Liu, Deep reinforcement learning algorithm based on multi-agent parallelism and its application in game environment**  
-- Deep Q-Network (DQN)  
-- Actor-Critic Algorithm  
+**[Deep reinforcement learning algorithm based on multi-agent parallelism and its application in game environment](https://www.sciencedirect.com/science/article/pii/S1875952124000387)**  
+Chao Liu, Di Liu  
+- Deep Q‑Network (DQN)  
+- Actor‑Critic Algorithm  
 - Policy Gradient Methods  
 - Convolutional Neural Network (CNN)  
 
 ---
 
-**Husam A. Neamah et al., Optimizing autonomous navigation in unknown environments: A novel trap avoiding vector field histogram algorithm VFH+T**  
+**[Leveraging ensemble learning with metaheuristic optimization algorithms for an intelligent cyberattack defense framework in an IoT environment](https://www.sciencedirect.com/science/article/pii/S1110016825007550)**  
+Hend Khalid Alkahtani et al.  
+- Cat Swarm Optimization (CSO)  
+- Artificial Bee Colony (ABC)  
+- Min‑max normalization (preprocessing)  
+
+---
+
+**[A path planning algorithm for unmanned surface vessel with pose constraints in an unknown environment](https://www.sciencedirect.com/science/article/pii/S2092678224000219)**  
+Jiabin Yu et al.  
+- D*Lite Algorithm  
+- Dubins Search Tree Algorithm  
+- Reeds‑Shepp Curves  
+
+---
+
+**[Optimizing autonomous navigation in unknown environments: A novel trap avoiding vector field histogram algorithm VFH+T](https://www.sciencedirect.com/science/article/pii/S2590123024008806)**  
+Husam A. Neamah et al.  
 - Vector Field Histogram Plus (VFH+)  
-- Trap Recognition/Trap Avoidance Mechanisms  
-- Geometric Rules for Path Planning  
+- Trap Recognition / Trap Avoidance Mechanisms  
+- Geometric Rules for Path Planning :contentReference[oaicite:0]{index=0}  
 
 ---
 
-
-
-**Xiaohong Li et al., Path planning and obstacle avoidance control of UUV based on an enhanced A* algorithm and MPC in dynamic environment**  
+**[Path planning and obstacle avoidance control of UUV based on an enhanced A* algorithm and MPC in dynamic environment](https://www.sciencedirect.com/science/article/abs/pii/S0029801824009211)**  
+Xiaohong Li et al.  
 - Enhanced A* Algorithm  
-- Model Predictive Control (MPC)  
+- Model Predictive Control (MPC) :contentReference[oaicite:1]{index=1}  
 
 ---
 
-**Mengyuan He et al., Machine learning-based assessment of thermal comfort for the elderly in warm environments: Combining the XGBoost algorithm and human body exergy analysis**  
+**[Machine learning-based assessment of thermal comfort for the elderly in warm environments: Combining the XGBoost algorithm and human body exergy analysis](https://www.sciencedirect.com/science/article/abs/pii/S1290072924006410)**  
+Mengyuan He et al.  
 - XGBoost  
 - Gradient Boosting Decision Tree (GBDT)  
-- AdaBoost  
+- AdaBoost :contentReference[oaicite:2]{index=2}  
 
 ---
 
-**Ezhilarasie Rajapackiyam et al., An efficient computation offloading in edge environment using genetic algorithm with directed search techniques for IoT applications**  
+**[An efficient computation offloading in edge environment using genetic algorithm with directed search techniques for IoT applications](https://www.sciencedirect.com/science/article/abs/pii/S0167739X24001523)**  
+Ezhilarasie Rajapackiyam et al.  
 - Genetic Algorithm (GA)  
-- Directed Search Operators  
+- Directed Search Operators :contentReference[oaicite:3]{index=3}  
 
 ---
 
-**Varatharajan Nainamalai et al., Automated algorithm for medical data structuring, and segmentation using artificial intelligence within secured environment for dataset creation**  
+**[Automated algorithm for medical data structuring and segmentation using artificial intelligence within secured environment for dataset creation](https://www.sciencedirect.com/science/article/pii/S2352047724000376)**  
+Varatharajan Nainamalai et al.  
 - Automated Directory Creation Algorithm (custom, AI-based)  
-- Segmentation using AI Model  
+- Segmentation using AI Model :contentReference[oaicite:4]{index=4}  
 
 ---
 
-**Mehrtash Eskandaripour, Shahrokh Soltaninia, Optimal low-impact development Facility Design in Urban Environments: A multidimensional optimization approach employing slime mould and nondominated sorting genetic algorithms**  
+**[Optimal low-impact development facility design in urban environments: A multidimensional optimization approach employing slime mould and nondominated sorting genetic algorithms](https://www.sciencedirect.com/science/article/abs/pii/S2212095524001597)**  
+Mehrtash Eskandaripour, Shahrokh Soltaninia  
 - Slime Mould Algorithm (SMA)  
-- Nondominated Sorting Genetic Algorithm II (NSGA-II)  
+- Nondominated Sorting Genetic Algorithm II (NSGA-II) :contentReference[oaicite:5]{index=5}  
 
 ---
 
-**Zhongqi Yu et al., Optimization framework for daylight and thermal environment of retractable roof natatoriums based on generative adversarial network and genetic algorithm**  
+**[Optimization framework for daylight and thermal environment of retractable roof natatoriums based on generative adversarial network and genetic algorithm](https://www.sciencedirect.com/science/article/pii/S0378778824008119)**  
+Zhongqi Yu et al.  
 - Genetic Algorithm  
-- Non-dominated Sorting Genetic Algorithm (NSGA)  
-- Generative Adversarial Network (GAN)  
+- Non‑dominated Sorting Genetic Algorithm (NSGA)  
+- Generative Adversarial Network (GAN) :contentReference[oaicite:0]{index=0}  
 
 ---
 
-**Jiahui Tong et al., Noncontact full-field spatial-temporal deformation measurement of rockfall prevention structure with deep learning-based optic flow algorithm under complex Environments**  
-- Deep Learning-Based Optical Flow Algorithm  
+**[Noncontact full‑field spatial‑temporal deformation measurement of rockfall prevention structure with deep learning‑based optic flow algorithm under complex environments](https://www.sciencedirect.com/science/article/abs/pii/S0888327025005217)**  
+Jiahui Tong et al.  
+- Deep Learning‑Based Optical Flow Algorithm  
 - Motion Amplitude Analysis  
-- Boundary Gradient Detection  
+- Boundary Gradient Detection :contentReference[oaicite:1]{index=1}  
 
 ---
 
-**Nattapong Promkaew et al., Development of metaheuristic algorithms for efficient path planning of autonomous mobile robots in indoor environments**  
+**[Development of metaheuristic algorithms for efficient path planning of autonomous mobile robots in indoor environments](https://www.sciencedirect.com/science/article/pii/S2590123024005358)**  
+Nattapong Promkaew et al.  
 - Improved Particle Swarm Optimization (IPSO)  
 - Improved Grey Wolf Optimizer (IGWO)  
 - Artificial Bee Colony (ABC)  
-- A* Algorithm (for comparison, baseline in ROS2)  
+- A* Algorithm (for comparison, baseline in ROS2) :contentReference[oaicite:2]{index=2}  
 
 ---
 
-**Shuaibo Wang et al., Development of China's atmospheric environment monitoring satellite CO2 IPDA lidar retrieval algorithm based on airborne campaigns**  
-- CO2 Retrieval Algorithm (IPDA Lidar Retrieval, custom for satellite)  
+**[Development of China's atmospheric environment monitoring satellite CO₂ IPDA lidar retrieval algorithm based on airborne campaigns](https://www.sciencedirect.com/science/article/pii/S0034425724004991)**  
+Shuaibo Wang et al.  
+- CO₂ Retrieval Algorithm (IPDA Lidar Retrieval, custom for satellite) :contentReference[oaicite:0]{index=0}  
 
 ---
 
-**Wenchao Ji et al., A hybrid PSO-WO algorithm for identification of irregular inner wall defects of a body in a thermal environment**  
+**[A hybrid PSO‑WO algorithm for identification of irregular inner wall defects of a body in a thermal environment](https://www.sciencedirect.com/science/article/pii/S0955799724004843)**  
+Wenchao Ji et al.  
 - Particle Swarm Optimization (PSO)  
 - Whale Optimization Algorithm (WO)  
-- Hybrid PSO-WO Algorithm  
-- Radial Integral Boundary Element Method (RIBEM)  
+- Hybrid PSO‑WO Algorithm  
+- Radial Integral Boundary Element Method (RIBEM) :contentReference[oaicite:1]{index=1}  
 
 ---
 
-**Jingkun Fan, Liangdong Qu, Innovative differential evolution algorithm with double-layer coding for autonomous underwater vehicles path planning in complex environments**  
+**[Innovative differential evolution algorithm with double-layer coding for autonomous underwater vehicles path planning in complex environments](https://www.sciencedirect.com/science/article/pii/S0029801824011442)**  
+Jingkun Fan, Liangdong Qu  
 - Differential Evolution (DE)  
 - Adaptive Elite Neighborhood Learning (AENL)  
-- Rank-Guided Crossover Probability Selection (RCPS)  
-- Distance-Greedy Selection (DGS)  
+- Rank‑Guided Crossover Probability Selection (RCPS)  
+- Distance‑Greedy Selection (DGS) :contentReference[oaicite:2]{index=2}  
 
 ---
 
-**Ning Dai et al., An AUV collision avoidance algorithm in unknown environment with multiple constraints**  
+**[An AUV collision avoidance algorithm in unknown environment with multiple constraints](https://www.sciencedirect.com/science/article/pii/S0029801824001835)**  
+Ning Dai et al.  
 - Dubins Improved Hybrid A* (DIHA*)  
-- Fuzzy Heading Avoidance (FHA) (Fuzzy Controller)  
+- Fuzzy Heading Avoidance (FHA) (Fuzzy Controller) :contentReference[oaicite:3]{index=3}  
 
 ---
 
-**Gilbert Larochelle Martin, Danielle Monfet, Comparison of EnergyPlus inside surfaces convective heat transfer coefficients algorithms for energy modelling of high-density controlled environment agriculture**  
+**[Comparison of EnergyPlus inside surfaces convective heat transfer coefficients algorithms for energy modelling of high-density controlled environment agriculture](https://www.sciencedirect.com/science/article/pii/S0378778824006844)**  
+Gilbert Larochelle Martin, Danielle Monfet  
 - Simple Algorithm (for CHTC, EnergyPlus)  
 - TARP Algorithm (for CHTC, EnergyPlus)  
 - ASTMC1340 Algorithm (for CHTC, EnergyPlus)  
 - Adaptive Convection Algorithm  
-- Computational Fluid Dynamics (CFD) as reference  
+- Computational Fluid Dynamics (CFD) as reference :contentReference[oaicite:0]{index=0}  
 
 ---
 
-**Hongde Qin et al., An environment information-driven online Bi-level path planning algorithm for underwater search and rescue AUV**  
+**[An environment information-driven online bi-level path planning algorithm for underwater search and rescue AUV](https://www.sciencedirect.com/science/article/pii/S0029801824008539)**  
+Hongde Qin et al.  
 - Improved Ant Colony Algorithm  
 - Global Path Planning Algorithm (custom, with coverage search)  
 
 ---
 
-**Xin Weng et al., Improved Mask R-CNN algorithm: Multi-ore detection and positioning based multi-sensor fusion in complex field environment**  
+**[Improved Mask R-CNN algorithm: Multi‑ore detection and positioning based multi‑sensor fusion in complex field environment](https://www.sciencedirect.com/science/article/pii/S2590123024007424)**  
+Xin Weng et al.  
 - Mask R-CNN (Deep Learning)  
 - Monocular Vision Algorithms  
 - LiDAR-Camera Data Fusion  
 
 ---
 
-**Mrinmay Pathak et al., Selection of best location for household waste recycling plants using novel information measures and algorithm in fermatean fuzzy environment**  
+**[Selection of best location for household waste recycling plants using novel information measures and algorithm in fermatean fuzzy environment](https://www.sciencedirect.com/science/article/pii/S0957417424007206)**  
+Mrinmay Pathak et al.  
 - Entropy Measure (EM)  
 - Step-wise Weight Assessment Ratio Analysis (SWARA)  
 - Weighted Aggregated Sum Product Assessment (WASPAS)  
@@ -1573,162 +1606,189 @@ Husam A. Neamah et al.
 
 ---
 
-**Biao Zhang et al., Minimum dose walking path planning in a nuclear radiation environment based on a modified A* algorithm**  
+**[Minimum dose walking path planning in a nuclear radiation environment based on a modified A* algorithm](https://www.sciencedirect.com/science/article/pii/S0029549324001390)**  
+Biao Zhang et al.  
 - Modified A* Algorithm  
 - Probabilistic Roadmap (PRM) Algorithm (for comparison)  
 - Traditional A* Algorithm (for comparison)  
 
 ---
 
-**Diego Lopez-Pajares et al., MDTA: An efficient, scalable and fast Multiple Disjoint Tree Algorithm for dynamic environments**  
-- Multiple Disjoint Tree Algorithm (MDTA)  
+**[MDTA: An efficient, scalable and fast Multiple Disjoint Tree Algorithm for dynamic environments](https://www.sciencedirect.com/science/article/pii/S0140366424003360)**  
+Diego Lopez-Pajares et al.  
+- Multiple Disjoint Tree Algorithm (MDTA) :contentReference[oaicite:1]{index=1}  
 
 ---
 
-**P. Jayalakshmi, S.S. Subashka Ramesh, Multi-strategy improved sand cat optimization algorithm-based workflow scheduling mechanism for heterogeneous edge computing environment**  
+**[Multi-strategy improved sand cat optimization algorithm-based workflow scheduling mechanism for heterogeneous edge computing environment](https://www.sciencedirect.com/science/article/abs/pii/S2210537924000593)**  
+P. Jayalakshmi, S.S. Subashka Ramesh  
 - Multi-Strategy Improved Sand Cat Swarm Optimisation Algorithm (MSISCSOA)  
 - Sand Cat Optimization Algorithm (SCOA)  
 - Ant Colony Optimization Algorithm (IACOAWS, for comparison)  
 - Quadratic Penalty Function-based Particle Swarm Optimization Algorithm (QPF-PSOA, for comparison)  
 - Biogeography Optimization (BBO, for comparison)  
-- Differential Evolution-based Task Clustering and Scheduling (DETCS, for comparison)
+- Differential Evolution-based Task Clustering and Scheduling (DETCS, for comparison) :contentReference[oaicite:0]{index=0}  
 
-- ---
+---
 
-**Zohaib Khan et al., Deep learning improved YOLOv8 algorithm: Real-time precise instance segmentation of crown region orchard canopies in natural environment**  
+**[Deep learning improved YOLOv8 algorithm: Real-time precise instance segmentation of crown region orchard canopies in natural environment](https://www.sciencedirect.com/science/article/abs/pii/S0168169924005593)**  
+Zohaib Khan et al.  
 - YOLOv8 (deep learning)  
 - Dilated Convolution  
 - GELU Activation Function  
 - Adaptive Gradient Algorithm (AdaGrad)  
-- ReduceLROnPlateau Scheduler  
+- ReduceLROnPlateau Scheduler :contentReference[oaicite:1]{index=1}  
 
 ---
 
-**Junyeong An et al., Decision support algorithm for efficient environmental impact assessments: Focusing on aquatic environment assessment in South Korea**  
+**[Decision support algorithm for efficient environmental impact assessments: Focusing on aquatic environment assessment in South Korea](https://www.sciencedirect.com/science/article/abs/pii/S0195925523000331)**  
+Junyeong An et al.  
 - Workflow Algorithm (custom decision support workflow)  
 - Subroutine Algorithms for Soil Runoff Reduction  
-- Subroutine Algorithms for Wastewater Treatment  
+- Subroutine Algorithms for Wastewater Treatment :contentReference[oaicite:2]{index=2}  
 
 ---
 
-**Dileep Kumar Sajnani et al., Secure workflow scheduling algorithm utilizing hybrid optimization in mobile edge computing environments**  
+**[Secure workflow scheduling algorithm utilizing hybrid optimization in mobile edge computing environments](https://www.sciencedirect.com/science/article/abs/pii/S0140366424002767)**  
+Dileep Kumar Sajnani et al.  
 - Feedback Artificial Remora Optimization (FARO)  
 - Feedback Artificial Tree (FAT)  
-- Remora Optimization Algorithm (ROA)  
+- Remora Optimization Algorithm (ROA) :contentReference[oaicite:3]{index=3}  
 
 ---
 
-**Zhaofeng Song et al., A novel path planning algorithm for ships in dynamic current environments**  
+**[A novel path planning algorithm for ships in dynamic current environments](https://www.sciencedirect.com/science/article/abs/pii/S0029801823024757)**  
+Zhaofeng Song et al.  
 - Improved A* Algorithm (A*-DCE)  
 - Attractive/Repulsive Field (cost estimation)  
 - B-spline Curve (for path smoothing)  
-- NSGA-II (Non-dominated Sorting Genetic Algorithm II)  
+- NSGA-II (Non-dominated Sorting Genetic Algorithm II) :contentReference[oaicite:4]{index=4}  
 
 ---
 
-**Chenglin Wang et al., Litchi picking points localization in natural environment based on the Litchi-YOSO model and branch morphology reconstruction algorithm**  
+
+**[Litchi picking points localization in natural environment based on the Litchi-YOSO model and branch morphology reconstruction algorithm](https://www.sciencedirect.com/science/article/abs/pii/S0168169924008640)**  
+Chenglin Wang et al.  
 - Litchi-YOSO (deep learning segmentation)  
 - Branch Morphology Reconstruction Algorithm  
 - Prim’s Algorithm  
 - Longest Root Path Algorithm  
 - Harris Corner Detection  
-- Sliding Window Algorithm  
+- Sliding Window Algorithm :contentReference[oaicite:0]{index=0}  
 
 ---
 
-**Hegang Ji et al., Study on stress prediction model of EH36 steel in polar environments: Optimization of basis functions using adaptive genetic algorithm and simulated annealing**  
+**[Study on stress prediction model of EH36 steel in polar environments: Optimization of basis functions using adaptive genetic algorithm and simulated annealing](https://www.sciencedirect.com/science/article/pii/S0141118724005236)**  
+Hegang Ji et al.  
 - Adaptive Genetic Algorithm  
-- Simulated Annealing  
+- Simulated Annealing :contentReference[oaicite:1]{index=1}  
 
 ---
 
-**Junyan Sun et al., Robust optimization of a closed-loop supply chain network based on an improved genetic algorithm in an uncertain environment**  
+**[Robust optimization of a closed-loop supply chain network based on an improved genetic algorithm in an uncertain environment](https://www.sciencedirect.com/science/article/abs/pii/S0360835224001189)**  
+Junyan Sun et al.  
 - Minimum Spanning Tree Algorithm  
-- Two-layer Adaptive Genetic Algorithm (Prim-DMGA)  
+- Two-layer Adaptive Genetic Algorithm (Prim-DMGA) :contentReference[oaicite:2]{index=2}  
 
 ---
 
-**Erlianasha Samsuria et al., Adaptive fuzzy-genetic algorithm operators for solving mobile robot scheduling problem in job-shop FMS environment**  
+**[Adaptive fuzzy-genetic algorithm operators for solving mobile robot scheduling problem in job-shop FMS environment](https://www.sciencedirect.com/science/article/abs/pii/S0921889024000666)**  
+Erlianasha Samsuria et al.  
 - Genetic Algorithm (GA)  
-- Adaptive Fuzzy Logic (for GA operators)  
+- Adaptive Fuzzy Logic (for GA operators) :contentReference[oaicite:3]{index=3}  
 
 ---
 
-**Bo Li, Yayi Huang, Portfolio optimization with mental accounts under uncertain random environment and butterfly optimization algorithm with adaptive strategies**  
-- Improved Butterfly Optimization Algorithm (IBOA)  
+**[Portfolio optimization with mental accounts under uncertain random environment and butterfly optimization algorithm with adaptive strategies](https://www.sciencedirect.com/science/article/abs/pii/S1568494624004940)**  
+Bo Li, Yayi Huang  
+- Improved Butterfly Optimization Algorithm (IBOA) :contentReference[oaicite:4]{index=4}  
 
 ---
 
-**Qihong Tan, Research on sustainable carrying capacity of urban tourism environment based on multi objective optimization algorithm**  
+
+**[Research on sustainable carrying capacity of urban tourism environment based on multi objective optimization algorithm](link)**  
+Qihong Tan  
 - Improved NSGA-II (Non-dominated Sorting Genetic Algorithm II)  
 
 ---
-
-**Sepideh Taghikhani et al., A hybrid modified PSO algorithm for the inverse p-median location problem in fuzzy random environment**  
+**[A hybrid modified PSO algorithm for the inverse p-median location problem in fuzzy random environment](https://www.sciencedirect.com/science/article/pii/S0304397524001890)**  
+Sepideh Taghikhani et al.  
 - Hybrid Modified Particle Swarm Optimization (PSO)  
 
 ---
 
-**Shravan Murthy et al., Reducing unnecessary free thyroid hormone testing by the reinforcement of a reflexive algorithm in an outpatient environment**  
+**[Reducing unnecessary free thyroid hormone testing by the reinforcement of a reflexive algorithm in an outpatient environment](https://www.sciencedirect.com/science/article/pii/S0009912025000487)**  
+Shravan Murthy et al.  
 - Reflex Testing Algorithm (clinical workflow, rule-based)  
 
 ---
 
-**Yuyan Liu et al., Space debris environment engineering model 2019: Algorithms improvement and comparison with ORDEM 3.1 and MASTER-8**  
+**[Space debris environment engineering model 2019: Algorithms improvement and comparison with ORDEM 3.1 and MASTER-8](https://www.sciencedirect.com/science/article/pii/S1000936123004193)**  
+Yuyan Liu et al.  
 - Variable Step-Size Orbital Propagating Algorithm  
 - Spatial Density Algorithm (J2 perturbation)  
 - Spacecraft Flux Algorithm  
 
 ---
 
-**Miyombo Ernest Miyombo et al., Optimal path planning in a real-world radioactive environment: A comparative study of A-star and Dijkstra algorithms**  
+**[Optimal path planning in a real-world radioactive environment: A comparative study of A-star and Dijkstra algorithms](https://www.sciencedirect.com/science/article/pii/S0029549324001390)**  
+Miyombo Ernest Miyombo et al.  
 - A* Algorithm  
 - Dijkstra Algorithm  
 
 ---
 
-**Xue Du et al., A novel multi-source navigation algorithm based on factor graph in complex underwater environments of polar regions**  
+**[A novel multi-source navigation algorithm based on factor graph in complex underwater environments of polar regions](https://www.sciencedirect.com/science/article/pii/S0029801824008539)**  
+Xue Du et al.  
 - Factor Graph Algorithm (with confidence function, sliding window, inertial navigation)  
 
 ---
 
-**Bin Cai, Dongsheng Wang, Prediction of psychological intervention for college students in digital entertainment media environment based on artificial intelligence and parallel computing algorithms**  
+
+**[Prediction of psychological intervention for college students in digital entertainment media environment based on artificial intelligence and parallel computing algorithms](https://www.sciencedirect.com/science/article/pii/S187595212400226X)**  
+Bin Cai, Dongsheng Wang  
 - Parallel Computing Algorithm  
 - Machine Learning Algorithms (not specified, general ML)  
 
 ---
 
-**Xiaoyu Wen et al., Improved genetic algorithm for integrated process planning and scheduling in distributed heterogeneous manufacturing environment**  
+**[Improved genetic algorithm for integrated process planning and scheduling in distributed heterogeneous manufacturing environment](https://www.sciencedirect.com/science/article/pii/S0952197624007279)**  
+Xiaoyu Wen et al.  
 - Improved Genetic Algorithm (IGA)  
 - Hierarchical Crossover Operator  
 
 ---
 
-**Seyed Mahyar Hosseini et al., Multi-objective discrete Cuckoo search algorithm for optimization of bag-of-tasks scheduling in fog computing environment**  
+**[Multi-objective discrete Cuckoo search algorithm for optimization of bag-of-tasks scheduling in fog computing environment](https://www.sciencedirect.com/science/article/pii/S0045790624004075)**  
+Seyed Mahyar Hosseini et al.  
 - Multi-objective Discrete Cuckoo Search Algorithm (MoDCSA)  
 - Discrete Operators (within MoDCSA)  
 
 ---
 
-**Qiujie Li, Hongyi Zhu, Performance evaluation of 2D LiDAR SLAM algorithms in simulated orchard environments**  
+**[Performance evaluation of 2D LiDAR SLAM algorithms in simulated orchard environments](https://www.sciencedirect.com/science/article/pii/S0168169924003855)**  
+Qiujie Li, Hongyi Zhu  
 - Hector SLAM  
 - GMapping SLAM  
 - Cartographer SLAM  
 
 ---
 
-**Shirin Khezri et al., An experimental review of the ensemble-based data stream classification algorithms in non-stationary environments**  
+**[An experimental review of the ensemble-based data stream classification algorithms in non-stationary environments](https://www.sciencedirect.com/science/article/pii/S0045790624003483)**  
+Shirin Khezri et al.  
 - Ensemble Learning Algorithms (21 types, e.g., online bagging/boosting, Adaptive Random Forest, Leveraging Bagging, etc.)  
 
 ---
 
-**Ipsita Behera, Srichandan Sobhanayak, HTSA: A novel hybrid task scheduling algorithm for heterogeneous cloud computing environment**  
+**[HTSA: A novel hybrid task scheduling algorithm for heterogeneous cloud computing environment](https://www.sciencedirect.com/science/article/abs/pii/S1569190X2400128X)**  
+Ipsita Behera, Srichandan Sobhanayak  
 - Genetic Algorithm (GA)  
 - Gravitational Search Algorithm (GSA)  
 
 ---
 
-**De Zhang et al., Hybrid IACO-A*-PSO optimization algorithm for solving multiobjective path planning problem of mobile robot in radioactive environment**  
+**[Hybrid IACO-A*-PSO optimization algorithm for solving multiobjective path planning problem of mobile robot in radioactive environment](https://www.sciencedirect.com/science/article/abs/pii/S0149197023000860)**  
+De Zhang et al.  
 - Improved Ant Colony Optimization (IACO)  
 - A* Algorithm  
 - Particle Swarm Optimization (PSO)  
@@ -1736,22 +1796,26 @@ Husam A. Neamah et al.
 
 ---
 
-**Ntsikelelo Yalezo et al., Developing machine learning algorithms to predict the dissolution of zinc oxide nanoparticles in aqueous environment**  
+**[Developing machine learning algorithms to predict the dissolution of zinc oxide nanoparticles in aqueous environment](https://www.sciencedirect.com/science/article/abs/pii/S2215153224000886)**  
+Ntsikelelo Yalezo et al.  
 - Random Forest Regression  
 - Extreme Gradient Boosting (XGBoost)  
 - Multiple Linear Regression  
 
 ---
 
-**Gengyan Cui, Li Zhang, Improved faster region convolutional neural network algorithm for UAV target detection in complex environment**  
-- Faster R-CNN (with Deformable Convolution, Hybrid Attention Mechanism, Soft-NMS)  
+**[Improved faster region convolutional neural network algorithm for UAV target detection in complex environment](https://www.sciencedirect.com/science/article/pii/S2590123024007424)**  
+Gengyan Cui, Li Zhang  
+- Faster R-CNN (with Deformable Convolution, Hybrid Attention Mechanism, Soft‑NMS)  
 
 ---
 
-**Lubo Li, Haohua Zhang, Sijun Bai, A multi-surrogate genetic programming hyper-heuristic algorithm for the manufacturing project scheduling problem with setup times under dynamic and interference environments**  
+**[A multi-surrogate genetic programming hyper-heuristic algorithm for the manufacturing project scheduling problem with setup times under dynamic and interference environments](https://www.sciencedirect.com/science/article/abs/pii/S0957417424007206)**  
+Lubo Li, Haohua Zhang, Sijun Bai  
 - Genetic Programming (GP)  
-- Hyper-heuristic Algorithm (HH-MGP)  
-- Multi-surrogate Model  
+- Hyper‑heuristic Algorithm (HH‑MGP)  
+- Multi‑surrogate Model  
+---
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
