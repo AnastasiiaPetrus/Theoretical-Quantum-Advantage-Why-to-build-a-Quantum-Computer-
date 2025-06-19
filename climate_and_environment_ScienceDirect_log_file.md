@@ -1518,7 +1518,7 @@ Mehrtash Eskandaripour, Shahrokh Soltaninia
 Zhongqi Yu et al.  
 - Genetic Algorithm  
 - Non‑dominated Sorting Genetic Algorithm (NSGA)  
-- Generative Adversarial Network (GAN) :contentReference[oaicite:0]{index=0}  
+- Generative Adversarial Network (GAN) 
 
 ---
 
@@ -1526,7 +1526,7 @@ Zhongqi Yu et al.
 Jiahui Tong et al.  
 - Deep Learning‑Based Optical Flow Algorithm  
 - Motion Amplitude Analysis  
-- Boundary Gradient Detection :contentReference[oaicite:1]{index=1}  
+- Boundary Gradient Detection  
 
 ---
 
@@ -1535,14 +1535,13 @@ Nattapong Promkaew et al.
 - Improved Particle Swarm Optimization (IPSO)  
 - Improved Grey Wolf Optimizer (IGWO)  
 - Artificial Bee Colony (ABC)  
-- A* Algorithm (for comparison, baseline in ROS2) :contentReference[oaicite:2]{index=2}  
+- A* Algorithm (for comparison, baseline in ROS2) 
 
 ---
 
 **[Development of China's atmospheric environment monitoring satellite CO₂ IPDA lidar retrieval algorithm based on airborne campaigns](https://www.sciencedirect.com/science/article/pii/S0034425724004991)**  
 Shuaibo Wang et al.  
-- CO₂ Retrieval Algorithm (IPDA Lidar Retrieval, custom for satellite) :contentReference[oaicite:0]{index=0}  
-
+- CO₂ Retrieval Algorithm (IPDA Lidar Retrieval, custom for satellite) 
 ---
 
 **[A hybrid PSO‑WO algorithm for identification of irregular inner wall defects of a body in a thermal environment](https://www.sciencedirect.com/science/article/pii/S0955799724004843)**  
@@ -1550,7 +1549,7 @@ Wenchao Ji et al.
 - Particle Swarm Optimization (PSO)  
 - Whale Optimization Algorithm (WO)  
 - Hybrid PSO‑WO Algorithm  
-- Radial Integral Boundary Element Method (RIBEM) :contentReference[oaicite:1]{index=1}  
+- Radial Integral Boundary Element Method (RIBEM) 
 
 ---
 
@@ -1559,14 +1558,14 @@ Jingkun Fan, Liangdong Qu
 - Differential Evolution (DE)  
 - Adaptive Elite Neighborhood Learning (AENL)  
 - Rank‑Guided Crossover Probability Selection (RCPS)  
-- Distance‑Greedy Selection (DGS) :contentReference[oaicite:2]{index=2}  
+- Distance‑Greedy Selection (DGS) 
 
 ---
 
 **[An AUV collision avoidance algorithm in unknown environment with multiple constraints](https://www.sciencedirect.com/science/article/pii/S0029801824001835)**  
 Ning Dai et al.  
 - Dubins Improved Hybrid A* (DIHA*)  
-- Fuzzy Heading Avoidance (FHA) (Fuzzy Controller) :contentReference[oaicite:3]{index=3}  
+- Fuzzy Heading Avoidance (FHA) (Fuzzy Controller) 
 
 ---
 
@@ -1576,7 +1575,7 @@ Gilbert Larochelle Martin, Danielle Monfet
 - TARP Algorithm (for CHTC, EnergyPlus)  
 - ASTMC1340 Algorithm (for CHTC, EnergyPlus)  
 - Adaptive Convection Algorithm  
-- Computational Fluid Dynamics (CFD) as reference :contentReference[oaicite:0]{index=0}  
+- Computational Fluid Dynamics (CFD) as reference 
 
 ---
 
@@ -1616,8 +1615,7 @@ Biao Zhang et al.
 
 **[MDTA: An efficient, scalable and fast Multiple Disjoint Tree Algorithm for dynamic environments](https://www.sciencedirect.com/science/article/pii/S0140366424003360)**  
 Diego Lopez-Pajares et al.  
-- Multiple Disjoint Tree Algorithm (MDTA) :contentReference[oaicite:1]{index=1}  
-
+- Multiple Disjoint Tree Algorithm (MDTA) 
 ---
 
 **[Multi-strategy improved sand cat optimization algorithm-based workflow scheduling mechanism for heterogeneous edge computing environment](https://www.sciencedirect.com/science/article/abs/pii/S2210537924000593)**  
@@ -1627,7 +1625,7 @@ P. Jayalakshmi, S.S. Subashka Ramesh
 - Ant Colony Optimization Algorithm (IACOAWS, for comparison)  
 - Quadratic Penalty Function-based Particle Swarm Optimization Algorithm (QPF-PSOA, for comparison)  
 - Biogeography Optimization (BBO, for comparison)  
-- Differential Evolution-based Task Clustering and Scheduling (DETCS, for comparison) :contentReference[oaicite:0]{index=0}  
+- Differential Evolution-based Task Clustering and Scheduling (DETCS, for comparison) 
 
 ---
 
@@ -1637,15 +1635,14 @@ Zohaib Khan et al.
 - Dilated Convolution  
 - GELU Activation Function  
 - Adaptive Gradient Algorithm (AdaGrad)  
-- ReduceLROnPlateau Scheduler :contentReference[oaicite:1]{index=1}  
-
+- ReduceLROnPlateau Scheduler 
 ---
 
 **[Decision support algorithm for efficient environmental impact assessments: Focusing on aquatic environment assessment in South Korea](https://www.sciencedirect.com/science/article/abs/pii/S0195925523000331)**  
 Junyeong An et al.  
 - Workflow Algorithm (custom decision support workflow)  
 - Subroutine Algorithms for Soil Runoff Reduction  
-- Subroutine Algorithms for Wastewater Treatment :contentReference[oaicite:2]{index=2}  
+- Subroutine Algorithms for Wastewater Treatment
 
 ---
 
@@ -1653,7 +1650,7 @@ Junyeong An et al.
 Dileep Kumar Sajnani et al.  
 - Feedback Artificial Remora Optimization (FARO)  
 - Feedback Artificial Tree (FAT)  
-- Remora Optimization Algorithm (ROA) :contentReference[oaicite:3]{index=3}  
+- Remora Optimization Algorithm (ROA) 
 
 ---
 
@@ -1662,7 +1659,7 @@ Zhaofeng Song et al.
 - Improved A* Algorithm (A*-DCE)  
 - Attractive/Repulsive Field (cost estimation)  
 - B-spline Curve (for path smoothing)  
-- NSGA-II (Non-dominated Sorting Genetic Algorithm II) :contentReference[oaicite:4]{index=4}  
+- NSGA-II (Non-dominated Sorting Genetic Algorithm II) 
 
 ---
 
@@ -1674,35 +1671,34 @@ Chenglin Wang et al.
 - Prim’s Algorithm  
 - Longest Root Path Algorithm  
 - Harris Corner Detection  
-- Sliding Window Algorithm :contentReference[oaicite:0]{index=0}  
+- Sliding Window Algorithm
 
 ---
 
 **[Study on stress prediction model of EH36 steel in polar environments: Optimization of basis functions using adaptive genetic algorithm and simulated annealing](https://www.sciencedirect.com/science/article/pii/S0141118724005236)**  
 Hegang Ji et al.  
 - Adaptive Genetic Algorithm  
-- Simulated Annealing :contentReference[oaicite:1]{index=1}  
+- Simulated Annealing 
 
 ---
 
 **[Robust optimization of a closed-loop supply chain network based on an improved genetic algorithm in an uncertain environment](https://www.sciencedirect.com/science/article/abs/pii/S0360835224001189)**  
 Junyan Sun et al.  
 - Minimum Spanning Tree Algorithm  
-- Two-layer Adaptive Genetic Algorithm (Prim-DMGA) :contentReference[oaicite:2]{index=2}  
+- Two-layer Adaptive Genetic Algorithm (Prim-DMGA) 
 
 ---
 
 **[Adaptive fuzzy-genetic algorithm operators for solving mobile robot scheduling problem in job-shop FMS environment](https://www.sciencedirect.com/science/article/abs/pii/S0921889024000666)**  
 Erlianasha Samsuria et al.  
 - Genetic Algorithm (GA)  
-- Adaptive Fuzzy Logic (for GA operators) :contentReference[oaicite:3]{index=3}  
+- Adaptive Fuzzy Logic (for GA operators) 
 
 ---
 
 **[Portfolio optimization with mental accounts under uncertain random environment and butterfly optimization algorithm with adaptive strategies](https://www.sciencedirect.com/science/article/abs/pii/S1568494624004940)**  
 Bo Li, Yayi Huang  
-- Improved Butterfly Optimization Algorithm (IBOA) :contentReference[oaicite:4]{index=4}  
-
+- Improved Butterfly Optimization Algorithm (IBOA) 
 ---
 
 
