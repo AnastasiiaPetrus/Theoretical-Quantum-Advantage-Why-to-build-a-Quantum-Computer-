@@ -745,7 +745,7 @@ Mohamed Kouki et al.
 
 **[Future climate change increase species vulnerability and present new opportunities for biodiversity conservation in China](https://doi.org/10.1016/j.jenvman.2025.125652)**  
 Xuede Dong et al.  
-- Species Distribution Models (SDMs) :contentReference[oaicite:1]{index=1}
+- Species Distribution Models (SDMs)
 
 ---
 
