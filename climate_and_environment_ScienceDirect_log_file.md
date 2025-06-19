@@ -823,7 +823,7 @@ Shiqi Zhou et al.
 - **Keyword(s):** environment AND algorithm
 - **Date of search:** 2025-06-19
 - **Articles reviewed:** 100
-- **Time window:** 2024–2025
+- **Time window:** 2025–2025
 
 ---
 
@@ -1827,7 +1827,7 @@ Lubo Li, Haohua Zhang, Sijun Bai
 - **Keyword(s):** ecology OR weather AND algorithm
 - **Date of search:** 2025-06-19
 - **Articles reviewed:** 100
-- **Time window:** 2024–2025
+- **Time window:** 2025–2025
 
 ---
 
