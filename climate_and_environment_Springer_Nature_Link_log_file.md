@@ -141,9 +141,11 @@ Singh & Goyal
 
 ---
 
-**[Unraveling climate trends in the mediterranean: a hybrid machine ... (Arab J Geosci, 2024)](https://link.springer.com/article/10.1007/s40808-024-02117-w)**  
-- Statistical analysis (regression, trend detection)  
-- Machine Learning
+**[Unraveling climate trends in the Mediterranean: a hybrid machine learning and statistical approach (Arab J Geosci, 2024)](https://link.springer.com/article/10.1007/s40808-024-02117-w)**  
+- **Pettitt test** (for change-point detection in SST and TAS series)  
+- **Linear trend analysis** (e.g., calculating °C per decade warming rates at coastal stations)  
+- **K‑means clustering** (to segment Mediterranean into distinct climate regime clusters)  
+- **1D Convolutional Neural Networks (CNNs)** (for cluster‑specific future SST and TAS anomaly projections)
 
 ---
 **[Forty‑year hydropower generation reanalysis for Conterminous U.S. (RectifHydPlus)](https://doi.org/10.1038/s41597-025-05323-y)**  
@@ -172,8 +174,8 @@ Xiaoming Xiong, Heng Hu, Qiangfu Jia, Rongjian Zhang, Chongan Huang, Qingyuan Lu
 - Gravity Search Optimization Algorithm (GVSAO)  
 - Convolutional Neural Network (CNN)  
 - Long Short‑Term Memory (LSTM)  
-- Support Vector Machine (SVM) *(as benchmark)*  
-- Random Forest (RF) *(as benchmark)*  
+- Support Vector Machine (SVM)
+- Random Forest (RF)
 - Genetic algorithm operations (crossover, mutation)  
 
 ---
@@ -336,7 +338,7 @@ Tao Ye, Hongyu Shan, Jidong Wu, Qiang Zhou, Mingfu Ma, Wenzhi Zhao, Ru Ya, Yuan 
 **[Combining climate models and risk assessment tools to evaluate the invasive potential of intentional plant introductions: a case study of Moringa oleifera in New Zealand](https://link.springer.com/article/10.1007/s44372-025-00233-0)**  
 Blair Moses Kamanga, Craig McGill, Stephan Halloy, Axay Bhuker, Anurag Malik & Andrea Clavijo McCormick  
 
-- Fuzzy overlay spatial analysis (`AND` type) on climatic raster layers  
+- Fuzzy overlay spatial analysis on climatic raster layers  
 - Minimum argument aggregation method for multi‑criteria climate suitability  
 - Composite Match Index calculation via “Match Climates Regional” algorithm (Hearne Software’s CLIMEX)  
 - Climate‑niche envelope modelling using inclusive ellipses  
@@ -685,7 +687,9 @@ Yunpeng Hu
 **[Toward a general framework for AI-enabled prediction in crop improvement](https://doi.org/10.1007/s00122-025-04928-6)**  
 Carlos Messina, Julian Garcia‑Abadillo, Owen Powell, Shunichiro Tomura, Alina Zare, Baskar Ganapathysubramanian, Mark Cooper et al.  
 - Symbolic AI (physiological/dynamical crop models)  
-- Sub-symbolic AI (machine learning models: regression trees, random forests, neural networks)  
+- Regression trees
+- Random forests
+- Neural networks
 - Ensemble modeling (model averaging based on Diversity Prediction Theorem)  
 - Logistic map (dynamical systems modeling)  
 - Linear mixed models  
@@ -1384,10 +1388,13 @@ Tamer A. Addissouky
 ---
 
 **[HAPIR: a refined Hallmark gene set-based machine learning approach for predicting immunotherapy response in cancer patients](https://link.springer.com/article/10.1038/s41698-025-00992-9)**  
-Mengqin Yuan, Haizhou Liu, Yu-e Huang, Fei Hou, Lihong Wang, Quan Wang, Wei Jiang  
-- Machine Learning  
-- Immunotherapy  
-- Gene Set Enrichment  
+Mengqin Yuan, Haizhou Liu, Yu‑e Huang, Fei Hou, Lihong Wang, Quan Wang, Wei Jiang  
+- Differential expression analysis  
+- Hallmark gene set refinement (MSigDB, FDR < 0.05)  
+- AUCell scoring  
+- Logistic regression (10-fold cross-validation, AUROC = 0.778)  
+- External validation (melanoma, NSCLC, STAD cohorts)  
+- Survival analysis
 
 ---
 
@@ -1513,10 +1520,16 @@ Suneeta Satpathy, Pratik Kumar Swain
 
 ---
 
+
 **[Machine learning-based identification of exosome-related biomarkers and drugs prediction in nasopharyngeal carcinoma](https://link.springer.com/article/10.1007/s12672-025-02962-w)**  
 Zhengyu Wei, Guoli Wang, Yanghao Hu, Chongchang Zhou, Yuna Zhang, Yi Shen, Yaowen Wang  
-- Machine Learning  
-- Biomarker Discovery  
+- Differential expression analysis (NPC vs. controls)  
+- Intersection with exosome-related genes (ERGs)  
+- Functional enrichment: GO, KEGG, GSEA  
+- **LASSO regression**, **SVM-RFE**, **Random Forest** for feature selection  
+- Diagnostic model built on 5 key genes: LTF, IDH1, ITGAV, CCL2, LGALS3BP  
+- Validation in independent cohort (strong discrimination/calibration)  
+- Drug prediction via molecular docking & molecular dynamics (IDH1–nelfinavir lowest Vina score)  
 
 ---
 
@@ -2509,10 +2522,24 @@ Wanying Jin, Amin Rezaeipanah
 
 ---
 
+
 **[Design and Comparison of Parallel Dynamic Matérn Kernel-Based Regression Models and Machine Learning Approaches: Application to Bias Correction in Numerical Weather Prediction](https://link.springer.com/article/10.1007/s42967-025-00490-6)**  
-Violeta Migallón et al.  
-- Matérn Kernel-Based Regression  
-- Machine Learning  
+Violeta Migallón, Héctor Penadés, José Penadés  
+- Dynamic Matérn–FEM regression (M5/2, M3/2, RBF with L1 norm)  
+- Heuristic optimization of complexity parameter  
+- Parallel dynamic fitting strategy  
+- MLR
+- Ridge
+- Lasso
+- Elastic Net
+- KNN
+- ANN
+- SVR
+- RT
+- RF
+- AdaBoost
+- XGBoost
+- LightGBM  
 
 ---
 
@@ -2582,8 +2609,13 @@ S. Usharani, S. Kaspar
 
 **[Enhanced wheat yield prediction through integrated climate and satellite data using advanced AI techniques](https://link.springer.com/article/10.1038/s41598-025-02700-w)**  
 Muhamad Ashfaq et al.  
-- Machine Learning  
-- Remote Sensing Data Integration  
+- Random Forest, XGBoost, LightGBM  
+- Sentinel‑2 NDVI, LAI time series  
+- Climate feature fusion (temperature, precipitation, solar radiation)  
+- SHAP analysis  
+- Spatiotemporal cross-validation  
+- Baseline comparison: Linear Regression, LSTM  
+
 
 ---
 
@@ -2717,8 +2749,13 @@ Ahmed S. Abdelrahman et al.
 
 **[A framework for tracing the sources of nitrate in surface water through remote sensing data coupled with machine learning](https://link.springer.com/article/10.1038/s41545-025-00473-3)**  
 Di Tian et al.  
-- Machine Learning  
-- Remote Sensing  
+- Multi-source remote sensing (NDWI, NDVI, satellite reflectance indices)  
+- Stable isotope analysis (δ¹⁵N‑NO₃⁻, δ¹⁸O‑NO₃⁻)  
+- Isotope mixing model  
+- Gaussian Process Regression
+- SVM
+- Regression Tree  
+
 
 ---
 
