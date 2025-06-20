@@ -90,9 +90,10 @@ Antonio Coppola et al.
 
 **[Advanced AI-enabled technologies for sustainable biohydrogen production and environmental stewardship](https://www.sciencedirect.com/science/article/pii/S0360319925030344)**  
 P. Muthukumar et al.  
-- Machine Learning Algorithms  
-- Neural Networks  
-- Predictive Analytics  
+- Machine Learning, Neural Networks (ANN)  
+- Reinforcement Learning for process control  
+- Genetic Algorithm, PSO optimization  
+- Lifecycle (LCA) & Techno-Economic (TEA) analyses  
 
 ---
 
@@ -239,13 +240,6 @@ Débora Pantojo de Souza et al.
 
 ---
 
-**[Decadal changes in water transparency of lakes in the middle and lower reaches of the Yangtze River: Trends and implications](https://www.sciencedirect.com/science/article/pii/S1470160X25007009)**  
-Zhou Wang et al.  
-- Machine Learning Model (not specified in abstract)  
-- Statistical Analysis (trend, correlation)  
-
----
-
 **[Agricultural Drought assessment using Deep Learning and Multi-sensor Remote Sensing data integration](https://www.sciencedirect.com/science/article/pii/S1474706525001561)**  
 Prashant Kumar et al.  
 - Deep Learning Multi-Layer Perceptron Neural Network (DLMLPNN)  
@@ -270,9 +264,10 @@ Colin K. Bloom et al.
 
 **[The logic of policies for energy price regulation in the future: A synergistic developmental perspective based on energy and carbon markets](https://www.sciencedirect.com/science/article/pii/S1364032125006136)**  
 Xing Zhou et al.  
-- Explainable Machine Learning Framework  
-- Analog Simulation  
-- Policy Simulation  
+- XGBoost
+- SHAP  
+- Analog simulation  
+- Policy simulation  
 
 ---
 
@@ -426,9 +421,9 @@ Ferial El Robrini et al.
 
 **[Investigating the use of readily accessible climatic data for predicting vertical solar irradiance under sunlit and shaded scenarios](https://www.sciencedirect.com/science/article/pii/S2352710225014780)**  
 Emmanuel I. AGHIMIEN et al.  
-- Simple Regression  
-- Machine Learning Models (including Optimized Support Vector Machine)  
-- SHapley Additive exPlanations (SHAP) for Feature Importance  
+- Linear Regression  
+- Support Vector Machine (SVM)   
+- SHapley Additive exPlanations (SHAP)  
 
 ---
 
@@ -598,8 +593,9 @@ Yiwei Liu et al.
 
 **[Data-driven modeling of sea ice behavior using a stress-strain database and machine learning](https://www.sciencedirect.com/science/article/pii/S0029801825014295)**  
 Peiman Sharifi et al.  
-- Machine Learning Models (Deep Neural Network, Decision Tree)  
-- SHAP (SHapley Additive exPlanations) Analysis  
+- Deep Neural Network  
+- Decision Tree  
+- SHapley Additive exPlanations (SHAP)  
 
 ---
 
@@ -616,15 +612,6 @@ Xinli Qi et al.
 - Bottom-Up Emission Estimation Model  
 - AIS Data Analysis  
 - Scenario-Based Forecasting  
-
----
-
-**[Restrictions and alternatives for the development data-based energy prediction models in buildings located in tropical climate: Literature review](https://www.sciencedirect.com/science/article/pii/S0360132324006280)**  
-J. Cárdenas-Rangel et al.  
-- Building Energy Simulation  
-- Machine Learning Algorithms (not specified)  
-- Transfer Learning  
-- Feature Selection  
 
 ---
 
@@ -677,7 +664,7 @@ Xin Li et al.
 Huiwen Li et al.  
 - Double Layer Carbon Model (DLCM)  
 - Particle Swarm Optimization (PSO)  
-- Machine Learning Baseline Maps (not specified)  
+- Machine Learning Baseline Maps
 
 ---
 
@@ -690,8 +677,13 @@ Soumya Bhadury et al.
 
 **[Enhanced NDVI prediction accuracy in complex geographic regions by integrating machine learning and climate data—a case study of Southwest basin](https://www.sciencedirect.com/science/article/pii/S1569843225001451)**  
 Zehui Zhou et al.  
-- LSKRX Model (integrated ML framework)  
-- Multiple Machine Learning Algorithms (not specified)  
+- LSKRX model  
+- Random Forest
+- XGBoost
+- LightGBM  
+- Recursive feature elimination  
+- Grid search for hyperparameter tuning  
+- SHAP values for interpretability  
 
 ---
 
@@ -1348,8 +1340,7 @@ Huiwu Huang et al.
 
 **[Prediction of building-scale solar energy potential in urban environment based on parametric modelling and machine learning algorithms](https://www.sciencedirect.com/science/article/pii/S2210670724008795)**  
 Jia Tian, Ryozo Ooka  
-- Parametric Modelling  
-- Machine Learning Algorithms (not specified, likely includes regression/ANN/ensemble methods)  
+- Parametric Modelling 
 
 ---
 
@@ -1743,7 +1734,6 @@ Xue Du et al.
 **[Prediction of psychological intervention for college students in digital entertainment media environment based on artificial intelligence and parallel computing algorithms](https://www.sciencedirect.com/science/article/pii/S187595212400226X)**  
 Bin Cai, Dongsheng Wang  
 - Parallel Computing Algorithm  
-- Machine Learning Algorithms (not specified, general ML)  
 
 ---
 
@@ -2251,8 +2241,11 @@ Carlos Alberto Arnillas, Lamees Shah, George Arhonditsis
 
 **[Machine Learning-Powered Multi-Omics for Food Microbiology and Smarter Food Safety](https://www.sciencedirect.com/science/article/pii/S092422442500281X)**  
 Sherry Bansal, Catarina Z. Rodriguez, Katherine A. Thompson-Witrick, Yu Wang, Diana H. Taft, Boce Zhang  
-- Machine Learning Algorithms (general)  
-- Pattern Detection Techniques  
+- Genomics  
+- Transcriptomics  
+- Proteomics  
+- Metabolomics  
+- Machine Learning Integration  
 
 ---
 
