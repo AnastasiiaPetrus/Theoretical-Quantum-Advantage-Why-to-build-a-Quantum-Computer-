@@ -205,15 +205,14 @@ Sidney T. da Silva, Enrique C. Gabrick, Ana Luiza R. de Moraes, Ricardo L. Viana
 
 ---
 
+
 **[Digital Natives, Digital Activists: Youth, Social Media and the Rise of Environmental Sustainability Movements](https://arxiv.org/abs/2406.07827)**  
 Manya Pandit, Triveni Magadum, Harshit Mittal, Omkar Kushwaha  
-- Natural Language Processing (NLP)  
-- Sentiment Analysis  
-- Topic Modeling (e.g., LDA)  
-- Network Analysis  
-- Social Media Data Mining  
-- Time-Series Trend Analysis  
-- Machine Learning Classification Models (e.g., Logistic Regression, SVM)  
+- LDA topic modeling  
+- Sentiment analysis (VADER)  
+- Logistic Regression, SVM  
+- Social media network analysis  
+- Time-series trend analysis  
 
 ---
 
@@ -815,11 +814,10 @@ Ayoub Jadouli, Chaker El Amrani
 
 **[Classically studied coherent structures only paint a partial picture of wall-bounded turbulence](https://arxiv.org/abs/2406.08512)**  
 Andrés Cremades, Sergio Hoyas, Ricardo Vinuesa  
-- Spatiotemporal Flow Field Decomposition  
-- Machine Learning-Based Feature Extraction  
-- Proper Orthogonal Decomposition (POD)  
-- Coherent Structure Identification  
-- Data-Driven Turbulence Modeling  
+- U‑Net convolutional neural network  
+- GradientSHAP for feature attribution  
+- SHAP-based coherent structure identification  
+- Comparison with Q‑criterion, vortices, and streaks  
 
 ---
 
@@ -1998,11 +1996,13 @@ Md. Golam Rashed, M. Hasnat Kabir, Shaikh Enayet Ullah
 
 ## Log Entries
 
+
 **[Increasing trust in new data sources: crowdsourcing image classification for ecology](https://arxiv.org/abs/2305.01144)**  
-Edgar Santos-Fernandez, Julie Vercelloni, Aiden Price, Grace Heron, Bryce Christensen, Erin E. Peterson, Kerrie Mengersen  
-- Crowdsourcing Algorithms for Image Classification  
-- Statistical Machine Learning (e.g., Ensemble Methods, Aggregation Techniques)  
-- Quality Control Algorithms for Label Aggregation  
+Edgar Santos‑Fernandez, Julie Vercelloni, Aiden Price, Grace Heron, Bryce Christensen, Erin E. Peterson, Kerrie Mengersen  
+- Bayesian majority vote  
+- Bayesian item response model  
+- Spatial autocorrelation modeling  
+- Coral image classification  
 
 ---
 
@@ -2025,9 +2025,9 @@ Henry Makhanov, Kanav Setia, Junyu Liu, Vanesa Gomez-Gonzalez, Guillermo Jenaro-
 
 **[A Method for Classifying Snow Using Ski-Mounted Strain Sensors](https://arxiv.org/abs/2304.14307)**  
 Florian McLelland, Floris van Breugel  
-- Supervised Machine Learning (e.g., Support Vector Machines, Random Forests)  
-- Signal Processing Algorithms  
-- Feature Extraction and Classification Techniques  
+- Data-driven linear model of ski–snow interaction  
+- Dimensionality reduction (e.g., PCA)  
+- Naive Bayes classifier (three-class: powder, slushy, icy)  
 
 ---
 
@@ -2113,11 +2113,11 @@ Harry Zhang, Stefan Caldararu, Ishaan Mahajan, Shouvik Chatterjee, Thomas Hansen
 ---
 
 **[UDTIRI: An Online Open-Source Intelligent Road Inspection Benchmark Suite](https://arxiv.org/abs/2304.08842)**  
-Sicen Guo, Jiahang Li, Yi Feng, Dacheng Zhou, Denghuang Zhang, Chen Chen, Shuai Su, Xingyi Zhu, Qijun Chen, Rui Fan  
-- Computer Vision Algorithms for Road Inspection  
-- Machine Learning for Defect Detection  
-- Online Benchmarking and Evaluation Algorithms  
-- Robotics-Based Road Condition Assessment  
+Sicen Guo et al.  
+- YOLOv5, Faster R-CNN, DETR  
+- U-Net, DeepLab, PSPNet  
+- Mask R-CNN, YOLACT  
+- Road defect segmentation and detection  
 
 ---
 
@@ -2132,10 +2132,9 @@ Mariella Dreissig, Dominik Scheuble, Florian Piewak, Joschka Boedecker
 
 **[On-line reinforcement learning for optimization of real-life energy trading strategy](https://arxiv.org/abs/2303.16266)**  
 Łukasz Lepak, Paweł Wawrzyński  
-- Online Reinforcement Learning Algorithms  
-- Energy Trading Optimization  
-- Real-time Policy Learning  
-- Machine Learning for Finance  
+- Deep Q-Networks, Policy Gradient  
+- Q-learning baseline  
+- MDP formulation  
 
 ---
 
@@ -2163,15 +2162,6 @@ Bo Yang, Ishan Khatri, Michael Happold, Chulong Chen
 - Raw Radar Data Processing  
 - Deep Learning for Signal Processing  
 - End-to-End Radar Perception Networks  
-
----
-
-**[Web and Mobile Platforms for Managing Elections based on IoT And Machine Learning Algorithms](https://arxiv.org/abs/2303.09045)**  
-G. M. I. K. Galagoda, W. M. C. A. Karunarathne, R. S. Bates, K. M. H. V. P. Gangathilaka, Kanishka Yapa, Erandika Gamage  
-- IoT-based Data Collection Algorithms  
-- Machine Learning for Election Management  
-- Web and Mobile Platform Integration  
-- Security and Cryptography Algorithms  
 
 ---
 
@@ -2258,10 +2248,12 @@ Achal Awasthi, Jason Xu
 
 **[Impact of a Batter in ODI Cricket Implementing Regression Models from Match Commentary](https://arxiv.org/abs/2302.11172)**  
 Ahmad Al Asad, Kazi Nishat Anwar, Ilhum Zia Chowdhury, Akif Azam, Tarif Ashraf, Tanvir Rahman  
-- Regression Modeling Algorithms  
-- Machine Learning for Sports Analytics  
-- Text-based Feature Extraction  
-- Impact Analysis Algorithms  
+- Multiple Linear Regression
+- Polynomial Regression  
+- SVR
+- Decision Tree
+- Random Forest  
+- Text-derived features (pitch, weather, shot control)  
 
 ---
 
@@ -2330,10 +2322,10 @@ Nicolaas J. Annau, Alex J. Cannon, Adam H. Monahan
 
 **[Unsupervised classification to improve the quality of a bird song recording dataset](https://arxiv.org/abs/2302.07560)**  
 Félix Michaud, Jérôme Sueur, Maxime Le Cesne, Sylvain Haupert  
-- Unsupervised Classification Algorithms  
-- Clustering for Audio Data  
-- Machine Learning for Sound Processing  
-- Dataset Quality Improvement Methods  
+- Time–frequency segmentation  
+- Feature extraction (2D wavelet + spectral centroid)  
+- DBSCAN clustering  
+- BirdNET deep‑learning classification  
 
 ---
 
@@ -2348,10 +2340,13 @@ Serge Rainjonneau, Igor Tokarev, Sergei Iudin, Saaketh Rayaprolu, Karan Pinto, D
 
 **[Solar Wind Speed Estimate with Machine Learning Ensemble Models for LISA](https://arxiv.org/abs/2302.06740)**  
 Federico Sabbatini, Catia Grimani  
-- Machine Learning Ensemble Algorithms  
-- Solar Wind Speed Prediction  
-- Time Series Forecasting Methods  
-- Astrophysical Data Modeling  
+- Linear Regression, 
+- k-NN, 
+- SVM, 
+- Random Forest, 
+- ANN  
+- Ensemble averaging of 28 regressors  
+- Time series input
 
 ---
 
@@ -2411,10 +2406,11 @@ Lucas Valença, Ian Maquignaz, Hadi Moazen, Rishikesh Madan, Yannick Hold-Geoffr
 
 **[Recurrences reveal shared causal drivers of complex time series](https://arxiv.org/abs/2301.13516)**  
 William Gilpin  
-- Recurrence Analysis Algorithms  
-- Causal Inference in Time Series  
-- Machine Learning for Complex Systems  
-- Signal Processing for Dynamical Systems  
+- Recurrence graphs  
+- Percolation transitions  
+- Diffusion-based driver inference  
+- Topological Data Analysis  
+ 
 
 ---
 
@@ -2456,19 +2452,17 @@ Debojyoti Chakraborty, Jayeeta Mondal, Hrishav Bakul Barua, Ankur Bhattacharjee
 
 **[Prediction-Powered Inference](https://arxiv.org/abs/2301.09633)**  
 Anastasios N. Angelopoulos, Stephen Bates, Clara Fannjiang, Michael I. Jordan, Tijana Zrnic  
-- Prediction-Powered Inference Algorithms  
-- Conformal Inference Methods  
-- Statistical Machine Learning for Inference  
-- Model-agnostic Prediction Techniques  
+- Prediction-powered inference  
+- Conformal inference  
+- Model-agnostic debiasing  
 
 ---
 
 **[Loss-Controlling Calibration for Predictive Models](https://arxiv.org/abs/2301.04378)**  
 Di Wang, Junzhi Shi, Pingping Wang, Shuo Zhuang, Hongyue Li  
-- Loss-Controlling Calibration Algorithms  
-- Predictive Model Calibration  
-- Machine Learning Model Reliability Methods  
-- Statistical Loss Control Techniques  
+- Loss-controlling calibration  
+- Conformal prediction  
+- Empirical risk minimization  
 
 ---
 
@@ -2519,19 +2513,17 @@ Sikun Yang, Hongyuan Zha
 
 **[Failure type detection and predictive maintenance for the next generation of imaging atmospheric Cherenkov telescopes](https://arxiv.org/abs/2212.12381)**  
 Federico Incardona, Alessandro Costa, Kevin Munari  
-- Failure Type Detection Algorithms  
-- Predictive Maintenance Methods  
-- Machine Learning for Astrophysical Instrumentation  
-- Anomaly Detection in Sensor Data  
+- Gradient Boosted Trees  
+- Reinforcement Learning  
+- Condition-based monitoring  
 
 ---
 
 **[Towards Sustainable Artificial Intelligence: An Overview of Environmental Protection Uses and Issues](https://arxiv.org/abs/2212.11738)**  
 Arnault Pachot, Céline Patissier  
-- Sustainable AI Algorithms  
-- Environmental Protection Applications  
-- Energy-efficient Machine Learning Methods  
-- AI for Environmental Impact Assessment  
+- Green AI (energy-aware training, model compression)  
+- Lifecycle assessment integration  
+- Environmental indicators in ML workflows  
 
 ---
 
@@ -2555,10 +2547,9 @@ Eva-Maria Walz, Alexander Henzi, Johanna Ziegel, Tilmann Gneiting
 
 **[A Multi-Modal Machine Learning Approach to Detect Extreme Rainfall Events in Sicily](https://arxiv.org/abs/2212.08102)**  
 Eleonora Vitanza, Giovanna Maria Dimitri, Chiara Mocenni  
-- Multi-Modal Machine Learning Algorithms  
-- Extreme Rainfall Event Detection  
-- Feature Fusion Techniques  
-- Optimization for Environmental Monitoring  
+- Affinity Propagation  
+- Spatiotemporal clustering  
+- Rainfall indicator validation  
 
 ---
 
@@ -2591,10 +2582,10 @@ Francesco Bacchiocchi, Gianmarco Genalti, Davide Maran, Marco Mussi, Marcello Re
 
 **[Mining Explainable Predictive Features for Water Quality Management](https://arxiv.org/abs/2212.04419)**  
 Conor Muldoon, Levent Görgü, John J. O'Sullivan, Wim G. Meijer, Gregory M. P. O'Hare  
-- Explainable AI (XAI) Algorithms  
-- Feature Mining for Water Quality Prediction  
-- Predictive Modeling for Environmental Monitoring  
-- Machine Learning Interpretability Techniques  
+- SVR
+- Bagging  
+- Shapley values  
+- Spatiotemporal feature selection  
 
 ---
 
@@ -2618,10 +2609,11 @@ Anthony Gibbons, Ian Donohue, Courtney E. Gorman, Emma King, Andrew Parnell
 
 **[Nonlinear and Machine Learning Analyses on High-Density EEG data of Math Experts and Novices](https://arxiv.org/abs/2212.00712)**  
 Hanna Poikonen, Tomasz Zaluska, Xiaying Wang, Michele Magno, Manu Kapur  
-- Nonlinear Signal Processing Algorithms  
-- Machine Learning for EEG Analysis  
-- Feature Extraction from High-Density EEG  
-- Expert-Novice Classification Techniques  
+- Higuchi Fractal Dimension (HFD)  
+- k-NN
+- Linear SVM
+- Decision Tree
+- AdaBoost ML classifiers  
 
 ---
 
@@ -2663,10 +2655,9 @@ Karan Uppal, Jaeah Kim, Shashank Singh
 
 **[Model-based Causal Bayesian Optimization](https://arxiv.org/abs/2211.10257)**  
 Scott Sussex, Anastasiia Makarova, Andreas Krause  
-- Causal Bayesian Optimization Algorithms  
-- Model-based Optimization Techniques  
-- Causal Inference in Black-box Optimization  
-- Machine Learning for Causal Decision Making  
+- Model-based Causal BO (MCBO)  
+- Gaussian Processes + reparameterization trick  
+- Cumulative regret bounds (optimism principle)  
 
 ---
 
@@ -2762,10 +2753,12 @@ Tabea Rebafka
 
 **[Crime Prediction using Machine Learning with a Novel Crime Dataset](https://arxiv.org/abs/2211.01551)**  
 Faisal Tareque Shohan, Abu Ubaida Akash, Muhammad Ibrahim, Mohammad Shafiul Alam  
-- Machine Learning Algorithms for Crime Prediction  
-- Feature Engineering for Social Data  
-- Predictive Modeling with Novel Datasets  
-- Classification and Regression Techniques  
+- Decision Tree  
+- Random Forest  
+- AdaBoost  
+- XGBoost  
+- Naive Bayes  
+- Feature engineering (temporal, geographic, weather, demographic)   
 
 ---
 
@@ -2843,10 +2836,9 @@ Nawaf Nazir, Thiagarajan Ramachandaran, Soumya Kundu, Veronica Adetola
 
 **[Quantifying Complexity: An Object-Relations Approach to Complex Systems](https://arxiv.org/abs/2210.12347)**  
 Stephen Casey  
-- Complexity Quantification Algorithms  
-- Object-Relations Modeling  
-- Machine Learning for Complex Systems  
-- Data Analysis in High-dimensional Systems  
+- Complex Information Entropy (CIE)  
+- Iterative solvers  
+- Multiscale network inference  
 
 
 
