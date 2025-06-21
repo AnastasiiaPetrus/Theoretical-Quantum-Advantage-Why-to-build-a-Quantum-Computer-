@@ -3,6 +3,114 @@
 ## Search Metadata
 - **Platform:** Springer Nature Link
 - **Keyword(s):** climate AND algorithm
+- **Date of search:** 2025-06-22
+- **Filters:** Open Access
+- **Articles reviewed:** 50
+- **Time window:** 2025–2025
+
+---
+
+## Log Entries
+
+**[GIS, Remote Sensing and Machine Learning: Data Integration to Support the Management of Coastal Island Ecosystems](https://doi.org/10.1007/s00267-025-02202-5)** David J. Lieske et al.  
+- Random Forests  
+- Classification and Regression Trees (CART)  
+- K-means Clustering  
+- Logistic Regression  
+
+**Fungi Follow Flora, Bacteria Track the Seasons: A Tale of a Changing Landscape**  
+Emily L. Embury, Adriana L. Romero‑Olivares
+- SPIEC-EASI (Sparse InversE Covariance Estimation)  
+- ANCOM-BC2 (Analysis of Compositions of Microbiomes with Bias Correction)  
+- Indicator Species Analysis (IndVal.g)  
+- DADA2 (High-Resolution Sample Inference)  
+- Mixed-Effects Modeling (LME4)
+
+**Past and Present in the Ecological Connectivity of Protected Areas Through Land Cover and Graph-Based Metrics**  
+Antonio Vidal-Llamas, Carolina Acuña-Alonso, Xana Álvarez
+- Random Forest (RF)
+- K-means Clustering
+- Betweenness Centrality (BC)
+- Integral Connectivity Index (IIC)
+- Connectivity Probability (CP)
+- Equivalent Connectivity (EC)
+- Splitting Patch Index (SPLIT)
+- Effective Mesh Size (EM)
+- Edge Length (EL)
+- Edge Density (ED)
+- Logistic Regression
+
+**Characterization of Western US Hydrologic Processes Linked to Atmospheric Rivers in Two Sets of Seasonal Global Retrospective Forecasts**  
+Breanna Zavadoff, Ben Kirtman
+- Community Climate System Model (CCSM4)
+- Community Earth System Model (CESM1)
+- Markov Chain Monte Carlo (MCMC)
+- Generalized Linear Model (GLM)
+- Ensemble Kalman Filter (EnKF)
+- Random Forest (RF)
+- Support Vector Machine (SVM)
+- K-means Clustering
+
+**Assessing the impact of coastal flooding along the northern Yucatan Peninsula associated to sea level rise under different shared socio-economic pathways**  
+Wilmer Rey et al.
+- Random Forests (RF)
+- Support Vector Machines (SVM)
+- K-means Clustering
+- Logistic Regression
+- Markov Chain Monte Carlo (MCMC)
+- Ensemble Kalman Filter (EnKF)
+
+**Biophysical drivers of coral reef community structure across a tropical benthic seascape**  
+Rosalie A. Wright et al.
+- Principal Component Analysis (PCA)  
+- Distance-based Redundancy Analysis (dbRDA)  
+- Backward Selection using Akaike Information Criterion (AIC)  
+- Bray–Curtis Dissimilarity Metric  
+
+**Delineation of Management Zones in Clover-Grass for Site-Specific Management of Subsequent Crops**  
+Tobias Reuter et al.
+- Fuzzy C-means Clustering (Spatial Generalized)
+
+**Developing Resilient Reservoir System Operations: A Simulation Approach Incorporating Rule Curve**  
+Eunkyung Lee et al.
+- Improved Grey Wolf Optimizer (IGWO)  
+- Grey Wolf Optimizer (GWO)  
+- Genetic Algorithm (GA)  
+- Simulation-Based Rule Curve Optimization
+
+**A systematic literature-based analysis of resilience in the context of natural hazards using competitive technology intelligence**  
+Carlos González-Calva, H. Rodrigo Amezcua-Rivera, Gustavo Ayala-Milián
+- Competitive Technology Intelligence (CTI)
+- Multi-label Machine Learning
+- Deep Neural Network (DNN)
+- Cosine Similarity Analysis
+- Neural Network for Paper Classification
+- Bayesian Optimization Algorithm
+
+**Water vapour sorption in twelve mineral and bio-based building materials measured by the Dynamic Dewpoint Isotherm (DDI) method**  
+Kirstine Meyer Frandsen et al.
+- Dynamic Dewpoint Isotherm (DDI) method
+- Dynamic Vapour Sorption (DVS)
+- Guggenheim-Anderson-de Boer (GAB) Model
+---10---
+  
+**The Impact of Beachface Morphology on Habitat Suitability and Breeding Success of Least Terns and Snowy Plovers**  
+Amaia Ruiz de Alegría-Arzaburu et al.
+- Neural Network Classifier (for image segmentation)  
+- Logistic Regression (via RMark)
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# optional
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Log: Climate and Environment – Springer Nature Link – keyword: "climate AND algorithm"
+
+## Search Metadata
+- **Platform:** Springer Nature Link
+- **Keyword(s):** climate AND algorithm
 - **Date of search:** 2025-06-19
 - **Filters:** Open Access
 - **Articles reviewed:** 100
