@@ -132,3 +132,36 @@ Hai Tao, Zainab Hasan Ali, Faisal Mukhtar et al.
 - Feature Selection Techniques
 
 ---
+
+**[The use of artificial intelligence in musculoskeletal ultrasound: a systematic review of the literature](https://doi.org/10.1007/s11547-024-01856-1)**  
+Jonas M. Getzmann et al.  
+- Deep Learning–based algorithms 
+- Conventional Machine Learning algorithms
+
+---
+
+**[Artificial Intelligence and Algorithmic Price Collusion in Two-sided Markets](https://doi.org/10.48550/arXiv.2407.04088)**  
+Cristian Chica, Yinglong Guo & Gilad Lerman  
+- **Q‑learning** (reinforcement learning algorithm used by AI agents)  
+- **Bertrand competition model** (classical economic pricing framework)
+- **Penalty term extension** to mitigate collusion
+
+---
+
+**[Modeling and optimization of dyeing process of polyamide 6 and woolen fabrics with plum‑tree leaves using artificial intelligence](https://doi.org/10.1038/s41598-024-64761-7)**  
+Fatemeh Shahmoradi Ghaheh et al.  
+- Response Surface Methodology (RSM)  
+- Artificial Neural Network (ANN)  
+- Genetic Algorithm (GA)  
+- Levenberg–Marquardt algorithm
+
+---
+
+**[Penerapan Whale Optimization Algorithm dalam Pengoptimalan Portofolio Investasi Menggunakan Model Prediktif Artificial Intelligence](https://doi.org/10.36982/jseci.v2i01.4147)**  
+Iski Mediansyah, Firza Septian, Arief Zikry et al.  
+- Whale Optimization Algorithm (WOA)  
+- Artificial Neural Network (ANN)  
+- Machine Learning predictive modeling
+
+---
+
