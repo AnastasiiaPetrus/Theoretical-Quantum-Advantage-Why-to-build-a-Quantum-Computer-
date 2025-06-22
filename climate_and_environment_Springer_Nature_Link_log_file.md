@@ -314,8 +314,63 @@ Xiaoming Xiong et al.
 - Gradient Boosting
 - Genetic Algorithm operations (crossover & mutation)
 
+**Climate-induced losses of surface water and total water storage in Northeast Asia**  
+Chenchen Zhang et al.
+- Ridge Regression
+- Linear Regression
 
+**Foliar methane and nitrous oxide fluxes in *Salix bebbiana* respond to light and soil factors**  
+Md Rezaul Karim et al.
+- Levenberg–Marquardt Algorithm
+- Non-linear Regression (nlsLM package)
 
+**Dynamics-constrained rainfall projection reveals substantial increase in population exposure to unprecedented floods in the North China Plain**  
+Long Yang et al.
+- Spectral Clustering
+
+**Quantifying mangrove export of dissolved organic carbon on large scales and at fine resolution: a review of current technologies and the path forward**  
+Chance W. Sullivan et al.
+- Parallel Factor Analysis (PARAFAC) modeling
+- Mass Balance Modeling
+- Mixing Models
+- Biogeochemical (BGC) Modeling (ODE-based)
+- Advection–Diffusion Modeling
+- Neural Networks
+- Linear Regression
+- Extreme Gradient Boosting (XGBoost)
+- Random Forest
+- Mixture Density Networks (MDN)
+- Graph Convolution Network (GCN)
+- Unsupervised Learning Algorithms
+- Data Assimilation (ensemble Kalman filter)
+- NAME (Numerical Atmospheric-dispersion Modelling Environment, Lagrangian particle-trajectory model)
+
+**Investigating the dispersion and transport of carbon monoxide in West Africa with a focus on biomass burning and gas flaring sources**  
+Ajoke Onojeghuo et al.
+- Linear Regression
+- NAME (Lagrangian particle-trajectory model)
+
+**Does discontinuous Mesoscale Convective System produce stronger precipitation?**  
+Aoqi Zhang, Yilun Chen
+- Optical Flow Method
+- Tracking-driven Classification Algorithm
+- Linear Regression
+- Probability Density Function (PDF) Analysis
+
+**Combining climate models and risk assessment tools to evaluate the invasive potential of intentional plant introductions: a case study of Moringa oleifera in New Zealand**  
+Blair Moses Kamanga et al.
+- Fuzzy Overlay Analysis
+- Climate Match Algorithm
+- Match Climates Regional algorithm
+- CLIMEX-DYMEX
+- Climate Niche Envelope Approach
+- Logistic Regression (for probability analysis in WRA)
+
+**Integrated framework for assessment and spatial prediction of humus layer properties of forest soils**  
+Felix Thomas et al.
+- Partial Least Squares Regression (PLSR)
+- Random Forest
+- Grid Search (hyperparameter tuning)
 
 
 
