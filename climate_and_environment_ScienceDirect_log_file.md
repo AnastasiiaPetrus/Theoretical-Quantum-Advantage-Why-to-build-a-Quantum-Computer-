@@ -571,7 +571,6 @@ Zhoubing Huang, Zhenqin Zhao, He Yu, Lu Sun, Dali Sun, Jianzhong Cheng, Qinghai 
 A. Thomson, M.F. Hasan, M. Berkhout, J. Jacobs, E. Morse-McNabb  
 - Random forest  
 - Boruta feature selection  
-- Recurrent relative variable importance  
 - Partial least squares regression  
 - Linear mixed effects model (REML)  
 
