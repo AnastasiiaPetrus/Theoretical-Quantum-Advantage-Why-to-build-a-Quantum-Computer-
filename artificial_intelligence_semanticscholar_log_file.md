@@ -6,7 +6,7 @@
 - **Keyword(s):** artificial intelligence AND algorithm
 - **Filter:** Fields of Study: Computer Science; Has PDF
 - **Date of search:** 2025-06-22
-- **Articles reviewed:** 1
+- **Articles reviewed:** 75
 — **Time window:** 2024/ 2025
 
 ---
@@ -437,4 +437,224 @@ Zofia Rudnicka, Janusz Szczepański & Agnieszka Pregowska
 - Spiking Neural Networks (SNNs)  
 - Generative Adversarial Networks (GANs)  
 - Graph Neural Networks (GNNs)  
-- Transformers 
+- Transformers
+
+---
+
+**[An artificial intelligence-based model for optimal conjunctive operation of surface and groundwater resources](https://doi.org/10.1038/s41467-024-44758-6)**  
+Saeid Akbarifard, Mohamad Reza Madadi & Mohammad Zounemat-Kermani 
+- Moth Swarm Algorithm (MSA)  
+- Symbiotic Organism Search (SOS)  
+- RBF Artificial Neural Network (RBF‑ANN)  
+- Fuzzy inference system  
+- Linear fuzzy optimization model  
+- Genetic programming  
+- Non-dominated sorting genetic algorithm II (NSGA‑II)  
+- Particle Swarm Optimization (PSO)  
+- Whale Optimization Algorithm (WOA)  
+- Firefly Algorithm (FA)  
+- Invasive Weed Optimization  
+- Nonlinear programming (NLP)  
+- Mixed-integer nonlinear optimization  
+- Cyclic storage system method  
+- Conditional operation rules based on decision trees
+
+---
+
+**[Enhancing crop recommendation systems with explainable artificial intelligence: a study on agricultural decision-making](https://doi.org/10.1007/s00521-023-09391-2)**  
+Mahmoud Y. Shams, Samah A. Gamel & Fatma M. Talaat  
+- Gradient Boosting (GB)  
+- Decision Tree (DT)  
+- Random Forest (RF)  
+- Gaussian Naïve Bayes (GNB)  
+- Multimodal Naïve Bayes (MNB)
+
+---
+
+**[Synergism of Artificial Intelligence and Techno-Economic for Sustainable Treatment of Methylene Blue Dye-Containing Wastewater by Photocatalysis](https://doi.org/10.3390/su16020529)** 
+Khumbolake F. Ngulube, Amal Abdelhaleem, Manabu Fujii & Mahmoud Nasr  
+- Artificial Neural Network (ANN) model
+- Box–Behnken design (BBD) experimental design
+- Pseudo‑first‑order kinetic fitting method
+
+---
+
+**[Artificial intelligence-based optimal EVCS integration with stochastically sized and distributed PVs in an RDNS segmented in zones](https://doi.org/10.1186/s43067-023-00126-w)**  
+Ebunle Akupan Rene & Willy Stephen Tounsi Fokui  
+- Genetic Algorithm (GA)  
+- Particle Swarm Optimization (PSO)
+
+---
+
+**Rice Classification and Quality Detection Success with Artificial Intelligence Technologies (DOI:10.1590/1678-4324-2024220754)**  
+Gökalp Çınarer, Nizamettin Erbaş & Abdurrahman Öcal :contentReference[oaicite:0]{index=0}  
+- k‑Nearest Neighbor (k‑NN)  
+- Decision Tree  
+- Logistic Regression (LR)  
+- Multilayer Perceptron (MLP)  
+- Random Forest (RF)  
+- Support Vector Machine (SVM)
+
+---
+
+**[Artificial intelligence empowers the construction of first-class financial management system](https://doi.org/10.2478/amns-2024-0518)**  
+Mingdong Wang  
+- Improved Backpropagation (BP) algorithm 
+- Ant Colony Optimization (ACO) algorithm
+
+---
+
+**[Innovative Practice of Physical Education Teaching in Colleges and Universities Based on Artificial Intelligence Technology](https://doi.org/10.2478/amns-2024-0224)**  
+Jun Guo  
+- Low-pass filters
+- Data normalization 
+- AlphaPose algorithm
+
+---
+
+**[Universal photonic artificial intelligence acceleration](https://doi.org/10.1038/s41586-025-08854-x)**  
+Sufi R. Ahmed et al. 
+- ResNet (deep convolutional neural network)  
+- BERT (transformer‑based language model)  
+- Atari deep reinforcement learning algorithm (Deep Q‑Network/DQN)
+
+---
+
+**[Convergence of evolving artificial intelligence and machine learning techniques in precision oncology](https://doi.org/10.1038/s41746-025-01471-y)**  
+Elena Fountzilas et al.  
+- Convolutional Neural Networks (CNNs) 
+- Random Forest classifiers
+
+---
+
+**[Comparative Study of Wolf Pack Algorithm and Artificial Bee Colony Algorithm: Performance Analysis and Optimization Exploration](https://doi.org/10.4018/IJSIR.352061)**  
+Qiang Peng, Renjun Zhan, Husheng Wu & Meimei Shi  
+- Wolf Pack Algorithm (WPA)  
+- Artificial Bee Colony (ABC) Algorithm  
+- Particle Swarm Optimization (PSO)  
+- Ant Colony Optimization (ACO)
+
+---
+
+**[Pediatric Posterior Fossa Tumors Classification and Explanation‑Driven with Explainable Artificial Intelligence Models](https://doi.org/10.1007/s44196-024-00527-3)**  
+Eman Ragab Ashry et al.  
+- Convolutional Neural Network (CNN) models: VGG19, VGG16, ResNet50
+- LIME (Local Interpretable Model‑Agnostic Explanations) 
+- SHAP (Shapley Additive Explanations)
+- ICE (Individual Conditional Expectation plots)
+
+---
+
+**[Early automated detection system for skin cancer diagnosis using artificial intelligent techniques](https://doi.org/10.1038/s41598-024-59783-0)**  
+Nourelhoda M. Mahmoud & Ahmed M. Soliman  
+- Adaptive Snake (AS) segmentation algorithm  
+- Region Growing (RG) segmentation algorithm  
+- Artificial Neural Network (ANN) classifier  
+- Support Vector Machine (SVM) classifier
+
+---
+
+**[Secretary bird optimization algorithm: a new metaheuristic for solving global optimization problems](https://doi.org/10.1007/s10462-024-10729-y)**  
+Youfa Fu et al.  
+- Secretary Bird Optimization Algorithm (SBOA)
+
+---
+
+**[Black-winged kite algorithm: a nature-inspired meta-heuristic for solving benchmark functions and engineering problems](https://doi.org/10.1007/s10462-024-10723-4)**  
+Jun Wang et al.  
+- Black-winged Kite Algorithm (BKA)
+
+---
+
+**[Optimizing Artificial Neural Network Learning Using Improved Reinforcement Learning in Artificial Bee Colony Algorithm](https://doi.org/10.1155/2024/6357270)**  
+Taninnuch Lamjiak et al.
+- Artificial Bee Colony Algorithm
+- Particle Swarm Optimization (PSO) 
+- Traditional R-ABC
+- Stochastic Gradient Descent (SGD)
+- Adam optimizer
+
+---
+
+**[Random Forest Algorithm Overview](https://doi.org/10.58496/BJML/2024/007)**  
+Hasan Ahmed Salman, Ali Kalakech & Amani Steiti  
+- Random Forest (ensemble of decision trees)  
+- Decision Tree (as constituent base learner)  
+- K‑Nearest Neighbors (briefly mentioned as alternative)  
+- Logistic Regression (cited as part of supervised learning context)  
+- Clustering (unsupervised ML referenced broadly)
+
+---
+
+**[A comprehensive survey of convergence analysis of beetle antennae search algorithm and its applications](https://doi.org/10.1007/s10462-024-10789-0)**  
+Changzu Chen, Li Cao, Yaodan Chen, Binhe Chen & Yinggao Yue  
+- Beetle Antennae Search Algorithm (BAS) – bio-inspired swarm heuristic  
+- Improved Beetle Swarm Antennae Search Algorithm (BSAS) – swarm-intelligence enhancement  
+- Traditional BAS variants (e.g., damping-factor, feedback-based, Lévy-flight improvements)
+
+---
+
+**[Red‑billed Blue Magpie Optimizer (RBMO): a novel metaheuristic for engineering/UAV path planning](https://doi.org/10.1007/s10462-024-10716-3)**  
+Shengwei Fu et al.  
+- Red‑billed Blue Magpie Algorithm (RBMO) – nature-inspired swarm heuristic
+
+---
+
+**[Prediction of monkeypox infection from clinical symptoms with adaptive artificial bee colony-based artificial neural network](https://doi.org/10.1007/s00521-024-09782-z)**  
+Ahmed Muhammed Kalo Hamdan & Dursun Ekmekci  
+- Artificial Neural Network (ANN)
+- Adaptive Artificial Bee Colony (aABC)
+- K‑Nearest Neighbors (KNN) classifier 
+- Support Vector Classifier (SVC)
+- Random Forest
+
+---
+
+**[Alpha‑EIOU‑YOLOv8: An Improved Algorithm for Rice Leaf Disease Detection](https://doi.org/10.3390/agriengineering6010018)**  
+Dong Cong Trinh, Anh Tuan Mac, Khanh Giap Dang, Huong Thanh Nguyen, Hoc Thai Nguyen & Thanh Dang Bui  
+- Convolutional Neural Network (CNN)
+- YOLOv8 with custom loss functions: EIoU and α‑IoU loss
+
+---
+
+**[An intelligence cattle re-identification system over transport by Siamese Neural Networks and YOLOv5](https://doi.org/10.1109/JIOT.2023.3294944)**  
+Ivan Bakhshayeshi et al.  
+- YOLOv5 – object/detection algorithm for cattle face localization
+- Siamese Neural Network (SNN)
+
+---
+
+**[Research on improved YOLOv8 algorithm for insulator defect detection](https://doi.org/10.1007/s11554-023-01401-9)**  
+Lin Zhang, Boqun Li, Yang Cui, Yushan Lai & Jing Gao  
+- YOLOv8s (single-stage object detection CNN)
+- SIoU (Scaled Intersection over Union) loss function
+
+---
+
+**[CDMO: Chaotic Dwarf Mongoose Optimization Algorithm for feature selection](https://doi.org/10.1038/s41598-023-50959-8)**  
+Mohammed Abdelrazek, Mohamed Abd Elaziz & A. H. El‑Baz  
+- Dwarf Mongoose Optimization (DMO)  
+- Chaotic DMO (CDMO) – enhanced with chaotic maps  
+- Ant Colony Optimization (ACO)  
+- Whale Optimization Algorithm (WOA)  
+- Artificial Rabbit Optimization (ARO)  
+- Harris Hawk Optimization (HHO)  
+- Equilibrium Optimizer (EO)  
+- Harmony Search (RTHS wrapper)  
+- Grey Whale Optimizer (RSGW/SSAPSO variants)
+- Particle Swarm Optimization (PSO)
+
+---
+
+**[Enhancing the Performance of Machine Learning and Deep Learning-Based Flood Susceptibility Models by Integrating Grey Wolf Optimizer (GWO) Algorithm](https://doi.org/10.3390/rs16142595)**  
+Ali N. Mabdeh et al. 
+- Grey Wolf Optimizer (GWO)
+
+---
+
+**[Detection of Forest Fire Using Modified LSTM Based Feature Extraction with Waterwheel Plant Optimisation Algorithm Based VAE‑GAN Model](https://doi.org/10.18280/ijsse.140202)**  
+Yuva Krishna Aluri et al.  
+- Long Short‑Term Memory (LSTM) networks — for feature extraction  
+- Modified Firefly Algorithm (MFFA) — for weight optimization in LSTM  
+- Variational Autoencoder Generative Adversarial Network (VAE-GAN) — for classification  
+- Waterwheel Plant Optimisation Algorithm (WWPA) — for hyperparameter tuning of VAE-GAN 
