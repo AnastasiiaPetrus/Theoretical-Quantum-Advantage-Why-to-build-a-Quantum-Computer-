@@ -230,10 +230,8 @@ Liu et al.
 - Finite Volume Method (FVM)  
 - Semi-Implicit Method for Pressure-Linked Equations (SIMPLE)  
 - Pressure-Implicit with Splitting of Operators (PISO) algorithm  
-- Grid Convergence Index (GCI) analysis  
 - Logarithmic wind profile model  
 - Power-law regression (pedestrian speed vs. specific force)  
-- CHR (Compound Hazard Rating) index derived via theoretical instability threshold model  
 
 ---
 
@@ -274,8 +272,6 @@ T. Godinger, Z. Adar, Y. Svoray, G. Bel, S. Arnon
 - Linear regression (log-log slope fitting for power-law spectrum)  
 - Mann-Whitney U test  
 - Time series cross-correlation analysis (with lags)  
-- Hysteresis Index (HI)  
-- Flushing Index (FI)  
 - Empirical normalization (for discharge and concentration curves)  
 
 ---
@@ -283,9 +279,7 @@ T. Godinger, Z. Adar, Y. Svoray, G. Bel, S. Arnon
 **From landscape to mantle: Decoding the geomorphic expression of lithospheric subduction and tearing under the Betic Cordillera (southeast Spain)**  
 Viaplana-Muzas et al.
 - Swath profiling (Swath Profiler algorithm in ArcMap)
-- Relief anomaly index calculation
 - Local relief (energy of relief) metric
-- Normalized channel steepness index (ksn) based on Flint’s law
 - χ-analysis (Chi mapping using integral method)
 - Slope–area analysis
 - River profile analysis using knickpoint detection
@@ -440,8 +434,7 @@ Lei Wang, Liang He, Weihong Sun, Chen Gao, Zhenxiang Han, Meiwei Lin
 **Contrasting short-term dynamics of supraglacial ponds along the Hindu Kush-Himalaya revealed by PlanetScope imagery and deep learning**  
 Xu et al.
 - DeepLabv3+ (semantic segmentation neural network)  
-- Xception-65 (CNN backbone architecture)  
-- NDWI (Normalized Difference Water Index)  
+- Xception-65 (CNN backbone architecture)   
 - Manual thresholding (used in related works for comparison)  
 - Ice flow correction (based on ITS_LIVE glacier velocity)  
 - IoU (Intersection over Union) metric  
@@ -460,7 +453,6 @@ Wang et al.
 - H2O AutoML  
 - Shapley Additive exPlanations (SHAP)   
 - Global and local bivariate Moran’s I (LISA)  
-- Potential Ecological Risk Index (RI)  
 - Cluster analysis (hierarchical clustering)  
 
 ---
@@ -559,8 +551,6 @@ Wang et al.
 - Grid Search (GridSearchCV)  
 - Gower distance  
 - Boolean matching (for categorical variable similarity)  
-- Weighted multivariate similarity index  
-- Similarity Threshold Index (STI)  
 - Equal-area quadratic spline 
 - 10-fold cross-validation  
 
@@ -616,7 +606,6 @@ Zihan Zhang, Jinjie Wang, Jianli Ding, Jinming Zhang, Liya Shi, Wen Ma
 **Arbuscular mycorrhizal fungi reshape the stability and complexity of micro-food webs in the shrubland soils of a dryland ecosystem**  
 Zhu et al.
 - Spearman correlation (co-occurrence network construction)  
-- Random node removal (robustness index for network stability)  
 - Principal coordinates analysis (PCoA)  
 - PERMANOVA (Adonis analysis)  
 - Linear discriminant analysis (LDA, used in LEfSe)  
