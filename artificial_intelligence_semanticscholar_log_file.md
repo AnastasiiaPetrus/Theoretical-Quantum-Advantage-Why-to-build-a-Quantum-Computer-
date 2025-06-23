@@ -54,8 +54,8 @@ Esra Imamoglu
 **[Artificial intelligence alphafold model for molecular biology and drug discovery: a machine‑learning‑driven informatics investigation](https://doi.org/10.1186/s12943-024-02140-6)**  
 Song‑Bin Guo et al.  
 - Unsupervised Clustering Algorithm  
-- Regression Curve Fitting (linear regression analysis, R²)  
-- Walktrap Algorithm (community detection in graph-based networks)
+- Regression Curve Fitting
+- Walktrap Algorithm
 
 ---
 
@@ -142,9 +142,9 @@ Jonas M. Getzmann et al.
 
 **[Artificial Intelligence and Algorithmic Price Collusion in Two-sided Markets](https://doi.org/10.48550/arXiv.2407.04088)**  
 Cristian Chica, Yinglong Guo & Gilad Lerman  
-- **Q‑learning** (reinforcement learning algorithm used by AI agents)  
-- **Bertrand competition model** (classical economic pricing framework)
-- **Penalty term extension** to mitigate collusion
+- Q‑learning (reinforcement learning algorithm used by AI agents)  
+- Bertrand competition model (classical economic pricing framework)
+- Penalty term extension to mitigate collusion
 
 ---
 
@@ -185,7 +185,7 @@ Zirui Zeng, Junwen Xu, Shiwei Zhou, Yufeng Zhao, Yansong Shi
 Mahdi‑Reza Borna, Mohammad Mehdi Sepehri & Behnam Maleki  
 - Convolutional Neural Network architectures (AlexNet, ResNet18, ResNet34, Inception V3, DenseNet121)  
 - Transfer Learning  
-- U‑Net (for image segmentation)
+- U‑Net
 
 ---
 
@@ -207,7 +207,7 @@ Zhiyuan Liu
 - Anomaly Detection (statistical methods)
 - Principal Component Analysis (PCA)  
 - Information Gain (feature selection)    
-- Normalization and Standardization (e.g., Z-score, min-max scaling)
+- Normalization and Standardization
 
 ---
 
@@ -223,7 +223,7 @@ Malvasi, A. et al.
 Amir Yari, Paniz Fasih, Mohammad Hosseini Hooshiar, Ali Goodarzi, Seyedeh Farnaz Fattahi  
 - YOLOv5 (You Only Look Once v5) for object detection  
 - Data augmentation techniques for robustness  
-- Standard classification/evaluation metrics (accuracy, precision, recall/sensitivity, specificity, Dice coefficient, AUC)
+- Standard classification/evaluation metrics
 
 ---
 
@@ -422,10 +422,10 @@ Iuliana‑Alina Enache et al.
 
 **[Diagnostic performance of artificial intelligence-assisted PET imaging for Parkinson’s disease: a systematic review and meta-analysis](https://doi.org/10.1038/s41746-024-01012-z)**  
 Jing Wang et al.  
-- Machine Learning (general; classification tasks in PET imaging)
-- Support Vector Machine (used to distinguish PD vs normal controls) 
-- Decision Trees (with SSM/PCA features for classification in PET scans)
-- Hidden Markov Random Fields (for preprocessing PET data)
+- Machine Learning
+- Support Vector Machine
+- Decision Trees
+- Hidden Markov Random Fields
 
 ---
 
@@ -487,7 +487,7 @@ Ebunle Akupan Rene & Willy Stephen Tounsi Fokui
 ---
 
 **Rice Classification and Quality Detection Success with Artificial Intelligence Technologies (DOI:10.1590/1678-4324-2024220754)**  
-Gökalp Çınarer, Nizamettin Erbaş & Abdurrahman Öcal :contentReference[oaicite:0]{index=0}  
+Gökalp Çınarer, Nizamettin Erbaş & Abdurrahman Öcal
 - k‑Nearest Neighbor (k‑NN)  
 - Decision Tree  
 - Logistic Regression (LR)  
@@ -588,15 +588,15 @@ Hasan Ahmed Salman, Ali Kalakech & Amani Steiti
 
 **[A comprehensive survey of convergence analysis of beetle antennae search algorithm and its applications](https://doi.org/10.1007/s10462-024-10789-0)**  
 Changzu Chen, Li Cao, Yaodan Chen, Binhe Chen & Yinggao Yue  
-- Beetle Antennae Search Algorithm (BAS) – bio-inspired swarm heuristic  
-- Improved Beetle Swarm Antennae Search Algorithm (BSAS) – swarm-intelligence enhancement  
+- Beetle Antennae Search Algorithm (BAS)
+- Improved Beetle Swarm Antennae Search Algorithm (BSAS)
 - Traditional BAS variants (e.g., damping-factor, feedback-based, Lévy-flight improvements)
 
 ---
 
 **[Red‑billed Blue Magpie Optimizer (RBMO): a novel metaheuristic for engineering/UAV path planning](https://doi.org/10.1007/s10462-024-10716-3)**  
 Shengwei Fu et al.  
-- Red‑billed Blue Magpie Algorithm (RBMO) – nature-inspired swarm heuristic
+- Red‑billed Blue Magpie Algorithm (RBMO)
 
 ---
 
@@ -654,7 +654,7 @@ Ali N. Mabdeh et al.
 
 **[Detection of Forest Fire Using Modified LSTM Based Feature Extraction with Waterwheel Plant Optimisation Algorithm Based VAE‑GAN Model](https://doi.org/10.18280/ijsse.140202)**  
 Yuva Krishna Aluri et al.  
-- Long Short‑Term Memory (LSTM) networks — for feature extraction  
-- Modified Firefly Algorithm (MFFA) — for weight optimization in LSTM  
-- Variational Autoencoder Generative Adversarial Network (VAE-GAN) — for classification  
-- Waterwheel Plant Optimisation Algorithm (WWPA) — for hyperparameter tuning of VAE-GAN 
+- Long Short‑Term Memory (LSTM) networks
+- Modified Firefly Algorithm (MFFA)
+- Variational Autoencoder Generative Adversarial Network (VAE-GAN) 
+- Waterwheel Plant Optimisation Algorithm (WWPA)
