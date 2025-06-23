@@ -35,3 +35,13 @@ T. Ahn, J. Kwak and S. Kim
 - Formal Verification Methods  
 
 ---
+
+**[Implementing RGCN Model in Network Security Big Data Analysis](https://doi.org/10.13052/jcsm2245-1439.14210)**  
+Lei Zhang  
+- Relational Graph Convolutional Network (RGCN)  
+- Boosting ensemble learning integration  
+- Subgraph sampling methods  
+- Thresholding techniques for decision fusion  
+
+---
+
