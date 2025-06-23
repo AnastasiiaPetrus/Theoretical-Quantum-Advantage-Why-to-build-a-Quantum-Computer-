@@ -198,7 +198,6 @@ Kwok P Chun et al.
 - Conditional Probability Modelling  
 - Extreme Value Theory  
 - Multivariate Quantiles and Multiple-output Regression Quantiles  
-- Statistical Downscaling Techniques  
 
 **Rethinking the Power of Timestamps for Robust Time Series Forecasting: A Global-Local Fusion Perspective**  
 Chengsen Wang et al.
