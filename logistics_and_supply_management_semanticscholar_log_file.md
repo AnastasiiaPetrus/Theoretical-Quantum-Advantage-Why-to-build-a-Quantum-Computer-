@@ -95,7 +95,7 @@ Qizhen Chen
 
 ---
 
-**[Research on Integration and Optimization of Intelligent Warehouse and Logistics Information System in E-commerce Supply Chain](https://doi.org/10.1109/CMLAI.2025.157-162)**  
+**[Research on Integration and Optimization of Intelligent Warehouse and Logistics Information System in E-commerce Supply Chain](https://doi.org/10.54097/3e3x1179)**  
 Zehao Cheng  
 - Linear Programming (LP)  
 - IoT Data Acquisition  
