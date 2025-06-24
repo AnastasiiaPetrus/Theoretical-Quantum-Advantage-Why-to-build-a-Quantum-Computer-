@@ -6,12 +6,12 @@ This file documents the full process and results of algorithm extraction, cluste
 
 ## Search Parameters
 
-- **Keywords:** `climate`, `environment`, `climate AND algorithm`
+- **Keywords:** `climate AND algorithm`
 - **Platforms:** arXiv, Scopus, Springer
 - **Time window:** 2010–2024
 - **Sample size:** 150 most relevant articles per keyword/platform combination
 
-_Other parameters can be adjusted as needed._
+_Other parameters, keywords, platform can be adjusted as needed._
 
 ## Process Summary
 
