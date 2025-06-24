@@ -6,7 +6,7 @@
 - **Keyword(s):** defense and security AND algorithm
 - **Filter:** Fields of Study: Computer Science; Has PDF
 - **Date of search:** 2025-06-24
-- **Articles reviewed:** 35
+- **Articles reviewed:** 50
 — **Time window:** 2025
 
 ---
@@ -310,7 +310,130 @@ Zhen Hong, Wentao Chen, Taotao Li, Jie Su
 
 ---
 
+**[Phishing Website Detection Using Machine Learning](https://doi.org/10.55248/gengpi.6.0325.1325)**  
+S. Harika, B. Preetham, R. Mallesh, V. Sai Vyasa Teja, N. Sridhar  
+- Random Forest (achieved ≈97% accuracy)  
+- Decision Tree classifier (≈94% accuracy)  
+- Logistic Regression  
+- Support Vector Machine (SVM)  
+- k‑Nearest Neighbors (KNN)  
 
+---
 
+**[Computer Network Security System Optimization Based on Improved Neural Network Algorithm and Data Search](https://doi.org/10.13052/jcsm2245-1439.1414)**  
+Huizhong Zhang, Fanrong Meng, Qinyong Wang  
+- Optimized Convolutional Neural Network (CNN)
+- Data-search (feature selection/preprocessing)
 
+---
 
+**[An Efficient Cyber Security Attack Detection With Encryption Using Capsule Convolutional Polymorphic Graph Attention Neural Network (CCPGANN-TOA)](https://doi.org/10.1002/ett.70069)**  
+P. J. Sathish Kumar et al.  
+- Capsule Convolutional Polymorphic Graph Attention Neural Network (CCPGANN)  
+- Tyrannosaurus Optimization Algorithm (TOA)
+- Elliptic Curve Digital Signature Algorithm (DSA‑ECC)
+
+---
+
+**[Game Theoretical Decision-Making of Dynamic Defense in Cyber ...](https://doi.org/10.1145/3719658)**  
+Pengchao Yao, Bingjing Yan, Qiang Yang  
+- Novel Reinforcement Learning (RL) algorithm
+- Game-theoretic modeling of attacker–defender interactions
+
+---
+
+**[On the Vulnerability of Concept Erasure in Diffusion Models](https://doi.org/10.48550/arXiv.2502.17537)**  
+Lucas Beerens, Alex D. Richardson, Kaicheng Zhang & Dongdong Chen  
+- Coordinate-Descent-Based Restoration Algorithm (RECORD)
+
+---
+
+**[Aircraft Detection and Registration Number Recognition System with YOLO and OCR](https://doi.org/10.52783/jns.v14.1719)**  
+Je‑Hong Park, Won‑Hyuk Choi, Min‑Seok Jie  
+- YOLO object detection model
+- OCR (Optical Character Recognition) algorithm 
+
+---
+
+**[Smart IoT Security: Lightweight Machine Learning Techniques for Multi-Class Attack Detection in IoT Networks](https://doi.org/10.48550/arXiv.2502.04057)**  
+Shahran Rahman Alve, Muhammad Zawad Mahmud, Samiha Islam, Md. Asaduzzaman Chowdhury, Jahirul Islam  
+- Decision Tree classifier  
+- Random Forest algorithm  
+- K‑Nearest Neighbors (KNN)  
+- Gradient Boosting  
+- AdaBoost  
+
+---
+
+**[Network Security Threats and Defense Mechanisms for 6G Multi‑Virtual Network Scenarios](https://doi.org/10.1002/nem.70003)**  
+Yu Zhou
+- SDN + NFV virtualized stateful firewall rule generation 
+- Machine learning algorithms
+- Intelligent Osprey Optimized Versatile Random Forest (IOO‑VRF)
+
+---
+
+**[Improving the CRCC‑DHR Reliability: An Entropy‑Based Mimic‑Defense‑Resource Scheduling Algorithm](https://doi.org/10.3390/e27020208)**  
+Xinghua Wu, Mingzhe Wang, Yun Cai, Xiaolin Chang, Yong Liu  
+- Incomplete-information game model (attacker–defender framework)  
+- Entropy Weight Scheduling Algorithm (REWS)
+- Heuristic scheduling algorithms (CRS, TIRTS, TARTS, HHAC, HCDC variants for baseline comparison)
+
+---
+
+**[A Collaborative Programmable LFA Defense Using Temporal Graph Learning in AIoT](https://doi.org/10.1109/JIOT.2024.3471615)**  
+Yikun Li  
+- Temporal Graph Learning
+- Collaborative graph-based defense
+
+---
+
+**[Dynamic Policy Decision/Enforcement Security Zoning Through Stochastic Games and Meta Learning](https://doi.org/10.1109/TNSM.2024.3481662)**  
+Yahuza Bello, Ahmed Refaey Hussein  
+- Stochastic game framework
+- Meta-learning algorithm
+
+---
+
+**[Resource-Efficient Low-Rate DDoS Mitigation With Moving Target Defense in Edge Clouds](https://doi.org/10.1109/TNSM.2024.3413685)**  
+Yuyang Zhou, Guang Cheng, Zhi Ouyang, Zongyao Chen  
+- Moving Target Defense (MTD)  
+- Markov Decision Process (MDP)  
+- Deep Q-Network (DQN) reinforcement learning algorithm 
+
+---
+
+**[A Secure and Efficient Framework for Intelligent Transportation: Leveraging ISDF and Augmented IoT Algorithms](https://doi.org/10.1002/ett.70058)**  
+Geetanjali Rathee, Chaker Abdelaziz Kerrache, Anissa Cheriguene  
+- Augmented algorithms 
+- N-step bootstrapping learning schemes
+
+---
+
+**[PEFL: Privacy‑Preserved and Efficient Federated Learning With Blockchain](https://doi.org/10.1109/JIOT.2024.3479328)**  
+Lei Tian et al.  
+- Federated Learning (FL)  
+- Local Differential Privacy (LDP) 
+- Euclidean-distance-based anomaly detection
+- Median Absolute Deviation (MAD) filtering  
+- Committee-based Model-Validated Fault-Tolerant Federation (MFF) consensus mechanism
+
+---
+
+**[Using Machine Learning to Enhance Post‑Quantum Cryptographic Algorithms](https://doi.org/10.35629/5252-0702715728)**  
+Mmaduekwe Ebuka Paul et al.
+**Post-Quantum Cryptography (PQC) methods explicitly named:**
+- RSA, ECC, Diffie–Hellman (classical vuln by quantum computers)  
+- **Lattice-based schemes**: NTRUEncrypt, Learning With Errors (LWE), Ring-LWE, CRYSTALS‑Kyber, CRYSTALS‑Dilithium  
+- **Code-based cryptography**: McEliece, BIKE  
+- **Hash-based**: Merkle trees, XMSS, SPHINCS+  
+- **Multivariate-quadratic**: Rainbow  
+- **Isogeny-based**: SIKE  
+**Machine learning techniques applied for PQC enhancement:**
+- Deep learning  
+- Reinforcement learning (RL)  
+- Anomaly detection models  
+- Convolutional Neural Networks (CNN)  
+- Support Vector Machines (SVM), Random Forests  
+- Genetic Algorithms (GA) – for lattice parameter tuning  
+- Bayesian optimization – for code-based parameter tuning
