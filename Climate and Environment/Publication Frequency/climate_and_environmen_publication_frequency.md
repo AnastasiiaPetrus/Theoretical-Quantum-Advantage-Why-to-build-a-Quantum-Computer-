@@ -14,7 +14,7 @@ To ensure reproducibility and comparability of results on algorithm usage in cli
 
 ## Table Legend
 
-- **Algorithm & Method**: Cluster of related algorithms or models (may include variants and common abbreviations).
+- **Algorithm & Method**: Cluster of related algorithms or methods.
 - **fpub**: The number of times the method was mentioned in the aggregated, deduplicated literature survey (higher = more prevalent in recent research, 2010–2024).
 
 ---
