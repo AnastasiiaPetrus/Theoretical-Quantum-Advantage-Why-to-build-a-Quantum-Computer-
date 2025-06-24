@@ -6,7 +6,7 @@
 - **Keyword(s):** logistics and supply management AND algorithm
 - **Filter:** Fields of Study: Computer Science; Has PDF
 - **Date of search:** 2025-06-24
-- **Articles reviewed:** 34
+- **Articles reviewed:** 41
 — **Time window:** 2024-2025
 
 ---
@@ -377,6 +377,84 @@ Rui Mao, Youwei Liu, Yida Yang
 - Regret Theory-based Optimal Solution Ranking  
 - Collaborative Optimization Model for supply chain virtual inventory management  
 - Multi-objective optimization and Pareto optimality  
+
+---
+
+**[Hazardous Chemicals Logistics Internet of Vehicles Based on Encryption Algorithm](https://doi.org/10.12694/scpe.v25i3.2064)**  
+Yujian Tang, Ya Chen, Hoekyung Jung 
+- Data Encryption Standard (DES)  
+- Advanced Encryption Standard (AES)  
+- Rivest-Shamir-Adleman (RSA) encryption algorithm  
+- Hybrid encryption algorithm (AES for data encryption + RSA for encrypting AES keys)  
+- Physical layer security methods  
+
+---
+
+**[Theoretical approaches to AI in supply chain optimization: Pathways to efficiency and resilience](https://doi.org/10.53771/ijstra.2024.6.1.0033)**  
+Emmanuel Adeyemi Abaku, Tolulope Esther Edunjobi, Agnes Clare Odimarha 
+- Linear Programming (including Simplex and interior point methods)  
+- Integer Programming (including Branch and Bound, Branch and Cut)  
+- Nonlinear Programming (including gradient-based methods, genetic algorithms)  
+- Simulation Modeling  
+- Stochastic Optimization (stochastic programming, robust optimization, Monte Carlo simulation)  
+- Machine Learning Algorithms (Neural Networks, Decision Trees, Support Vector Machines)  
+- Reinforcement Learning  
+- Network Theory and Graph Algorithms (Dijkstra’s, Floyd-Warshall, Prim’s, Kruskal’s, Ford-Fulkerson, Edmonds-Karp, Network Simplex)  
+- Game Theory  
+- Swarm Intelligence (Ant Colony Optimization, Particle Swarm Optimization)  
+- Multi-Agent Systems and Agent-Based Modeling  
+- Evolutionary Algorithms (Genetic Algorithms, Differential Evolution)  
+- Artificial Neural Networks (ANNs)  
+- Hybrid AI Approaches  
+
+---
+
+**[Enhancing Supply Chain Management through Graph Analytics](https://www.ijsat.org/)**  
+Agnes Antony, Alaka P, Dr. Tulasi B  
+- Shortest Path Algorithms (e.g., Dijkstra’s algorithm)  
+- Centrality Measures  
+- Community Detection  
+- Link Prediction  
+- Graph Neural Networks (GNNs)  
+- Supply Chain Vulnerability Index (SCVI)  
+- Time-to-Stockout (TTS) analysis  
+- Social Network Analysis (SNA)  
+
+---
+
+**[Integration of Mobile Interaction Technologies in Supply Chain Management for S2B2C E-Commerce Platforms](https://doi.org/10.3991/ijim.v19i03.53953)**  
+Chaojian Li, Yutong Gong 
+- Elman Neural Network  
+- Backpropagation Algorithm  
+
+---
+
+**[Research on Adaptive Intelligent Decision Algorithm in Industry 4.0 Digital Economy and Management Transformation Based on Clustering Algorithm](https://doi.org/10.17559/TV-20231205001174)**  
+Yanzhi Zhang, Guoping Zhuang, Haiyang Lv, Qinghua Li 
+- k-Means Clustering Algorithm  
+- Artificial Fish Swarm Algorithm (AFSA)  
+- Fuzzy Analytic Hierarchy Process (FAHP)  
+- Logistic and Gompertz Models  
+- Evolutionary and Swarm Intelligence Algorithms  
+
+---
+
+**[Reviewing the role of AI and machine learning in supply chain analytics](https://doi.org/10.30574/gscarr.2024.18.2.0069)**  
+Enoch Oluwademilade Sodiya et al. 
+- Machine Learning Algorithms  
+- Predictive Analytics  
+- Sentiment Analysis  
+
+---
+
+**[AI in supply chain optimization: A comparative review of USA and African Trends](https://doi.org/10.30574/ijsra.2024.11.1.0156)**  
+Akoh Atadoga et al.  
+- Genetic Algorithms  
+- Distance Clustering Analysis Algorithms  
+- Predictive Analytics  
+- Machine Learning  
+- Edge Computing and Blockchain  
+- Digital Twins  
 
 ---
 
