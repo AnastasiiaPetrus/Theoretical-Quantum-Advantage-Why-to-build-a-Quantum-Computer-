@@ -5,7 +5,7 @@
 - **Platform:** ACM Digital Library
 - **Keyword(s):** defense and security AND algorithm
 - **Date of search:** 2025-06-24
-- **Articles reviewed:** 16
+- **Articles reviewed:** 25
 — **Time window:** 2025
 
 ---
@@ -213,6 +213,108 @@ Shahroz Tariq et al.
 - Explainable AI (XAI) (SHAP, LIME)  
 - Graph Neural Networks (GNN)  
 - Chatbots and Conversational Interfaces  
+
+---
+
+**[Software Security Analysis in 2030 and Beyond: A Research Roadmap](https://doi.org/10.1145/3708533)**  
+Marcel Böhme et al. 
+- Formal Verification (e.g., seL4 microkernel, CompCert compiler)  
+- Static Analysis (Abstract Interpretation, Dataflow Analysis)  
+- Fuzzing (Blackbox, Greybox, Whitebox/Dynamic Symbolic Execution)  
+- Dynamic Symbolic Execution (Concolic Testing, SMT Solvers)  
+- Machine Learning (ML) for Vulnerability Detection and Tool Configuration  
+- Software Composition Analysis (SCA)  
+- Differential and Metamorphic Testing  
+- Program Analysis for Fast-Evolving Software  
+- Security Education  
+
+---
+
+**[AI Agents Under Threat: A Survey of Key Security Challenges and Future Pathways](https://doi.org/10.1145/3716628)**  
+Zehang Deng et al. 
+- Chain-of-Thought (CoT) Reasoning  
+- Reinforcement Learning (RL)  
+- Prompt Injection Attacks  
+- Jailbreak Attacks  
+- Backdoor Attacks  
+- Retrieval-Augmented Generation (RAG)  
+- Differential Privacy  
+
+---
+
+**[Balancing Security and Longevity: Benefits of Modular IoT Infrastructure](https://doi.org/10.1145/3703465.3703468)**  
+Maxwell Keleher, David Barrera, Sonia Chiasson  
+- Modular Design Paradigm  
+- Right to Repair  
+- Software Update Strategies  
+- Questionnaire-based User Study / User Behavioural Analysis  
+- Motivations for IoT Device Retirement  
+- E-waste Reduction Behaviours  
+- Security and Privacy Attitudes / Risk Management  
+
+---
+
+**[Research on the Mechanism for Enhancing Undergraduate Students' Information Security Behavior in the Context of Generative Artificial Intelligence](https://doi.org/10.1145/3723890.3723902)**  
+Yuhua Cao  
+- Protection Motivation Theory  
+- Theory of Planned Behavior  
+- Social Cognitive Theory  
+- Structural Equation Modeling (SEM)
+
+---
+
+**[Research on Network Security Model Based on FAIR and OCTAVE Algorithms](https://doi.org/10.1145/3727505.3727521)**  
+Jiangang Tang, Qifei Zhu, Haoshun Cao 
+- FAIR Algorithm (Factor Analysis of Information Risk)  
+- OCTAVE Method (Operational Critical Threats, Assets, and Vulnerabilities Evaluation)  
+- Risk Management Strategies (Risk Mitigation, Risk Transfer, Risk Acceptance)  
+- Vulnerability Assessment  
+- Asset Classification  
+- Threat Event Frequency Calculation  
+
+---
+
+**[Defining Security Limits in Biometrics](https://doi.org/10.1145/3714393.3726514)**  
+Axel Durbet, Paul-Marie Grollemund, Pascal Lafourcade, Kevin Thiry-Atighehchi 
+- False Match Rate (FMR)  
+- Confidence Intervals on FMR  
+- Targeted and Untargeted Attack Models  
+- Critical Population and Critical FMR Metrics  
+- Biometric Birthday Problem  
+- Approximate and Exact Formulations of Biometric Birthday Problem  
+- Probabilistic Modeling and Bounds (e.g., Bonferroni inequality)  
+
+---
+
+**[Blockchain Cross-Chain Bridge Security: Challenges, Solutions, and Future Outlook](https://doi.org/10.1145/3696429)**  
+Ningran Li et al. 
+- Smart Contracts (Upgradable Smart Contracts)
+- Multi-signature Authentication
+- Formal Verification
+- Secure Multiparty Computation (SMPC)
+- Threshold Secret Sharing (TSS)
+- Consensus Mechanisms / Protocols (e.g., PoSA, Tendermint)
+- Flash Loan Attack Mitigations
+- Liquidity Pool Management / Liquidity Management
+- Error Handling Strategies
+
+---
+
+**[From Data to Defense: How Ontology Fuels AI in Cyber Threat Detection](https://doi.org/10.1145/3704137.3704176)**  
+Sheetal Dash, Huseyin Seker, Maryam Shahpasand 
+- Machine Learning Algorithms
+- Intrusion Detection System (IDS) Attack Scenarios
+- Taxonomy and Clustering of Cybersecurity Datasets
+- Dataset Ontology for Cybersecurity
+
+---
+
+**[Enhancing Smart Contract Security Analysis with Execution Property Graphs](https://doi.org/10.1145/3728924)**  
+Kaihua Qin et al.  
+- Execution Property Graph (EPG)
+- Graph Traversal Techniques
+- Reentrancy Attack Detection
+- Price Manipulation Attack Detection
 
 ---
 
