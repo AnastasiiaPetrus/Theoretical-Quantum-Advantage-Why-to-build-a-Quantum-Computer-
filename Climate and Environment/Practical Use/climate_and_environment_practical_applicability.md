@@ -165,7 +165,7 @@ The evaluation is based on an extensive review of international and national age
 | 4D-Var (Four-Dimensional Variational Data Assimilation) (4D-Var (Four-Dimensional Variational Data Assimilation)) | 1 |
 | 5-fold cross-validation (5-fold cross-validation) | 1 |
 | Abscisic acid-induced gene regulation (Abscisic acid-induced gene regulation) | 0 |
-| Absolute Percent Bias (Absolute Percent Bias, Absolute Percent Bias (|Pbias|)) | 1 |
+| Absolute Percent Bias (Pbias) | 1 |
 | Absolute Relative Error (Absolute Relative Error, Absolute Relative Error (ARE)) | 1 |
 | Accumulated Latitudinal Dispersal Calculation (Accumulated Latitudinal Dispersal Calculation) | 0 |
 | Actor-Critic Methods (Actor-Critic Methods) | 0 |
