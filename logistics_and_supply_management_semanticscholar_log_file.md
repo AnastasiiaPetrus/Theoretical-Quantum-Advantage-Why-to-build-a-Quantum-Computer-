@@ -222,7 +222,7 @@ Ruiheng Zhang
 
 ---
 
-**[Advancing Decision-Making: AI-Driven Optimization Models for Complex Systems](https://doi.org/10.11591/ijbas.v13i3.27763)**  
+**[Advancing Decision-Making: AI-Driven Optimization Models for Complex Systems](https://doi.org/10.35335/ijobas.v13i3.581)**  
 Hengki Tamando Sihotang et al.  
 - Multi-objective Optimization (Pareto Front approach)  
 - Metaheuristic Algorithms (Genetic Algorithms, Particle Swarm Optimization)  
@@ -269,7 +269,7 @@ Md Sumon Gazi
 
 ---
 
-**[Research and Application of Emergency Logistics Resource Allocation Algorithm based on Supply Chain Network](https://doi.org/10.1145/4744)**  
+**[Research and Application of Emergency Logistics Resource Allocation Algorithm based on Supply Chain Network](https://doi.org/10.12694/scpe.v25i6.3289)**  
 Hongwei Yao, Wanxian Wu
 - Multi-Agent Genetic Algorithm (MAGA)  
 - Fuzzy Logic  
