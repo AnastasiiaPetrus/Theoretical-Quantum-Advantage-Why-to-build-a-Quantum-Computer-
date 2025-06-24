@@ -155,7 +155,7 @@ To ensure reproducibility and comparability of results on algorithm usage in cli
 | 4D-Var (Four-Dimensional Variational Data Assimilation) (4D-Var (Four-Dimensional Variational Data Assimilation))	| 1 |
 | 5-fold cross-validation (5-fold cross-validation)	| 1 |
 | Abscisic acid-induced gene regulation (Abscisic acid-induced gene regulation)	| 1 |
-| Absolute Percent Bias (Absolute Percent Bias, Absolute Percent Bias (|Pbias|))	| 1 |
+| Absolute Percent Bias	| 1 |
 | Absolute Relative Error (Absolute Relative Error, Absolute Relative Error (ARE))	| 1 |
 | Accumulated Latitudinal Dispersal Calculation (Accumulated Latitudinal Dispersal Calculation)	| 1 |
 | Actor-Critic Methods (Actor-Critic Methods)	| 1 |
@@ -392,5 +392,5 @@ To ensure reproducibility and comparability of results on algorithm usage in cli
 | Iterative Optimization (Iterative Optimization, iterative optimization)	| 1 |
 | Jenks Natural Breaks Classification (Jenks Natural Breaks Classification, Jenks natural breaks classification)	| 1 |
 | Group-Based Trajectory Modeling (Group-Based Trajectory Modeling)	| 1 |
-| ... (и далее по списку, если есть необходимость — добавь остальные строки аналогично) |
+
 
