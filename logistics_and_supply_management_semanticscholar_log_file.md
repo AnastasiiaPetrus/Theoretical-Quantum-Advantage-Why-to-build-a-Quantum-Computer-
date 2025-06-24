@@ -458,7 +458,7 @@ Akoh Atadoga et al.
 
 ---
 
-**[Integration of Information Technology and Machine Learning to Improve the Efficiency of IoT-Based Logistics Systems](https://syekhnurjati.ac.id/journal/index.php/itej/article/view/448)**  
+**[Integration of Information Technology and Machine Learning to Improve the Efficiency of IoT-Based Logistics Systems](https://doi.org/10.24235/itej.v9i2.132)**  
 Maya Amelia, Agus Hudaya Suswanto  
 - Linear Regression  
 - Decision Tree Algorithms  
@@ -534,7 +534,7 @@ Loubna Moumeni and Mohammed Saber
 
 ---
 
-**[A Literature Review on AI and DSS for Resilient and Sustainable Humanitarian Logistics](https://doi.org/10.21512/ijcshai.v1i1.13028)**  
+**[A Literature Review on AI and DSS for Resilient and Sustainable Humanitarian Logistics](https://doi.org/10.21512/ijcshai.v2i1.13028)**  
 Maria Loura Christhia et al. 
 - Agent-Based Modeling (ABM)  
 - Mixed-Integer Programming (MIP)  
