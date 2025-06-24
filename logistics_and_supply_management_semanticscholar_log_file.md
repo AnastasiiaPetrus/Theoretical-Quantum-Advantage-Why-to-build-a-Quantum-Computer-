@@ -6,7 +6,7 @@
 - **Keyword(s):** logistics and supply management AND algorithm
 - **Filter:** Fields of Study: Computer Science; Has PDF
 - **Date of search:** 2025-06-24
-- **Articles reviewed:** 25
+- **Articles reviewed:** 34
 — **Time window:** 2024-2025
 
 ---
@@ -289,3 +289,94 @@ Agnes Clare Odimarha, Sodrudeen Abolore Ayodeji, Emmanuel Adeyemi Abaku
 - Neural Networks (including LSTM)  
 
 ---
+
+**[The rise of the "smart" supply chain: How AI and automation are revolutionizing logistics](https://doi.org/10.30574/ijsra.2024.12.2.1304)** 
+Temitayo Oluwadamilola Adesoga et al.
+- Artificial Intelligence (AI)  
+- Autonomous Vehicles  
+- Automated Storage and Retrieval Systems (AS/RS)  
+- Robotics  
+- Internet of Things (IoT)  
+- Machine Learning (ML)  
+
+---
+
+**[Supply Chain Transparency: Real-Time Analytics for Product Tracking, Bottleneck Detection, and Logistics Optimization](https://ijsrm.net/index.php/ijsrm/article/view/2125)**  
+Manish Reddy Bendhi  
+- Radio Frequency Identification (RFID)  
+- Internet of Things (IoT) Sensors  
+- Global Positioning System (GPS)  
+- Blockchain Technology  
+- Machine Learning Models  
+- Real-Time Dashboards and Alerting Systems  
+- AI-Powered Route Optimization Algorithms  
+
+---
+
+**[Enhancing Supply Chain Management Efficiency: A Data-Driven Approach using Predictive Analytics and Machine Learning Algorithms](https://www.ijacsa.thesai.org/Vol.15No.4/12.pdf)**  
+Shamrao Parashram Ghodake et al.
+- Deep Q-Learning (DQL)  
+- Support Vector Machine (SVM)  
+- Decision Tree (DT)  
+- Random Decision Tree (RDT)  
+- Min-Max Normalization  
+
+---
+
+**[Directions for using big data analytics in logistics management](https://doi.org/10.57111/devt/1.2024.27)**  
+Dinara Aubakirova 
+- K-means Clustering Algorithm  
+- Machine Learning Techniques  
+
+---
+
+**[A review on unsupervised learning algorithms and applications in supply chain management](https://doi.org/10.1080/00207543.2024.2390968)**  
+Benjamin Rolf et al.  
+- Association Rule Mining  
+- Clustering  
+- Dimensionality Reduction  
+- Generative Methods  
+
+---
+
+**[Revolutionizing Supply Chain Management With AI: A Path to Efficiency and Sustainability](https://doi.org/10.1109/ACCESS.2024.3474531)**  
+Kassem Danach, Ali El Dirani, Hassan Rkein
+- Logistic Regression  
+- Decision Trees  
+- Random Forest  
+- Gradient Boosting  
+- Machine Learning Classification Algorithms  
+- Predictive Analytics  
+- Optimization Algorithms  
+
+---
+
+**[The role of artificial intelligence and machine learning in optimizing U.S. healthcare supply chain management](https://doi.org/10.30574/wjarr.2024.24.2.3343)**  
+Samuel Ajibola Dada, Augustine Korang, Jehoiarib Umoren, Alice Ama Donkor  
+- Supervised Learning  
+- Unsupervised Learning  
+- Reinforcement Learning  
+- Deep Learning  
+- Natural Language Processing (NLP)  
+- Computer Vision  
+- Optimization Algorithms  
+- Self-Organizing Maps  
+
+---
+
+**[Investigating The Use of Blockchain For Secure And Efficient Supply Chain Management](https://doi.org/10.55524/CSISTW.2024.12.1.39)**  
+Ritik Sachan, Prachi Singh, Niharika Sharma, Inderpreet Kaur 
+- Consensus Algorithms  
+- Smart Contracts  
+
+---
+
+**[Innovation of Marketing Supply Chain Management Model Based on SICAS Modeling](https://doi.org/10.2478/amns-2024-0124)**  
+Rui Mao, Youwei Liu, Yida Yang 
+- Indicator-Based Evolutionary Algorithm (IBEA)  
+- Regret Theory-based Optimal Solution Ranking  
+- Collaborative Optimization Model for supply chain virtual inventory management  
+- Multi-objective optimization and Pareto optimality  
+
+---
+
