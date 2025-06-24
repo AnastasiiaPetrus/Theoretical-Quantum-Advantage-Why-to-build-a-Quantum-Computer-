@@ -5,7 +5,7 @@
 - **Platform:** ACM Digital Library
 - **Keyword(s):** defense and security AND algorithm
 - **Date of search:** 2025-06-24
-- **Articles reviewed:** 25
+- **Articles reviewed:** 38
 — **Time window:** 2025
 
 ---
@@ -318,5 +318,162 @@ Kaihua Qin et al.
 
 ---
 
+**[Human Immune System Inspired Security for Federated Learning-Empowered Internet of Things](https://doi.org/10.1145/3722562)**  
+Aashma Uprety, Danda B. Rawat, Brian Sadler  
+- Reinforcement Learning (RL)
+- Deep Q-Network (DQN)
+- Federated Learning (FL) / FedAvg
+- Label-Flipping Attack Detection
+- Multi-Krum Algorithm
+- FABA (Fast Aggregation Against Byzantine Attacks)
+- Median Aggregation
 
+---
 
+**[Leveraging Data Plane Programmability Towards a Policy-driven In-Network Security Framework for Industrial Control Systems](https://doi.org/10.1145/3679240.3734619)**  
+Reuben Samson Raj, Dong Jin 
+- P4 Programming Language
+- Match-Action Tables (TCAM-based)
+- Deep Packet Inspection (DPI)
+- Hash-based Indexing (CRC16, CRC32)
+- Exponential Weighted Moving Average (EWMA)
+- Graph-based Network Snapshot / Automated Rule Management
+- Flow Whitelisting (5-tuple and direction)
+
+---
+
+**[A Survey of Hardware-Based AES SBoxes: Area, Performance, and Security](https://doi.org/10.1145/3724114)**  
+Phaedra Sophia Curlin et al.
+- Advanced Encryption Standard (AES)
+- AES Key Expansion Algorithm
+- AES Cipher and Inverse Cipher Algorithms
+- AES SBox Implementations:
+  - Look-Up Tables (LUT)
+  - Composite Field Arithmetic (e.g., Canright’s SBox)
+  - Binary Decision Diagrams (BDD)
+  - Positive Polarity Reed-Muller (PPRM) expressions
+  - One-Hot Representations
+  - Logically Optimized Circuits
+- Side-Channel Attack (SCA) Defenses:
+  - Multiplicative Masking
+  - Threshold Implementation (TI)
+  - Domain-Oriented Masking (DOM)
+  - Wave Dynamic Differential Logic (WDDL)
+  - Masked Dual-Rail Pre-charge Logic (MDPL)
+  - Adiabatic Circuits
+- Fault Injection Attacks and Countermeasures
+- Test Vector Leakage Assessment (TVLA)
+
+---
+
+**[SHIELD: Assessing Security-by-Design in Federated Data Spaces Using Attack Graphs](https://doi.org/10.1145/3672608.3707797)**  
+Alessandro Palma et al.
+- Attack Graphs (AG) (for modeling multi-step cyber attacks)
+- Reachability Graph (for modeling device communication links)
+- Vulnerability Inventory (using CVE data)
+- CVSS (Common Vulnerability Scoring System) Metrics for Risk Assessment
+- Trust Computation Model (weighted aggregation including attack risk and path metrics)
+- Security Messaging Mechanism (based on trust levels to manage communication)
+- Publish/Subscribe Messaging Paradigm (topic-based or MQTT protocol)
+
+---
+
+**[Enhancing Security in Smart Contract Wallets: An OTP Based 2-Factor Authentication Approach](https://doi.org/10.1145/3700838.3700868)**  
+Kalash, Bishakh Chandra Ghosh, Sourav Kanti Addya 
+- Hash Chains (for One-Time Password (OTP) generation)
+- Cryptographic Hash Functions (SHA-256)
+- HOTP (HMAC-based One-Time Password)
+- TOTP (Time-based One-Time Password)
+- QR Code Encoding (for OTP transfer in air-gapped environments)
+- Digital Signature Verification (ECDSA for wallet authentication)
+
+---
+
+**[Ransomware Over Modern Web Browsers: A Novel Strain and a New Defense Mechanism](https://doi.org/10.1145/3708514)**  
+Harun Oz et al.  
+- File System Access (FSA) API
+- Hybrid Encryption:
+  - AES-256 (symmetric encryption)
+  - RSA-2048 (asymmetric encryption of AES keys)
+- Machine Learning Classifiers:
+  - Random Forest (RF)
+  - K-Nearest Neighbors (KNN)
+  - Decision Tree (DT)
+  - XGBoost
+- Function Hooking (monitoring/intercepting FSA API calls)
+- Shannon Entropy (used to detect file encryption)
+
+---
+
+**[Machine Learning-Enhanced Cross-Tier Security and Anomaly Detection in Wireless Body Area Networks](https://doi.org/10.1145/3723178.3723179)**  
+Md Shamshuzzoha, Md. Motaharul Islam 
+- One-Class Support Vector Machine (One-Class SVM)
+- Isolation Forest
+- Random Forest
+- Logistic Regression
+- Support Vector Machine (SVM)
+- Performance Metrics: Accuracy, Precision, Recall, F1 Score
+
+---
+
+**[The Serial Deployment of Quantum Security Technology in Encrypted Databases](https://doi.org/10.1145/3727648.3727719)**  
+Zhen Yao et al.  
+- Advanced Encryption Standard (AES)
+- Rivest-Shamir-Adleman (RSA)
+- Diffie-Hellman Key Exchange
+- Quantum Key Distribution (QKD)
+- Hybrid Key Systems (combining quantum and classical keys)
+
+---
+
+**[50 Shades of Deceptive Patterns: A Unified Taxonomy, Multimodal Detection, and Security Implications](https://doi.org/10.1145/3696410.3714593)**  
+Zewei Shi et al.  
+- Deep Learning Models (ResNet101 for binary classification of deceptive patterns)
+- Multimodal Large Language Models (MLLMs, e.g., GPT4o)
+- Prompt Mutation Strategy / Mutation-based Prompt Engineering
+- Cosine Similarity
+- Binary Cross Entropy Loss
+
+---
+
+**[Research on Traffic Monitoring and Security Protection of Cloud Computing Network Based on SDN](https://doi.org/10.1145/3727505.3727522)**  
+Ji Jiang, Tie Wang, Shijun Zhang 
+- One-Hot Encoding
+- Min-Max Normalization
+- Haar Wavelet Decomposition
+- K-Means Clustering Algorithm
+- Euclidean Distance
+- Libpcap
+
+---
+
+**[A Cyber-War Between Bots: Cognitive Attackers are More Challenging for Defenders than Strategic Attackers](https://doi.org/10.1145/3712672)**  
+Yinuo Du, Baptiste Prebot, Tyler Malloy, Cleotilde Gonzalez
+- Instance-Based Learning Theory (IBLT)
+- Reinforcement Learning (RL)
+
+---
+
+**[Memory Safety Instrumentations in Practice: Usability, Performance, and Security Guarantees](https://doi.org/10.1145/3696443.3708926)**  
+Tina Jung, Fabian Ritter, Sebastian Hack 
+- Low-Fat Pointers
+- SoftBound
+- In-Bounds Checks
+- Function Wrappers
+- Optimization Techniques
+- Runtime Performance Metrics
+
+---
+
+**[Research on Network Security Threat Detection and Response Mechanism Based on Artificial Intelligence](https://doi.org/10.1145/3728199.3728249)**  
+Fan Zhao 
+- Convolutional Neural Networks (CNN)
+- Decision Trees (DT)
+- Support Vector Machines (SVM)
+- Random Forests (RF)
+- Clustering Algorithms
+- Principal Component Analysis (PCA)
+- Rule-Based Intrusion Detection Methods
+- Automated Response Mechanisms
+
+---
