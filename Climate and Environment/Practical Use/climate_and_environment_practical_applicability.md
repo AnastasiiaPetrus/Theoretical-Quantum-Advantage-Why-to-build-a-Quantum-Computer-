@@ -2,7 +2,7 @@
 
 The following table provides a concise overview of the practical implementation and real-world relevance of key classical algorithms in climate and environmental sciences. This supplement is based on an extensive literature review and selected practical case studies from both academic and applied domains. The included references demonstrate the diversity and depth of applications across subfields, supporting the evaluation for each algorithm.
 
-| Algorithm                                                         | Use in Climate/Environment | Notes & Example References                                                                        |
+| Algorithm                                                         | Practical Use in Climate/Environment | Notes & Example References                                                                        |
 |-------------------------------------------------------------------|:-------------------------:|----------------------------------------------------------------------------------------------------|
 | Random Forest (RF, DRF, VSURF, QRF, FM-QRF, MIDAS-QRF)            | Yes                       | Widely used for climate prediction, air quality, drought, ecosystem modeling [1,2,3,7]             |
 | Linear Regression (LR, OLS, Multilin R)                           | Yes                       | Basic tool for trend analysis, anomaly detection, climate models [4,5,6,7]                         |
