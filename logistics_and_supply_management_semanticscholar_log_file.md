@@ -173,7 +173,7 @@ Kemal Gökhan Nalbant et al.
 
 ---
 
-**[Improving the Scalability of Blockchain Based on Trust Practical Byzantine Fault Tolerance Algorithm (tPBFT)](https://internationalpubls.com/advances-in-nonlinear-variational-inequalities/vol-27-no-3-2024/622-639/)**  
+**[Improving the Scalability of Blockchain Based on Trust Practical Byzantine Fault Tolerance Algorithm (tPBFT)](https://doi.org/10.52783/jisem.v10i1s.102)**  
 Noor Sabah et al. 
 - Practical Byzantine Fault Tolerance (PBFT)  
 - Trust Practical Byzantine Fault Tolerance (tPBFT)  
