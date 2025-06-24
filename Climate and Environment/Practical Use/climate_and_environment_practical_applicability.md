@@ -2,13 +2,13 @@
 
 ## Overview
 
-This supplementary material systematically maps classical algorithms to their real-world adoption in climate and environmental science and engineering. Each algorithm or method is assessed using the **FUSE** (Field Use Evidence Score) criterion, which is set to `1` if the method is actively applied in practical (operational, industrial, or regulatory) workflows according to recent reports, guidelines, or published case studies; otherwise, FUSE is set to `0`.  
+This supplementary material systematically maps classical algorithms to their real-world adoption in climate and environmental science and engineering. Each algorithm or method is assessed using the **fuse** (Field Use Evidence Score) criterion, which is set to `1` if the method is actively applied in practical (operational, industrial, or regulatory) workflows according to recent reports, guidelines, or published case studies; otherwise, fuse is set to `0`.  
 The evaluation is based on an extensive review of international and national agency documents (e.g., US EPA, NOAA, EEA, Chinese MEE), recent peer-reviewed literature, and technical best-practice publications.
 
 ## Table Legend
 
 - **Algorithm & Method**: Cluster of related algorithms or models (may include variants and common abbreviations).
-- **FUSE**:  
+- **fuse**:  
   - `1`: Demonstrated and established practical use in climate/environmental science (including operational monitoring, regulatory reporting, or major industrial projects, 2010–2024).  
   - `0`: No significant evidence of practical application in the above domains.
 
@@ -16,7 +16,7 @@ The evaluation is based on an extensive review of international and national age
 
 ## Example: TOP-10 Practical Algorithms
 
-| Algorithm & Method                                                         | FUSE | Brief Example/Reference                                                                                   |
+| Algorithm & Method                                                         | fuse | Brief Example/Reference                                                                                   |
 |---------------------------------------------------------------------------|------|-----------------------------------------------------------------------------------------------------------|
 | Random Forest (RF, DRF, VSURF, QRF, FM-QRF, MIDAS-QRF)                    | 1    | Used for land use, air quality, drought, ecology ([EPA 2024][7], [Cutler et al. 2007][3])                 |
 | Linear Regression (LR, OLS, Multilin R)                                   | 1    | Classic baseline for environmental trend analysis, criteria, and models ([Wilks 2011][5], [EPA 2018][6])  |
@@ -47,8 +47,8 @@ The evaluation is based on an extensive review of international and national age
 14. [EPA's Report on the Environment](https://cfpub.epa.gov/roe/technical-documentation_pdf.cfm?i=28&utm_source=chatgpt.com)
 
 
-## Supplementary Table: Full FUSE Mapping
-| Algorithm & Method | FUSE |
+## Supplementary Table: Full fuse Mapping
+| Algorithm & Method | fuse |
 |------------------------------------------------------|------|
 | Random Forest (RF, DRF, VSURF, QRF, FM-QRF, MIDAS-QRF) | 1 |
 | Linear Regression (LR, Least-Squares LR, Multitask LR, Multivar LR, OLS, Multilin R) | 1 |
