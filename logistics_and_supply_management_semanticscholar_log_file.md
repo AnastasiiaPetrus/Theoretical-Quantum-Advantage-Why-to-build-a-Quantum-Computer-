@@ -183,7 +183,7 @@ Noor Sabah et al.
 
 ---
 
-**[Harnessing Artificial Intelligence in Generic Formulation Development and Life Cycle Management - A Comprehensive Review](https://internationalpubls.com/advances-in-nonlinear-variational-inequalities/vol-27-no-3-2024/622-639/)**  
+**[Harnessing Artificial Intelligence in Generic Formulation Development and Life Cycle Management - A Comprehensive Review](https://doi.org/10.57185/hij.v3i1.45)**  
 Murali Mohan Babu et al.  
 - Artificial Intelligence (AI)  
 - Machine Learning (ML)  
@@ -201,7 +201,7 @@ O.M. Kiseleva et al.
 
 ---
 
-**[Performance Comparison of Ant Colony Optimization and Artificial Bee Colony in Solving the Capacitated Vehicle Routing Problem](http://www.iorajournal.org/index.php/ijgor/article/view/270)**  
+**[Performance Comparison of Ant Colony Optimization and Artificial Bee Colony in Solving the Capacitated Vehicle Routing Problem](https://doi.org/10.47194/ijgor.v5i4.339)**  
 Deva Putra Setyawan et al.
 - Capacitated Vehicle Routing Problem (CVRP)  
 - Ant Colony Optimization (ACO)  
