@@ -6,7 +6,7 @@
 - **Keyword(s):** defense and security AND algorithm
 - **Filter:** Fields of Study: Computer Science; Has PDF
 - **Date of search:** 2025-06-24
-- **Articles reviewed:** 21
+- **Articles reviewed:** 35
 — **Time window:** 2025
 
 ---
@@ -151,7 +151,7 @@ Guo Li and Minghua Wang
 
 ---
 
-**[Enhancing Hand Vein Authentication: Gray Wolf Optimization Mitigates Data Poisoning Attacks](https://doi.org/10.52783/jisem.v10i34s.5914)**  
+**[Enhancing Hand Vein Authentication: Gray Wolf Optimization Mitigates Data Poisoning Attacks](https://doi.org/10.52783/jisem.v10i34s.5914)** 
 Rajaa Ahmed Ali, Ziyad Tariq Mustafa Al‑Ta’i  
 - PCA-Net  
 - Gray Wolf Optimization (GWO) 
@@ -188,3 +188,129 @@ Gan Liu et al.
 - GlobalPointer
 
 ---
+
+**[Utilization of Artificial Intelligence in Cyber Security System Prototype to Face Quantum Computing](https://doi.org/10.69930/jsi.v2i2.338)**  
+Maria Atik Sunarti Ekowati, Zefanya Permata Nindyatama  
+- Neural Networks (for intrusion detection)  
+- Decision Trees (for intrusion detection)  
+- Post-Quantum Cryptography (PQC) techniques  
+
+---
+
+**[GPS Attack Detection and Defense for Secure Localization of Automated Vehicles Based on Vehicle-to-Vehicle Technology](https://doi.org/10.1109/JIOT.2024.3424518)**  
+Zhuang Wang, Guoqiang Li, Zhenpo Wang  
+- Kalman filter–based localization (with χ² anomaly detector)  
+- Density-based clustering algorithm (for detecting GPS anomalies with V2V data)  
+- Cooperative localization with multi-information fusion (heuristic V2V defense approach)
+
+---
+
+**[DDoS Mitigation Using Machine Learning in Software-Defined Networks](https://doi.org/10.3844/jcssp.2025.940.960)**  
+Ahmed Gaber Abu Abd-Allah, Noureldin Omar Mohamed, Mohamed Samir Mohamed, Mahytab Jaafar, Youssef Mohamed Yasser, Mohamed Saeed Taha  
+- Supervised ML classifiers for traffic classification:
+  - Support Vector Machine (SVM)  
+  - Multi-Layer Perceptron (MLP)  
+  - Adaptive SVM (ASVM)  
+  - K‑FKNN (K‑Fuzzy K‑Nearest Neighbors)  
+  - Ensemble methods (e.g., K‑means++ + Random Forest)  
+- Statistical analysis models for anomaly detection (flow-level metrics monitoring)  
+- Reinforcement Learning for adaptive policy deployment in SDN environments  
+
+---
+
+**[Advancing network security: a comparative research of machine learning techniques for intrusion detection](https://doi.org/10.11591/ijece.v15i2.pp2271-2281)**  
+Shynggys Rysbekov, Abylay Aitbanov, Zukhra Abdiakhmetova, Amandyk Kartbayev  
+- k‑Nearest Neighbors (KNN)  
+- Logistic Regression  
+- Perceptron Neural Network  
+- Principal Component Analysis (PCA) for dimensionality reduction  
+
+---
+
+**[Enhancing data security using a multi-layer encryption system](https://doi.org/10.11591/ijece.v15i2.pp1961-1967)**  
+Osama Abd Qasim, Sajjad Golshannavaz  
+- Digital dictionary encryption with rotation, ASCII conversion, and chaotic matrix–based substitution  
+- Modified AES variant with chaos-based key generation  
+- RSA encryption for parameter/key protection
+
+---
+
+**[Critical Evaluation of SQL Injection Security Measures in Web Applications](https://doi.org/10.31185/wjps.566)**  
+Haneen Mohammed Athab  
+- Decision Trees
+- Support Vector Machines (SVM)
+- Artificial Neural Networks (ANN) 
+- Reverse Resemblance Algorithm
+- Malicious String-Matching Algorithm
+
+---
+
+**[A New Hybrid Approach for Improving Intrusion Detection System Based on Scatter Search Algorithm and Support Vector Machine](https://doi.org/10.47852/bonviewjcce52024492)**  
+Feras E. AbuAladas et al.  
+- Scatter Search algorithm  
+- Support Vector Machine (SVM) classifier
+
+---
+
+**[Enhancing Cloud and IoT Security Using Deep Learning-Based Intrusion Detection Systems with Blockchain and Federated Learning](https://doi.org/10.52783/jisem.v10i25s.4019)**  
+Vijay Kumar Tiwari, Gaganjot Kaur, Naveen Kr Sharma, Priyanka Srivastava, Indrajeet Kumar, S Govinda Rao, Nargis Parveen, Raghav Mehra  
+- Deep learning–based Intrusion Detection System (IDS)
+- Federated Learning
+- Blockchain ledger  
+
+---
+
+**[Stackelberg Game Based Robust Optimal Control of Cyber‑Physical System under Hybrid Attack](https://doi.org/10.62678/IJICS202503.10145)**  
+Junkai Tan, Xue Shuangsi & Hui Cao  
+- Stackelberg game model (defender–attacker sequential decision framework)  
+- Combined H₂ and H∞ control optimization  
+- Online reinforcement learning (adaptive policy learning during operation)  
+- Lyapunov stability-based convergence guarantees
+
+---
+
+**[Learning Deceptive Tactics for Defense and Attack in Bayesian–Markov Stackelberg Security Games](https://doi.org/10.3390/mca30020029)**  
+Julio B. Clempner  
+- Bayesian–Markov Stackelberg security games (SSGs)
+- Iterative proximal-gradient method 
+- Bayesian reinforcement learning algorithm
+- Random walk strategy
+
+---
+
+**[Optimization of the Decision-making Process of Digital Twins in Network Security Based on Graph Neural Networks](https://doi.org/10.70985/rpa1ez48)**  
+Fangzhou He, Wei Bai, Zhiqi Wang  
+- Adam optimizer 
+- Cross-entropy loss function 
+- L2 regularization and Dropout
+- Online Learning (OL) algorithm
+- Policy Gradient method
+
+---
+
+**[Next-Generation Cyber Defense: A Novel Ensemble Approach for Distributed Denial of Service Attack Detection](https://doi.org/10.52783/anvi.v28.4114)**  
+Deepak Singh Rajput, Arvind Kumar Upadhyay  
+- Convolutional Neural Network (CNN)
+- Long Short-Term Memory (LSTM)
+- Ensemble framework
+
+---
+
+**[DNA-based cryptosystem integrating Wichmann-Hill and mixed congruence algorithms for enhanced data security](https://doi.org/10.59035/GGHY6238)**  
+Ahmed S. Alshammari  
+- Wichmann–Hill Algorithm (WHA)
+- Mixed Congruence Algorithm (MCA)
+
+---
+
+**[A Source Location Privacy Preservation Method Using Mixed Fake Sources and Phantoms](https://doi.org/10.1109/JIOT.2024.3486116)**  
+Zhen Hong, Wentao Chen, Taotao Li, Jie Su  
+- Source-location privacy preservation algorithm
+- Routing protocol modifications
+
+---
+
+
+
+
+
