@@ -593,7 +593,6 @@ The evaluation is based on an extensive review of international and national age
 | Xception-65 (Xception-65, Xception-65 (as encoder)) | 0 |
 | ZFP (Lossy Compression Algorithm) (ZFP (Lossy Compression Algorithm), ZFP) | 0 |
 | ZIP (Lossless Compression Algorithm) (ZIP (Lossless Compression Algorithm), ZIP) | 0 |
-
 | Kwiatkowski-Phillips-Schmidt-Shin Test (Kwiatkowski-Phillips-Schmidt-Shin Test, Kwiatkowski-Phillips-Schmidt-Shin test (KPSS)) | 1 |
 | L-BFGS Optimization Algorithm (L-BFGS Optimization Algorithm, Limited-memory BFGS-B Method (L-BFGS-B)) | 1 |
 | L-curve Method (L-curve Method, L-curve method) | 0 |
