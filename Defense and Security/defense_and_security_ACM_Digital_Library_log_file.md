@@ -5,7 +5,7 @@
 - **Platform:** ACM Digital Library
 - **Keyword(s):** defense and security AND algorithm
 - **Date of search:** 2025-06-24
-- **Articles reviewed:** 40
+- **Articles reviewed:** 50
 — **Time window:** 2025
 
 ---
@@ -505,3 +505,131 @@ Maitham Al-rubaye, Atakan Aral
 
 ---
 
+**[SYN-Monitor: An Energy Efficient Defense System against TCP-SYN Flooding Attacks in SDN](https://doi.org/10.1145/3700838.3703695)**  
+Mitali Sinha, Padmalochan Bera, Manoranjan Satpathy 
+- Address Mapping Technique
+- SYN-Proxy Approach
+- Flow Rule Installation
+- Hashing / Hash Table Data Structures
+- Energy Consumption Modeling
+
+---
+
+**[Research on Power Grid Network Security Detection Technology Based on Deep Learning Models](https://doi.org/10.1145/3727648.3727660)**  
+Zhiyong Zhang, Jun Chen, Litao Tang  
+- Convolutional Neural Networks (CNN)
+- Geometric Measurement Analysis
+- Sparse Classification Cross-Entropy Loss Function
+- CYCLEGAN Optimization Algorithm
+- Feature Extraction Techniques
+
+---
+
+**[Exploiting Defenses against GAN-Based Feature Inference Attacks in Federated Learning](https://doi.org/10.1145/3719350)**  
+Xinjian Luo, Xianglong Zhang 
+- Federated Learning (FL)
+- Generative Adversarial Networks (GAN)
+- Conditional GAN (CGAN)
+- Differential Privacy (DP)
+- Mixup
+- ResNet-18
+- Structural Similarity Index (SSIM)
+- Adam Optimizer
+
+---
+
+**[Blockchain for Smart Logistics: Enhancing Identity Security, Bidding Transparency and Goods Tracking](https://doi.org/10.1145/3659463.3660028)**  
+Zoey Ziyi Li et al.  
+- Hash Functions (e.g., SHA-256)
+- Public Key Encryption
+- Digital Signatures
+- Blockchain Consensus Algorithms
+- Smart Contracts
+- Credential Issuance and Verification Algorithms
+- Anonymous Bidding Protocols
+- Context-Based Sub-Credential Generation and Verification
+- Gas Cost Optimization Techniques
+
+---
+
+**[SecureGaze: Defending Gaze Estimation Against Backdoor Attacks](https://doi.org/10.1145/3715014.3722071)**  
+Lingyu Du et al. 
+- Deep Neural Networks for Gaze Estimation (ResNet18-based regression models)
+- Backdoor Attacks on Regression Models (BadNets, Clean Label, WaNet, IADA, IBA)
+- Feature-Space Metrics: Ratio of Norm Variance (RNV), Ratio of Angle Variance (RAV)
+- Sensitivity-Aware Trigger Reversal (gradient-based pixel sensitivity mapping)
+- Fine-Tuning for Backdoor Mitigation (using reverse-engineered poisoned datasets)
+
+---
+
+**[Defending Federated Recommender Systems against Untargeted Attacks: A Contribution-Aware Robust Aggregation Scheme](https://doi.org/10.1145/3706112)**  
+Ruicheng Liang et al. 
+- Federated Recommender Systems (FedRS)
+- Contribution Estimation via Shapley Value (cooperative game theory method)
+- Ensemble-based Shapley Value Approximation (E-SHAP)
+- Decentralized Contribution Estimation (client-side validation)
+- Majority Voting Mechanism
+
+---
+
+**[UniContainer: Unlocking the Potential of Unikernel for Secure and Efficient Containerization](https://doi.org/10.1145/3727134)**  
+Zhicong Zhang et al. 
+- Container Splitting Algorithm
+- Execve Handling / Execution Process Redesign
+- Inter-Process Communication (IPC) Modification
+- Unikernel Customization
+- Use of Unikraft Unikernel Technology
+- Security Mechanisms
+- Performance Evaluation / Optimization Techniques
+
+---
+
+**[War on JITs: Software-Based Attacks and Hybrid Defenses for JIT Compilers - A Comprehensive Survey](https://doi.org/10.1145/3731598)**  
+Quentin Ducasse, Pascal Cotret, Loïc Lagadec 
+- Just-In-Time (JIT) Compilation
+- JIT Spraying Attacks
+- Return-Oriented Programming (ROP) Attacks
+- Data-Only Attacks
+- Address Space Layout Randomization (ASLR) and Fine-Grained ASLR
+- Constant Blinding and Folding
+- NOP Insertion and Code Layout Randomization
+- Writable XOR Executable (W^X) / Data Execution Prevention (DEP) policies
+- Process Isolation and Sandboxing
+- Control-Flow Integrity (CFI) Enforcement
+- Hardware-Assisted Isolation (e.g., Intel SGX, MPK)
+- Memory Protection Keys (MPK)
+
+---
+
+**[A Comparative Study of Transfer Learning Approaches For Strengthening Face Antispoofing Security](https://doi.org/10.1145/3690771.3690789)**  
+Prabhat Ale et al.  
+- Convolutional Neural Networks (CNNs):
+  - VGG16  
+  - InceptionV3  
+  - Xception  
+  - ResNet50  
+  - MobileNetV2
+- Machine Learning Algorithms for classification:
+  - Logistic Regression  
+  - K-Nearest Neighbors (KNN)  
+  - Decision Tree  
+  - Linear Support Vector Classifier (Linear SVC)  
+  - Kernel Support Vector Classifier (Kernel SVC)  
+  - Random Forest  
+  - Gradient Boosting  
+  - XGBoost  
+  - LightGBM
+ 
+---
+
+**[Breaking the Shield: Analyzing and Attacking Canvas Fingerprinting Defenses in the Wild](https://doi.org/10.1145/3696410.3714713)**  
+Hoang Dai Nguyen, Phani Vadrevu  
+- Canvas Fingerprinting  
+- Randomized Output Techniques  
+- Fixed Output Techniques  
+- Blocking Canvas API Access  
+- Filter List Blocking
+- Pixel-Recovery Attack  
+- Statistical Attack
+- HMAC-SHA256  
+- Linear Feedback Shift Register (LFSR) 
