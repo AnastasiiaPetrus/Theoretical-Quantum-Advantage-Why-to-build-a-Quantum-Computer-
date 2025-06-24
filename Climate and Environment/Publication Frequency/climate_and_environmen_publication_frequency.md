@@ -31,8 +31,8 @@ To ensure reproducibility and comparability of results on algorithm usage in cli
 | Logistic Regression (LogR, Multilevel LogReg)	| 15 |
 | Artificial Neural Network (ANN)	| 14 |
 | Monte Carlo Simulation (MCS, MCMC, MC-Integration)	| 12 |
-| Principal Component Analysis (PCA)	| 12 |
 | Support Vector Machine (SVM, SVM with RBF)	| 12 |
+| Principal Component Analysis (PCA)	| 11 |
 
 ---
 
@@ -48,8 +48,8 @@ To ensure reproducibility and comparability of results on algorithm usage in cli
 | Logistic Regression (LogR, Multilevel LogReg)	| 15 |
 | Artificial Neural Network (ANN)	| 14 |
 | Monte Carlo Simulation (MCS, MCMC, MC-Integration)	| 12 |
-| Principal Component Analysis (PCA)	| 12 |
 | Support Vector Machine (SVM, SVM with RBF)	| 12 |
+| Principal Component Analysis (PCA)	| 11 |
 | Classical Regression Models (GLM, GAM, GAMLSS, LMM, LME, ODE, Quadratic, Quartic)	| 9 |
 | K-means Clustering (DTW-based K-means Clustering)	| 9 |
 | K-Nearest Neighbors (KNN, ItemNN, UserNN)	| 9 |
@@ -124,7 +124,6 @@ To ensure reproducibility and comparability of results on algorithm usage in cli
 | Graph Convolutional Network (GCN)	| 2 |
 | iTransformer (iTransformer)	| 2 |
 | Kalman Filter (KF)	| 2 |
-| Latent Dirichlet Allocation (Latent Dirichlet Allocation, LDA, Latent Dirichlet Allocation (LDA))	| 2 |
 | Linear Interpolation (Linear Interpolation, linear interpolation)	| 2 |
 | Linear Programming (Linear Programming, linear programming)	| 2 |
 | Log-Odds Update Scheme (Log-Odds Update Scheme)	| 2 |
@@ -151,6 +150,7 @@ To ensure reproducibility and comparability of results on algorithm usage in cli
 | Variational Inference (Variational Inference, Variational inference)	| 2 |
 | Vision Transformer (Vision Transformer, ViT, Vision Transformer (ViT))	| 2 |
 | Z-score Normalization (Z-score Normalization, Z-score normalization)	| 2 |
+| Latent Dirichlet Allocation (Latent Dirichlet Allocation, LDA, Latent Dirichlet Allocation (LDA))	| 1 |
 | Advection–Diffusion Modeling (Advection–Diffusion Modeling, Advection–Diffusion Modeling)	| 1 |
 | 4D-Var (Four-Dimensional Variational Data Assimilation) (4D-Var (Four-Dimensional Variational Data Assimilation))	| 1 |
 | 5-fold cross-validation (5-fold cross-validation)	| 1 |
@@ -513,7 +513,6 @@ To ensure reproducibility and comparability of results on algorithm usage in cli
 | PELT Algorithm (PELT Algorithm, PELT Algorithm) | 1 |
 | Peng-Robinson Thermodynamic Property Method (Peng-Robinson Thermodynamic Property Method, Peng-Robinson thermodynamic property method) | 1 |
 | Percentile-Based Extreme Precipitation Analysis (Percentile-Based Extreme Precipitation Analysis, Percentile-based Extreme Precipitation Analysis) | 1 |
-| PERMANOVA (PERMANOVA, PERMANOVA (Adonis analysis)) | 1 |
 | Permutation Feature Importance (Permutation Feature Importance, Permutation Feature Importance) | 1 |
 | Phenomics (Phenomics, Phenomics) | 1 |
 | Photovoltaic Generation Model with Temperature Correction (Photovoltaic Generation Model with Temperature Correction, Photovoltaic generation model with temperature correction) | 1 |
@@ -595,7 +594,6 @@ To ensure reproducibility and comparability of results on algorithm usage in cli
 | Solution-Diffusion Transport Model (Solution-Diffusion Transport Model, Solution-diffusion transport model) | 1 |
 | Semi-Implicit Method for Pressure-Linked Equations (Semi-Implicit Method for Pressure-Linked Equations, SIMPLE) | 1 |
 | Semi-Supervised Learning (Semi-Supervised Learning, SSL) | 1 |
-| Shapiro–Wilk Test (Shapiro–Wilk Test, Shapiro–Wilk test) | 1 |
 | Signed Distance Transform (Signed Distance Transform, SDT) | 1 |
 | Simplex Lattice Design (Simplex Lattice Design, Simplex lattice design) | 1 |
 | Simulation-Based Rule Curve Optimization (Simulation-Based Rule Curve Optimization, Simulation-Based Rule Curve Optimization) | 1 |
@@ -625,12 +623,11 @@ To ensure reproducibility and comparability of results on algorithm usage in cli
 | Stereoscopic Neural Network-Based Image Recognition (Stereoscopic Neural Network-Based Image Recognition) | 1 |
 | Stochastic and Deterministic ODEs (Stochastic and Deterministic ODEs, Stochastic and Deterministic Ordinary Differential Equations (ODEs)) | 1 |
 | Stochastic Weight Averaging (Stochastic Weight Averaging, SWA, SWAG) | 1 |
-| Student’s T-test (Student’s T-test, Student’s t-test, t-test) | 1 |
+| Student’s T-test (Student’s T-test, Student’s t-test) | 1 |
 | Sutherland’s Law (Sutherland’s Law, Sutherland’s Law (dynamic viscosity)) | 1 |
 | SVD++ (SVD++) | 1 |
 | Swath Profiling (Swath Profiling) | 1 |
 | Synthetic Carbon Fixation Pathway (Synthetic Carbon Fixation Pathway, Synthetic carbon fixation pathway) | 1 |
-| T-test (T-test, Student’s t-test, t-test) | 1 |
 | Tanh Activation Function (Tanh Activation Function, tanh activation function) | 1 |
 | Temperature-Sensitive Charging Model (Temperature-Sensitive Charging Model, Temperature-sensitive charging model) | 1 |
 | TC Detection via OWZP Method (TC Detection via OWZP Method, TC detection via OWZP method) | 1 |
