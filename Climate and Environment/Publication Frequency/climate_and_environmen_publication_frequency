@@ -1,0 +1,24 @@
+## Standardization and Aggregation of Algorithm Frequency (fpub)
+
+To ensure reproducibility and comparability of results on algorithm usage in climate and environmental research, we systematically aggregated data from three independent online repositories of peer-reviewed articles. Each source provided a list of algorithms and methods as cited in recent research, but with considerable variability in nomenclature, abbreviations, and variants.
+
+**Standardization Process:**
+- All extracted algorithm names were harmonized through manual review, with synonyms and abbreviations unified under a single standard label.
+- Algorithmic variants and closely related models were clustered together (e.g., all Random Forest modifications are grouped as “Random Forest” with variants listed in parentheses).
+- For each standardized method, we computed its **fpub** value, defined as the total number of times the algorithm or method was referenced across all sources. This metric quantifies the relative prevalence of each algorithm in the literature.
+- The resulting table provides a deduplicated, standardized reference list with fpub for each algorithm.
+
+### Table: Standardized Algorithm List with fpub
+
+| Algorithm & Method	| fpub |
+|------------------------------------------------------|------|
+| Random Forest (RF, DRF, VSURF, QRF, FM-QRF, MIDAS-QRF)	| 63 |
+| Linear Regression (LR, Least-Squares LR, Multitask LR, Multivar LR, OLS, Multilin R)	| 21 |
+| Gradient Boosting (GB, XGBoost, LightGBM, CatBoost, GBR)	| 19 |
+| Convolutional Neural Network (CNN, CNN-BiLSTM-Attention Model, CNN-LSTM, LSTM-CNN, CNN-Transformer, GVSAO-CNN, Mask R-CNN, Multi-Head 1D CNN, 3D CNN)	| 17 |
+| Long Short-Term Memory (LSTM, GAN-LSTM, Transformer-LSTM, LSTM-AE)	| 15 |
+| Logistic Regression (LogR, Multilevel LogReg)	| 15 |
+| Artificial Neural Network (ANN)	| 14 |
+| Monte Carlo Simulation (MCS, MCMC, MC-Integration)	| 12 |
+| Principal Component Analysis (PCA)	| 12 |
+| Support Vector Machine (SVM, SVM with RBF)	| 12 |
