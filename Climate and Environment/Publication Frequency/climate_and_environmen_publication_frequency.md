@@ -76,9 +76,9 @@ To ensure reproducibility and comparability of results on algorithm usage in cli
 | Quantile Regression (QR, MQR, SQR)	| 4 |
 | Partial Least Squares Regression (PLSR)	| 4 |
 | Savitzky–Golay Filter (Savitzky–Golay Filter, Savitzky–Golay filter, Savitzky–Golay filtering, Savitzky–Golay smoothing)	| 4 |
-| Spearman Correlation Coefficient (Spearman Correlation Coefficient, Spearman correlation, Spearman rank correlation)	| 4 |
 | Transformer-Based Architectures (Transformer,  ViT, Large Language Model-Based Forecasting Backbone, FPT, GPT2 variants)	| 4 |
 | Regression Tree (RT, BART, CART)	| 3 |
+| Spearman Correlation Coefficient (Spearman Correlation Coefficient, Spearman correlation, Spearman rank correlation)	| 3 |
 | Box Models (White-box, Black-box, Gray-box)	| 3 |
 | Hierarchical Clustering (Ward’s Hierarchical Clustering)	| 3 |
 | Coefficient of Determination (Coefficient of Determination, Coefficient of Determination (R²), R²)	| 3 |
