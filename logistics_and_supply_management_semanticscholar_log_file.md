@@ -313,8 +313,8 @@ Manish Reddy Bendhi
 
 ---
 
-**[Enhancing Supply Chain Management Efficiency: A Data-Driven Approach using Predictive Analytics and Machine Learning Algorithms](https://www.ijacsa.thesai.org/Vol.15No.4/12.pdf)**  
-Shamrao Parashram Ghodake et al.
+**[Enhancing Supply Chain Management Efficiency: A Data-Driven Approach using Predictive Analytics and Machine Learning Algorithms](https://doi.org/10.14569/IJACSA.2024.0150469)**  
+Shamrao Parashram Ghodake et al. 
 - Deep Q-Learning (DQL)  
 - Support Vector Machine (SVM)  
 - Decision Tree (DT)  
