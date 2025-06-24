@@ -6,8 +6,8 @@
 - **Keyword(s):** logistics and supply management AND algorithm
 - **Filter:** Fields of Study: Computer Science; Has PDF
 - **Date of search:** 2025-06-24
-- **Articles reviewed:** 8
-— **Time window:** 2025
+- **Articles reviewed:** 25
+— **Time window:** 2024-2025
 
 ---
 
@@ -112,3 +112,180 @@ Renyi Qiu
 - Multi-Objective Optimization Model  
 - Binary Encoding  
 - Crossover and Mutation Operators  
+
+---
+
+**[BlockSCM: Integrated Customized Blockchain based Supply Chain Management for Decentralized Networks](https://internationalpubls.com/advances-in-nonlinear-variational-inequalities/vol-27-no-3-2024/622-639/)**  
+Harshad D. Markad, Sachin R. Sakhare 
+- SHA-256 Hash Algorithm  
+- Proof of Work (PoW) Consensus Algorithm  
+- Proof of Stake (PoS) Consensus Algorithm  
+- Key Generation and Digital Signature Algorithms  
+- Majority Voting Algorithm  
+- Smart Contracts  
+
+---
+
+**[Research on Cross-Border e-Commerce Supply Chain Prediction and Optimization Model Based on Convolutional Neural Network Algorithm](https://doi.org/10.20965/jaciii.2025.p0215)**  
+Yajie Zhao, Bin Gong, Bo Huang 
+- Seasonal Autoregressive Integrated Moving Average (SARIMA)  
+- Convolutional Neural Network (CNN)  
+- Bidirectional Long Short-Term Memory (BiLSTM)  
+- Hybrid SARIMA-CNN-BiLSTM model  
+- Genetic Algorithm (GA)  
+- Particle Swarm Optimization (PSO)  
+
+---
+
+**[Solving the Supply-Chain Problem with a Multi-Objective Evolutionary Algorithm](https://internationalpubls.com/advances-in-nonlinear-variational-inequalities/vol-27-no-3-2024/622-639/)**  
+Seyed Mahmood Hashemi 
+- Simulated Annealing (SA)  
+- Pareto Optimization (Multi-Objective Optimization based on Pareto Theorem)  
+- Continuous Flow Model  
+
+---
+
+**[Logistic Resource Allocation Based on Multi-Agent Supply Chain Scheduling Using Meta-Heuristic Optimization Algorithms](https://doi.org/10.1080/08839514.2024.2362516)**  
+Lingjie Bu  
+- Sparrow Search Algorithm (SSA)  
+- Multi-Agent-Based Scheduling and Resource Allocation (MA-SRA)  
+
+---
+
+**[A Memetic Algorithm for a Real-World Dynamic Pickup and Delivery Problem](https://doi.org/10.1007/s12293-024-00407-5)**  
+Ying Zhou et al.  
+- Genetic Algorithm (GA)  
+- Local Search  
+- Memetic Algorithm (MA)  
+- Crossover Operator  
+- Roulette Wheel Selection  
+- Orthogonal Experimental Design (Taguchi method)  
+
+---
+
+**[An efficient algorithm for data transmission certainty in IIoT sensing network: A priority-based approach](https://doi.org/10.1371/journal.pone.0305092)**  
+Kemal Gökhan Nalbant et al. 
+- Least Recently Used (LRU)  
+- Least Frequently Used (LFU)  
+- First-In-First-Out (FIFO)  
+- Greedy Dual Size (GDS)  
+- Most Popular Content (MPC)  
+
+---
+
+**[Improving the Scalability of Blockchain Based on Trust Practical Byzantine Fault Tolerance Algorithm (tPBFT)](https://internationalpubls.com/advances-in-nonlinear-variational-inequalities/vol-27-no-3-2024/622-639/)**  
+Noor Sabah et al. 
+- Practical Byzantine Fault Tolerance (PBFT)  
+- Trust Practical Byzantine Fault Tolerance (tPBFT)  
+- Kafka-based Ordering Service  
+- Apache Spark MLlib  
+- Random Forest  
+
+---
+
+**[Harnessing Artificial Intelligence in Generic Formulation Development and Life Cycle Management - A Comprehensive Review](https://internationalpubls.com/advances-in-nonlinear-variational-inequalities/vol-27-no-3-2024/622-639/)**  
+Murali Mohan Babu et al.  
+- Artificial Intelligence (AI)  
+- Machine Learning (ML)  
+- Multivariate Analysis  
+- Data-Driven Process Optimization  
+
+---
+
+**[Software for Solving the Two-Stage Location-Allocation Problems](https://doi.org/10.15421/322310)**  
+O.M. Kiseleva et al.
+- Two-Stage Location-Allocation Problem  
+- Non-differentiable Optimization  
+- Shor’s r-algorithm  
+- Potentials Method  
+
+---
+
+**[Performance Comparison of Ant Colony Optimization and Artificial Bee Colony in Solving the Capacitated Vehicle Routing Problem](http://www.iorajournal.org/index.php/ijgor/article/view/270)**  
+Deva Putra Setyawan et al.
+- Capacitated Vehicle Routing Problem (CVRP)  
+- Ant Colony Optimization (ACO)  
+- Artificial Bee Colony (ABC)  
+- Pheromone Update Mechanism (ACO)  
+- Exploration vs Exploitation Balance  
+
+---
+
+**[Network Flow of Graph Theory and Its Application](https://doi.org/10.5220/0012968800004508)**  
+Ruiheng Zhang 
+- Maximum Flow Minimum Cut Theorem  
+- Ford-Fulkerson Method  
+- Edmonds-Karp Algorithm  
+- Dinic Algorithm  
+- Multi-Commodity Flow Problem  
+- Minimum Cost Flow Problem  
+
+---
+
+**[Advancing Decision-Making: AI-Driven Optimization Models for Complex Systems](https://doi.org/10.11591/ijbas.v13i3.27763)**  
+Hengki Tamando Sihotang et al.  
+- Multi-objective Optimization (Pareto Front approach)  
+- Metaheuristic Algorithms (Genetic Algorithms, Particle Swarm Optimization)  
+- Reinforcement Learning  
+- Machine Learning Models for Dynamic Prediction  
+
+---
+
+**[Enhancing Supply Chain Agility and Sustainability through Machine Learning: Optimization Techniques for Logistics and Inventory Management](https://doi.org/10.3390/logistics8030073)**  
+Vikram Pasupuleti et al. 
+- Linear Regression  
+- Ridge Regression  
+- Lasso Regression  
+- Elastic Net Regression  
+- Gradient Boosted Trees  
+- K-means Clustering  
+- DBSCAN (Density-Based Spatial Clustering of Applications with Noise)  
+- Convolutional Neural Networks (CNNs)  
+- Long Short-Term Memory (LSTM) Networks  
+- Feedforward Neural Networks with Attention Mechanisms  
+- Actor-Critic and Q-learning  
+
+---
+
+**[The role of technology in supply chain risk management: Innovations and challenges in logistics](https://doi.org/10.30574/msarr.2024.10.2.0052)**  
+Agnes Clare Odimarha et al. 
+- Radio-Frequency Identification (RFID)  
+- Internet of Things (IoT)  
+- Global Positioning System (GPS)  
+- Big Data Analytics and Predictive Analytics  
+- Blockchain Technology  
+- Artificial Intelligence (AI) and Machine Learning (ML)  
+- Robotics and Automation  
+
+---
+
+**[Optimizing Regional Business Performance: Leveraging Business and Data Analytics in Logistics & Supply Chain Management for USA's Sustainable Growth](https://doi.org/10.32996/jbms.2024.6.2.14)**  
+Md Sumon Gazi
+- Artificial Neural Network (ANN)  
+- Support Vector Machine (SVM)  
+- Recurrent Neural Network (RNN)  
+- Mean Average Error (MAE)  
+- Data Preprocessing Techniques (Anomaly Detection, Outlier Detection, Feature Encoding)  
+
+---
+
+**[Research and Application of Emergency Logistics Resource Allocation Algorithm based on Supply Chain Network](https://doi.org/10.1145/4744)**  
+Hongwei Yao, Wanxian Wu
+- Multi-Agent Genetic Algorithm (MAGA)  
+- Fuzzy Logic  
+- Fuzzy Inference System  
+- Objective Functions (Time and Cost Optimization)  
+- Fitness Function (combining objective and fuzzy utility functions)  
+- Simulation-Based Evaluation Metrics (Accuracy, Precision, Recall, F1-Score)  
+
+---
+
+**[Machine Learning's Influence on Supply Chain and Logistics Optimization in the Oil and Gas Sector: A Comprehensive Analysis](https://doi.org/10.51594/csitrj.v5i3.976)**  
+Agnes Clare Odimarha, Sodrudeen Abolore Ayodeji, Emmanuel Adeyemi Abaku
+- Regression Analysis  
+- Time Series Analysis  
+- Random Forest  
+- Gradient Boosting Machines  
+- Neural Networks (including LSTM)  
+
+---
