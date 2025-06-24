@@ -5,7 +5,7 @@
 - **Platform:** ACM Digital Library
 - **Keyword(s):** defense and security AND algorithm
 - **Date of search:** 2025-06-24
-- **Articles reviewed:** 10
+- **Articles reviewed:** 16
 — **Time window:** 2025
 
 ---
@@ -131,21 +131,90 @@ Scott Freitas et al.
 
 ---
 
-**[Adversarial Machine Learning Attacks and Defences in Multi-Agent Reinforcement Learning](https://dl.acm.org/doi/10.1145/3604205)**  
-Michael Standen et al. 
-- Markov Decision Process (MDP)  
-- Partially Observable Markov Decision Process (POMDP)  
-- Decentralized POMDP (Dec-POMDP)  
-- Probabilistically Robust MDP (PR-MDP)  
-- Noisy-Robust MDP (NR-MDP)  
-- Deep Q-Networks (DQN)  
-- Deep Recurrent Q-Networks (DRQN)  
-- Fast Gradient Sign Method (FGSM)  
-- Projected Gradient Descent (PGD)  
-- Carlini & Wagner (C&W) attack  
-- Universal Adversarial Perturbation (UAP)  
-- Adversarial POSG (APOSG)  
+**[Oblivious Defense in ML Models: Backdoor Removal without Detection](https://doi.org/10.1145/3717823.3718245)**  
+Shafi Goldwasser, Jonathan Shafer, Neekon Vafa, Vinod Vaikuntanathan
+- Random Self-Reducibility / Program Self-Correction  
+- Goldreich–Levin Algorithm  
+- Kushilevitz–Mansour Algorithm  
+- Total Variation Distance  
+- Correlated Sampling Lemma  
+- Robust Mean Estimation  
+- Local and Global Mitigation Techniques for Backdoor Removal  
 
 ---
+
+**[Enhancing Security Insights with KnowGen-RAG: Combining Knowledge Graphs, LLMs, and Multimodal Interpretability](https://doi.org/10.1145/3716815.3729012)**  
+Arnav Nishith Sharma et al. 
+- Retrieval-Augmented Generation (RAG) Frameworks  
+- Knowledge Graph Construction and Reasoning  
+- Optical Character Recognition (OCR)  
+- Sentence Embedding Models
+
+---
+
+**[Malicious AI Models Undermine Software Supply-Chain Security](https://doi.org/10.1145/3704724)**  
+Aditya K. Sood, Sherali Zeadally  
+- Serialization/Deserialization Attack Techniques (e.g., Python pickle exploit)  
+- Backdoor Attacks in AI Models  
+- Reverse Shell Payload Injection  
+- Software Object Hooking  
+- Unauthorized File Read/Write Operations  
+- Beaconing and Pingback Communication with Command & Control (C&C) Servers  
+- Arbitrary Code Execution  
+- Software Composition Analysis (SCA)  
+- Software Bill of Materials (SBOM)  
+- Static and Dynamic Analysis Tools  
+
+---
+
+**[Intermittent Power, Continuous Protection: Security and Privacy for Batteryless Devices in IoT](https://doi.org/10.1145/3722566.3727628)**  
+Thea U. Kjeldsmark, Hui Zhuang, Habiba Farrukh, Muslum Ozgur Ozmen 
+- Checkpointing Mechanisms  
+- Key Establishment Schemes (Human-in-the-Loop and Context-Based Pairing)  
+- Traffic Padding, Injection, and Reshaping  
+- Anomaly Detection Techniques  
+- Energy Attack Mitigation (EAM) Systems  
+
+---
+
+**[The Ephemeral Threat: Assessing the Security of Algorithmic Trading Systems powered by Deep Learning](https://doi.org/10.1145/3714393.3726490)**  
+Advije Rizvani, Giovanni Apruzzese, Pavel Laskov
+- Long Short-Term Memory (LSTM) Neural Networks  
+- Autoregressive Integrated Moving Average (ARIMA)  
+- Moving Average Crossover Trading Strategy  
+- Rate of Change Trading Strategy  
+- Bollinger Bands Trading Strategy  
+- Root Mean Squared Error (RMSE)  
+- Sharpe Ratio  
+
+---
+
+**[Privacy and Security in Distributed Data Markets](https://doi.org/10.1145/3722212.3726008)**  
+Daniel Alabi et al.  
+- Cryptographic Commitment Schemes  
+- Differential Privacy  
+- k-Anonymity  
+- Secure Multi-Party Computation (MPC)  
+- Byzantine-Robust Aggregation  
+- Blockchain Smart Contracts  
+
+---
+
+**[Alert Fatigue in Security Operations Centres: Research Challenges and Opportunities](https://doi.org/10.1145/3723158)**  
+Shahroz Tariq et al. 
+- Deep Neural Networks (DNN)  
+- Random Forest (RF)  
+- Logistic Regression (LR)  
+- Support Vector Machine (SVM)  
+- Isolation Forest  
+- Reinforcement Learning (RL)  
+- Active Learning (AL)  
+- Interactive Machine Learning (iML)  
+- Explainable AI (XAI) (SHAP, LIME)  
+- Graph Neural Networks (GNN)  
+- Chatbots and Conversational Interfaces  
+
+---
+
 
 
