@@ -115,7 +115,7 @@ Renyi Qiu
 
 ---
 
-**[BlockSCM: Integrated Customized Blockchain based Supply Chain Management for Decentralized Networks](https://internationalpubls.com/advances-in-nonlinear-variational-inequalities/vol-27-no-3-2024/622-639/)**  
+**[BlockSCM: Integrated Customized Blockchain based Supply Chain Management for Decentralized Networks](https://doi.org/10.52783/anvi.v27.1431)**  
 Harshad D. Markad, Sachin R. Sakhare 
 - SHA-256 Hash Algorithm  
 - Proof of Work (PoW) Consensus Algorithm  
