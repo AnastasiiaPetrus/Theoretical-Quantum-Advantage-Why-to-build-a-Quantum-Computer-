@@ -602,17 +602,6 @@ Zihan Zhang, Jinjie Wang, Jianli Ding, Jinming Zhang, Liya Shi, Wen Ma
 
 ---
 
-**Arbuscular mycorrhizal fungi reshape the stability and complexity of micro-food webs in the shrubland soils of a dryland ecosystem**  
-Zhu et al.
-- Spearman correlation (co-occurrence network construction)  
-- Principal coordinates analysis (PCoA)  
-- PERMANOVA (Adonis analysis)  
-- Linear discriminant analysis (LDA, used in LEfSe)  
-- Shapiro–Wilk test (normality check)  
-- t-test (group comparison)  
-
----
-
 **Pathways to improving MIR prediction accuracy for soil carbon, nitrogen and pH using external libraries at national scale**  
 Felipe Bachion de Santana, Giulia Bondi, Karen Daly  
 - Support vector regression (SVR)  
