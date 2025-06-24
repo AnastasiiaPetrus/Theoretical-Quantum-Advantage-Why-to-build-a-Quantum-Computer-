@@ -6,7 +6,7 @@
 - **Keyword(s):** logistics and supply management AND algorithm
 - **Filter:** Fields of Study: Computer Science; Has PDF
 - **Date of search:** 2025-06-24
-- **Articles reviewed:** 41
+- **Articles reviewed:** 50
 — **Time window:** 2024-2025
 
 ---
@@ -458,3 +458,91 @@ Akoh Atadoga et al.
 
 ---
 
+**[Integration of Information Technology and Machine Learning to Improve the Efficiency of IoT-Based Logistics Systems](https://syekhnurjati.ac.id/journal/index.php/itej/article/view/448)**  
+Maya Amelia, Agus Hudaya Suswanto  
+- Linear Regression  
+- Decision Tree Algorithms  
+- Clustering Methods
+
+---
+
+**[Leveraging Artificial Intelligence in Supply Chain Execution in E-commerce](https://doi.org/10.59160/ijscm.v13i5.6264)**  
+Priyank Kumawat  
+- Predictive Analytics  
+- Machine Learning Techniques  
+
+---
+
+**[Impact of Artificial Intelligence's Part in Supply Chain Planning and Decision Making Optimization](https://doi.org/10.54660/.IJMRGE.2024.5.6.837-856)**  
+Bui Quoc Khoa et al.  
+- Artificial Neural Networks (ANNs)  
+- Support Vector Machines (SVM)  
+- Reinforcement Learning algorithms  
+- Machine Learning algorithms  
+- Path Traversal Algorithms  
+
+---
+
+**[The Convergence of AI and Human Expertise in Modern Logistics Operations](https://www.ijfmr.com/)**  
+Naveena Pathuri 
+- Dynamic Slotting Algorithms  
+- Pattern Recognition Algorithms  
+- Predictive Analytics  
+- Route Optimization Algorithms  
+- Warehouse Management Algorithms  
+- Visualization Techniques  
+- Exception Management Systems  
+- Feedback Loop Systems  
+
+---
+
+**[The Impact of Artificial Intelligence on Supply Chain Efficiency in Turkey](http://www.iprjb.org/)**  
+Aylin Kaya  
+- Predictive Analytics  
+- Machine Learning Algorithms  
+- Robotic Process Automation (RPA)  
+- Natural Language Processing (NLP)  
+
+---
+
+**[Synergizing Intelligence: Revolutionizing Supply Chains with Blockchain and AI](https://doi.org/10.48175/IJARSCT-17610)**  
+Vinay, Sagar Yadav, Attul Kumar, Prof. Renu Narwal 
+- Genetic Algorithm  
+- Neural Networks  
+- Ant Colony Optimization  
+- Modular Fuzzy Inference Systems  
+
+---
+
+**[Blockchain Technology in Supply Chain Management: Prospects and Challenges for Implementation](https://doi.org/10.1051/itmconf/20257602007)**  
+Atish Peshattiwar et al. 
+- Proof of Stake (PoS)  
+- Delegated Proof of Stake (DPoS)  
+- Zero-Knowledge Proofs (ZKP)  
+- Homomorphic Encryption  
+- AI-powered Adaptive Smart Contracts  
+- Cross-Chain Communication Protocols  
+- Blockchain-as-a-Service (BaaS)  
+
+---
+
+**[Global Supply Chain: Enhance Production Cost Efficiency Through Machine Learning](https://doi.org/10.3844/jcssp.2024.955.963)**  
+Loubna Moumeni and Mohammed Saber  
+- Linear Regression 
+- k-Means Clustering
+- Classification Algorithms
+
+---
+
+**[A Literature Review on AI and DSS for Resilient and Sustainable Humanitarian Logistics](https://doi.org/10.21512/ijcshai.v1i1.13028)**  
+Maria Loura Christhia et al. 
+- Agent-Based Modeling (ABM)  
+- Mixed-Integer Programming (MIP)  
+- Tabu Search Metaheuristic  
+- Vehicle Routing Problem (VRP)  
+- Machine Learning Algorithms  
+- Explainable AI (XAI)  
+- Hybrid Simulation Models  
+- Radio Frequency Identification (RFID)  
+- Digital Twins  
+- Blockchain  
