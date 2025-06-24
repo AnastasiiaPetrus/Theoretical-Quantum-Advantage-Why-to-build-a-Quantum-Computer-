@@ -137,7 +137,7 @@ Yajie Zhao, Bin Gong, Bo Huang
 
 ---
 
-**[Solving the Supply-Chain Problem with a Multi-Objective Evolutionary Algorithm](https://internationalpubls.com/advances-in-nonlinear-variational-inequalities/vol-27-no-3-2024/622-639/)**  
+**[Solving the Supply-Chain Problem with a Multi-Objective Evolutionary Algorithm](https://doi.org/10.52783/pmj.v35.i4s.4462)**  
 Seyed Mahmood Hashemi 
 - Simulated Annealing (SA)  
 - Pareto Optimization (Multi-Objective Optimization based on Pareto Theorem)  
