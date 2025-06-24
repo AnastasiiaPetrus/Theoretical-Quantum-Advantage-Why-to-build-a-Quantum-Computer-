@@ -5,7 +5,7 @@
 - **Platform:** ACM Digital Library
 - **Keyword(s):** defense and security AND algorithm
 - **Date of search:** 2025-06-24
-- **Articles reviewed:** 38
+- **Articles reviewed:** 40
 — **Time window:** 2025
 
 ---
@@ -477,3 +477,31 @@ Fan Zhao
 - Automated Response Mechanisms
 
 ---
+
+**[RAD-FS: Remote Timing and Power SCA Security in DVFS-augmented Ultra-Low-Power Embedded Systems](https://doi.org/10.1145/3711836)**  
+Daniel Dobkin, Nimrod Cever, Itamar Levi  
+- Dynamic Voltage and Frequency Scaling (DVFS)
+- Randomized Aliasing Dynamic Frequency Scaling (RAD-FS)
+- Side-Channel Analysis (SCA)
+- Correlation Power Analysis (CPA)
+- Signal-to-Noise Ratio (SNR)
+- Test Vector Leakage Assessment (TVLA)
+- Template Attacks
+- Timing Attacks
+- Masking Techniques
+
+---
+
+**[Towards Enhanced AI-Driven Security in Monitoring Systems with Low-Cost IoT Devices](https://doi.org/10.1145/3703790.3703819)**  
+Maitham Al-rubaye, Atakan Aral 
+- TensorFlow Lite
+- Quantization Techniques
+- Model Pruning
+- HTTPS with SSL/TLS Encryption
+- Device Authentication via Unique ID and Secret Key
+- Anomaly Detection Algorithms
+- Microservices Architecture (Docker, Kubernetes)
+- Data Preprocessing
+
+---
+
