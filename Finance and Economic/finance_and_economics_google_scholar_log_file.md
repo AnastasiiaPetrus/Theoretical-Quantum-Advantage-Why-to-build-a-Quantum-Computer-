@@ -5,7 +5,7 @@
 - **Platform:** Google Scholar
 - **Keyword(s):** finance and economics AND algorithm
 - **Date of search:** 2025-06-25
-- **Articles reviewed:** 11
+- **Articles reviewed:** 25
 — **Time window:** 2025
 
 ---
@@ -122,6 +122,157 @@ Gang Min
 - SWIFT (cross-border transaction messaging system)  
 - RTGS (Real-Time Gross Settlement system)  
 - ACH (Automated Clearing House system)  
+
+---
+
+**[Prediction of tourism zombie companies using artificial intelligence algorithms and accounting data](https://doi.org/10.54055/ejtr.v39i.3648)**  
+Agustín J. Sánchez-Medina et al.  
+- Logistic Regression (LOGIT)  
+- Random Forest Classifier (RFC)  
+- Artificial Neural Networks (ANN)
+
+---
+
+**[Solving and Optimization of Cobb–Douglas Function by Genetic Algorithm: A Step-by-Step Implementation](https://doi.org/10.3390/computation13020023)**  
+Ali Dinc et al.  
+- Lagrange Multipliers  
+- Genetic Algorithms (GAs)  
+- Gradient-Based Optimization Methods  
+- Particle Swarm Optimization  
+- Differential Evolution  
+
+---
+
+**[Research on the Efficiency of Human-Machine Collaborative Delivery Management for Takeout Riders Under Algorithmic Control](https://doi.org/10.30560/jems.v8n1p27)**  
+Dongyi Hu, Wei Deng, Zilong Jiang, Tianzhu Li
+- Entropy Method  
+- Data Envelopment Analysis (DEA) - BCC Model  
+- Slack Variable Analysis  
+
+---
+
+**[Advancing Financial Risk Prediction and Portfolio Optimization Using Machine Learning Techniques](https://doi.org/10.37547/tajmei/Volume07Issue01-02)**  
+Aftab Uddin et al. 
+- Logistic Regression  
+- Random Forest  
+- Gradient Boosting  
+- Support Vector Machine (SVM)  
+- Long Short-Term Memory (LSTM)  
+- Transformer Networks  
+- Markowitz Mean-Variance Optimization  
+- Genetic Algorithms  
+- Particle Swarm Optimization  
+
+---
+
+**[How Much Does Racial Bias Affect Mortgage Lending? Evidence from Human and Algorithmic Credit Decisions](https://doi.org/10.21799/frbp.wp.2024.09)**  
+Neil Bhutta, Aurel Hizmo, Daniel Ringo  
+- Automated Underwriting Systems (AUS)  
+- Regression Analysis with Underwriting Controls  
+
+---
+
+**[FinTech: a literature review of emerging financial technologies and applications](https://doi.org/10.1186/s40854-024-00668-6)**  
+Gang Kou and Yang Lu 
+- Support Vector Machines (SVM)  
+- Random Forest (RF)  
+- Genetic Algorithms (GA)  
+- Convolutional Neural Networks (CNN)  
+- XGBoost  
+- Principal Component Analysis (PCA)  
+- K-Nearest Neighbors (KNN)  
+
+---
+
+**[AI-Powered Trading, Algorithmic Collusion, and Price Efficiency](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4452704)**  
+Winston Wei Dou, Itay Goldstein, Yan Ji 
+- Q-learning  
+- Price-trigger strategies  
+- Reinforcement Learning (RL)  
+
+---
+
+**[Algorithmic Stablecoins: Mechanisms, Risks, and Lessons from the Fall of TerraUSD](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5092827)**  
+David Krause  
+- Algorithmic Stablecoins  
+- Dual-Token Mechanism  
+- Rebase Protocols  
+- Fiat-Collateralized Stablecoins  
+- Crypto-Collateralized Stablecoins  
+- Hybrid Collateral Models  
+- Overcollateralization  
+- Arbitrage Mechanisms  
+
+---
+
+**[FRAUD DETECTION IN FINANCIAL TRANSACTIONS USING MACHINE LEARNING ALGORITHMS](https://www.iccs.ac.in/anveshan2025)**  
+Patane, Rushikesh, et al.
+- Linear Regression  
+- Support Vector Machines (SVM)  
+- Decision Trees  
+- Artificial Neural Networks (ANN)  
+- Long Short-Term Memory Networks (LSTM)  
+- Kalman Filter  
+- Graph Convolutional Networks (GCN)  
+- Transformer-based Models / Attention Mechanisms  
+- Federated Learning  
+
+---
+
+**[Advanced Cyber Risk Containment in Algorithmic Trading: Securing Automated Investment Strategies from Malicious Data Manipulation](https://www.researchgate.net/publication/389677131_ADVANCED_CYBER_RISK_CONTAINMENT_IN_ALGORITHMIC_TRADING_SECURING_AUTOMATED_INVESTMENT_STRATEGIES_FROM_MALICIOUS_DATA_MANIPULATION)**  
+Moshood Yussuf  
+- Adversarial Training  
+- Feature Engineering  
+- Defensive Distillation  
+- Ensemble Learning  
+- Outlier Detection (Isolation Forests, Support Vector Machines, k-means, DBSCAN)  
+- Reinforcement Learning (RL)  
+- Deep Learning Models (Convolutional Neural Networks - CNNs, Recurrent Neural Networks - RNNs)  
+- Blockchain Technology for secure transactions and fraud prevention  
+- Zero-Trust Security Models  
+
+---
+
+**[Prediction of cryptocurrency’s price using ensemble machine learning algorithms](https://doi.org/10.1108/EJMBE-08-2023-0244)**  
+N.S.S. Kiranmai Balijepalli and Viswanathan Thangaraj 
+- Autoregressive Integrated Moving Average (ARIMA)  
+- Simple Linear Regression (SLR)  
+- Random Forest (RF)  
+- Decision Tree (DT)  
+- Gradient Boosting (GB)  
+- Support Vector Regression (SVR)  
+- Multi-Layer Perceptron (MLP) Regressor  
+- Ensemble Models  
+
+---
+
+**[Enhancing personal financial management skills through a machine learning-powered business simulator](https://acnsci.org/vakaliuk/)**  
+Dmytro S. Antoniuk et al.
+- Reinforcement Learning (RL)  
+- Q-learning algorithm  
+- Adaptive Learning  
+- Situational Modeling  
+- SharpRL (open-source RL library)  
+- Machine Learning-powered Business Simulator  
+
+---
+
+**[Bibliometric Study of the Impact of Algorithmic Trading on Market Microstructure: Trends Patterns and Implications](https://www.researchgate.net/publication/387693370)**  
+Karishma Yadav, Nishant Kumar, Indresh Pratap Singh
+- Regression Series Analysis  
+- Time Series Analysis  
+- Monte Carlo Simulation  
+- Econometrics of Ultra-High-Frequency Data  
+- High-Frequency Trading (HFT) and Algorithmic Trading  
+
+---
+
+**[The growth–environment nexus amid geopolitical risks: cointegration and machine learning algorithm approaches](https://doi.org/10.1007/s43621-025-00872-z)**  
+Md. Idris Ali et al.  
+- Autoregressive Distributed Lag (ARDL)  
+- Kernel Regularized Least Squares (KRLS)
+- Toda-Yamamoto causality test  
+- Environmental Kuznets Curve (EKC) framework
 
 ---
 
