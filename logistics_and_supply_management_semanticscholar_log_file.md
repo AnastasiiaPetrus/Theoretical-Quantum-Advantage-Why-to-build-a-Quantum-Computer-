@@ -622,3 +622,16 @@ Enoch Oluwademilade Sodiya et al.
 
 ---
 
+**[DYNAMIC INVENTORY MANAGEMENT USING AI](https://www.isjem.com/article/ISJEM02874)**  
+Mr. Regulagadda Ramakrishna et al. 
+- Economic Order Quantity (EOQ)  
+- Reorder Point (ROP)  
+- Just-In-Time (JIT)  
+- Long Short-Term Memory (LSTM) Networks  
+- Deep Q-Network (DQN) Reinforcement Learning  
+- Q-Learning  
+- Policy Gradient Algorithms  
+- Proximal Policy Optimization (PPO)  
+
+---
+
