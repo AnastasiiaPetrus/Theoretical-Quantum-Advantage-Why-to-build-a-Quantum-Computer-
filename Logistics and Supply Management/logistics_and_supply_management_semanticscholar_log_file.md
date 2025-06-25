@@ -28,7 +28,7 @@ Frank Phillipson
   - Integer Linear Programming (ILP)  
   - QUBO (Quadratic Unconstrained Binary Optimization) formulations  
   - Exact Cover Problem  
-- Quantum Algorithms and Methods (appeared twice)
+- Quantum Algorithms and Methods
   - Quantum Annealing (QA)  
   - Quantum Approximate Optimization Algorithm (QAOA)  
   - Variational Quantum Eigensolver (VQE)  
