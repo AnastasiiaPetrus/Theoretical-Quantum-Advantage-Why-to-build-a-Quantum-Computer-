@@ -6,7 +6,7 @@
 - **Keyword(s):** logistics and supply management AND algorithm
 - **Filter:** Fields of Study: Computer Science; Has PDF
 - **Date of search:** 2025-06-24
-- **Articles reviewed:** 56
+- **Articles reviewed:** 65
 — **Time window:** 2024-2025
 
 ---
@@ -635,3 +635,95 @@ Mr. Regulagadda Ramakrishna et al.
 
 ---
 
+**[An improved black widow optimization (IBWO) algorithm for solving global optimization problems](https://www.growingscience.com/ijiec-vol15-2024/ijiec_2024_4_004.pdf)**  
+Muhannad A. Abu-Hashema and Mohd Khaled Shambourb  
+- Black Widow Optimization (BWO) algorithm  
+- Improved Black Widow Optimization (IBWO)  
+- Genetic Algorithm (GA)  
+- Particle Swarm Optimization (PSO)  
+- Artificial Bee Colony (ABC)  
+- Biogeography-Based Optimization (BBO)  
+
+---
+
+**[Enhancing the Efficiency of Decision Support Systems in the Warehousing Sector](file-9CU3CiCDhN7mBbbFRLZ11f.pdf)**  
+Myroslav Komar et al.  
+- Blockchain-based algorithms
+- Smart Contracts  
+- Hash Functions  
+- Decentralized Autonomous Organizations (DAOs)  
+- Tokenomics  
+
+---
+
+**[Cloud Based Agricultural Marketing Connections for Sustainable Growth: A Revolutionary Approach](https://www.ijfmr.com/)**  
+G. Abdulkalamazad et al. 
+- Dynamic Pricing Algorithms  
+- Inventory Tracking Methods  
+- Demand Forecasting Techniques  
+- Logistics Coordination Algorithms  
+- Big Data Analytics  
+
+---
+
+**[Machine Learning-Based Pallet Optimization for Warehouse Efficiency: A Data-Driven Approach](https://doi.org/10.38124/ijisrt/25may335)**  
+Bharani Kumar Deepuru et al. 
+- Genetic Algorithm (GA)  
+- Particle Swarm Optimization (PSO)  
+- Simulated Annealing (SA)  
+- Ant Colony Optimization (ACO)  
+- Linear Programming (LP)  
+- Reinforcement Learning (RL)  
+
+---
+
+**[Логістичне управління в діяльності підприємств: еволюція концепцій, управлінських підходів та тренди сучасності](https://doi.org/10.32702/2306-6814.2024.14.32)**  
+Г. М. Тарасюк, В. С. Іщенко 
+- Just-In-Time (JIT)  
+- Material Requirements Planning (MRP) / Distribution Requirements Planning (DRP)  
+- Lean Production  
+- Demand Driver Techniques (Reorder Point, Quick Response, Continuous Replenishment, Automatic Replenishment)  
+- Optimized Production Technology (OPT)  
+- Value-Added Logistics  
+- E-logistics  
+- Green Logistics  
+- Digital Logistics  
+- Agile Logistics  
+- Blockchain Technology  
+- Artificial Intelligence algorithms  
+
+---
+
+**[Implementing LSTM Networks for Sales Forecasting and Predictive Modelling of Consumer Demand in the Fast-Moving Consumer Goods Industry](https://www.jisem-journal.com/)**  
+Murari Thejovathi, M.V.P Chandra Sekhara Rao 
+- Long Short-Term Memory (LSTM) Networks  
+- Recurrent Neural Networks (RNNs)  
+- Gradient Boosting Decision Trees (GBM)  
+- Multi-output Gradient Boosting Decision Trees (HitBoost)  
+- Gradient Boosted Multivariate Regression Algorithm (RegBoost)  
+- Permutation Feature Importance  
+- Confusion Matrix  
+
+---
+
+**[Machine Learning in Logistic: Scoping Review](http://dx.doi.org/10.6007/IJARBSS/v15-i2/24645)**  
+Muhammad Hamdi Che Hassan, Lokhman Hakim Osman  
+- Logistic Regression  
+- Genetic Algorithms  
+- Decision Trees  
+- Random Forest  
+- XGBoost  
+- Reinforcement Learning  
+- Anomaly Detection  
+- Natural Language Processing (NLP)  
+- Federated Learning  
+- Simulation Models (Digital Twins)  
+
+---
+
+**[The Use of Artificial Intelligence and Machine Learning in Forecasting the Financial Growth of Automobile Industries](https://doi.org/10.55041/IJSREM34453)**  
+Neelam R Patil, Nagappa Pattanashetti 
+- Algorithmic Trading  
+- Robo-Advisors  
+- Fraud Detection using Machine Learning  
+- Loan Underwriting Algorithms  
