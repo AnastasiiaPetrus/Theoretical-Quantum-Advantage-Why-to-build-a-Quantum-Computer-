@@ -549,14 +549,14 @@ Maria Loura Christhia et al.
 
 ---
 
-**[AI for Multimodal Transport Optimization: Integrating Air, Sea, and Land Logistics for Efficiency](https://www.jisem-journal.com/article/10.1007/some-doi-here)**  
+**[AI for Multimodal Transport Optimization: Integrating Air, Sea, and Land Logistics for Efficiency](https://doi.org/10.52783/jisem.v10i42s.8237)**  
 Wazahat Ahmed Chowdhury  
 - Random Forest  
 - Reinforcement Learning  
 
 ---
 
-**[Research on Inventory Control Method Based on Demand Response in Power System](https://doi.org/10.1234/ijfans.2023.12345)**  
+**[Research on Inventory Control Method Based on Demand Response in Power System](https://doi.org/10.1007/s00202-024-02303-0)**  
 Huixuan Shi et al.  
 - ABC Classification  
 - Exponential Smoothing  
@@ -567,7 +567,7 @@ Huixuan Shi et al.
 
 ---
 
-**[Artificial Intelligence in ERP: Unlocking New Horizons in Supply Chain Forecasting and Resource Optimization](http://www.iprjb.org/)**  
+**[Artificial Intelligence in ERP: Unlocking New Horizons in Supply Chain Forecasting and Resource Optimization](https://doi.org/10.47604/ijscm.3234)**  
 Sampath Mucherla and Sachin More  
 - Decision Trees  
 - Neural Networks  
@@ -592,7 +592,7 @@ Yevhenii Velehura, Vadym Horiachkin
 
 ---
 
-**[Optimizing Supply Chain Processes through Deep Learning Algorithms: A Managerial Approach](http://jier.org/vol4issue1/)**  
+**[Optimizing Supply Chain Processes through Deep Learning Algorithms: A Managerial Approach](https://doi.org/10.52783/jier.v4i1.567)**  
 Lima Nasrin Eni et al. 
 - Mathematical Programming  
 - Linear Optimization  
