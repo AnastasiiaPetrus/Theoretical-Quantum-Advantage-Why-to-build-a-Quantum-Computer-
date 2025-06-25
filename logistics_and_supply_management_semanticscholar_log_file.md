@@ -635,7 +635,7 @@ Mr. Regulagadda Ramakrishna et al.
 
 ---
 
-**[An improved black widow optimization (IBWO) algorithm for solving global optimization problems](https://www.growingscience.com/ijiec-vol15-2024/ijiec_2024_4_004.pdf)**  
+**[An improved black widow optimization (IBWO) algorithm for solving global optimization problems](https://www.growingscience.com/ijiec/Vol15/IJIEC_2024_15.pdf)**  
 Muhannad A. Abu-Hashema and Mohd Khaled Shambourb  
 - Black Widow Optimization (BWO) algorithm  
 - Improved Black Widow Optimization (IBWO)  
@@ -646,7 +646,7 @@ Muhannad A. Abu-Hashema and Mohd Khaled Shambourb
 
 ---
 
-**[Enhancing the Efficiency of Decision Support Systems in the Warehousing Sector](file-9CU3CiCDhN7mBbbFRLZ11f.pdf)**  
+**[Enhancing the Efficiency of Decision Support Systems in the Warehousing Sector](https://ceur-ws.org/Vol-3716/paper2.pdf)**  
 Myroslav Komar et al.  
 - Blockchain-based algorithms
 - Smart Contracts  
@@ -656,7 +656,7 @@ Myroslav Komar et al.
 
 ---
 
-**[Cloud Based Agricultural Marketing Connections for Sustainable Growth: A Revolutionary Approach](https://www.ijfmr.com/)**  
+**[Cloud Based Agricultural Marketing Connections for Sustainable Growth: A Revolutionary Approach](https://doi.org/10.36948/ijfmr.2025.v07i02.40608)**  
 G. Abdulkalamazad et al. 
 - Dynamic Pricing Algorithms  
 - Inventory Tracking Methods  
