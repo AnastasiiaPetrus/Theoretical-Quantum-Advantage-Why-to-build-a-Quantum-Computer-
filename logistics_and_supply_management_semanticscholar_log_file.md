@@ -622,7 +622,7 @@ Enoch Oluwademilade Sodiya et al.
 
 ---
 
-**[DYNAMIC INVENTORY MANAGEMENT USING AI](https://www.isjem.com/article/ISJEM02874)**  
+**[DYNAMIC INVENTORY MANAGEMENT USING AI](https://isjem.com/download/dynamic-inventory-management-using-ai/)**  
 Mr. Regulagadda Ramakrishna et al. 
 - Economic Order Quantity (EOQ)  
 - Reorder Point (ROP)  
