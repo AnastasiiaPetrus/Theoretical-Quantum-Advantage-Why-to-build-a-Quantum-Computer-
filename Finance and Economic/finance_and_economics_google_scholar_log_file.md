@@ -5,7 +5,7 @@
 - **Platform:** Google Scholar
 - **Keyword(s):** finance and economics AND algorithm
 - **Date of search:** 2025-06-25
-- **Articles reviewed:** 25
+- **Articles reviewed:** 28
 — **Time window:** 2025
 
 ---
@@ -276,3 +276,38 @@ Md. Idris Ali et al.
 
 ---
 
+**[Strengthening finance with cybersecurity: Ensuring safer digital transactions](https://doi.org/10.30574/wjarr.2025.25.3.0908)**  
+Adetunji Paul Adejumo and Chinonso Peter Ogburie 
+- Random Forest  
+- Gradient Boosting Decision Trees (GBDT)  
+- ARIMA (Auto-Regressive Integrated Moving Average)  
+- Proof of Work (PoW)  
+- Proof of Stake (PoS)  
+- SHA-256  
+- AES-512  
+- AES-128  
+- RSA  
+- Monte Carlo Simulation  
+- Regression Analysis  
+
+---
+
+**[Towards Precision Economics: Unveiling GDP Patterns Using Integrated Deep Learning Techniques](https://doi.org/10.1007/s10614-025-10863-x)**  
+Elizabeth Frederick Mumbuli et al.  
+- Group Method of Data Handling (GMDH)  
+- Particle Swarm Optimization-Artificial Neural Network (PSO-ANN)  
+- CatBoost (Gradient-Boosted Decision Trees)  
+- Random Walk Model
+
+---
+
+**[GA-Attention-Fuzzy-Stock-Net: An optimized neuro-fuzzy system for stock market price prediction with genetic algorithm and attention mechanism](https://doi.org/10.1016/j.heliyon.2025.e42393)**  
+Burak Gülmez 
+- Genetic Algorithms (GA)  
+- Neuro-Fuzzy Systems  
+- Artificial Neural Networks (ANN)  
+- Long Short-Term Memory Networks (LSTM)  
+- Fuzzy Membership Functions  
+- Attention Mechanism  
+- Decision Trees  
+- Support Vector Machines (SVM)  
