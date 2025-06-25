@@ -6,7 +6,7 @@
 - **Keyword(s):** logistics and supply management AND algorithm
 - **Filter:** Computer Science; Open access; Last 24 months
 - **Date of search:** 2025-06-25
-- **Articles reviewed:** 15
+- **Articles reviewed:** 25
 — **Time window:** 2023-2025
 
 ---
@@ -173,3 +173,111 @@ Chang Shu et al.
 - Graph Theory  
 
 ---
+
+**[An obstacle avoidance safety detection algorithm for power lines combining binocular vision technology and improved object detection](https://doi.org/10.1186/s42162-024-00378-4)**  
+Gao Liu et al. 
+- Scale-Invariant Feature Transform (SIFT)  
+- YOLO-net family (YOLOv3, YOLOv4)  
+- Semi-Global Matching (SGM)  
+- Attention Mechanism  
+- Feature Pyramid Network (FPN)  
+- Zhang Zhengyou’s Camera Calibration Method  
+- Multi-frame Averaging  
+
+---
+
+**[Consensus algorithm for maintaining large-scale access-control views of education data](https://doi.org/10.1007/s11227-024-06625-5)**  
+Xianglin Wu et al.  
+- Attribute-Based Access Control (ABAC)  
+- View Maintenance Proof of Stake (MPoS) Consensus Algorithm  
+- Side-Block-Based Data Query and Recycling  
+
+---
+
+**[Optimization model for mass casualty management system using qos-aware routing protocol and casualty triage prediction](https://doi.org/10.1007/s41870-024-02052-0)**  
+Diana Olivia, Girija Attigeri, Arnav Saxena
+- Genetic Algorithm  
+- Backpropagation Neural Network (BNN)  
+- Queuing Theory  
+
+---
+
+**[The green marine waste collector routing optimization with puma selection-based neighborhood search algorithm](https://doi.org/10.1007/s10586-024-04812-w)**  
+Benyamin Abdollahzadeh et al.
+- Vehicle Routing Problem (VRP)  
+- Mixed Integer Linear Programming (MILP)  
+- Neighborhood Search (NS) Algorithm  
+- Puma Optimizer  
+- Metropolis Acceptance Criterion  
+- Branch-and-Cut (B&C)  
+- Particle Swarm Optimization-Composite Particle (PSO-CP)  
+- Non-dominated Sorting Genetic Algorithm II (NSGA II)  
+
+---
+
+**[Comparison and assessment of machine learning approaches in manufacturing applications](https://doi.org/10.1007/s44244-025-00023-3)**  
+K. Ramesh et al. 
+- Random Forests  
+- Support Vector Machines (SVM)  
+- Long Short-Term Memory (LSTM) networks  
+- K-Means Clustering  
+- Convolutional Neural Networks (CNN)  
+- Gaussian Mixture Models (GMM)  
+- Logistic Regression  
+- Naive Bayes Classifier  
+- Decision Trees (C4.5)  
+- Gradient Boosted Trees  
+
+---
+
+**[Collaboration of IoT devices in smart home scenarios: algorithm research based on graph neural networks and federated learning](https://doi.org/10.1007/s43926-025-00096-7)**  
+Yuanquan Zhong 
+- Graph Neural Networks (GNN), specifically Graph Convolutional Networks (GCN)  
+- Federated Learning (FL)  
+- Weighted Average Model Aggregation (Federated Averaging)  
+- Mean Squared Error (MSE)  
+
+---
+
+**[An Innovative Algorithm for Multipath Routing and Energy Efficiency in IoT Across Varied Network Topology Densities](https://doi.org/10.1007/s44227-024-00041-0)**  
+Radwan S. Abujassar  
+- Disjoint & Scalable Multipath Routing (D&SMR)  
+- Cluster-based Routing  
+- Evidence Theory for Node Reliability  
+- Multi-hop Routing  
+
+---
+
+**[Fully dynamic reorder policies with deep reinforcement learning for multi-echelon inventory management](https://doi.org/10.1007/s00287-023-01556-6)**  
+Patric Hammler, Nicolas Riesterer, Torsten Braun 
+- Reorder-point lot-size policy (r, Q)  
+- Static reorder-point lot-size policies (RQ policy)  
+- Simulation-based Stochastic Optimization  
+- Deep Reinforcement Learning (DRL) algorithms  
+- Markov Decision Process (MDP) modeling  
+
+---
+
+**[Solving the uncapacitated facility location problem under uncertainty: a hybrid tabu search with path-relinking simheuristic approach](https://doi.org/10.1007/s10489-024-05441-x)**  
+David Peidro et al. 
+- Tabu Search Metaheuristic  
+- Path-Relinking  
+- Simheuristics (simulation combined with metaheuristics)  
+- Greedy Heuristic (Hochbaum's)  
+- GRASP Metaheuristic  
+- Large-Scale Neighborhood Search  
+- Lagrangian-Based Heuristics  
+- Monte Carlo Simulation  
+- Branch-and-Bound Algorithm  
+- Branch-and-Price (Column Generation)
+
+---
+
+**[An integrated group decision-making framework for assessing S3PRLPs based on MULTIMOORA-WASPAS with q-rung orthopair fuzzy information](https://doi.org/10.1007/s10462-024-10782-7)**  
+Yuan Rong et al.  
+- MULTIMOORA (Multiplicative Multi-objective Optimization by Ratio Analysis)  
+- WASPAS (Weighted Aggregated Sum Product Assessment)  
+- Best-Worst Method (BWM)  
+- Entropy Weight Method  
+- q-rung orthopair fuzzy (q-ROF) set theory  
+- Frank t-norm and t-conorm operations  
