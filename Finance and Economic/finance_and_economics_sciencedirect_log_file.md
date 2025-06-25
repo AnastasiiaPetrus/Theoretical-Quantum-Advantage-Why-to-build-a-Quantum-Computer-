@@ -6,7 +6,7 @@
 - **Keyword(s):** finance and economics AND algorithm
 - **Filter:** Computer Science; Open access & Open archive
 - **Date of search:** 2025-06-25
-- **Articles reviewed:** 25
+- **Articles reviewed:** 50
 — **Time window:** 2024-2025
 
 ---
@@ -274,3 +274,276 @@ Jakub Michańków, Paweł Sakowski, Robert Ślepaczuk
 - Root Mean Squared Error (RMSE)  
 - Mean Absolute Percentage Error (MAPE)  
 - Mean Absolute Directional Loss (MADL)  
+
+---
+
+**[Innovation recipes for high use on four Fintech types: A configurational perspective](https://doi.org/10.1016/j.im.2024.104058)**  
+Hyun-Sun Ryu, Jinyoung Min  
+- Diffusion of Innovation (DOI) theory  
+- Information Systems Success (ISS) model  
+- Fuzzy-set Qualitative Comparative Analysis (fsQCA)  
+
+---
+
+**[Prediction of digital economy based on neural network algorithm](https://doi.org/10.1016/j.procs.2025.04.492)**  
+Juan Li et al.  
+- Multi-Layer Perceptron (MLP)  
+- Radial Basis Function Neural Network (RBFNN)  
+- Recurrent Neural Network (RNN)  
+- Long Short-Term Memory Network (LSTM)  
+- Stochastic Gradient Descent (SGD)  
+- Adam optimizer  
+- Mean Squared Error (MSE)  
+- Mean Absolute Error (MAE)  
+- Data imputation  
+- Data standardization  
+
+---
+
+**[Understanding the Drivers of Cryptocurrency Acceptance: An Empirical Study of Individual Adoption](https://doi.org/10.1016/j.procs.2025.02.151)**  
+Máté Hidegföldi, Gergely Laszlo Csizmazia, Justina Karpavičė
+- Technology Acceptance Model (TAM)  
+- Unified Theory of Acceptance and Use of Technology (UTAUT)  
+- Innovation Diffusion Theory (IDT)  
+- Partial Least Squares Structural Equation Modelling (PLS-SEM)  
+- Bootstrapping  
+
+---
+
+**[Financial risk identification based on machine learning algorithm](https://doi.org/10.1016/j.procs.2025.04.693)**  
+Junpeng Wang  
+- Logistic Regression (LR)  
+- Decision Tree  
+- Support Vector Machine (SVM)  
+- Random Forest  
+- Multi-model fusion / Ensemble Learning  
+- Batch Gradient Descent (BGD)  
+- Stochastic Gradient Descent (SGD)  
+
+---
+
+**[A Financial Data Statistical Risk Dynamic Prediction and Analysis Model Based on Regulatory Reports and Risk Indicator System](https://doi.org/10.1016/j.procs.2025.04.186)**  
+Rui Li et al. 
+- Analytic Hierarchy Process (AHP)  
+- Improved Efficiency Coefficient Method  
+- Fuzzy Comprehensive Evaluation Method  
+- Delphi Method  
+
+---
+
+**[Valuation of Real Estate Investment Trusts using the PSI-CoCoSo Multicriteria Method](https://doi.org/10.1016/j.procs.2024.08.264)**  
+Felipe Fortuna Lucas et al. 
+- PSI Method (Preference Selection Index)  
+- CoCoSo Method (Combined Compromise Solution)  
+- CATWOE Analysis  
+
+---
+
+**[Financial Collaboration Technology Based on Deep Deterministic Strategy Gradient Algorithm](https://doi.org/10.1016/j.procs.2024.10.031)**  
+Nannan Sun  
+- Deep Deterministic Policy Gradient (DDPG) algorithm  
+- Policy networks and value networks (actor-critic architecture)  
+- Experience replay mechanism  
+
+---
+
+**[Application of Ant Colony Optimization Algorithm in the Construction of Smart Contract Management System](https://doi.org/10.1016/j.procs.2025.05.041)**  
+Jie Zhang et al. 
+- Ant Colony Optimization (ACO) algorithm  
+- Simulated Annealing (SA)  
+- Pheromone update mechanism  
+- Path selection strategy based on pheromone and heuristic information  
+
+---
+
+**[Comparative Analysis of BiLSTM Deep Learning Model and Random Forest Regressor Performance on Indonesian Nickel Mining Company Stock Prices](https://doi.org/10.1016/j.procs.2024.10.304)**  
+Kevin Purnomo et al.
+- Bidirectional Long Short-Term Memory (BiLSTM) neural network  
+- Random Forest Regressor  
+- Mean Squared Error (MSE)  
+- Root Mean Squared Error (RMSE)  
+- Mean Absolute Error (MAE)  
+
+---
+
+**[An Anomaly Detection and Adaptive Learning Algorithm in Financial Risk Monitoring](https://doi.org/10.1016/j.procs.2024.10.119)**  
+Fanling Kong 
+- Support Vector Machine (SVM)  
+- Random Forest  
+- Deep Neural Networks (DNN)  
+- Sliding Window Technique  
+- Principal Component Analysis (PCA)  
+- Transfer Learning  
+- Grid Search  
+- Random Search  
+
+---
+
+**[A Low-Carbon Emission Production Scheduling Algorithm of Intelligent Manufacturing based on Energy and Environmental Efficiency](https://doi.org/10.1016/j.procs.2024.10.146)**  
+Chunmei Tan, Zhiye Yu  
+- Genetic Algorithm (GA)  
+- Particle Swarm Optimization (PSO)  
+- Simulated Annealing (SA)  
+- Dynamic Programming (DP)  
+- Multi-objective Optimization Model  
+
+---
+
+**[Text intelligent classification model based on improved KNN algorithm in library service transformation](https://doi.org/10.1016/j.sasc.2025.200313)**  
+Changjun Wang, Fengxia You, Yu Wang  
+- K-Nearest Neighbor (KNN) algorithm  
+- K-means clustering algorithm  
+- Information Gain and Mutual Information  
+- TF-IDF weighting  
+
+---
+
+**[Adaptive Statistical Iterative Reconstruction Algorithm Based on Artificial Intelligence](https://doi.org/10.1016/j.procs.2024.10.026)**  
+Chengyao Li, Yuhao Zhang  
+- Adaptive Statistical Iterative Reconstruction (ASIR)  
+- Convolutional Neural Network (CNN)  
+- Adam Optimization Algorithm  
+- Dropout Regularization  
+- Loss Function with Data Fitting and Regularization Terms  
+- Grid Search and Random Search  
+
+---
+
+**[Supply Chain Economic Decision-Making Based on Reinforcement Learning Algorithm](https://doi.org/10.1016/j.procs.2025.04.474)**  
+Chuanming Ma et al.  
+- Q-learning  
+- Deep Q-Network (DQN)  
+- ε-greedy strategy  
+- Simulated Annealing (SA)  
+- Experience Replay Mechanism  
+
+---
+
+**[Research on the Design of a Blockchain Logistics Information Platform Based on Reputation Proof Consensus Algorithm](https://doi.org/10.1016/j.procs.2025.05.132)**  
+Xuezhi Wu, Wenqing Bao 
+- Proof of Reputation (PoR)  
+- SHA256 hash algorithm  
+- Sigmoid function  
+- B/S architecture system  
+
+---
+
+**[A novel feature selection method based on importance measures for crude oil return forecasting](https://doi.org/10.1016/j.neucom.2023.127470)**  
+Y. Zhao et al. 
+- Ridge Regression (RR)  
+- Principal Component Analysis (PCA)  
+- Kernel Principal Component Analysis (KPCA)  
+- Independent Component Analysis (ICA)  
+- Support Vector Regression (SVR)  
+- Random Forest (RF)  
+- Long Short-Term Memory (LSTM)  
+- Gated Recurrent Unit (GRU)  
+
+---
+
+**[Economic Trend Forecast Analysis Based On Time Series Algorithm](https://doi.org/10.1016/j.procs.2025.04.177)**  
+Sirong Mou 
+- Triple Exponential Smoothing (Holt-Winters method)  
+- ARIMA (AutoRegressive Integrated Moving Average)  
+- Linear Regression  
+- Grey Prediction Model (GM(1,1))  
+
+---
+
+**[An oversampling FCM-KSMOTE algorithm for imbalanced data classification](https://doi.org/10.1016/j.jksuci.2024.102248)**  
+Hongfang Zhou et al.
+- Density-Based Spatial Clustering of Applications with Noise (DBSCAN)  
+- Fuzzy C-Means (FCM) Clustering  
+- K-Nearest Neighbors (KNN)  
+- Synthetic Minority Oversampling Technique (SMOTE)  
+- Support Vector Machine (SVM)  
+- Random Forest (RF)  
+- Kruskal–Wallis test  
+- Wilcoxon signed-rank test  
+
+---
+
+**[Securing the economic management and service infrastructure of banks via the use of artificial intelligence (MO-ILSTM)](https://doi.org/10.1016/j.sasc.2025.200227)**  
+Xintong Wu 
+- Improved Long Short-Term Memory (ILSTM)  
+- Mothfly Optimization (MO)  
+- Artificial Neural Networks (ANN)  
+- Support Vector Machine (SVM)  
+- Naive Bayes (NB)  
+
+---
+
+**[Stock market time series forecasting using comparative machine learning algorithms](https://doi.org/10.1016/j.procs.2025.01.050)**  
+Samraj Gupta et al. 
+- Long Short-Term Memory (LSTM)  
+- Artificial Neural Networks (ANN)  
+- Random Forest  
+- Support Vector Machines (SVM)  
+- Generalized Autoregressive Conditional Heteroskedasticity (GARCH)  
+- eXtreme Gradient Boosting (XGBoost)  
+- Adaptive Boosting (AdaBoost)  
+- Decision Trees  
+- Reinforcement Learning (RL)  
+- Convolutional Neural Networks (CNN)  
+- Transformer-based architectures  
+
+---
+
+**[Data-driven stock forecasting models based on neural networks: A review](https://www.sciencedirect.com/science/article/pii/S1566253524003944)**  
+Wuzhida Bao et al. 
+- Linear Regression  
+- Autoregressive Moving Average (ARMA)  
+- Autoregressive Integrated Moving Average (ARIMA)  
+- Generalized Autoregressive Conditional Heteroskedasticity (GARCH)  
+- Exponential Smoothing (ES)  
+- Support Vector Machines (SVM)  
+- Artificial Neural Networks (ANN)  
+- Random Forest  
+- Decision Trees  
+- k-Nearest Neighbors (KNN)  
+- Long Short-Term Memory (LSTM)  
+- Convolutional Neural Networks (CNN)  
+- Transformer-based architectures  
+- Graph Neural Networks (GNN)  
+- Generative Adversarial Networks (GANs)  
+- Large Language Models (LLMs)  
+
+---
+
+**[Financial Network Security Risk Intelligent Prediction Algorithm based on HMM-LDA Model](https://doi.org/10.1016/j.procs.2024.10.126)**  
+Linlin Yu et al. 
+- Hidden Markov Model (HMM)  
+- Latent Dirichlet Allocation (LDA)  
+- Simulated Annealing (SA)  
+- AdaBoost  
+- Decision Tree (DT)  
+- Support Vector Machine (SVM)  
+
+---
+
+**[A Layer-2 Expansion Shared Sequencer Model for Blockchain Scalability](https://doi.org/10.1016/j.bcra.2025.100292)**  
+Huijian Han et al. 
+- Leader Election Algorithms  
+- Verifiable Random Functions (VRF)  
+- Proposer-Builder Separation (PBS) architecture  
+- Fuzzy Cognitive Map (FCM)  
+- Genetic Algorithm  
+
+---
+
+**[Systemic risk measurement: A Quantile Long Short-Term Memory network approach](https://doi.org/10.1016/j.asoc.2023.111224)**  
+Imma Lory Aprea, Salvatore Scognamiglio, Paolo Zanetti 
+- Bivariate Constant Conditional Correlation GARCH model (CCC-GARCH)  
+- Quantile Regression  
+- Neural Networks (Feed-Forward Neural Networks)  
+- Long Short-Term Memory (LSTM) Networks  
+
+---
+
+**[Persistence in financial connectedness and systemic risk](https://doi.org/10.1016/j.ejor.2023.11.023)**  
+Jozef Baruník and Michael Ellington 
+- Vector Autoregression (VAR) models, including Time-Varying Parameter VAR (TVP-VAR)  
+- Variance Decomposition methods  
+- Spectral (Frequency Domain) Decomposition methods  
+- Bayesian Lagrange-Multiplier and Wald-type tests  
+- Localized Spectral Decomposition methods  
