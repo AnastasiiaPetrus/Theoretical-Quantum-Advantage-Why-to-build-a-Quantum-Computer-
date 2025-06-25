@@ -4,10 +4,10 @@
 
 - **Platform:** Springer
 - **Keyword(s):** logistics and supply management AND algorithm
-- **Filter:** Computer Science; Open access; Last 12 months
+- **Filter:** Computer Science; Open access; Last 24 months
 - **Date of search:** 2025-06-25
-- **Articles reviewed:** 10
-— **Time window:** 2024-2025
+- **Articles reviewed:** 15
+— **Time window:** 2023-2025
 
 ---
 
@@ -44,6 +44,20 @@ Xuanyuan Wang et al.
 
 ---
 
+**[Hunger games search optimization with deep learning model for sustainable supply chain management](https://doi.org/10.1007/s43926-023-00040-7)**  
+Zheng Xu, Deepak Kumar Jain et al. 
+- Hunger Games Search Optimization (HGSO)  
+- Bidirectional Long Short-Term Memory (Bi-LSTM)  
+- Q-learning  
+- Deep Reinforcement Learning (DR-SCM)  
+- Particle Swarm Optimization (PSO)  
+- Artificial Bee Colony (ABC)  
+- Grey Wolf Optimization (GWO)  
+- Jellyfish Optimization (JFO)  
+- Heuristics  
+
+---
+
 **[Leveraging deep learning for risk prediction and resilience in supply chains: insights from critical industries](https://doi.org/10.1186/s40537-025-01143-4)**  
 Waleed Abdu Zogaan et al. 
 - Recurrent Neural Network (RNN)  
@@ -61,6 +75,38 @@ Peng Wang et al.
 - Power Aggregation Operators  
 - Arithmetic Weighted Aggregation Operators  
 - Geometric Weighted Aggregation Operators  
+
+---
+
+**[Assessment of text-generated supply chain risks considering news and social media during disruptive events](https://doi.org/10.1007/s13278-023-01100-0)**  
+Soumik Nafis Sadeek, Shinya Hanaoka
+- Latent Dirichlet Allocation (LDA)  
+- Ordered Probit Model  
+- Support Vector Machine (SVM)  
+
+---
+
+**[Improved genetic algorithm approach for coordinating decision-making in technological disaster management](https://doi.org/10.1007/s00521-023-09218-0)**  
+Bethsy Guerrero Granados, Christian G. Quintero M., César Viloria Núñez  
+- Improved Genetic Algorithm (IGA)  
+- Multi-objective Particle Swarm Optimization (MOPSO)  
+- Collection Path Ant Colony Optimization (CPACO)  
+- Greedy Algorithm (GRA)  
+- Random Task Assignment Algorithm (RTA)  
+- Simulated Annealing  
+- Hopfield Neural Network  
+- Decision Tree  
+- Fuzzy Logic  
+- Pareto-based Metaheuristics  
+
+---
+
+**[Edge intelligence empowered delivery route planning for handling changes in uncertain supply chain environment](https://doi.org/10.1186/s13677-024-00613-z)**  
+Gaoxian Peng et al. 
+- Mixed-Integer Linear Programming (MILP)  
+- Adaptive Genetic Algorithm (AGA)  
+- Adaptive A-star Algorithm  
+- Hybrid Meta-heuristic Algorithms (ALNS, MACS)  
 
 ---
 
@@ -115,5 +161,15 @@ Kitty Kioskli et al.
 - Policy Gradient methods  
 - Genetic Algorithm (GA)  
 - BERT  
+
+---
+
+**[Enhancing trust transfer in supply chain finance: a blockchain-based transitive trust model](https://doi.org/10.1186/s13677-023-00557-w)**  
+Chang Shu et al. 
+- Bayesian Statistics  
+- Entropy-based Evaluation  
+- Incentive Trust Evaluation  
+- Transitive Signature Scheme  
+- Graph Theory  
 
 ---
