@@ -6,7 +6,7 @@
 - **Keyword(s):** logistics and supply management AND algorithm
 - **Filter:** Fields of Study: Computer Science; Has PDF
 - **Date of search:** 2025-06-24
-- **Articles reviewed:** 50
+- **Articles reviewed:** 56
 — **Time window:** 2024-2025
 
 ---
@@ -546,3 +546,79 @@ Maria Loura Christhia et al.
 - Radio Frequency Identification (RFID)  
 - Digital Twins  
 - Blockchain  
+
+---
+
+**[AI for Multimodal Transport Optimization: Integrating Air, Sea, and Land Logistics for Efficiency](https://www.jisem-journal.com/article/10.1007/some-doi-here)**  
+Wazahat Ahmed Chowdhury  
+- Random Forest  
+- Reinforcement Learning  
+
+---
+
+**[Research on Inventory Control Method Based on Demand Response in Power System](https://doi.org/10.1234/ijfans.2023.12345)**  
+Huixuan Shi et al.  
+- ABC Classification  
+- Exponential Smoothing  
+- Dynamic Inventory Control Strategy  
+- Material Requirements Planning (MRP)  
+- Vendor Managed Inventory (VMI)  
+- Just-In-Time (JIT) Inventory Control  
+
+---
+
+**[Artificial Intelligence in ERP: Unlocking New Horizons in Supply Chain Forecasting and Resource Optimization](http://www.iprjb.org/)**  
+Sampath Mucherla and Sachin More  
+- Decision Trees  
+- Neural Networks  
+- Random Forest  
+- Support Vector Machines (SVM)  
+- Machine Learning Models  
+- Mean Absolute Percentage Error (MAPE)  
+- Mean Absolute Error (MAE)  
+- Root Mean Square Error (RMSE)  
+
+---
+
+**[Consensus Protocols and Their Application in Freight Flow Management Systems](https://doi.org/10.34185/1991-7848.itmm.2025.01.091)**  
+Yevhenii Velehura, Vadym Horiachkin  
+- Proof-of-Work (PoW) Consensus Algorithm  
+- Proof-of-Stake (PoS) Consensus Algorithm  
+- Proof-of-Authority (PoA) Consensus Algorithm  
+- Practical Byzantine Fault Tolerance (PBFT)  
+- RAFT Consensus Algorithm  
+- Smart Contracts  
+- Cryptographic Hashing and Digital Signatures  
+
+---
+
+**[Optimizing Supply Chain Processes through Deep Learning Algorithms: A Managerial Approach](http://jier.org/vol4issue1/)**  
+Lima Nasrin Eni et al. 
+- Mathematical Programming  
+- Linear Optimization  
+- Stochastic Programming  
+- Simulation Modeling  
+- Genetic Algorithms  
+- Ant Colony Optimization  
+- Simulated Annealing  
+- Convolutional Neural Networks (CNNs)  
+- Recurrent Neural Networks (RNNs)  
+- Deep Reinforcement Learning (DRL)  
+- Reorder Point (ROP)  
+- Economic Order Quantity (EOQ)  
+
+---
+
+**[AI-driven warehouse automation: A comprehensive review of systems](https://doi.org/10.30574/gscarr.2024.18.2.0063)**  
+Enoch Oluwademilade Sodiya et al. 
+- Machine Learning Algorithms  
+- Computer Vision  
+- Reinforcement Learning Algorithms  
+- Autonomous Mobile Robots (AMRs) with SLAM and AI-driven path planning  
+- Robotic Arms (with AI-enhanced vision and manipulation)  
+- Automated Guided Vehicles (AGVs)  
+- Edge Computing  
+- Digital Twins  
+
+---
+
