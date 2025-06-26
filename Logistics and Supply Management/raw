@@ -1,115 +1,301 @@
-- Adam Optimizer  
+- ABC Classification  
+- Adaptive A-star Algorithm  
+- Adaptive Artificial Bee Colony (aABC)  
 - Adaptive Genetic Algorithm (AGA)  
-- Agile Attentive Foraging Optimization (EAFO) Algorithm  
+- Adaptive Large Neighborhood Search (ALNS)  
+- Adversarial Prompt Generation  
+- Advanced Encryption Standard (AES)  
+- Agent-Based Modeling (ABM)  
+- Algorithmic Trading  
+- AlphaPose Algorithm  
+- Alternating Least Squares (ALS)  
+- Anomaly Detection  
+- Ant Colony Optimization (ACO)  
+- Apache Spark MLlib  
+- Area Under the ROC Curve (AUC)  
 - Artificial Bee Colony (ABC)  
-- Artificial Neural Networks (ANN)  
-- Attribute-Based Access Control (ABAC)  
-- Backpropagation Neural Network (BNN)  
-- Bagging  
-- Bayesian Neural Networks  
-- Bayesian Optimization  
-- Bayesian Statistics  
+- Artificial Fish Swarm Optimization (AFSO)  
+- Artificial Neural Networks (ANNs) / Artificial Neural Network (ANN) / RBF-ANN  
+- Association Rule Mining  
+- Atari Deep Reinforcement Learning Algorithm (DQN)  
+- Attention Mechanism  
+- Attention-Steerable Contrastive Decoding (ASCD)  
+- Autoencoder (Variational Autoencoder, VAE)  
+- Backpropagation (BP) Algorithm  
+- Bandit Feedback Algorithms  
+- Basic Ant Colony Algorithm (ACO)  
+- Beamforming Algorithms  
+- BERT (Transformer-based Language Model)  
 - Best-Worst Method (BWM)  
+- Bidirectional Long Short-Term Memory (Bi-LSTM)  
+- Big Data Analytics  
+- Black Widow Optimization (BWO) and Improved BWO  
 - Blockchain Technology  
-- Boosting  
-- Branch-and-Bound Algorithm  
-- Branch-and-Cut (B&C)  
-- Branch-and-Price (Column Generation)  
-- Clustering Analysis (e.g., k-means)  
+- BlockSCM: Integrated Customized Blockchain  
+- Box-Behnken Design (BBD)  
+- Boosted Decision Trees (BDTs)  
+- Cascade R-CNN  
+- Cascading Eligibility Traces  
+- Centrality Measures  
+- Chain-of-Thought (CoT) Prompting  
+- Chaotic Dwarf Mongoose Optimization (CDMO)  
+- Clustering (K-means, Markov, Gene K-cluster, DBSCAN)  
+- Clustering Algorithms (k-means, spectral clustering)  
+- Collaborative Optimization Models  
+- Cognitive Diagnosis Modeling (CDM)  
+- Commitment Algorithms (Proof of Work (PoW), Proof of Stake (PoS), Practical Byzantine Fault Tolerance (PBFT))  
+- Comparative Modeling  
+- Computational Fluid Dynamics (CFD)  
 - Convolutional Neural Networks (CNNs)  
-- Cross-Validation (K-Fold)  
-- Data Preprocessing Techniques  
-- Decision Trees   
+- Constraint Programming  
+- Cross-Domain Information Fusion  
+- Cross-Entropy Loss Function  
+- Cross Validation (CV)  
+- Crow Search Algorithm (CSA)  
+- CUDA-accelerated Algorithms (implied)  
+- Data Augmentation  
+- Data Distillation Algorithms  
+- Data Normalization and Standardization  
+- Data Preprocessing Techniques (Anomaly Detection, Outlier Detection, Feature Encoding)  
+- Data-Driven Process Optimization  
 - Deep Learning  
+- Deep Neural Networks (DNNs)  
 - Deep Q-Learning (DQL)  
-- Deep Q-Network (DQN)  
-- Deep Quantum Neural Network (DQNN)  
 - Deep Reinforcement Learning (DRL)  
-- Differential Evolution (DE)  
-- Elastic Net  
-- Elite Attentive Foraging Optimization (EAFO) Algorithm  
-- Ensemble Methods  
+- Decision Trees (DT)  
+- Deterministic and Stochastic Optimization  
+- Diffusion Models for Molecular Generation  
+- Distributed Learning (Incremental Distributed Learning)  
+- Dynamic Data Selection Algorithms  
+- Dynamic Inventory Control Strategy  
+- Economic Order Quantity (EOQ)  
+- Elastic Net Regression  
+- Embedded Systems and Federated Learning  
+- Ensemble Learning Architectures (Stacked Ensemble, Random Forest)  
 - Entropy Weight Method  
-- Evolutionary Algorithms (Genetic Algorithms, Differential Evolution)  
-- Feature Pyramid Network (FPN)  
-- Federated Learning (FL)  
-- Frank t-norm and t-conorm operations  
-- Gaussian Mixture Models (GMM)  
-- Genetic Algorithm (GA)   
-- Gradient Boosting  
-- Gradient Boosting Machines (GBM)  
-- Graph Neural Networks (GNN)  
-- Graph Theory  
-- Greedy Algorithm (GRA)  
-- Grey Wolf Optimization (GWO)  
-- Hunger Games Search Optimization (HGSO)  
-- Improved Genetic Algorithm (IGA)  
+- Ensemble Model Architectures  
+- Exponential Smoothing  
+- Expectation-Maximization (EM) Algorithm  
+- Exploratory Data Analysis (EDA, implied)  
+- Extended Kalman Filter (Kalman Filter)  
+- Extreme Gradient Boosting (XGBoost)  
+- Extreme Learning Machine (ELM)  
+- Fuzzy Analytic Hierarchy Process (FAHP)  
+- Fuzzy Comprehensive Evaluation Method  
+- Fuzzy Inference Rules and Systems  
+- Fuzzy Logic  
+- GA: Genetic Algorithm (GA), including Improved GA and Adaptive GA  
+- GAN: Generative Adversarial Networks  
+- Gated Recurrent Unit (GRU)  
+- Genetic Programming  
+- Genetic Simulated Annealing  
+- Gradient Boosted Trees  
+- Gradient Boosting (GB) and Gradient Boosting Survival Analysis (GBSA)  
+- Gradient Descent and Gradient-Free Optimization  
+- Graph Attention Mechanisms  
+- Graph Convolutional Neural Networks (GCNNs)  
+- Graph Layout Techniques  
+- Graph Neural Networks (GNNs)  
+- Graph-Based Reasoning Techniques  
+- Grey Wolf Optimizer (GWO)  
+- Grey Whale Optimizer (RSGW/SSAPSO)  
+- Group Decision Making Frameworks  
+- GuidedSelection Vectors  
+- Haar Wavelet Transform (implied in signal processing)  
+- Harmony Search  
+- Heuristic Algorithms (Greedy, Metaheuristics)  
+- Hidden Markov Random Fields  
+- Hierarchical Navigable Small World Graph (HNSW)  
+- Hopfield Network  
+- Hybrid Metaheuristics (GA + ACO + PSO, etc.)  
+- Hybrid Simulation Models  
+- Improved Ant Colony Optimization  
+- Improved Beetle Swarm Antennae Search  
 - Improved Jellyfish Search Algorithm (IJS)  
+- Improved Reinforcement Learning  
+- Incentive Trust Evaluation  
 - Incremental Distributed Learning (IDL)  
-- Integer Linear Programming  
+- Information Gain (Feature Selection)  
 - Integer Linear Programming (ILP)  
-- Isolation Forest  
-- Jellyfish Optimization (JFO)  
-- Jellyfish Search Algorithm (JSA)  
-- K-means Clustering  
-- K-Nearest Neighbors (KNN)  
+- Integer Programming  
+- Instruction Contrastive Decoding (ICD)  
+- Integration of Machine Learning Models  
+- Iterated Local Search (ILS)  
+- Iterative Optimization Algorithms  
+- Iterative Random Drone Choice Algorithm  
+- Iterative Random Region Algorithm  
+- Jailbreak Algorithm Library  
+- Jellyfish Optimization  
+- Joint Delivery Logistics  
+- K-Nearest Neighbors (KNN, k-NN)  
+- Kalman Filter and Kalman Fixed-Lag Smoothing  
+- Knowledge Distillation  
+- Language Modeling for Code Translation  
+- Large Language Models (LLMs)  
+- Layer Freezing and Parameter-Efficient Tuning  
+- Layered Drawing Algorithm  
 - Latent Dirichlet Allocation (LDA)  
+- Latent Factor Models  
+- Layered Neural Networks  
+- Levenberg–Marquardt Algorithm  
+- Lexical Substitution Watermarking Algorithm  
 - Light Gradient Boosting Machine (LightGBM)  
-- Linear Programming  
-- Linear Regression  
-- LASSO (Least Absolute Shrinkage and Selection Operator)  
-- Logistic Regression  
-- Long Short-Term Memory (LSTM)   
+- Linear Contextual Bandits  
+- Linear Programming (LP) and Mixed-Integer Linear Programming (MILP)  
+- Logistic Regression (LR)  
+- Long Short-Term Memory (LSTM) Networks  
+- Loss Functions (Cross-Entropy, Binary Cross-Entropy, etc.)  
+- Machine Learning Algorithms (general)  
 - Machine Learning Classification Algorithms  
+- Machine Learning Enhanced Sampling  
 - Markov Chain Monte Carlo (MCMC)  
-- Markov Decision Process (MDP)  
+- Markov Clustering Algorithm (MCL)  
+- Markov Decision Process (MDP) Modeling  
+- Maximum Flow Minimum Cut Theorem  
 - Mean Absolute Error (MAE)  
-- Mean Squared Error (MSE)  
+- Mean Average Error (MAE)  
+- Mean Absolute Percentage Error (MAPE)  
+- Median-of-Means (MoM) Estimator  
 - Memetic Algorithm (MA)  
-- Metropolis Acceptance Criterion  
-- Mixed Integer Linear Programming (MILP)  
-- Multi-Attribute Decision Making (MADM)  
-- Multi-Agent Systems and Agent-Based Modeling  
-- Multi-Objective Genetic Algorithms (MOGA)  
-- Multi-Objective Optimization  
-- Multi-Objective Particle Swarm Optimization (MOPSO)  
-- Multi-Layer Perceptron (MLP)  
-- MULTIMOORA (Multiplicative Multi-objective Optimization by Ratio Analysis)  
+- Metaheuristic Optimization Algorithms  
+- Mixture-of-Experts (MoE)  
+- Model Ensembling Techniques (Bagging, Boosting, Stacking)  
+- Monte Carlo Simulation and Monte Carlo Localization  
+- Multi-Agent-Based Scheduling and Resource Allocation (MA-SRA)  
+- Multi-Commodity Flow Problem  
+- Multi-Objective Optimization and Pareto Optimization  
+- Multivariate Adaptive Regression Splines (MARS)  
+- Multimodal Naïve Bayes (MNB)  
+- Multimodal AI Large Models  
 - Naive Bayes Classifier  
-- Natural Language Processing (NLP)  
-- Neighborhood Search (NS) Algorithm  
-- Neural Networks  
-- Neural Networks (including LSTM)  
+- Neural Architecture Search (NAS)  
+- Neural Networks: Feedforward, Convolutional, Recurrent, Graph, Siamese, Spiking  
+- Non-dominated Sorting Genetic Algorithm II (NSGA-II) and III (NSGAIII)  
+- Nonlinear Programming  
+- Normalization Techniques (Min-Max, Z-score)  
+- Object Detection Models (YOLOv5, YOLOv8, YOLOv11)  
+- Off-Policy Reinforcement Learning  
 - One-Class Support Vector Machines (SVMs)  
+- One-Hot Encoding  
+- On-line Hard Example Mining (OHEM)  
+- Optimization Algorithms (classical and heuristic)  
+- Optical Flow Estimation Algorithms  
+- Orthogonal Experimental Design (Taguchi Method)  
+- Outlier Detection  
+- Over-Sampling Techniques (SMOTE)  
+- Particle Filter  
 - Particle Swarm Optimization (PSO)  
-- Particle Swarm Optimization-Composite Particle (PSO-CP)  
 - Pareto-based Metaheuristics  
+- Path-Relinking Metaheuristics  
+- Pattern Recognition Algorithms  
+- Performance Metrics (Accuracy, Precision, Recall, F1 Score)  
+- Permutation Feature Importance  
+- Physical Layer Security Methods  
 - Policy Gradient Methods  
+- Poisson and Queueing Models (Queuing Theory)  
+- Pool Adjacent Violators Algorithm (PAVA)  
+- Polynomial Mutation  
+- Power Aggregation Operators  
 - Practical Byzantine Fault Tolerance (PBFT)  
-- Proof of Stake (PoS)  
+- Predictive Analytics  
+- Principal Component Analysis (PCA)  
+- Probabilistic Aggregation and Ising Machines  
+- Probabilistic Models  
+- Probabilistic Reinforcement Learning  
+- Probabilistic Signal Processing  
+- Probabilistic Ising Machine (PIM)  
+- Probabilistic Methods for Robustness  
 - Proximal Policy Optimization (PPO)  
-- Q-Learning  
-- Queuing Theory  
-- Random Forest   
-- Reinforcement Learning   
+- Q-Learning and Quantum Reinforcement Learning  
+- Quadratic Unconstrained Binary Optimization (QUBO)  
+- Radial Basis Function Neural Networks (RBFN)  
+- Radio Frequency Identification (RFID)  
+- Radial Basis Function (RBF) Neural Networks  
+- Random Forest (RF)  
+- Random Survival Forest (RSF)  
+- Random Task Assignment Algorithm (RTA)  
+- Randomized Algorithms for Linear Extensions  
+- Range and Regret-based Optimization Algorithms  
+- Range Search and Similarity Metrics  
+- Range-Limited Reinforcement Learning  
 - Recurrent Neural Networks (RNNs)  
-- Ridge Regression  
-- Root Mean Square Error (RMSE)  
-- Scale-Invariant Feature Transform (SIFT)  
-- SHapley Additive exPlanations (SHAP)  
-- Simulated Annealing  
+- Regression Curve Fitting  
+- Reinforcement Learning Algorithms  
+- Reorder Point (ROP) and Reorder Policies  
+- Residual Networks (ResNet)  
+- Response Surface Methodology (RSM)  
+- Ridge Regression and Ridge Regularization  
+- Robot Path Planning Algorithms  
+- Robotic Process Automation (RPA)  
+- Rule-Based Learning Algorithms  
+- SARIMA Models  
+- Scalability Algorithms  
+- Scoring and Calibration Techniques  
+- Secondary Optimization Algorithms  
+- Semantic Cluster Integration  
+- Semantic Segmentation Networks (SegNet)  
+- Semi-Global Matching (SGM)  
+- Self-Organizing Maps  
+- Sensor Data Fusion  
+- Sensory Data Acquisition  
+- Sequential Pattern Mining (tSPM+)  
+- Sharpe Ratio Algorithms (implied)  
+- Shapley Additive Explanations (SHAP)  
+- Siamese Neural Networks (SNN)  
 - Simulated Annealing (SA)  
-- Snake Artificial Ecosystem Optimization (SAEO) algorithm  
-- Sparrow Search Algorithm (SSA)  
-- Stacking  
-- Stochastic Programming  
-- Support Vector Machine (SVM)  
+- Simulation Modeling and Optimization  
+- Simulation-Based Stochastic Optimization  
+- Single-Shot Multibox Detector (SSD)  
+- Sinkhorn Divergences  
+- Skeletal Motion Tracking  
+- Small-World Graphs (HNSW)  
+- Social Network Analysis (SNA)  
+- Soft Labels for Dataset Distillation  
+- Sparse Matrix Decomposition (NMF, SVD)  
+- Spiking Neural Networks (SNNs)  
+- Spontaneous Network Growth  
+- Stacked Ensemble Learning  
+- Stochastic Optimization and Programming  
+- Stochastic Gradient Descent (SGD)  
+- Stream Processing Algorithms  
+- Structural Equation Modeling (implied)  
 - Support Vector Machines (SVM)  
-- Support Vector Regression (SVR)  
+- Support Vector Regression  
+- Support Vector Classifier (SVC)  
+- Swarm Intelligence (Particle Swarm, Ant Colony, Artificial Fish Swarm)  
+- Synthetic Knowledge Synthesis  
+- Systematic Literature Review Methods  
 - Tabu Search  
-- Tabu Search Metaheuristic  
-- Transformer  
+- Tabu Search with Path-Relinking  
+- Targeted Embedding Optimization  
+- Task Scheduling Algorithms  
+- Temporal Difference (TD) Learning  
+- Tensor Decomposition  
+- Text Classification Algorithms  
+- Thompson Sampling (LinTS)  
+- Time Series Analysis  
+- Tokenomics  
+- Topological Data Analysis (implied)  
+- Transfer Learning  
+- Transformers  
+- Tree-Based Algorithms  
+- Trust Practical Byzantine Fault Tolerance (tPBFT)  
+- Two-Stage Location-Allocation Problems  
+- Uncertainty Quantification  
+- Unsupervised Learning Algorithms  
+- Unsupervised Clustering Algorithm  
+- Upper Confidence Bound Algorithm (LinUCB)  
+- U-Net Architecture  
 - Variational Autoencoder (VAE)  
-- WASPAS (Weighted Aggregated Sum Product Assessment)  
-- XGBoost  
-- YOLO-net family (YOLOv3, YOLOv4)  
+- Variational Quantum Eigensolver (VQE)  
+- Vector Search Algorithms  
+- Visual Contrastive Decoding (VCD)  
+- Voting Algorithms and Evaluation  
+- Watermark Embedding Algorithms  
+- Wavelet Transforms  
+- Weighted Sum Method  
+- Whales Optimization Algorithm (WOA)  
+- Wolf Pack Algorithm (WPA)  
+- YOLO Object Detection Family (YOLOv3, YOLOv4, YOLOv5, YOLOv8, YOLOv11)  
+- Zero-Knowledge Proofs (ZKP)  
+- Zero-Shot Learning  
