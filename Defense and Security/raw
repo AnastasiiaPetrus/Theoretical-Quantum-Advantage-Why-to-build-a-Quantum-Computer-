@@ -1,0 +1,61 @@
+* Adam Optimizer
+* AdaBoost
+* Adversarial Training
+* Attack Graphs (AG)
+* Autoencoder (AE)
+* Bagging (Bootstrap Aggregating)
+* Backpropagation Neural Network (BPNN)
+* Bayesian Optimization
+* Bayesian Risk Scoring
+* Capsule Convolutional Neural Networks (Capsule Networks)
+* CNN-LSTM Hybrids
+* CNN-Transformer Hybrids
+* Convolutional Neural Network (CNN)
+* Cross-Entropy Loss
+* Cross-Validation (including K-Fold)
+* Decision Tree (DT)
+* Deep Learning
+* Deep Neural Networks (DNN)
+* Deep Q-Network (DQN)
+* Deep Reinforcement Learning (DRL)
+* Dropout / Dropout Regularization
+* Ensemble Methods
+* Federated Learning (FL)
+* Gated Recurrent Unit (GRU)
+* Generative Adversarial Networks (GAN)
+* Genetic Algorithm (GA)
+* Gradient Boosting / Gradient Boosting Machines (GBM)
+* Graph Convolutional Networks (GCN)
+* Graph Neural Networks (GNN)
+* Isolation Forest
+* K-Means Clustering
+* K-Nearest Neighbors (KNN) / K-Nearest Neighbor (KNN) Classifier
+* LightGBM
+* L2 Regularization
+* Logistic Regression (LR)
+* Long Short-Term Memory (LSTM) / Long Short-Term Memory Networks (LSTM)
+* Markov Decision Process (MDP)
+* Monte Carlo Simulation
+* Multi-Agent Reinforcement Learning (MARL)
+* Multi-Layer Perceptron (MLP)
+* Neural Networks (ANN)
+* Optical Character Recognition (OCR)
+* Principal Component Analysis (PCA)
+* Policy Gradient Method
+* Proximal Policy Optimization (PPO)
+* Quantile Regression
+* Random Forest / Random Forests / Random Forest Regression
+* Reinforcement Learning (RL)
+* Residual Neural Networks (ResNet)
+* Ridge Regression
+* Scatter Search Algorithm
+* Self-Attention Mechanism / Mechanisms
+* SHAP (SHapley Additive exPlanations)
+* Soft Actor-Critic (SAC)
+* Support Vector Classification (SVC)
+* Support Vector Machine (SVM) / Support Vector Machines (SVM)
+* Support Vector Regression (SVR)
+* Transformer / Transformers
+* Trust Region Policy Optimization (TRPO)
+* XGBoost
+* YOLO (You Only Look Once)
