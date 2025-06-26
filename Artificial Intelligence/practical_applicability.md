@@ -1,4 +1,4 @@
-# Supplementary Table S3. Practical Use of Classical Algorithms and Methods in Artificial Intelligence (2025)
+# Supplementary Table S1. Practical Use of Classical Algorithms and Methods in Artificial Intelligence (2025)
 
 ## Overview
 
