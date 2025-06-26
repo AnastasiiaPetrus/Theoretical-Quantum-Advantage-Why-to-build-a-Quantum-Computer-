@@ -1,64 +1,182 @@
-- Adam Optimizer
-- Actor-Critic Methods
-- Artificial Neural Network (ANN)
-- Attention Mechanisms
-- Bayesian Neural Networks (BNN)
-- Bayesian Optimization
-- Box-Behnken Design (BBD)
-- Central Composite Design (CCD)
-- Convolutional Neural Network (CNN)
-- Cross-validation
-- Deep Deterministic Policy Gradient (DDPG)
-- Deep Learning (DL)
-- Deep Neural Networks (DNN)
-- DETR (Detection Transformer)
-- Diffusion Models
-- Delaunay Triangulation
-- Decision Tree (DT)
-- Ensemble Methods
-- Extreme Gradient Boosting (XGBoost)
-- Extreme Learning Machine (ELM)
-- Feature Pyramid Network (FPN)
-- Fast Fourier Transform (FFT)
-- Generative Adversarial Networks (GANs)
-- Gradient Boosting (GB)
-- Gradient Boosting Machines (GBM)
-- Graph Convolutional Networks (GCN)
-- Graph Neural Networks (GNNs)
-- K-means Clustering
-- K-Nearest Neighbors (KNN)
-- Kalman Filter
-- Layered Drawing Algorithm
-- Levenberg–Marquardt algorithm
-- Logistic Regression
-- Long Short-Term Memory (LSTM)
-- LSTM Autoencoder
-- Mask R-CNN
-- Markov Chain Monte Carlo (MCMC)
-- Mean Squared Error (MSE)
-- Monte Carlo simulation
-- Multilayer Perceptron (MLP)
-- Naive Bayes
-- Particle Swarm Optimization (PSO)
-- Principal Component Analysis (PCA)
-- Proximal Policy Optimization (PPO)
-- Random Forest (RF)
-- Random Forest Regression (RFR)
-- Recurrent Neural Networks (RNNs)
-- Reinforcement Learning (RL)
-- Residual Networks (ResNet)
-- Self-Attention Mechanisms
-- Singular Value Decomposition (SVD)
-- Soft Actor-Critic (SAC)
-- Support Vector Machine (SVM)
-- Support Vector Classifier (SVC)
-- Support Vector Regression (SVR)
-- Temporal Difference (TD) Learning
-- Thompson Sampling
-- Transfer Learning
-- Trust Region Methods
-- Trust Region Policy Optimization (TRPO)
-- U-Net
-- Variational Autoencoder (VAE)
-- Visual Transformer (ViT)
-- YOLO (You Only Look Once) [including YOLOv5, YOLOv8, YOLOv11]
+### Neural Networks & Deep Learning Architectures
+- Artificial Neural Networks (ANNs) / Artificial Neural Network (ANN) / RBF-ANN  
+- Backpropagation (BP) Algorithm  
+- Bi-LSTM (Bidirectional Long Short-Term Memory)  
+- Convolutional Neural Networks (CNNs)  
+- Deep Neural Networks (DNNs)  
+- DeepSurv (Deep Learning-based survival model)  
+- Graph Convolutional Neural Networks (GCNNs)  
+- Graph Neural Networks (GNNs)  
+- Long Short-Term Memory (LSTM) Networks  
+- Multilayer Perceptron (MLP) Neural Networks  
+- Recurrent Neural Networks (RNNs)  
+- Siamese Neural Networks (SNN)  
+- Spiking Neural Networks (SNNs)  
+- Transformer Architecture and Transformers  
+- U-Net (CNN architecture for segmentation)  
+- Variational Autoencoder (VAE)  
+- Variational Autoencoder Generative Adversarial Network (VAE-GAN)  
+
+### Machine Learning Algorithms & Models
+- Adaptive Snake (AS) Segmentation Algorithm  
+- Alternating Least Squares (ALS)  
+- Anomaly Detection (statistical and ML methods)  
+- Area Under the ROC Curve (AUC)  
+- Boosted Decision Trees (BDTs)  
+- Clustering Analysis (K-means, Markov Clustering, Gene K-cluster, etc.)  
+- Decision Trees (DT)  
+- Ensemble Model Architectures (Stacked Ensemble Learning, Random Forest)  
+- Extreme Gradient Boosting (XGBoost)  
+- Extreme Learning Machine (ELM)  
+- Gaussian Naïve Bayes (GNB) / Naive Bayes Classifier  
+- Gradient Boosting (GB) and Gradient Boosting Survival Analysis (GBSA)  
+- K-Nearest Neighbors (k-NN)  
+- Logistic Regression (LR)  
+- Machine Learning Algorithms (generic)  
+- Multivariate Adaptive Regression Splines (MARS)  
+- Multimodal Naïve Bayes (MNB)  
+- Natural Gradient Boosting (NGBoost)  
+- Principal Component Analysis (PCA)  
+- Probabilistic Aggregation Methods  
+- Random Forest (RF)  
+- Random Survival Forest (RSF)  
+- Regression Models (Logistic, Cox PH)  
+- Support Vector Machine (SVM) / Support Vector Classifier (SVC)  
+
+### Optimization Algorithms & Metaheuristics
+- Adaptive Artificial Bee Colony (aABC)  
+- Artificial Bee Colony (ABC) Algorithm  
+- Artificial Fish Swarm Optimization (AFSO)  
+- Ant Colony Optimization (ACO)  
+- Beetle Antennae Search Algorithm (BAS) and Improved Variants  
+- Black-winged Kite Algorithm (BKA)  
+- Chaotic Dwarf Mongoose Optimization (CDMO)  
+- Equilibrium Optimizer (EO)  
+- Evolutionary Algorithms (general)  
+- Firefly Algorithm (FA) and Modified Firefly Algorithm (MFFA)  
+- Genetic Algorithm (GA) and Genetic Programming  
+- Grey Wolf Optimizer (GWO)  
+- Grey Whale Optimizer (RSGW/SSAPSO)  
+- Harris Hawk Optimization (HHO)  
+- Hybrid Backtracking Search Algorithm  
+- Moth Swarm Algorithm (MSA)  
+- Particle Swarm Optimization (PSO)  
+- Red-billed Blue Magpie Algorithm (RBMO)  
+- Secretary Bird Optimization Algorithm (SBOA)  
+- Whale Optimization Algorithm (WOA)  
+- Wolf Pack Algorithm (WPA)  
+
+### Reinforcement Learning & Related Methods
+- Actor-Critic Reinforcement Learning  
+- Attention-Steerable Contrastive Decoding (ASCD)  
+- Off-Policy Reinforcement Learning  
+- Policy Gradient Methods  
+- Preference-Based Reinforcement Learning (PbRL)  
+- Proximal Policy Optimization (PPO)  
+- Q-learning  
+- SENIOR (Preference-Guided Exploration Algorithm)  
+- Thompson Sampling (LinTS)  
+
+### Computer Vision & Image Processing
+- Adaptive Snake (AS) Segmentation Algorithm  
+- Blob Detection and Intensity Thresholding  
+- Cascade R-CNN  
+- Convolutional Neural Networks (CNNs)  
+- Data Augmentation (rotation, flipping, zooming)  
+- Feature Pyramid Network (FPN)  
+- Image Similarity Metrics  
+- Instance Segmentation (U-Net, SegNet)  
+- Multi-Spectral Object Detection (YOLOv11)  
+- Object Detection Models (YOLOv5, YOLOv8, YOLOv11)  
+- Region Growing Segmentation  
+- Region Proposal Network (RPN)  
+- Single-Shot Multibox Detector (SSD)  
+- Visual Contrastive Decoding (VCD)  
+
+### Natural Language Processing (NLP) & Text Algorithms
+- BERT (Transformer-based Language Model)  
+- Instruction Contrastive Decoding (ICD)  
+- Large Language Models (LLMs)  
+- Lexical Substitution Watermarking Algorithm  
+- Natural Language Processing (NLP)  
+- Text Classification Algorithms  
+- Transformers  
+
+### Graph & Network Algorithms
+- Abstract Syntax Trees (ASTs)  
+- Graph Convolutional Neural Networks (GCNNs)  
+- Graph Layout Techniques  
+- Graph Neural Networks (GNNs)  
+- Graph-Based Reasoning Techniques  
+- Markov Clustering Algorithm (MCL)  
+- Similarity Graph Construction  
+
+### Statistical & Probabilistic Methods
+- Bayesian Knowledge Transfer  
+- Bayesian Optimization and Trust Region Methods  
+- Expectation-Maximization (EM) Algorithm  
+- Gaussian Mixture Models (GMMs)  
+- Heavy-Tailed Distribution Robustness (Median-of-Means Estimator)  
+- Markov Chain Monte Carlo (MCMC)  
+- Monte Carlo Simulation and Monte Carlo Localization  
+- Probabilistic Ising Machine (PIM)  
+- Probabilistic Models for Robustness  
+- Randomized Algorithms for Linear Extensions  
+- Statistical Anomaly Detection  
+- Uncertainty Quantification in Probabilistic Models  
+
+### Signal Processing & Filtering
+- Adaptive Snake (AS) Segmentation Algorithm  
+- Beamforming Algorithms  
+- IIR (Infinite Impulse Response) Filtering  
+- Kalman Filter and Kalman Fixed-Lag Smoothing Algorithm  
+- Particle Filter (Monte Carlo Localization)  
+
+### Bioinformatics & Molecular Algorithms
+- AlphaFold2 Protein Prediction Algorithm  
+- BLAST (Basic Local Alignment Search Tool)  
+- Diffusion Models for Molecular Generation  
+- Node2vec  
+- Retrieval-Augmented Generation Techniques  
+- TM-align: Protein Structure Alignment Algorithm  
+
+### Simulation & Modeling
+- Computational Fluid Dynamics (CFD)  
+- Deep Learning Surrogate Models for CFD  
+- Direct Numerical Simulation (DNS)  
+- Simulation Algorithms (social media behavior, etc.)  
+- Simulation of Gas Emission Inversion  
+
+### Clustering, Dimensionality Reduction & Feature Selection
+- Clustering (K-means, Markov, Gene K-cluster, etc.)  
+- Dimensionality Reduction (PCA, NMF, SVD)  
+- Feature Selection Techniques (Information Gain)  
+- Principal Component Analysis (PCA)  
+
+### Optimization Techniques
+- Bayesian Optimization  
+- Constrained Optimization Techniques  
+- Gradient Descent and Gradient-Free Optimization  
+- Iterative Optimization Algorithms  
+- Latent Space Optimization  
+- Linear and Nonlinear Programming  
+- Surrogate Modeling (Gaussian Processes)  
+- Trust Region Optimization  
+
+### Miscellaneous Algorithms & Methods
+- Azure Form Recognizer (OCR)  
+- Cascading Eligibility Traces  
+- Dataset Distillation Algorithms  
+- Dynamic Data Selection  
+- Embedded Systems and Federated Learning  
+- Graph Attention Mechanisms  
+- Knowledge Distillation  
+- On-line Hard Example Mining (OHEM)  
+- Rule-Based Safety Evaluation  
+- Rule-Based Learning (FOLD-SE-M)  
+- Sentiment Classification Algorithms  
+- Simulation Algorithms (various)  
+- Stacked Ensemble Learning  
+- Synthetic Knowledge Synthesis  
+- Transfer Learning  
+- Watermark Embedding Algorithms  
