@@ -1,0 +1,64 @@
+- Adam Optimizer
+- Actor-Critic Methods
+- Artificial Neural Network (ANN)
+- Attention Mechanisms
+- Bayesian Neural Networks (BNN)
+- Bayesian Optimization
+- Box-Behnken Design (BBD)
+- Central Composite Design (CCD)
+- Convolutional Neural Network (CNN)
+- Cross-validation
+- Deep Deterministic Policy Gradient (DDPG)
+- Deep Learning (DL)
+- Deep Neural Networks (DNN)
+- DETR (Detection Transformer)
+- Diffusion Models
+- Delaunay Triangulation
+- Decision Tree (DT)
+- Ensemble Methods
+- Extreme Gradient Boosting (XGBoost)
+- Extreme Learning Machine (ELM)
+- Feature Pyramid Network (FPN)
+- Fast Fourier Transform (FFT)
+- Generative Adversarial Networks (GANs)
+- Gradient Boosting (GB)
+- Gradient Boosting Machines (GBM)
+- Graph Convolutional Networks (GCN)
+- Graph Neural Networks (GNNs)
+- K-means Clustering
+- K-Nearest Neighbors (KNN)
+- Kalman Filter
+- Layered Drawing Algorithm
+- Levenberg–Marquardt algorithm
+- Logistic Regression
+- Long Short-Term Memory (LSTM)
+- LSTM Autoencoder
+- Mask R-CNN
+- Markov Chain Monte Carlo (MCMC)
+- Mean Squared Error (MSE)
+- Monte Carlo simulation
+- Multilayer Perceptron (MLP)
+- Naive Bayes
+- Particle Swarm Optimization (PSO)
+- Principal Component Analysis (PCA)
+- Proximal Policy Optimization (PPO)
+- Random Forest (RF)
+- Random Forest Regression (RFR)
+- Recurrent Neural Networks (RNNs)
+- Reinforcement Learning (RL)
+- Residual Networks (ResNet)
+- Self-Attention Mechanisms
+- Singular Value Decomposition (SVD)
+- Soft Actor-Critic (SAC)
+- Support Vector Machine (SVM)
+- Support Vector Classifier (SVC)
+- Support Vector Regression (SVR)
+- Temporal Difference (TD) Learning
+- Thompson Sampling
+- Transfer Learning
+- Trust Region Methods
+- Trust Region Policy Optimization (TRPO)
+- U-Net
+- Variational Autoencoder (VAE)
+- Visual Transformer (ViT)
+- YOLO (You Only Look Once) [including YOLOv5, YOLOv8, YOLOv11]
