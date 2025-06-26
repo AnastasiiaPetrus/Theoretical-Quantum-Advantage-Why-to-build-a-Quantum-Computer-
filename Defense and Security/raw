@@ -1,61 +1,319 @@
-* Adam Optimizer
-* AdaBoost
-* Adversarial Training
-* Attack Graphs (AG)
-* Autoencoder (AE)
-* Bagging (Bootstrap Aggregating)
-* Backpropagation Neural Network (BPNN)
-* Bayesian Optimization
-* Bayesian Risk Scoring
-* Capsule Convolutional Neural Networks (Capsule Networks)
-* CNN-LSTM Hybrids
-* CNN-Transformer Hybrids
-* Convolutional Neural Network (CNN)
-* Cross-Entropy Loss
-* Cross-Validation (including K-Fold)
-* Decision Tree (DT)
-* Deep Learning
-* Deep Neural Networks (DNN)
-* Deep Q-Network (DQN)
-* Deep Reinforcement Learning (DRL)
-* Dropout / Dropout Regularization
-* Ensemble Methods
-* Federated Learning (FL)
-* Gated Recurrent Unit (GRU)
-* Generative Adversarial Networks (GAN)
-* Genetic Algorithm (GA)
-* Gradient Boosting / Gradient Boosting Machines (GBM)
-* Graph Convolutional Networks (GCN)
-* Graph Neural Networks (GNN)
-* Isolation Forest
-* K-Means Clustering
-* K-Nearest Neighbors (KNN) / K-Nearest Neighbor (KNN) Classifier
-* LightGBM
-* L2 Regularization
-* Logistic Regression (LR)
-* Long Short-Term Memory (LSTM) / Long Short-Term Memory Networks (LSTM)
-* Markov Decision Process (MDP)
-* Monte Carlo Simulation
-* Multi-Agent Reinforcement Learning (MARL)
-* Multi-Layer Perceptron (MLP)
-* Neural Networks (ANN)
-* Optical Character Recognition (OCR)
-* Principal Component Analysis (PCA)
-* Policy Gradient Method
-* Proximal Policy Optimization (PPO)
-* Quantile Regression
-* Random Forest / Random Forests / Random Forest Regression
-* Reinforcement Learning (RL)
-* Residual Neural Networks (ResNet)
-* Ridge Regression
-* Scatter Search Algorithm
-* Self-Attention Mechanism / Mechanisms
-* SHAP (SHapley Additive exPlanations)
-* Soft Actor-Critic (SAC)
-* Support Vector Classification (SVC)
-* Support Vector Machine (SVM) / Support Vector Machines (SVM)
-* Support Vector Regression (SVR)
-* Transformer / Transformers
-* Trust Region Policy Optimization (TRPO)
-* XGBoost
-* YOLO (You Only Look Once)
+- Activation Steering  
+- Adam Optimizer  
+- Adaptive Learning  
+  - Adaptive Mutation and Crossover Rates  
+  - Adaptive Policy Learning (Online RL)  
+- Adversarial Attacks and Defenses  
+  - Adversarial Detection  
+  - Adversarial Training  
+  - Adversarially Learned Anomaly Detection (ALAD)  
+  - Backdoor Attacks and Removal  
+  - Basis-function Transforms (PCA, JPEG, Wavelet)  
+  - Carlini & Wagner Method (C&W)  
+  - Defensive Distillation  
+  - Fast Gradient Sign Method (FGSM)  
+  - Jacobian Saliency Map (JSM)  
+  - Projected Gradient Descent (PGD)  
+- Advanced Encryption Standard (AES)  
+  - AES-128, AES-256 variants  
+  - AES Key Expansion  
+  - AES Cipher & Inverse Cipher  
+  - AES SBox Implementations (LUT, Composite Field, BDD, PPRM, One-Hot, Logic-Optimized Circuits)  
+  - Side-Channel Attack (SCA) Defenses (Masking, Threshold Implementation, DOM, WDDL, MDPL, Adiabatic Circuits)  
+- Algorithmic Trading Strategies  
+  - ARIMA  
+  - Bollinger Bands  
+  - Moving Average Crossover  
+  - Rate of Change  
+  - Sharpe Ratio  
+- Anomaly Detection Algorithms  
+  - Anomaly Detection (general)  
+  - Clustering-Based Anomaly Detection  
+  - Isolation Forest  
+  - One-Class Support Vector Machine (One-Class SVM)  
+  - Statistical Anomaly Detectors (CUSUM, χ²)  
+- Anomaly Detection Techniques  
+- Anomaly Detection with Autoencoders & Variational Autoencoders (VAE)  
+- Anomaly Detection with Time-Series Models  
+- Artificial Neural Networks (ANNs)  
+- Autoencoder Networks  
+- Backpropagation Neural Network (BPNN)  
+- Bag of Tricks for Multispectral Object Detection  
+- Balancing Security and Longevity Methods  
+- Base Reinforcement Learning (RL) Models  
+  - Deep Q-Networks (DQN)  
+  - Deep Reinforcement Learning (DRL)  
+  - Proximal Policy Optimization (PPO)  
+  - Q-Learning  
+  - Reinforcement Learning with Genetic Algorithm / Particle Swarm Optimization enhancements  
+  - Soft Actor-Critic (SAC)  
+  - Twin Delayed DDPG (TD3)  
+- Bayesian Optimization & Inference  
+- Bayesian Risk Scoring  
+- Bayesian–Markov Stackelberg Security Games  
+- BERT and Transformer Models  
+- Bi-LSTM-CRF  
+- Binary Cross Entropy Loss  
+- Biometric Security Metrics  
+  - False Match Rate (FMR)  
+  - Biometric Birthday Problem  
+  - Confidence Intervals  
+- Blockchain Technologies  
+  - Consensus Algorithms (PoSA, Tendermint)  
+  - Multi-signature Authentication  
+  - Smart Contracts (Upgradable)  
+  - Secure Multiparty Computation (SMPC)  
+  - Threshold Secret Sharing (TSS)  
+- Boosting Algorithms  
+  - AdaBoost  
+  - Gradient Boosting  
+  - XGBoost  
+  - LightGBM  
+- Capsule Networks  
+  - Capsule Convolutional Polymorphic Graph Attention Neural Network (CCPGANN)  
+- Chain-of-Thought Reasoning  
+- Clustering Algorithms  
+  - K-means, K-means++  
+  - K-medoids  
+  - Fuzzy C-Means (FCM)  
+  - Sparse Subspace Clustering (SSC)  
+  - Data Clustering (General)  
+  - Density-Based Clustering  
+- CNN (Convolutional Neural Networks)  
+  - Various Architectures: ResNet18, ResNet50, VGG16, MobileNetV2, InceptionV3, Xception  
+  - Capsule CNNs  
+  - CNNs for Intrusion Detection  
+- Co-evolutionary Algorithms (CoEAs)  
+- Composite Cryptographic Methods  
+  - Elliptic Curve Cryptography (ECC, ECDH, ECDSA)  
+  - Diffie–Hellman Key Exchange  
+  - RSA Encryption  
+  - Post-Quantum Cryptography (PQC): Lattice-based (NTRU, LWE, Ring-LWE, CRYSTALS-Kyber/Dilithium), Code-based (McEliece, BIKE), Hash-based (Merkle, XMSS, SPHINCS+), Multivariate-Quadratic (Rainbow), Isogeny-based (SIKE)  
+- Conditional GAN (CGAN)  
+- Convolutional Block Attention Module (CBAM)  
+- Containerization & Unikernel Technologies  
+- Cooperative Game Theory Methods (Shapley Value)  
+- Cosine Similarity  
+- Credential Issuance and Verification Algorithms  
+- Cross-Entropy Loss Function  
+- Cryptographic Hash Functions (SHA-1, SHA-256, HMAC-SHA256)  
+- Data Clustering  
+- Data Mining Algorithms  
+- Data Preprocessing  
+  - Min-Max Normalization  
+  - One-Hot Encoding  
+- Deep Belief Networks (DBN)  
+- Deep Deterministic Policy Gradient (DDPG) & Multi-Agent DDPG (MADDPG)  
+- Deep Learning Models (general)  
+- Deep Reinforcement Learning Algorithms  
+- Deep Q-Networks (DQN)  
+- Decision Trees  
+- Density-Based Clustering  
+- Differential Privacy (DP)  
+- Digital Signature Algorithms (ECDSA)  
+- DNA-based Cryptosystems  
+- Dynamic Threshold Algorithms  
+- Elliptic Curve Cryptography (ECC)  
+- Energy Attack Mitigation (EAM) Systems  
+- Ensemble Methods  
+  - Random Forest  
+  - XGBoost  
+  - Shapley Value-Based Ensembles  
+- Evolutionary Algorithms  
+  - Genetic Algorithm (GA)  
+  - Particle Swarm Optimization (PSO)  
+  - Adaptive Differential Evolution  
+  - Multi-Objective PSO and Grey Wolf Optimizer (MOPSO, MOGWO)  
+  - Non-Dominated Sorting Genetic Algorithm II (NSGA-II)  
+- Explainable AI (XAI) Techniques  
+  - LIME  
+  - SHAP  
+- Fast Gradient Sign Method (FGSM)  
+- Feature Extraction Techniques  
+- Federated Learning (FL)  
+  - FedAvg, FedSGD  
+  - Robust Aggregation Schemes  
+  - Byzantine-Resistant Algorithms  
+  - Privacy-Preserving Techniques (Local DP)  
+- Fine-Grained Access Control Methods  
+- Flow Whitelisting  
+- Formal Verification Techniques  
+- Fourier and Spectral Methods  
+- Fuzzy Extractor  
+- Game-Theoretic Models  
+  - Security Games  
+  - Stackelberg Games  
+  - Extensive-Form Games  
+  - Non-Cooperative Games  
+- GANs (Generative Adversarial Networks)  
+- Genetic Algorithms (GA)  
+- Graph Convolutional Networks (GCN)  
+- Graph Neural Networks (GNN)  
+- Graph Traversal Techniques  
+- Gray Wolf Optimization (GWO)  
+- Gradient Boosting Trees (GBT)  
+- Graph-Based Network Snapshot Management  
+- Hashing Algorithms and Data Structures  
+- Hierarchical Genetic Algorithm  
+- Hierarchical Models (Multi-Head Attention, Transformers)  
+- Hybrid Encryption (AES + RSA)  
+- Hybrid Reinforcement Learning Models  
+- Hyperparameter Optimization (Grid Search)  
+- Hyperspectral Image Classification Models  
+- Improved Genetic Algorithm (IGADS)  
+- Improved Dynamic Security Protocols  
+- Incremental Learning and Online Learning  
+- Independent Component Analysis (ICA)  
+- Instance-Based Learning Theory (IBLT)  
+- Integrated Threat Intelligence Architectures  
+- Interactive Machine Learning (iML)  
+- Intrusion Detection Systems (IDS)  
+- Isolation Forest  
+- Jailbreak and Prompt Injection Attacks  
+- Kalman Filter and Extended Kalman Filter (EKF)  
+- Knowledge Graph Construction and Reasoning  
+- Layer Normalization (LayerNorm)  
+- Label-Flipping Attack Detection  
+- Learning Algorithms for Cooperative Defense  
+- Lightweight Machine Learning Techniques for IoT  
+- LIME (Local Interpretable Model-Agnostic Explanations)  
+- Linear Discriminant Analysis (LDA)  
+- Linear Feedback Shift Register (LFSR)  
+- Logistic Regression (LR)  
+- Long Short-Term Memory (LSTM) Networks  
+- Low-Fat Pointers  
+- Lyapunov Stability Analysis  
+- Machine Learning Classifiers  
+  - k-Nearest Neighbors (KNN)  
+  - Logistic Regression  
+  - Naive Bayes  
+  - Random Forest  
+  - Support Vector Machines (SVM)  
+- Machine Learning for Vulnerability Detection  
+- Markov Decision Process (MDP)  
+- Markov Game Models  
+- Markov Chains  
+- Median Aggregation and Filtering  
+- Meta Learning Algorithms  
+- Metaheuristic Algorithms  
+- Microservices Architecture (Docker, Kubernetes)  
+- Mixed-Precision Quantization (MPQ)  
+- Mobile Authentication Schemes  
+- Modular Design Paradigm  
+- Monte Carlo Simulation  
+- Multi-Layer Perceptron (MLP)  
+- Multimodal Large Language Models (MLLMs)  
+- Multi-Objective Optimization Algorithms  
+- Multi-Stage Deception Techniques  
+- Multi-Task Learning  
+- Naive Bayes Classifier  
+- Neural Active Structure-from-Motion  
+- Neural Estimation of Interaction Outcomes (NEIO)  
+- Neural Networks (NNs)  
+- Neural Networks for Gaze Estimation  
+- Neural Networks for Time Series Classification  
+- Network Security and Traffic Classification  
+- Noise-Resistant Learning Techniques  
+- Nonlinear Data Augmentation Techniques  
+- Non-Dominated Sorting and Pareto Front Preservation  
+- Non-Cooperative Game Models  
+- Normalized Mutual Information  
+- OCR (Optical Character Recognition)  
+- Online Reinforcement Learning  
+- One-Class Support Vector Machine (One-Class SVM)  
+- Optimization Algorithms  
+  - Particle Swarm Optimization (PSO)  
+  - Genetic Algorithms (GA)  
+  - Bayesian Optimization  
+  - Proximal Gradient Descent  
+- Optical Microscopy and 3D Imaging  
+- Orthogonal Time–Frequency Space (OTFS-STMA)  
+- Outlier Detection Techniques  
+- P4 Programming Language and SDN Components  
+- Particle Swarm Optimization (PSO)  
+- Partially Observable Markov Decision Processes (POMDP)  
+- Performance Metrics (Accuracy, Precision, Recall, F1 Score, RMSE)  
+- Physical Unclonable Functions (PUF)  
+- Phishing Detection Methods  
+- Photometric Stereo Imaging  
+- Post-Quantum Cryptography (PQC)  
+- Principal Component Analysis (PCA)  
+- Probabilistic Risk Analysis and Game-Theoretic Frameworks  
+- Probabilistic Modeling and Bounds (Bonferroni, etc.)  
+- Prompt Mutation and Preference Optimization (DPO)  
+- Protection Motivation Theory  
+- Pseudo-Random Number Generators (PRNG)  
+- Quantum Key Distribution (QKD)  
+- Random Forest (RF)  
+- Randomized Aliasing Dynamic Frequency Scaling (RAD-FS)  
+- Randomized Output Techniques  
+- Rate-Based Trading Strategies  
+- Reachability and Attack Graphs  
+- Recurrent Neural Networks (RNNs)  
+- Reinforcement Learning (RL)  
+- Regularization Techniques  
+- Residual Neural Networks (ResNet18, ResNet50, ResNet101)  
+- Resource-Efficient DDoS Mitigation  
+- Retrieval-Augmented Generation (RAG)  
+- Risk Management Strategies  
+- Robust Learning and Estimation  
+- Root Mean Squared Error (RMSE)  
+- Rule-Based Intrusion Detection  
+- Runtime Performance Metrics  
+- Safety and Robustness Evaluation Methods  
+- Sampling-Permutation Algorithms  
+- Scalable Context-Preserving Deep Clustering  
+- Scatter Search Algorithm  
+- Scoring and Risk Assessment Metrics (CVSS, etc.)  
+- Self-Attention Mechanisms and Transformers  
+- Self-Organizing Map (SOM)  
+- Semi-Supervised and Unsupervised Learning Algorithms  
+- Service Function Chain Deployment Algorithms  
+- SHA Hash Functions (SHA-1, SHA-256, HMAC-SHA256)  
+- Shapley Value Approximation  
+- Side-Channel Analysis (SCA) and Countermeasures  
+- Signal-to-Noise Ratio (SNR) Analysis  
+- Similarity and Distance Measures (Cosine Similarity, Euclidean Distance)  
+- Smart Contracts and Blockchain Ledger Technologies  
+- Software Composition Analysis (SCA)  
+- Soft Actor-Critic (SAC)  
+- Sparse Classification Loss Functions  
+- Spectral Angle Mapper (SAM)  
+- Spectral Reprojection (Bayesian Methods)  
+- Stackelberg Game Models  
+- Stacking and Ensemble Learning  
+- Statistical Traffic Analysis Methods  
+- Statistical Attack Techniques  
+- Statistical Regularization (Bayesian MAP Estimation)  
+- Steganography and Probabilistic Risk Analysis  
+- Stochastic Games and Meta Learning  
+- Structured State Space Models (SSM)  
+- Sub-Pool Partitioning Algorithms  
+- Support Vector Machines (SVM)  
+  - Linear and Kernel SVM  
+- Suspicious Traffic and Attack Detection Frameworks  
+- Symmetric and Asymmetric Cryptography  
+- Temporal Convolutional Networks (TCN)  
+- Temporal Graph Learning  
+- TensorFlow Lite and Model Optimization Techniques  
+- Threshold Secret Sharing (TSS)  
+- Threshold Implementation (TI)  
+- Time-Series Models (LSTM, RNN, Bi-LSTM)  
+- Traffic Padding and Injection  
+- Transfer Learning Techniques  
+- Transformer Architectures and Vision Transformers  
+- Two-Factor Authentication Protocols  
+- U-Net Architecture (for Acoustic Signal Denoising)  
+- Uncertainty Quantification (Bayesian Posterior)  
+- Unikernel Customization  
+- Utility Function Estimation Algorithms  
+- Variational Autoencoder (VAE)  
+- Verification and Validation Algorithms  
+- Viola–Jones Object Detection Algorithm  
+- Visual Odometry Pipelines (Traditional and CNN-based)  
+- Wavelet Decomposition and Basis Transforms  
+- Weighted Sum Method for Multi-Objective Optimization  
+- Wireless Network Topology Inference (Markov Chains)  
+- Writable XOR Executable (W^X) and DEP Policies  
+- XGBoost Classifier  
+- YOLO Object Detection Models  
