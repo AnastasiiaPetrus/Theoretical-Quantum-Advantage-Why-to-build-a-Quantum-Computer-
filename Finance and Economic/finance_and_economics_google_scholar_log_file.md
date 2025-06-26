@@ -5,7 +5,7 @@
 - **Platform:** Google Scholar
 - **Keyword(s):** finance and economics AND algorithm
 - **Date of search:** 2025-06-25
-- **Articles reviewed:** 28
+- **Articles reviewed:** 33
 — **Time window:** 2025
 
 ---
@@ -311,3 +311,54 @@ Burak Gülmez
 - Attention Mechanism  
 - Decision Trees  
 - Support Vector Machines (SVM)  
+
+---
+
+**[Will Big Data and AI Redefine Indonesia’s Financial Future?](https://journal.pubmedia.id/index.php/jbkd/article/view/3739)**  
+Kurniawan Arif Maspul, Nugrahani Kartika Putri
+- Recency, Frequency, Monetary (RFM) Analysis  
+- Clustering Algorithms  
+- Machine Learning Models (including Decision Trees, Neural Networks, Anomaly Detection)  
+- Predictive Analytics  
+- Regulatory Sandboxes  
+
+---
+
+**[Max Share Identification of Multiple Shocks: An Application to Uncertainty and Financial Conditions](https://doi.org/10.1080/07350015.2024.2316829)**  
+Andrea Carriero & Alessio Volpicella 
+- Structural Vector Autoregression (SVAR)  
+- Max Share Identification approach  
+- Forecast Error Variance Decomposition (FEVD)  
+- Sign Restrictions  
+- Orthogonalization of shocks  
+- Bayesian estimation and inference algorithms  
+
+---
+
+**[AI-Powered (Finance) Scholarship](http://www.nber.org/papers/w33363)**  
+Robert Novy-Marx and Mihail Z. Velikov  
+- Portfolio Sorting (decile, quintile, NYSE breakpoints)  
+- Fama-French Six-Factor Model Adjustments  
+- “Assaying Anomalies” Protocol  
+- Large Language Models (GPT-3.5, Claude 3.5)  
+
+---
+
+**[Enhancing Financial Forecasting with AI and Machine Learning: A Path to Financial Security](https://www.researchgate.net/publication/388616121)**  
+Abdul Wahab  
+- Neural Networks  
+- Support Vector Machines (SVM)  
+- Decision Trees  
+- Ensemble Learning  
+- Anomaly Detection  
+- Clustering Methods  
+
+---
+
+**[Using AI and Behavioral Finance to Cope with Limited Attention and Reduce Overdraft Fees](https://doi.org/10.1287/mnsc.2022.00304)**  
+Daniel Ben-David, Ido Mintz, Orly Sade 
+- Gradient-Boosting Decision Tree Model  
+- Time-to-Event (TTE) Semiparametric Survival Analysis / Cox Model  
+- Off-line Contextual Bandits  
+
+---
