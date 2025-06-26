@@ -1,0 +1,141 @@
+- Principal Component Analysis (PCA)  
+- Support Vector Machines (SVM)  
+- Genetic Algorithms (GA)  
+- Random Forest  
+- Artificial Neural Networks (ANN)  
+- Decision Trees  
+- Logistic Regression  
+- K-Nearest Neighbors (KNN)  
+- Monte Carlo Simulation  
+- Gradient Boosting  
+- XGBoost  
+- Long Short-Term Memory (LSTM)  
+- Transformer  
+- Reinforcement Learning (RL)  
+- Q-learning  
+- Deep Deterministic Policy Gradient (DDPG) algorithm  
+- Ant Colony Optimization (ACO) algorithm  
+- Bidirectional Long Short-Term Memory (BiLSTM) neural network  
+- Kalman Filter  
+- Graph Convolutional Networks (GCN)  
+- Generative Adversarial Networks (GANs)  
+- Convolutional Neural Networks (CNN)  
+- Random Forest Regression  
+- Support Vector Regression (SVR)  
+- Grid Search  
+- Cross-Validation (k-fold)  
+- Deep Neural Network (DNN)  
+- Ensemble Learning  
+- Naive Bayes  
+- Particle Swarm Optimization (PSO)  
+- Stochastic Gradient Descent (SGD)  
+- Adam Optimizer  
+- Root Mean Squared Error (RMSE)  
+- Mean Absolute Error (MAE)  
+- Mean Squared Error (MSE)  
+- Dropout Regularization  
+- DBSCAN  
+- Fuzzy C-Means (FCM) Clustering  
+- Apriori Algorithm  
+- Support Vector Classification (SVC)  
+- Markov Chain Monte Carlo (MCMC)  
+- Latent Dirichlet Allocation (LDA)  
+- Self-Attention Mechanisms  
+- Policy Gradient Methods  
+- Trust Region Policy Optimization (TRPO)  
+- Proximal Policy Optimization (PPO)  
+- Actor-Critic Methods  
+- Experience Replay  
+- Attention Mechanism  
+- Ensemble Methods  
+- SHapley Additive exPlanations (SHAP)  
+- Graph Neural Networks (GNN)  
+- Deep Q-Network (DQN)  
+- Simulated Annealing (SA)  
+- Random Search  
+- Multi-Layer Perceptron (MLP)  
+- Deep Reinforcement Learning (DRL)  
+- Gradient Boosting Decision Trees (GBDT)  
+- AdaBoost  
+- Bayesian Optimization  
+- Support Vector Machines (SVM) with Radial Basis Function (RBF) kernel  
+- Local Outlier Factor (LOF)  
+- Random Oversampling  
+- Synthetic Minority Oversampling Technique (SMOTE)  
+- Ensemble Models  
+- Ridge Regression  
+- Federated Learning  
+- Attention U-Net  
+- Long Short-Term Memory Autoencoder (LSTM-AE)  
+- Recurrent Neural Networks (RNN)  
+- Bayesian mixed-effects modeling  
+- Hidden Markov Model (HMM)  
+- Linear Regression  
+- ARIMA (Auto-Regressive Integrated Moving Average)  
+- Support Vector Classification (SVC)  
+- Multi-Layer Perceptron (MLP)  
+- XGBoost  
+- DeepLabv3+  
+- Quantile Regression  
+- Multi-Head Self-Attention Mechanism  
+- U-Net  
+- Residual Learning  
+- Mothfly Optimization (MO)  
+- K-Means Clustering  
+- Brier Score / Multicategory Brier Skill Score (MBSS)  
+- Bayesian Inference Framework  
+- Kernel Density Estimation (KDE)  
+- Markov Decision Process (MDP)  
+- Gaussian Processes  
+- Ensemble Kalman Filter (EnKF)  
+- Denoising Diffusion Probabilistic Models (DDPM)  
+- Variational Autoencoder (VAE)  
+- Gradient Boosting Machines (GBM)  
+- Clustering Algorithms (k-means clustering)
+
+
+- Monte Carlo Randomized Algorithm / Monte Carlo Method  
+- Gale-Shapley Stable Matching Algorithm  
+- One-Class SVM  
+- Isolation Forest  
+- Random Forest Classifier  
+- Regression Tree  
+- Gradient Boosting  
+- Gradient Boosting Decision Trees (GBDT)  
+- Particle Swarm Optimization (PSO)  
+- Tabu Search  
+- Collaborative Filtering  
+- Shortest Path Faster Algorithm (SPFA)  
+- FP-Growth Algorithm  
+- Eclat Algorithm  
+- Linear Regression  
+- Decision Tree Regression  
+- Multivariate Regression  
+- Gaussian Mixture Model (GMM)  
+- ARIMA  
+- LSTM  
+- RNN  
+- CNN  
+- MLP  
+- XGBoost  
+- Reinforcement Learning (RL)  
+- Genetic Algorithm (GA)  
+- Adaptive Genetic Algorithm with Fuzzy Logic (AGAFL)  
+- Quantum Genetic Algorithm (QGA)  
+- Adaptive Boosting (AdaBoost)  
+- AdaBoost-GA (Adaptive Boosting and Genetic Algorithm)  
+- Deep Learning Neural Network - Genetic Algorithm (DLNN-GA)  
+- Kernel Principal Component Analysis (KPCA)  
+- Independent Component Analysis (ICA)  
+- Transformer-based architectures  
+- Graph Attention Network (GAT)  
+- Graph Isomorphic Network (GIN)  
+- SHA-256  
+- RSA  
+- AES-128  
+- AES-512
+- Markowitz Mean-Variance Optimization  
+- Proof of Work (PoW)  
+- Proof of Stake (PoS)  
+- Blockchain Technology (cryptographic hash functions, smart contracts)  
+
