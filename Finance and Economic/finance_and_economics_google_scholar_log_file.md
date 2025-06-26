@@ -5,7 +5,7 @@
 - **Platform:** Google Scholar
 - **Keyword(s):** finance and economics AND algorithm
 - **Date of search:** 2025-06-25
-- **Articles reviewed:** 33
+- **Articles reviewed:** 41
 — **Time window:** 2025
 
 ---
@@ -360,5 +360,112 @@ Daniel Ben-David, Ido Mintz, Orly Sade
 - Gradient-Boosting Decision Tree Model  
 - Time-to-Event (TTE) Semiparametric Survival Analysis / Cox Model  
 - Off-line Contextual Bandits  
+
+---
+
+**[The Impact of AI on Enhancing Financial Predicting Accuracy and Improving Risk Management in Financial Market](https://ssrn.com/abstract=5097473)**  
+George Nasser Shawaqfeh 
+- Multiple Linear Regression Analysis  
+- ARIMA Models for Time Series Analysis  
+- Artificial Neural Networks (ANN)  
+- Decision Trees (DT)  
+- Deep Learning Models (DLM)  
+
+---
+
+**[The Impact of AI on Enhancing Financial Predicting Accuracy and Improving Risk Management in Financial Market](https://ssrn.com/abstract=5097473)**  
+George Nasser Shawaqfeh
+- Regression Analysis  
+- Neural Networks  
+- Deep Learning  
+- Machine Learning  
+- Support Vector Machines (SVM)  
+- Long Short-Term Memory (LSTM)  
+- Artificial Neural Networks (ANN)  
+- Natural Language Processing (NLP)  
+
+---
+
+**[On Assessing the Performance of LLMs for Target-Level Sentiment Analysis in Financial News Headlines](https://www.mdpi.com/2076-3417/18/1/46)**  
+Iftikhar Muhammad et al.
+- Bag of Words (BoW) model  
+- Lexicon-based techniques  
+- Naive Bayes  
+- Logistic Regression  
+- Support Vector Machines (SVM)  
+- Convolutional Neural Networks (CNNs)  
+- Recurrent Neural Networks (RNNs)  
+- Long Short-Term Memory (LSTM)  
+- Gated Recurrent Units (GRUs)  
+- Transformer-based models (e.g., BERT, FinBERT, DeBERTa)  
+- VADER (Valence Aware Dictionary for Sentiment Reasoning)  
+- Large Language Models (LLMs) (e.g., ChatGPT, Gemini)  
+
+---
+
+**[Financial statement manipulation: Ethical and regulatory perspectives](https://doi.org/10.30574/gscarr.2025.22.3.0087)**  
+Adetunji Paul Adejumo and Chinonso Peter Ogburie
+- Beneish M-Score  
+- Altman Z-Score  
+- Logistic Regression  
+- Random Forest Classifier  
+- Principal Component Analysis (PCA)  
+
+---
+
+**[Modeling commodity price co-movement: building on traditional time series models and exploring applications of machine learning algorithms](https://doi.org/10.1007/s10203-025-00512-1)**  
+Luca L. Kozian, Marcos R. Machado, Joerg R. Osterrieder
+- Pearson Correlation Coefficient  
+- Gerber Statistic  
+- Multiple Regression Analysis  
+- Vector Autoregression (VAR)  
+- Vector Autoregression with Exogenous Variables (VARX)  
+- Random Forest Regression  
+- Grid Search Hyperparameter Tuning  
+- 10-fold Cross-Validation  
+
+---
+
+**[Machine Learning Algorithms: A Comparative Study for Financial Fraud Detection](https://www.researchgate.net/publication/388324321_Machine_Learning_Algorithms_A_Comparative_Study_for_Financial_Fraud_Detection)**  
+Liben Ana, Asher Noah, Abiodun Okunola 
+- Decision Trees  
+- Random Forest  
+- Support Vector Machines (SVM)  
+- Neural Networks  
+- K-Means Clustering  
+- DBSCAN  
+- Local Outlier Factor (LOF)  
+- Self-Training  
+- Co-Training  
+
+---
+
+**[Prediction of bank credit customers churn based on machine learning and interpretability analysis](https://doi.org/10.3934/DSFE.2025002)**  
+Ying Li and Keyue Yan 
+- Random Oversampling  
+- Synthetic Minority Oversampling Technique (SMOTE)  
+- Borderline-SMOTE  
+- Adaptive Synthetic Sampling (ADASYN)  
+- Random Forest (RF)  
+- Gradient Boosting Decision Tree (GBDT)  
+- Extra Tree  
+- AdaBoost  
+- XGBoost  
+- CatBoost  
+- SHAP (Shapley Additive exPlanations)  
+- R-learner causal inference method  
+
+---
+
+**[Real-Time Detection of Anomalous Trading Patterns in Financial Markets Using Generative Adversarial Networks](https://doi.org/10.20944/preprints202504.1591.v1)**  
+Keke Yu, Yuexing Chen, Toan Khang Trinh, Wenyu Bi 
+- Generative Adversarial Networks (GANs)  
+- Wasserstein GAN with Gradient Penalty (WGAN-GP)  
+- Convolutional Neural Networks (CNNs)  
+- Support Vector Machines (SVMs)  
+- Random Forests  
+- Autoencoders  
+- Regression Analysis  
+- Deep Reinforcement Learning (DRL)  
 
 ---
