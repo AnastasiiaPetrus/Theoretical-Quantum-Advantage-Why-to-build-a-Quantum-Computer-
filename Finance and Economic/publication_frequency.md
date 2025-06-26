@@ -17,7 +17,7 @@
 
 ---
 
-## Top Algorithms and Methods by Frequency
+## TOP Algorithms and Methods by Frequency
 
 | Algorithm / Method                                         | Mentions | fpub   |
 |------------------------------------------------------------|----------|--------|
