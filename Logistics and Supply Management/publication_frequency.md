@@ -5,10 +5,10 @@
 To ensure reproducibility and comparability of results on algorithm usage in logistics and supply management domain, we systematically aggregated data from recent peer-reviewed articles collected from IEEE Xplore, SemanticScholar, and Springer (2023-2025). Extracted algorithm names were standardized by harmonizing synonyms, abbreviations, and closely related variants. Mentions were counted across all sources, and normalized publication frequency \( fpub \) was calculated as:
 
 \[
-fpub = \frac{\text{mentions}}{1032}
+fpub = \frac{\text{mentions}}{301}
 \]
 
-with total mentions summed as **1032** for unbiased comparison.
+with total mentions summed as **301** for unbiased comparison.
 
 ---
 
@@ -16,7 +16,11 @@ with total mentions summed as **1032** for unbiased comparison.
 
 - **Algorithm & Method**: Cluster of related algorithms or methods.
 - **mentions**: Absolute count of mentions across surveyed literature.
-- **fpub**: Normalized frequency of mentions relative to total (1032).
+- **fpub**: Normalized frequency of mentions relative to total (301).
+
+---
+
+## Total mentions: **301**
 
 ---
 
