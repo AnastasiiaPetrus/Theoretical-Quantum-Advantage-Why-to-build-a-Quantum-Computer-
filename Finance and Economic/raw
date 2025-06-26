@@ -1,118 +1,207 @@
-- AdaBoost  
-- AdaBoost-GA (Adaptive Boosting and Genetic Algorithm)  
 - Adaptive Boosting (AdaBoost)  
 - Adaptive Genetic Algorithm with Fuzzy Logic (AGAFL)  
-- Adam Optimizer  
-- Actor-Critic Methods  
-- AES-128  
-- AES-512  
+- Adaptive Learning  
+- Adaptive Statistical Iterative Reconstruction (ASIR)  
+- Adam Optimizer / Optimization Algorithm  
+- Agent-Based Modeling (ABM) / Agent-Based Computational Economics (ACE)  
+- AI Algorithms / Artificial Intelligence (AI)  
+- Algorithmic Stablecoins (Dual-Token, Rebase, Collateral Models, Arbitrage)  
+- Altman Z-Score  
+- Analytic Hierarchy Process (AHP)  
+- Anomaly Detection Techniques (One-Class SVM, Isolation Forest, etc.)  
 - Apriori Algorithm  
-- Ant Colony Optimization (ACO) algorithm  
-- ARIMA (Auto-Regressive Integrated Moving Average)  
-- Attention Mechanism  
-- Attention U-Net  
-- Bayesian Inference Framework  
-- Bayesian Optimization  
-- Bayesian mixed-effects modeling  
-- Bidirectional Long Short-Term Memory (BiLSTM) neural network  
-- Brier Score / Multicategory Brier Skill Score (MBSS)  
-- Blockchain Technology (cryptographic hash functions, smart contracts)  
-- Clustering Algorithms (k-means clustering)  
+- Artificial Neural Networks (ANN) / Deep Neural Networks (DNN) / Convolutional Neural Networks (CNN) / Recurrent Neural Networks (RNN) / LSTM / GRU / Bidirectional LSTM (BiLSTM)  
+- ARIMA (AutoRegressive Integrated Moving Average)  
+- ARMA (Autoregressive Moving Average)  
+- ARDL (Autoregressive Distributed Lag)  
+- Association Rule Learning  
+- Autoencoders  
+- Back Propagation Neural Network (BPNN)  
+- Bag of Words (BoW) model  
+- Bayesian Regression / Bayesian Estimation and Inference Algorithms  
+- Batch Gradient Descent (BGD)  
+- Behavioral Finance Models (TAM, TPB, UTAUT, etc.)  
+- Black-Scholes (B&S) Model  
+- Bivariate Constant Conditional Correlation GARCH model (CCC-GARCH)  
+- Bootstrapping  
+- Business Model Canvas  
+- CatBoost (Gradient-Boosted Decision Trees)  
+- Central Bank Digital Currency (CBDC)  
+- Cellular Automata (CA)  
+- Clustering Algorithms (K-means, DBSCAN, Fuzzy C-Means, HDBSCAN, etc.)  
+- CoCoSo Method (Combined Compromise Solution)  
 - Collaborative Filtering  
-- Convolutional Neural Networks (CNN)  
-- Cross-Validation (k-fold)  
-- Denoising Diffusion Probabilistic Models (DDPM)  
+- Consensus Algorithms (Blockchain)  
+- Continuous Double Auctions (CDA)  
+- Cross-Entropy Loss  
+- Cryptocurrency-related (Blockchain, Smart Contracts, Stablecoins, Proof of Reputation, SHA256, etc.)  
+- Data Analytics (Machine Learning, AI, Big Data Analysis)  
+- Data Envelopment Analysis (DEA) - BCC Model  
+- Data Imputation  
+- Data Integration via APIs  
+- Data Mining Techniques (Association Rule Learning, Clustering, etc.)  
 - Deep Deterministic Policy Gradient (DDPG) algorithm  
-- DeepLabv3+  
-- Deep Neural Network (DNN)  
+- Deep Learning (including CNN, LSTM, GNN)  
 - Deep Q-Network (DQN)  
 - Deep Reinforcement Learning (DRL)  
-- Deep Learning Neural Network - Genetic Algorithm (DLNN-GA)  
-- Decision Tree Regression  
-- Decision Trees  
+- Decision Trees (including C4.5, ID3)  
+- Defensive Distillation  
+- Density-Based Spatial Clustering of Applications with Noise (DBSCAN)  
+- Diffusion of Innovation (DOI) theory  
+- Dimensional Modeling  
+- Digital Literacy Tools: Python, R, Stata, MATLAB  
 - Dropout Regularization  
-- Eclat Algorithm  
-- Ensemble Kalman Filter (EnKF)  
-- Ensemble Learning  
-- Ensemble Methods / Models
-- Experience Replay  
+- Dual-Token Mechanism (Stablecoins)  
+- Dynamic Programming (DP)  
+- Dynamic Time Warping (DTW)  
+- Econometrics of Ultra-High-Frequency Data  
+- Elastic Net and Ridge Regression (RR)  
+- Elbow Method / Elbow Judgment  
+- Ensemble Learning / Multi-model Fusion (Random Forest, AdaBoost, Gradient Boosting, etc.)  
+- Entropy Method  
+- Environmental Kuznets Curve (EKC) framework  
+- Epsilon-Greedy (ε-greedy) Strategy  
+- Experience Replay Mechanism  
+- Explainable AI (XAI)  
+- Exponential Smoothing (ES) / Triple Exponential Smoothing (Holt-Winters method)  
+- Fama-French Six-Factor Model  
+- Feature Engineering  
 - Federated Learning  
-- FP-Growth Algorithm  
-- Fuzzy C-Means (FCM) Clustering  
-- Gale-Shapley Stable Matching Algorithm  
-- Generative Adversarial Networks (GANs)   
-- Genetic Algorithms (GA)  
+- Fuzzy Comprehensive Evaluation / Fuzzy Membership Functions / Spherical Fuzzy Sets  
+- GA-Attention-Fuzzy-Stock-Net (Genetic Algorithm + Attention + Neuro-Fuzzy Systems)  
+- Game Theory (Nash Equilibrium)  
+- Generative Adversarial Networks (GAN) / Wasserstein GAN with Gradient Penalty (WGAN-GP)  
+- Genetic Algorithms (GA) (including NSGA-II, Quantum GA, Hybrid GAs)  
+- Generalized Autoregressive Conditional Heteroskedasticity (GARCH)  
+- Generalized Forecast Error Variance Decomposition (GFEVD)  
+- Gradient Boosting (GB) / Gradient Boosting Decision Trees (GBDT)  
+- Grid Search / Random Search / Hyperparameter Tuning  
 - Graph Attention Network (GAT)  
-- Graph Convolutional Networks (GCN)  
+- Graph Convolutional Network (GCN) / Graph Neural Networks (GNN)  
 - Graph Isomorphic Network (GIN)  
-- Graph Neural Networks (GNN)  
-- Gradient Boosting   
-- Gradient Boosting Decision Trees (GBDT)  
-- Gradient Boosting Machines (GBM)  
-- Gaussian Mixture Model (GMM)  
-- Gaussian Processes  
-- Grid Search  
+- Graph Algorithms (Betweenness Centrality, etc.)  
+- Grey Prediction Model (GM(1,1))  
+- Grey Relational Degree Weighting Method  
 - Hidden Markov Model (HMM)  
+- Holt-Winters Method  
+- HDBSCAN (Hierarchical Density-Based Spatial Clustering of Applications with Noise)  
+- Hybrid Genetic Algorithms (e.g., AdaBoost-GA, DLNN-GA)  
+- Improved Efficiency Coefficient Method  
+- Improved Long Short-Term Memory (ILSTM)  
 - Independent Component Analysis (ICA)  
-- Isolation Forest  
+- Information Gain and Mutual Information  
+- Information Systems Success (ISS) model  
+- Interval Intuitionistic Fuzzy TOPSIS  
+- Interval Shapley Value Algorithm  
+- K-Nearest Neighbor (KNN) algorithm  
+- K-Means Clustering Algorithm  
 - Kalman Filter  
-- Kernel Density Estimation (KDE)  
 - Kernel Principal Component Analysis (KPCA)  
-- K-Means Clustering  
-- K-Nearest Neighbors (KNN)  
+- Knowledge Graph  
 - Latent Dirichlet Allocation (LDA)  
-- Linear Regression  
+- Leader Election Algorithms  
+- Lexicon-based Techniques  
+- Linear Regression (LR)  
+- Lagrange Multipliers  
+- Large Language Models (LLMs) (GPT-3.5, Claude, ChatGPT, Gemini)  
+- LDA-based Topic Models (BERTopic, LDA, NMF, PLSA)  
+- Logistic Regression (LR / LOGIT)  
+- Long Short-Term Memory Networks (LSTM)  
 - Local Outlier Factor (LOF)  
-- Logistic Regression  
-- Long Short-Term Memory (LSTM)  
-- Long Short-Term Memory Autoencoder (LSTM-AE)  
+- Loss Functions (MAE, MSE, RMSE, MAPE, MADL)  
+- Machine Learning Algorithms (various supervised and unsupervised)  
 - Markov Chain Monte Carlo (MCMC)  
-- Markov Decision Process (MDP)  
+- Markov Switching Models  
 - Markowitz Mean-Variance Optimization  
+- Mean Absolute Directional Loss (MADL)  
 - Mean Absolute Error (MAE)  
 - Mean Squared Error (MSE)  
-- Monte Carlo Randomized Algorithm
-- Monte Carlo Method  
-- Monte Carlo Simulation  
-- Multi-Head Self-Attention Mechanism  
-- Multi-Layer Perceptron (MLP)  
-- Multivariate Regression  
-- Mothfly Optimization (MO)  
-- Naive Bayes  
-- One-Class SVM  
-- Particle Swarm Optimization (PSO)    
-- Policy Gradient Methods  
+- Mean Absolute Percentage Error (MAPE)  
+- Metaheuristics (Particle Swarm Optimization, Simulated Annealing, Quantum GA, Differential Evolution)  
+- Microsimulation Models  
+- Monte Carlo Method / Monte Carlo Simulation / Monte Carlo Randomized Algorithm  
+- Multi-Layer Perceptron (MLP) / Regressor  
+- Multi-objective Optimization Models  
+- Multi-model Fusion / Ensemble Learning  
+- Multi-system Data Linkage  
+- Multi-level Tree Structure Compression  
+- Natural Language Processing (NLP)  
+- Named Entity Recognition (NER)  
+- Network Analysis for Systemic Risk Modeling  
+- Neuro-Fuzzy Systems  
+- Nonnegative Matrix Factorization (NMF)  
+- Numerical Integration and Differentiation  
+- Off-line Contextual Bandits  
+- Optical Character Recognition (OCR)  
+- Outlier Detection (Isolation Forests, LOF, etc.)  
+- Overcollateralization (Stablecoins)  
+- Particle Swarm Optimization (PSO)  
+- Pearson Correlation Coefficient  
+- Performance Metrics (MAE, MSE, RMSE, MAPE, R²)  
+- Peer-to-Peer (P2P) Platforms and Counterparty Matching Algorithms  
+- Policy Networks and Value Networks (Actor-Critic Architecture)  
+- Polynomial Fitting  
+- Portfolio Sorting (decile, quintile, NYSE breakpoints)  
 - Principal Component Analysis (PCA)  
+- Probabilistic Latent Semantic Analysis (PLSA)  
+- Proof of Reputation (PoR)  
 - Proof of Stake (PoS)  
 - Proof of Work (PoW)  
-- Proximal Policy Optimization (PPO)  
-- Q-learning  
-- Quantum Genetic Algorithm (QGA)  
+- Project Portfolio Management Frameworks  
+- PSI Method (Preference Selection Index)  
+- Pheromone Update Mechanism (Ant Colony Optimization)  
+- Particle Swarm Optimization-Artificial Neural Network (PSO-ANN)  
+- Q-Learning / Reinforcement Learning (RL)  
 - Quantile Regression  
-- Random Forest  
-- Random Forest Classifier  
-- Random Forest Regression  
-- Random Oversampling  
-- Random Search  
-- Recurrent Neural Networks (RNN)  
-- Regression Tree  
-- Reinforcement Learning (RL)   
-- Residual Learning  
-- RSA  
-- Root Mean Squared Error (RMSE)  
-- SHA-256  
-- Self-Attention Mechanisms  
-- SHapley Additive exPlanations (SHAP)  
-- Shortest Path Faster Algorithm (SPFA)  
+- Quantum Genetic Algorithm (QGA)  
+- Radial Basis Function Neural Network (RBFNN)  
+- Random Forest (RF)  
+- Random Oversampling Techniques (SMOTE, Borderline-SMOTE, ADASYN)  
+- Random Search / Grid Search  
+- RateContract for Floating Interest Rate Management  
+- Recency, Frequency, Monetary (RFM) Analysis  
+- Regression Analysis / Multiple Regression / Regression Trees  
+- Relation Extraction using Finite Automata  
+- Reinforcement Learning (RL) / Deep Reinforcement Learning (DRL)  
+- Ridge Regression (RR)  
+- Risk Assessment Models (Logistic Regression, Decision Trees, SVM, etc.)  
+- Robo-Advisory Platforms / Robo-Advising  
+- Root Finding Algorithms (Newton’s method, bisection)  
+- R-learner (Causal Inference)  
+- Sentiment Analysis (including Lexicon-based, LLM-based)  
+- Self-Control and Knowledge Sharing Models (SEM, TPB, TAM, UTAUT, TTM)  
 - Simulated Annealing (SA)  
-- Stochastic Gradient Descent (SGD)  
-- Support Vector Classification (SVC)  
-- Support Vector Machines (SVM)   
-- Support Vector Regression (SVR)  
+- Slack Variable Analysis  
+- Social Network Analysis Algorithms  
+- Spectral (Frequency Domain) Decomposition Methods  
+- Stacked Auto-Encoder (SAE)  
+- Statistical Applications (calculus, probability, linear algebra)  
+- Steiner Tree Algorithms  
+- Structural Equation Modeling (SEM)  
+- Structural Vector Autoregression (SVAR)  
+- Support Vector Machines (SVM) / Support Vector Regression (SVR)  
 - Synthetic Minority Oversampling Technique (SMOTE)  
+- Systematic Literature Review (SLR) / Bibliometric Analysis (VOSviewer)  
 - Tabu Search  
-- Transformer   
-- Trust Region Policy Optimization (TRPO)  
-- U-Net  
-- Variational Autoencoder (VAE)  
-- XGBoost  
+- Technology Acceptance Model (TAM) / Unified Theory of Acceptance and Use of Technology (UTAUT)  
+- Temporal / Time Series Models (ARIMA, ARMA, GARCH, RNN, LSTM, Transformer, etc.)  
+- Technology Acceptance Models (TAM, UTAUT, IDT)  
+- Text Classification Models (TF-IDF, KNN, Information Gain, Mutual Information)  
+- Time-Varying Parameter Vector Autoregression (TVP-VAR)  
+- Transformer-Based Architectures / Models (BERT, FinBERT, DeBERTa, GPT, etc.)  
+- Transfer Learning  
+- Tree-Based Models (Decision Trees, Random Forest, Gradient Boosting, CatBoost)  
+- Trend Line Fitting  
+- Triple Exponential Smoothing  
+- Trustworthy AI Assessment Lists (ALTAI)  
+- Unified Theory of Acceptance and Use of Technology (UTAUT)  
+- Unsupervised Clustering (K-means, DBSCAN, HDBSCAN, FCM)  
+- U-shaped / Inverted U-shaped Relationship Tests  
+- Vector Autoregression (VAR) and VAR with Exogenous Variables (VARX)  
+- Verification Random Functions (VRF)  
+- VADER (Valence Aware Dictionary for Sentiment Reasoning)  
+- Web Scraping (Scrapy)  
+- Wilcoxon Signed-Rank Test  
+- XGBoost (Extreme Gradient Boosting)  
+- Z-Score Standardization  
+- Zero-Knowledge Proofs / Privacy-Enhancing Technologies (PETs)
