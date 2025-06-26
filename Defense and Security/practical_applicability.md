@@ -1,4 +1,4 @@
-# Supplementary Table S2. Practical Use of Classical Algorithms and Methods in Defense and Security (2025)
+# Supplementary Table S1. Practical Use of Classical Algorithms and Methods in Defense and Security (2025)
 
 ## Overview
 
