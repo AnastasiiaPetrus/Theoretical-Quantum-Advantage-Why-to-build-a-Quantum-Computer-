@@ -1,0 +1,115 @@
+- Adam Optimizer  
+- Adaptive Genetic Algorithm (AGA)  
+- Agile Attentive Foraging Optimization (EAFO) Algorithm  
+- Artificial Bee Colony (ABC)  
+- Artificial Neural Networks (ANN)  
+- Attribute-Based Access Control (ABAC)  
+- Backpropagation Neural Network (BNN)  
+- Bagging  
+- Bayesian Neural Networks  
+- Bayesian Optimization  
+- Bayesian Statistics  
+- Best-Worst Method (BWM)  
+- Blockchain Technology  
+- Boosting  
+- Branch-and-Bound Algorithm  
+- Branch-and-Cut (B&C)  
+- Branch-and-Price (Column Generation)  
+- Clustering Analysis (e.g., k-means)  
+- Convolutional Neural Networks (CNNs)  
+- Cross-Validation (K-Fold)  
+- Data Preprocessing Techniques  
+- Decision Trees   
+- Deep Learning  
+- Deep Q-Learning (DQL)  
+- Deep Q-Network (DQN)  
+- Deep Quantum Neural Network (DQNN)  
+- Deep Reinforcement Learning (DRL)  
+- Differential Evolution (DE)  
+- Elastic Net  
+- Elite Attentive Foraging Optimization (EAFO) Algorithm  
+- Ensemble Methods  
+- Entropy Weight Method  
+- Evolutionary Algorithms (Genetic Algorithms, Differential Evolution)  
+- Feature Pyramid Network (FPN)  
+- Federated Learning (FL)  
+- Frank t-norm and t-conorm operations  
+- Gaussian Mixture Models (GMM)  
+- Genetic Algorithm (GA)   
+- Gradient Boosting  
+- Gradient Boosting Machines (GBM)  
+- Graph Neural Networks (GNN)  
+- Graph Theory  
+- Greedy Algorithm (GRA)  
+- Grey Wolf Optimization (GWO)  
+- Hunger Games Search Optimization (HGSO)  
+- Improved Genetic Algorithm (IGA)  
+- Improved Jellyfish Search Algorithm (IJS)  
+- Incremental Distributed Learning (IDL)  
+- Integer Linear Programming  
+- Integer Linear Programming (ILP)  
+- Isolation Forest  
+- Jellyfish Optimization (JFO)  
+- Jellyfish Search Algorithm (JSA)  
+- K-means Clustering  
+- K-Nearest Neighbors (KNN)  
+- Latent Dirichlet Allocation (LDA)  
+- Light Gradient Boosting Machine (LightGBM)  
+- Linear Programming  
+- Linear Regression  
+- LASSO (Least Absolute Shrinkage and Selection Operator)  
+- Logistic Regression  
+- Long Short-Term Memory (LSTM)   
+- Machine Learning Classification Algorithms  
+- Markov Chain Monte Carlo (MCMC)  
+- Markov Decision Process (MDP)  
+- Mean Absolute Error (MAE)  
+- Mean Squared Error (MSE)  
+- Memetic Algorithm (MA)  
+- Metropolis Acceptance Criterion  
+- Mixed Integer Linear Programming (MILP)  
+- Multi-Attribute Decision Making (MADM)  
+- Multi-Agent Systems and Agent-Based Modeling  
+- Multi-Objective Genetic Algorithms (MOGA)  
+- Multi-Objective Optimization  
+- Multi-Objective Particle Swarm Optimization (MOPSO)  
+- Multi-Layer Perceptron (MLP)  
+- MULTIMOORA (Multiplicative Multi-objective Optimization by Ratio Analysis)  
+- Naive Bayes Classifier  
+- Natural Language Processing (NLP)  
+- Neighborhood Search (NS) Algorithm  
+- Neural Networks  
+- Neural Networks (including LSTM)  
+- One-Class Support Vector Machines (SVMs)  
+- Particle Swarm Optimization (PSO)  
+- Particle Swarm Optimization-Composite Particle (PSO-CP)  
+- Pareto-based Metaheuristics  
+- Policy Gradient Methods  
+- Practical Byzantine Fault Tolerance (PBFT)  
+- Proof of Stake (PoS)  
+- Proximal Policy Optimization (PPO)  
+- Q-Learning  
+- Queuing Theory  
+- Random Forest   
+- Reinforcement Learning   
+- Recurrent Neural Networks (RNNs)  
+- Ridge Regression  
+- Root Mean Square Error (RMSE)  
+- Scale-Invariant Feature Transform (SIFT)  
+- SHapley Additive exPlanations (SHAP)  
+- Simulated Annealing  
+- Simulated Annealing (SA)  
+- Snake Artificial Ecosystem Optimization (SAEO) algorithm  
+- Sparrow Search Algorithm (SSA)  
+- Stacking  
+- Stochastic Programming  
+- Support Vector Machine (SVM)  
+- Support Vector Machines (SVM)  
+- Support Vector Regression (SVR)  
+- Tabu Search  
+- Tabu Search Metaheuristic  
+- Transformer  
+- Variational Autoencoder (VAE)  
+- WASPAS (Weighted Aggregated Sum Product Assessment)  
+- XGBoost  
+- YOLO-net family (YOLOv3, YOLOv4)  
