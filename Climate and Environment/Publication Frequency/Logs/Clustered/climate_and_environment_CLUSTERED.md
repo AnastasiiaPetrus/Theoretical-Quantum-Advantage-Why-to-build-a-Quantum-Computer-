@@ -209,7 +209,6 @@
             * KDTree-based spatial grouping
      
 - Deep Learning & Neural Networks
-
     - Feedforward Architectures
         - Classic Feedforward Neural Networks (MLP, DNN, FNN)
             * Deep Neural Network (DNN)
@@ -491,7 +490,7 @@
             * Bayesian Inversion
 
     - Bayesian Optimization Algorithms
-            * Bayesian Optimization Algorithm
+            * Bayesian Optimization
 
 - Sensitivity Testing Methods
     - Fourier Amplitude Sensitivity Testing Methods
