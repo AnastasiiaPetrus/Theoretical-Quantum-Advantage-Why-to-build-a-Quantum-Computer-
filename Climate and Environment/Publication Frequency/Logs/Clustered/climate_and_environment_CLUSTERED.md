@@ -53,7 +53,7 @@
 - Fuzzy & Soft Methods
     - Fuzzy Clustering
         - Prototype-based
-            * Fuzzy C-Means Clustering
+            * Fuzzy C-Means Clustering *(см. Clustering & Segmentation)*
               
     - Fuzzy/Soft Representation & Overlay
         - Overlay
@@ -77,8 +77,8 @@
               
     - Spatial Constraints in Clustering
         - Spatial Constraint
-            * Spatially-Constrained Clustering (ClustGeo)
-            * Fuzzy Overlay Analysis
+            * см. Spatially-Constrained Clustering (ClustGeo) в Clustering & Segmentation
+            * см. Fuzzy Overlay Analysis в Fuzzy & Soft Methods
 
 - Redundancy/Distance-based Analysis
             * Distance-based Redundancy Analysis (dbRDA)
@@ -87,11 +87,11 @@
     - Distance/Alignment Methods
         - Time Series Distance
             * Dynamic Time Warping (DTW)
-            * DTW-based K-means Clustering
+            * DTW-based K-means Clustering *(см. Clustering & Segmentation)*
               
     - Sequence/Shape-based Clustering
         - Shape-based
-            * K-Shape Clustering
+            * K-Shape Clustering *(см. Clustering & Segmentation)*
 
 - Trajectory Analysis
     - Trajectory Clustering & Segmentation
@@ -126,7 +126,7 @@
             * Voronoi-based skeleton extraction
       
     - Spatial Indexing & Grouping
-            * KDTree-based spatial grouping
+            * KDTree-based spatial grouping *(см. Spatial Interpolation & Gridding)*
 
 - Spatial Hotspot & Statistical Spatial Analysis
     - Hotspot Detection
@@ -144,7 +144,7 @@
             * Morphological operations
       
     - Skeleton & Shape Analysis
-            * Voronoi-based skeleton extraction
+            * Voronoi-based skeleton extraction *(см. Triangulation & Spatial Tessellation)*
 
 - Trajectory & Dispersal Analysis
     - Trajectory Tracking
@@ -158,7 +158,7 @@
             * Hierarchical Frequency-Based Location Estimation
           
     - Profiling Along Trajectories
-            * Swath profiling
+            * Swath profiling *(см. Spatial Hotspot & Statistical Spatial Analysis)*
 
 - Migration & Event Detection Algorithms
     - Migration Event Detection
@@ -166,7 +166,7 @@
             * Migration Event Detection Algorithm
   
     - Location/Event Estimation
-            * Hierarchical Frequency-Based Location Estimation
+            * Hierarchical Frequency-Based Location Estimation *(см. Trajectory & Dispersal Analysis)*
 
 - Path & Network Analysis
     - Network Filtering & Pathfinding
@@ -178,10 +178,10 @@
 - Raster & Grid-based Analysis
     - Raster/Section Analysis
             * Raster-based size function generation
-            * Swath profiling
+            * Swath profiling *(см. Spatial Hotspot & Statistical Spatial Analysis)*
       
     - Gridding & Interpolation
-            * Grid interpolation (linear)
+            * Grid interpolation (linear) *(см. Spatial Interpolation & Gridding)*
 
 - Uncertainty Quantification & Ensemble Methods
     - Uncertainty Quantification
@@ -206,7 +206,7 @@
 
 - Mathematical Methods
     - Spatial Indexing & Grouping
-            * KDTree-based spatial grouping
+            * KDTree-based spatial grouping *(см. Spatial Interpolation & Gridding)*
      
 - Deep Learning & Neural Networks
 
@@ -334,12 +334,7 @@
 
     - Clustering & Distance-Based Algorithms
         - Clustering Algorithms (Soft, Hard, Neuro-Fuzzy)
-            * Fuzzy C-Means Clustering
-            * Self-organizing maps (SOM)
-            * DBSCAN
-            * Spectral clustering
-            * Adaptive Neuro-Fuzzy Inference Systems (ANFIS)
-            * Gene Expression Programming (GEP)
+            * см. Clustering & Segmentation
               
         - Distance-Based and Nearest Neighbor Methods
             * K-Nearest Neighbors (KNN)
