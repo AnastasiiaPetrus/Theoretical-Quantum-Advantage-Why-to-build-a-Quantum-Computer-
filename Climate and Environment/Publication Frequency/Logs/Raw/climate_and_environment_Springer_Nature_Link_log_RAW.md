@@ -4,7 +4,6 @@
 - **Platform:** Springer Nature Link
 - **Keyword(s):** climate AND algorithm
 - **Date of search:** 2025-06-22
-- **Filters:** Open Access
 - **Articles reviewed:** 50
 - **Time window:** 2025–2025
 
