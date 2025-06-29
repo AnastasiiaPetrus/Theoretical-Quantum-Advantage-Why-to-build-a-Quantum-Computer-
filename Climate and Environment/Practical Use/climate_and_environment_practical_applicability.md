@@ -9,7 +9,7 @@ The evaluation is based on an extensive review of international and national age
 
 - **Algorithm & Method**: Cluster of related algorithms or models (may include variants and common abbreviations).
 - **fuse**:  
-  - `1`: Demonstrated and established practical use in climate/environmental science (including operational monitoring, regulatory reporting, or major industrial projects, 2010–2024).  
+  - `1`: Demonstrated and established practical use in climate/environmental science (including operational monitoring, regulatory reporting, or major industrial projects, 2020–2025).  
   - `0`: No significant evidence of practical application in the above domains.
 
 ---
