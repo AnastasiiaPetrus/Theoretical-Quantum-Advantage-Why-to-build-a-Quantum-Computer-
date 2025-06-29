@@ -1,662 +1,383 @@
-- Clustering & SegmentationAdd commentMore actions
-    - Partition-based Clustering
-        - K-means Variants
-            * DTW-based K-means Clustering
-            * K-Shape Clustering
-            * Co-Clustering (k-means)
-              
-        - Density-based
-            * DBSCAN
-              
-        - Fuzzy Partitioning
-            * Fuzzy C-Means Clustering
-              
-    - Hierarchical Clustering
-        - Agglomerative
-            * Ward’s Hierarchical Clustering
-              
-        - Bayesian/Probabilistic
-            * Bayesian Nonparametric Partial Clustering (BNP-PC)
-            * Dirichlet Process Mixture Model (DPM)
-              
-    - Neighbor-based & Graph-based
-        - Neighbor-based
-            * Item Nearest Neighbor (ItemNN)
-            * User Nearest Neighbor (UserNN)
-              
-        - Graph/Manifold-based
-            * Spectral Clustering
-            * Self-organizing maps (SOM)
-              
-    - Specialized & Application-specific Clustering
-        - Spatial/Constraint-based
-            * Spatially-Constrained Clustering (ClustGeo)
-              
-        - Trajectory/Meso-Macro
-            * Clustering Algorithm for Macro- and Meso-Segment Detection
-            * Clustering Methods for Trajectory Segmentation
-
-- Dimensionality Reduction & Latent Structure Analysis
-    - Projection & Factor Methods
-        - Linear Projection
-            * Principal Component Analysis (PCA)
-              
-        - Nonlinear Projection
-            * Non-metric Multidimensional Scaling (NMDS)
-            * End-Member Modeling Algorithm (EMMA)
-            * Spatial Dimension Reduction
-              
-    - Latent Variable & Topic Models
-        - Latent Topic Models
-            * Latent Dirichlet Allocation (LDA)
-
-- Fuzzy & Soft Methods
-    - Fuzzy Clustering
-        - Prototype-based
-            * Fuzzy C-Means Clustering
-              
-    - Fuzzy/Soft Representation & Overlay
-        - Overlay
-            * Fuzzy Overlay Analysis
-
-- Morphological & Spatial Analysis
-    - Morphological Image Analysis
-        - Segmentation
-            * Watershed Segmentation
-            * Centroid-based Instance Segmentation
-              
-        - Skeletonization/Thinning
-            * Skeletonisation Algorithm
-            * Morphological Thinning
-              
-    - Spatial & Cartographic Segmentation
-        - Regionalization
-            * Jenks natural breaks classification
-            * Climate Match Algorithm
-            * Match Climates Regional algorithm
-              
-    - Spatial Constraints in Clustering
-        - Spatial Constraint
-            * Spatially-Constrained Clustering (ClustGeo)
-            * Fuzzy Overlay Analysis
-
-- Redundancy/Distance-based Analysis
-            * Distance-based Redundancy Analysis (dbRDA)
-
-- Time Series & Sequence
-    - Distance/Alignment Methods
-        - Time Series Distance
-            * Dynamic Time Warping (DTW)
-            * DTW-based K-means Clustering
-              
-    - Sequence/Shape-based Clustering
-        - Shape-based
-            * K-Shape Clustering
-
-- Trajectory Analysis
-    - Trajectory Clustering & Segmentation
-        - Macro/Meso Segments
-            * Clustering Algorithm for Macro- and Meso-Segment Detection
-              
-        - General Trajectory Segmentation
-            * Clustering Methods for Trajectory Segmentation
-
-- Compression Algorithms
-            * ZFP (Lossy Compression Algorithm)
-            * ZIP (Lossless Compression Algorithm)
-
-- Spatial Interpolation & Gridding
-    - Interpolation Methods
-            * Kriging (Spatial Interpolation)
-            * Grid interpolation (linear)
-      
-    - Numerical Simulation
-            * Finite Differences Simulator
-      
-    - Spatial Indexing & Grouping
-            * KDTree-based spatial grouping
-
-- Triangulation & Spatial Tessellation
-    - Triangulation
-            * Delaunay triangulation (via JIGSAW)
-            * Constrained Delaunay triangulation (CDT)
-            * Custom quad generation algorithm
-      
-    - Tessellation & Skeleton Extraction
-            * Voronoi-based skeleton extraction
-      
-    - Spatial Indexing & Grouping
-            * KDTree-based spatial grouping
-
-- Spatial Hotspot & Statistical Spatial Analysis
-    - Hotspot Detection
-            * Getis-Ord Gi* Statistic (Hotspot Analysis)
-      
-    - Local & Regional Spatial Statistics
-            * Global and local bivariate Moran’s I (LISA)
-            * Multiscale Geographically Weighted Regression (MGWR)
-      
-    - Profile & Section Analysis
-            * Swath profiling
-
-- Morphological Operations
-    - Morphological Processing
-            * Morphological operations
-      
-    - Skeleton & Shape Analysis
-            * Voronoi-based skeleton extraction
-
-- Trajectory & Dispersal Analysis
-    - Trajectory Tracking
-            * Lagrangian particle tracking
-            * Backward trajectory analysis
-      
-    - Dispersal & Movement Metrics
-            * Accumulated Latitudinal Dispersal Calculation
-  
-    - Location Estimation
-            * Hierarchical Frequency-Based Location Estimation
-          
-    - Profiling Along Trajectories
-            * Swath profiling
-
-- Migration & Event Detection Algorithms
-    - Migration Event Detection
-            * Algorithmic Rules for Temporary Migration Event Identification
-            * Migration Event Detection Algorithm
-  
-    - Location/Event Estimation
-            * Hierarchical Frequency-Based Location Estimation
-
-- Path & Network Analysis
-    - Network Filtering & Pathfinding
-            * Network-based path filtering
-      
-    - River Profile & Feature Extraction
-            * River profile analysis using knickpoint detection
-
-- Raster & Grid-based Analysis
-    - Raster/Section Analysis
-            * Raster-based size function generation
-            * Swath profiling
-      
-    - Gridding & Interpolation
-            * Grid interpolation (linear)
-
-- Uncertainty Quantification & Ensemble Methods
-    - Uncertainty Quantification
-            * Generalized Likelihood Uncertainty Estimation (GLUE)
-      
-    - Ensemble Data Assimilation
-            * Ensemble Kalman Filter (EnKF)
-
-- Compositional & Covariance Analysis
-    - Sparse Covariance Methods
-            * SPIEC-EASI (Sparse InversE Covariance Estimation)
-  
-    - Compositional Bias Correction
-            * ANCOM-BC2 (Analysis of Compositions of Microbiomes with Bias Correction)
-
-- Anomaly & Change Detection
-    - Anomaly Detection
-            * Hobday-Based Anomaly Detection Algorithm
-      
-    - Temporal Downscaling & Change Analysis
-            * Temporal Downscaling Algorithm using Proxy Hydrological Data
-
-- Mathematical Methods
-    - Spatial Indexing & Grouping
-            * KDTree-based spatial grouping
-     
-- Deep Learning & Neural Networks
-    - Feedforward Architectures
-        - Classic Feedforward Neural Networks (MLP, DNN, FNN)
-            * Deep Neural Network (DNN)
-            * Multilayer Perceptron (MLP)
-            * Fully Connected Neural Networks (FNN)
-            * Neural Network Operators (Classical, Kantorovich)
-              
-        - Specialized Feedforward Neural Networks
-            * Neural Network Classifier (for image segmentation)
-            * General Regression Neural Networks (GRNNs)
-            * Extreme Learning Machine (ELM)
-
-    - Convolutional Architectures
-        - Standard Convolutional Neural Networks for Classification
-            * Convolutional Neural Networks (CNN)
-            * ResNet
-            * Xception
-              
-        - Convolutional Neural Networks for Semantic Segmentation
-            * U-Net
-            * DeepLabV3+
-            * PSPNet
-            * MaskFormer
-            * Atrous Spatial Pyramid Pooling (ASPP)
-            * Feature Pyramid Network (FPN)
-              
-        - Specialized Convolutional Neural Networks for Object Detection and Image Analysis
-            * Stereoscopic Neural Network-Based Image Recognition
-            * AI-Supported Object Detection Pipeline (Head-Tail Segmentation & Classification)
-
-    - Recurrent Architectures
-        - Standard Recurrent Neural Networks for Sequence Modeling
-            * Recurrent Neural Networks (RNN)
-            * Long Short-Term Memory Networks (LSTM)
-            * Gated Recurrent Unit Neural Network (GRU)
-            * Bidirectional Gated Recurrent Units (Bi-GRU)
-              
-        - Specialized Recurrent Neural Networks (Autoencoders and Reservoir Computing)
-            * LSTM Autoencoder (LSTM-AE)
-            * Echo State Network (ESN)
-
-    - Transformer & Attention-based Architectures
-        - Transformer Models for Time Series Forecasting
-            * Informer
-            * DLinear
-            * TimesNet
-              
-        - Transformer and Attention-Based Models for Language and General Tasks
-            * Transformer Architecture
-            * FPT (GPT2 variants)
-            * DistilBERT
-
-    - Generative Models
-        - Generative Adversarial Networks (GANs) and Super-Resolution GANs
-            * Generative Adversarial Networks (GANs)
-            * Generative Adversarial Networks for Super Resolution (SRGAN, ESRGAN)
-              
-        - Autoencoders and Variational Autoencoders
-            * Autoencoder (AE)
-            * Variational Autoencoder (VAE)
-            * Mixture Density Networks (MDN)
-              
-        - Diffusion Models for Generative Learning
-            * Latent Diffusion Models (LDM)
-            * Denoising Diffusion Probabilistic Models (DDPM)
-            * Denoising Diffusion Implicit Models (DDIM)
-              
-        - Consistency-Based and Sinusoidal Generative Models
-            * Consistency Models (CM)
-            * Consistency Distillation
-            * Sinusoidal Representation Networks (SIREN)
-
-- Classical Machine Learning Algorithms
-    - Bagging-Based Ensemble Methods
-        - Random Forest Algorithms and Feature Selection
-            * Random Forest (RF)
-            * VSURF (Variable Selection Using Random Forests)
-            * Boruta feature selection
-            * Boruta algorithm
-              
-        - Extra Trees and Extremely Randomized Trees
-            * Extra Trees (ET)
-            * Extremely Randomized Trees (XRT)
-              
-        - Other Bagging Methods
-            * Bagging (Bootstrap Aggregating)
-
-    - Boosting-Based Ensemble Methods
-        - Gradient Boosting Algorithms
-            * Gradient Boosting (GB)
-            * Gradient Boosting Machines (GBM)
-            * Gradient Boosting Regressor (GBR)
-            * Extreme Gradient Boosting (XGBoost)
-            * LightGBM
-            * Categorical Boosting (CatBoost)
-              
-        - Other Boosting Algorithms
-            * AdaBoost
-
-    - Stacking and Other Ensemble Methods
-        - Stacking Ensembles and Averaging
-            * Stacked Ensembles (SE)
-            * Ensemble Averaging
-            * Ensemble Methods
-              
-        - Tree-Based and Rule-Based Ensembles
-            * Bayesian Additive Regression Trees (BART)
-            * Random Subspace Method (RSS)
-            * M5 Pruned Model Tree
-            * M5 Pruned (M5P)
-            * Permutation Feature Importance
-
-    - Linear & Kernel-Based Algorithms
-        - Support Vector Machine Algorithms
-            * Support Vector Machine (SVM)
-            * Support Vector Classifier (SVC)
-            * Support Vector Regression (SVR)
-              
-        - Other Linear and Quadratic Classifiers
-            * Naive Bayes
-            * Quadratic Classifier
-
-    - Clustering & Distance-Based Algorithms
-        - Clustering Algorithms (Soft, Hard, Neuro-Fuzzy)
-            * Fuzzy C-Means Clustering
-            * Self-organizing maps (SOM)
-            * DBSCAN
-            * Spectral clustering
-            * Adaptive Neuro-Fuzzy Inference Systems (ANFIS)
-            * Gene Expression Programming (GEP)
-              
-        - Distance-Based and Nearest Neighbor Methods
-            * K-Nearest Neighbors (KNN)
-            * Local Outlier Factor (LOF)
-
-- Reinforcement Learning Algorithms
-    - Policy Gradient and Actor-Critic Methods
-        - Classic Policy Gradient Algorithms
-            * Policy Gradient Methods
-            * REINFORCE
-              
-        - Modern Actor-Critic and Policy Optimization Algorithms
-            * Proximal Policy Optimization (PPO)
-            * Independent Proximal Policy Optimization (IPPO)
-            * Trust Region Policy Optimization (TRPO)
-            * Advantage Actor-Critic (A2C)
-            * Actor-Critic Methods
-
-    - Deterministic Policy Gradient and Value-Based RL Methods
-        - Deterministic and Deep Deterministic Policy Gradient Algorithms
-            * Deep Deterministic Policy Gradient (DDPG)
-            * Deterministic Policy Gradient (DPG)
-            * Twin Delayed DDPG (TD3)
-              
-        - Advanced Value-Based and Quantile RL Methods
-            * Soft Actor-Critic (SAC)
-            * Truncated Quantile Critics (TQC)
-            * CrossQ
-
-    - Multi-Agent and Specialized RL Algorithms
-            * Multi-Agent Reinforcement Learning (MARL)
-            * Markov Decision Process (MDP)
-            * Experience Replay
-            * Reranking Algorithm
-            * Augmented Random Search (ARS)
-
-- Optimization & Search Methods
-    - Hyperparameter Search and Cross-Validation Methods
-        - Cross-Validation Algorithms for Model Selection
-            * K-Fold Cross-Validation (KFCV)
-            * Leave-One-Year-Out Cross-Validation
-              
-        - Global and Randomized Hyperparameter Search Methods
-            * Grid Search
-            * Random search
-            * Bayesian Optimization
-
-    - Regularization and Model Optimization Methods
-        - Regularization Techniques for Model Complexity
-            * L2 Regularization
-            * Dropout regularisation
-              
-        - Advanced Optimization Algorithms for Deep Learning
-            * Adam Optimizer
-            * Stochastic Weight Averaging (SWA, SWAG)
-            * Variational Inference (VI)
-            * Laplace Approximation
-         
-- Numerical Methods
-    - Time-Stepping Schemes
-            * Runge-Kutta Method
-            * Adams-Bashforth Two-Step Time Integration
-            * Crank–Nicolson Numerical Scheme
-
-    - Smoothing and Filtering Methods
-            * Savitzky–Golay filtering
-
-    - Finite Element Methods
-            * Mixed-Finite Element Scheme
-
-    - Galerkin Approaches
-            * Galerkin Method
-
-    - Interpolation Methods
-            * Linear interpolation
-
-    - Fitting Methods
-            * Voigt profile fitting
-
-    - Data Assimilation Methods
-            * 4D-Var (Four-Dimensional Variational Data Assimilation)
-
-    - Inverse Methods
-            * Adjoint Method
-
-- Classical Optimization Algorithms
-    - Linear Programming Algorithms
-            * Linear Programming
-            * Mixed-Integer Linear Programming (MILP)
-            * Optimization of piecewise linear cost functions
-            * Column-and-Constraint Generation Algorithm (C&CGA)
-
-    - Nonlinear Optimization Algorithms
-            * Least Squares Method
-            * Levenberg–Marquardt (LM) Optimization Algorithm
-            * L-BFGS Optimization Algorithm
-
-    - Robust Optimization Algorithms
-            * Two-Stage Robust Optimization
-
-    - Simulation-Based Optimization Algorithms
-            * Simulation-Based Rule Curve Optimization
-            * Spill Adjustment Optimization via Brent’s Method
-
-- Evolutionary Optimization Algorithms
-    - Genetic Algorithms
-            * Genetic Algorithm (GA)
-            * Real-coded Accelerated Genetic Algorithm (RAGA)
-            * Non-dominated Sorting Genetic Algorithm II (NSGA-II)
-
-    - Swarm Optimization Algorithms
-            * Grey Wolf Optimizer (GWO)
-            * Improved Grey Wolf Optimizer (IGWO)
-            * Harmony Search
-            * Gravity Search Optimization Algorithm (GVSAO)
-
-    - Coral Reef and Metaheuristic Algorithms
-            * PCRO-SL (Probabilistic Coral Reef Optimization)
-
-    - Multi-Objective Optimization Algorithms
-            * Multi-Objective Evolutionary Algorithm (MOEA; Borg)
-            * Non-dominated Sorting Genetic Algorithm II (NSGA-II)
-
-    - Random Search Algorithms
-            * Random search
-
-    - Entropy-Based Optimization Methods
-            * Entropy Weight Method
-
-- Probabilistic Methods
-    - Expectation-Maximization Algorithms
-            * Expectation-Maximization (EM) Algorithm
-
-- Monte Carlo Methods
-    - Monte Carlo Simulation Algorithms
-            * Monte Carlo Simulation
-            * Monte Carlo Integration
-
-    - Markov Chain Monte Carlo Methods
-            * Markov Chain Monte Carlo (MCMC)
-            * MCMC (incl. Gibbs-type, Pólya-Gamma augmentation)
-            * Metropolis-Hastings Algorithm
-            * Gibbs Sampling
-            * Metropolis-within-Gibbs Sampling
-            * Adaptive Multiple Importance Sampling (AMIS)
-
-- Bayesian Methods
-    - Bayesian Inversion Methods
-            * Bayesian Inversion
-
-    - Bayesian Optimization Algorithms
-            * Bayesian Optimization
-
-- Sensitivity Testing Methods
-    - Fourier Amplitude Sensitivity Testing Methods
-            * Extended Fourier Amplitude Sensitivity Testing (EFAST)
-
-- Graph-Based Algorithms
-    - Search Algorithms
-            * Edge-Greedy Search for Causal Graph Construction
-
-- Combinatorial Algorithms
-    - Finite-Time Stabilization Controllers
-            * Initial-condition-dependent Finite-Time Stabilizing Controller
-
-- Dynamic Programming Algorithms
-    - General Dynamic Programming
-            * Dynamic programming
-
-    - Binary Dynamic Programming
-            * Binary dynamic programming
-
-- Specialized Algorithms
-    - Hydrological Process Algorithms
-            * Runoff Process Vectorization (RPV)
-
-    - SMART Algorithms
-            * SMART algorithm
-     
-- Parallel Processing and Communications
-            * Redundant Computation for halo regions
- 
-- SLAM Algorithms
-            * FAST-LIO2 (LiDAR-Inertial Odometry)
-            * ROG-Map (Robocentric Occupancy Grid Mapping)
-
-- Mapping Algorithms
-            * Bayesian Update for Occupancy Mapping
-            * Log-Odds Update Scheme
-            * ikd-Tree (incremental kd-Tree)
-
-- Robotic Planning Algorithms
-            * Safe Flight Corridor (SFC) Generation
-            * Breadth-First Search (BFS)
-
-- Control Algorithms
-            * Model Predictive Control (MPC)
-
-- Trajectory Algorithms
-            * Differential Flatness Transform
-
-- Optimization Algorithms
-            * Quadratic Programming (QP) Optimization
-
-- Numerical Methods
-            * Adams-Bashforth Two-Step Time Integration
-            * Reduced-Order Dual Decomposition
-            * Pressure-Implicit with Splitting of Operators (PISO) algorithm
-
-- Physical Modeling Algorithms
-            * 4D-Var (Four-Dimensional Variational Data Assimilation)
-            * Adjoint Method
-            * Integral Equation Method (IEM)
-            * Distorted Born Approximation (DBA)
-            * Reynolds-averaged Navier–Stokes (RANS) equations
-            * Discrete Element Method (DEM) simulation
-            * Density Functional Theory (DFT) calculations
-
-- Neural Network Algorithms
-            * Physically Informed Neural Networks (PINNs)
-            * Gaussian Radial Basis Functions (RBF)
-
-- Machine Learning Classification Algorithms
-            * Maximum Likelihood Classification (MLC)
-            * Tracking-driven Classification Algorithm
-
-- Time Series Analysis Algorithms
-            * LAVD-based Eddy Detection Algorithm
-
-- Detection Algorithms
-            * Genesis Potential Indices (GPI)
-            * Statistical Threshold Analysis for TC genesis
-            * Change Vector Analysis (CVA)
-            * Hobday-Based Anomaly Detection Algorithm
-
-- Phylogenetics Algorithms
-            * Maximum-likelihood phylogenetic analysis
-            * Neighbor-joining method
-
-- Bioinformatics Algorithms
-            * Clustal Omega
-
-- Sequence Analysis Methods
-            * Marker-assisted selection
-
-- Physical Chemistry Algorithms
-            * Exergy analysis
-            * Chemical reaction rate equations
-            * Thermodynamic equilibrium constant calculation
-
-- Thermodynamics Algorithms
-            * Wavelength Division Multiplexing (WDM)
-            * Ray-casting algorithm
-
-- Experimental Design Algorithms
-            * Design–Build–Test–Learn (DBTL) cycle
- 
-- Time Series
-    - Time Series Modeling Methods
-            * ARIMA (AutoRegressive Integrated Moving Average)
-            * SARIMA (Seasonal AutoRegressive Integrated Moving Average)
-            * SARIMAX (SARIMA with eXogenous regressors)
-            * VAR (Vector AutoRegression for multivariate time series)
-
-    - Time Series Forecasting Methods
-            * STL (Seasonal-Trend Decomposition using LOESS)
-            * LOWESS (Locally Weighted Scatterplot Smoothing for trends)
-
-    - Time Series Normalization Techniques
-            * Empirical normalization (data-driven normalization for time series)
-
-    - Time Series Similarity Analysis Methods
-            * Time series cross-correlation analysis (correlation between two time series)
-            * ACF (Autocorrelation Function for temporal dependencies)
-            * PACF (Partial Autocorrelation Function for direct lag relationships)
-
-    - Time Series Warping Algorithms
-            * DTW (Dynamic Time Warping for sequence alignment)
-            * TWDTW (Time-Weighted Dynamic Time Warping for variable timing)
-
-    - Time Series Trajectory Analysis Methods
-            * Group-Based Trajectory Modeling (identifying distinct trajectory patterns)
-
-    - Time Series Lag Analysis Methods
-            * Temporal Lag Selection (identifying relevant time lags)
-
-- Change Point, Trend, and Stationarity Analysis
-    - Time Series Break Detection Methods
-            * BFAST (Breaks For Additive Season and Trend for structural breaks)
-
-    - Time Series Changepoint Detection Methods
-            * PELT (Pruned Exact Linear Time algorithm for changepoint detection)
-
-    - Time Series Trend Analysis Methods
-            * Mann–Kendall trend test (non-parametric trend detection)
-
-    - Time Series Stationarity Testing Methods
-            * Augmented Dickey-Fuller test (ADF) (stationarity via unit root)
-            * KPSS test (Kwiatkowski-Phillips-Schmidt-Shin for stationarity)
-            * Ljung–Box test (test for autocorrelation in residuals)
-
-    - Time Series Distributional Testing Methods
-            * Kolmogorov–Smirnov test (KS test) (distributional similarity)
-            * Engle’s ARCH test (test for autoregressive conditional heteroskedasticity)
-
-- Hidden Markov Models
-    - Hidden Markov Model Methods
-            * HMM (Hidden Markov Models for probabilistic state sequences)
-
-- Mixed Sampling Methods
-    - Mixed Data Sampling Methods
-            * MIDAS (Mixed Data Sampling for handling mixed frequency data)
-
-    - Mixed-Frequency Quantile Regression Forest Methods
-            * MIDAS-QRF (Quantile Regression Forests with MIDAS)
-            * Dynamic MIDAS-QRF (Dynamic extension of MIDAS-QRF)
-            * FM-QRF (Finite Mixture Quantile Regression Forests)
-
-- Distance and Transformation Algorithms
-    - Distance Transform Methods
-            * SDT (Signed Distance Transform for shape or spatial analysis)
+* Distributed Random Forest (DRF, RF, RFR, VSURF, MIDAS-QRF, FM-QRF, Factor MIDAS-QRF)
+* Convolutional Neural Network (CNN, 3D-CNN, Deterministic CNN, EfficientNet, GVSAO-CNN, LSTM-CNN, Mask R-CNN, Multi-Head 1D CNN, SRCNN, CNN-BiLSTM, DeepLabV3+, PSPNet, U-Net, Attention U-Net, ResNet-34, Xception-65)
+* Linear Regression Methods (LR, LSLR, MLR, Multivariate Linear Regression, Linear Quantile Mixed Model, Segmented Regression, Power-Law Regression, Quantile Regression)
+* Gradient Boosting Methods (GB, GBM, GBR, ET, XRT, XGBoost, CatBoost, LightGBM)
+* Support Vector Machine (SVM, SVC, SVR, IPSO‑SVM, PSO‑SVM, SVM with RBF Kernel)
+* Long Short-Term Memory (LSTM, CNN-LSTM, Transformer-LSTM, GAN-LSTM, LSTM-AE, TimesNet, Informer)
+* Principal Component Analysis (PCA)
+* Logistic Regression Models (Logistic Regression, Multilevel Logistic Regression, Multinomial Logit Model)
+* Markov Chain Monte Carlo (MCMC, Metropolis-Hastings, Gibbs Sampling)
+* Transformer (MaskFormer, DETR, iTransformer, BEiT, DINOv2, ViT, Transformer Encoder, CNN-Transformer)
+* K-Means Clustering (K-Means, DTW-Based K-Means, K-Means Co-Clustering)
+* Artificial Neural Network (ANN, FNN, GRNN, GA-ANN, PSO-ANN)
+* Bayesian Statistical Methods (BART, BNP-PC, Bayesian Age-Depth Modeling, Bayesian Mixed-Effects Modeling, Bayesian Inversion, Bayesian Update for Occupancy Mapping, Bayesian Optimization Algorithm)
+* Reinforcement Learning (RL, MARL, REINFORCE, IPPO, PPO, TRPO, Actor-Critic, A2C, DDPG, SAC, TD3, DPG, TQC)
+* Decision Tree Methods (CART, DT, RT, M5P)
+* Independent Proximal Policy Optimization (IPPO, PPO, TRPO, REINFORCE)
+* Multi-Layer Perceptron (MLP)
+* Neural Network (NN)
+* Partial Least Squares (PLS-DA, PLSR)
+* SHapley Additive Explanations (SHAP)
+* Fuzzy Methods (Fuzzy C-Means, IVFS, Spatial Fuzzy Kappa, Fuzzy Overlay Analysis)
+* Gaussian Methods (Gaussian Graphical Models, Gaussian Processes, GPR, GRBF)
+* Generative Adversarial Network (GAN, ESRGAN, SRGAN)
+* Grid Search (GridSearchCV, Random GridSearchCV)
+* K-Nearest Neighbors (KNN, ItemNN, UserNN)
+* Adam Optimizer
+* Levenberg–Marquardt (LM) Optimization Algorithm
+* Monte Carlo Simulation
+* Savitzky–Golay Filter
+* Actor-Critic (Actor-Critic, A2C, DDPG, DPG, SAC, TD3)
+* AutoRegressive Integrated Moving Average (ARIMA, SARIMA, SARIMAX)
+* Autoencoder (AE, VAE)
+* DeepLabV3+
+* Ensemble Kalman Filter (EnKF)
+* Graph Neural Networks (GCN, GNN, Local Learnable GNN-Model)
+* Hierarchical Clustering (Ward’s Hierarchical Clustering, Hierarchical Frequency-Based Location Estimation)
+* K-Fold Cross-Validation (KFCV)
+* Kernel Density Estimation (KDE)
+* Ridge Regression
+* Analysis of Variance (ANOVA)
+* Bayesian Neural Network (BNN)
+* Bi-Spectral Method
+* Boruta Algorithm
+* Copulas for Multivariate Hazard Modeling
+* Deep Neural Network (DNN)
+* Diffusion Models (DDIM, DDPM, LDM)
+* Dynamic Time Warping (DTW, TWDTW)
+* Empirical Orthogonal Function (EOF)
+* Fast Fourier Transform (FFT)
+* Feature Pyramid Network (FPN)
+* Gated Recurrent Unit (GRU)
+* Generalized Additive Models (GAM, GAMLSS)
+* Generalized Linear Model (GLM)
+* Grey Wolf Optimizer (GWO, IGWO)
+* Kalman Filter (KF)
+* Limited-memory Broyden–Fletcher–Goldfarb–Shanno Optimization Algorithm (L-BFGS, L-BFGS-B)
+* Lagrangian Particle Trajectory Tracking
+* Latent Dirichlet Allocation (LDA)
+* Least Absolute Shrinkage and Selection Operator (LASSO)
+* Linear Interpolation
+* Linear Programming
+* Morphological Thinning
+* Partial Regression Analysis
+* Physically Informed Neural Network (PINN)
+* Random Grid Search (GridSearchCV, Random GridSearchCV)
+* Random Subspace Method (RSS)
+* Response Surface Methodology (RSM)
+* Seasonal Autoregressive Integrated Moving Average (SARIMA)
+* Self-Attention Mechanism (Multihead Self-Attention, Self-Attention)
+* Singular Value Decomposition (SVD, SVD++)
+* Spectral Clustering
+* Transfer Learning
+* Welch Method
+* 4D-Var (Four-Dimensional Variational Data Assimilation)
+* Accumulated Latitudinal Dispersal Calculation
+* AdaBoost
+* Adams-Bashforth Two-Step Time Integration
+* Adaptive Combiner
+* Adaptive Multiple Importance Sampling (AMIS)
+* Adaptive Neuro-Fuzzy Inference System (ANFIS)
+* Additive Regression (AR)
+* Adjoint Method
+* Advection–Diffusion Modeling
+* Adversarial Loss
+* AI-Supported Object Detection Pipeline (Head-Tail Segmentation & Classification)
+* Alternating Direction Method of Multipliers (ADMM)
+* Analysis of Compositions of Microbiomes with Bias Correction (ANCOM-BC2)
+* AR(1) Model
+* Atrous Spatial Pyramid Pooling (ASPP)
+* Transformer (Transformer Encoder, CNN-Transformer, DETR, iTransformer, ViT, BEiT, DINOv2)
+* Augmented Dickey-Fuller Test (ADF)
+* Augmented Random Search (ARS)
+* Backward Selection Using Akaike Information Criterion (AIC)
+* Backward Trajectory Analysis
+* Bagging (Bootstrap Aggregating)
+* Best Subset Regression Analysis
+* Bicubic Interpolation
+* Bidirectional Gated Recurrent Units (Bi-GRU)
+* Binary Dynamic Programming
+* Binomial Likelihood Modeling
+* Boolean Matching
+* Bootstrap Resampling
+* Breadth-First Search (BFS)
+* Breaks for Additive Season and Trend (BFAST)
+* Canonical Correlation Analysis (CCA)
+* CaViaR (SAV, AD, AS, IG)
+* Central Composite Design (CCD)
+* Centroid-Based Instance Segmentation
+* Change Vector Analysis (CVA)
+* CHARMm Algorithm
+* Climate Match Algorithm
+* Climate Niche Envelope Approach
+* Clustal Omega
+* Cluster Analysis
+* Clustering Algorithm for Macro- and Meso-Segment Detection
+* Cobweb Model
+* Column-and-Constraint Generation Algorithm (C&CGA)
+* Comparative Molecular Field Analysis (CoMFA)
+* Compartmental Dynamical Thermodynamics / TMN Modeling
+* Conditional Autoregressive (CAR) Model
+* Conditional Logistic Regression
+* Consistency Distillation
+* Consistency Models (CM)
+* Constrained Delaunay Triangulation (CDT)
+* Constraint-Driven Optimization
+* Contrastive Learning (InfoNCE Loss)
+* Correction Method for Population Weighting
+* DADA2 (High-Resolution Sample Inference)
+* Deep Ensembles
+* Delaunay Triangulation (via JIGSAW)
+* Denoising Diffusion Implicit Models (DDIM)
+* Denoising Diffusion Probabilistic Models (DDPM)
+* Density Functional Theory (DFT) Calculations
+* Density-Based Spatial Clustering of Applications with Noise (DBSCAN)
+* Desirability Function Approach
+* Differential Flatness Transform
+* Dirichlet Process Mixture Model (DPM)
+* DiRienzo–Zurbenko Algorithm (DZA)
+* Discrete Element Method (DEM) Simulation
+* Dispersal–Extinction–Cladogenesis (DEC) Model
+* Distance-Based Redundancy Analysis (dbRDA)
+* DistilBERT
+* Distorted Born Approximation (DBA)
+* DLinear
+* DNA Sequence Alignment
+* DOMAIN Algorithm
+* Dropout Regularization
+* Dynamic Dewpoint Isotherm (DDI) Method
+* Dynamic MIDAS-QRF
+* Dynamic Programming
+* Edge-Greedy Search for Causal Graph Construction
+* eDMD with Dictionary Learning (eDMD-DL)
+* ElasticNet
+* Empirical Mode Decomposition (EMD)
+* End-Member Modeling Algorithm (EMMA)
+* Energy and Mass Conservation Equations
+* Ensemble Averaging
+* Entropy Weight Method
+* Enzymatic Catalysis Modelling
+* Equal-Area Quadratic Spline
+* Ewald Summation
+* Exergy Analysis
+* Expectation-Maximization (EM) Algorithm
+* Experience Replay
+* Exponential Smoothing
+* Extended Dynamic Mode Decomposition (eDMD)
+* Extended Fourier Amplitude Sensitivity Testing (EFAST)
+* Extreme Learning Machine (ELM)
+* Extremely Randomized Trees (XRT)
+* Fama–French Three-Factor and Five-Factor Model Regressions
+* Fast LiDAR-Inertial Odometry 2 (FAST-LIO2)
+* Data Fusion Methods (Data-Level Fusion, Decision-Level Fusion, Feature-Level Fusion)
+* Finite Differences Simulator
+* Finite Volume Method (FVM)
+* Fully Connected Neural Network (FNN)
+* Galerkin Method
+* Gamma Regression
+* Generalized Autoregressive Conditional Heteroskedasticity / GARCH-Mixed Data Sampling (GARCH / GARCH-MIDAS)
+* Gene Expression Programming (GEP)
+* Generalized Estimating Equations (GEE)
+* Generalized Likelihood Uncertainty Estimation (GLUE)
+* Generalized Three-Cornered Hat (TCH) Method
+* Genetic Algorithm (GA, NSGA-II, RAGA)
+* Geodetector Model (GDM)
+* GF‑SG Fusion Algorithm
+* GIS-Based Spatial Multi-Criteria Evaluation
+* Graphical LASSO (gLASSO)
+* Gravity Search Optimization Algorithm (GVSAO)
+* Grid Interpolation (Linear)
+* Group-Based Trajectory Modeling
+* Harmonic Tidal Analysis
+* Harmony Search
+* Heat Transfer Algorithm
+* Hidden Markov Model (HMM)
+* Hilbert Spectral Analysis
+* Hobday-Based Anomaly Detection Algorithm
+* Homology Modeling
+* Improved 1-D DAS Method
+* Improved 2-D DAS Method
+* Incremental kd-Tree (ikd-Tree)
+* Indicator Species Analysis (IndVal.g)
+* Initial-Condition-Dependent Finite-Time Stabilizing Controller
+* Integral Equation Method (IEM)
+* Interferometric Coherence Techniques
+* Interquartile Range (IQR)-Based Outlier Detection
+* Inverse Modelling (Parameter Optimization)
+* Isotonic Regression
+* Item Nearest Neighbor (ItemNN)
+* Iterative Optimization
+* Jenks Natural Breaks Classification
+* K-Shape Clustering
+* Kaplan–Meier Survival Analysis
+* KDTree-Based Spatial Grouping
+* Kernelized Hypothesis Testing (HSIC)
+* Kolmogorov–Smirnov Test (KS Test)
+* Kolmogorov–Zurbenko (KZ) Filter
+* Kolmogorov–Zurbenko (KZ) Periodogram
+* Kriging (Spatial Interpolation)
+* L-Curve Method
+* L2 Regularization
+* Laplace Approximation
+* LAVD-Based Eddy Detection Algorithm
+* Least Squares Inversion with Smoothness-Constrained Regularization
+* Leave-One-Year-Out Cross-Validation
+* Linear Fitting
+* Linear Mixed Effect Model (REML)
+* Linear Mixed Models (LMM)
+* Linear Quantile Mixed Model (LQMM)
+* Linearized Multi-Block ADMM with Regularization
+* Local Outlier Factor (LOF)
+* Log-Odds Update Scheme
+* Lossless Compression Algorithm (ZIP)
+* Lossy Compression Algorithm (ZFP)
+* Locally Weighted Scatterplot Smoothing (LOWESS)
+* LSTM Autoencoder (LSTM-AE)
+* Manual Thresholding
+* Marker-Assisted Selection
+* Markov Decision Process (MDP)
+* Mass Balance Modeling
+* Mass Curve Technique (MCT)
+* Match Climates Regional Algorithm
+* Maximum Likelihood Classification (MLC)
+* Maximum Power Point Tracking (MPPT) Control
+* Maximum-Likelihood Phylogenetic Analysis
+* MIDAS Quantile Random Forest (MIDAS-QRF)
+* Migration Event Detection Algorithm
+* Minimum Bounding Rectangle
+* MIR Method
+* Mixed Data Sampling (MIDAS)
+* Mixed-Effects Modeling (LME4)
+* Mixed-Finite Element Scheme
+* Mixed-Integer Linear Programming (MILP)
+* Mixture Density Networks (MDN)
+* Model Predictive Control (MPC)
+* Model-Agnostic Meta-Learning (MAML) 
+* Modified Response Matrix Method
+* Moffat Uncertainty Analysis Method
+* Molecular Docking
+* Molecular Dynamics Simulation
+* Monte Carlo Dropout (MC-Dropout)
+* Monte Carlo Integration
+* Moving Average Filter
+* Multi-Agent Reinforcement Learning (MARL)
+* Multi-Criteria Performance Evaluation
+* Multi-Label Machine Learning
+* Multi-Objective Evolutionary Algorithm (MOEA)
+* Multi-Objective Optimization
+* Multi-Task Linear Regression (MTLR)
+* Multihead Self-Attention Mechanism
+* Multilevel Logistic Regression (MLLogR)
+* Multilinear Regression (MLR)
+* Multinomial Logit Model
+* Multiscale Geographically Weighted Regression (MGWR)
+* Multivariate Linear Regression
+* Multivariate Quantiles and Multiple-Output Regression Quantiles
+* Multivariate Regression
+* Naive Bayes
+* Negative Binomial Mixed-Effects Models
+* Neighbor-Joining Method
+* Network-Based Path Filtering
+* Neural Network Operators (Kantorovich)
+* Neural Network Operators (Classical)
+* Neural Network Classifier (NN Classifier)
+* Non-Dominated Sorting Genetic Algorithm II (NSGA-II)
+* Non-Metric Multidimensional Scaling (NMDS)
+* Nonlinear Regression (nlsLM Package)
+* Nonparanormal Transformation
+* Normalization of Raster Data
+* Optical Flow Method
+* Ordinary Differential Equation (ODE) System Modelling
+* Parallel Factor Analysis (PARAFAC) Modeling
+* Partial Correlation Analysis
+* Pruned Exact Linear Time Algorithm (PELT)
+* Percentile-Based Extreme Precipitation Analysis
+* Permutation Feature Importance
+* PID Control
+* Poisson Regression
+* Polynomial Basis Functions
+* Power Signal Feedback (PSF) Method
+* Power-Law Regression
+* Power-Law Regression (Plage–Sunspot Coverage Relation)
+* Pressure-Implicit with Splitting of Operators (PISO) Algorithm
+* Probabilistic Cellular Automata (PCA)
+* Probabilistic Coral Reef Optimization (PCRO-SL)
+* Probability Density Function (PDF) Analysis
+* Process-Based Modeling (Custom Respiration Models)
+* Projection Pursuit Model (PPM)
+* Pruning of Edges
+* Pseudo-Absence Sampling
+* Pseudo-Labeling Algorithm
+* Python-Based Data Processing
+* Python-Based Logistic Curve Fitting (4-Parameter, Grid-Based)
+* Quadratic Classifier
+* Quadratic Model
+* Quadratic Programming (QP) Optimization
+* Quadratic Regression
+* Quantile Mapping
+* Quantile Regression Forest (QRF)
+* Quantile-Based Outlier Removal
+* Quartic Model
+* Radial Basis Functions (RBF)
+* Продолжение списка:
+* Rank-Based Regression Analysis
+* Ray-Casting Algorithm
+* Real-Coded Accelerated Genetic Algorithm (RAGA)
+* Recurrent Neural Network (RNN)
+* Reduced-Order Dual Decomposition
+* Regression Analysis with Control Variables
+* Relay-Based Switching
+* Reranking Algorithm
+* Residual Learning
+* River Profile Analysis Using Knickpoint Detection
+* Robustness Checks with Dummy Variable Regression
+* Robocentric Occupancy Grid Mapping (ROG-Map)
+* Rule-Based Control Logic
+* Runge-Kutta Method
+* Runoff Process Vectorization (RPV)
+* Safe Flight Corridor (SFC) Generation
+* Seasonal Autoregressive Integrated Moving Average with eXogenous Variables (SARIMAX)
+* Seasonal-Trend Decomposition Using LOESS (STL)
+* Self-Organizing Maps (SOM)
+* Semi-Analytical Inversion Model (iSAM)
+* Semi-Implicit Method for Pressure-Linked Equations (SIMPLE)
+* Signed Distance Transform (SDT)
+* Simplex Lattice Design
+* Simulation-Based Rule Curve Optimization
+* Simultaneous Multiplicative Algebraic Reconstruction Technique (SMART)
+* Sinusoidal Representation Networks (SIREN)
+* Skeletonisation Algorithm
+* Slope–Area Analysis
+* Simultaneous Multiplicative Algebraic Reconstruction Technique with Tikhonov Regularization (SMART with Tikhonov Reg)
+* SPACETIME Algorithm
+* Sparse Linear Method (SLIM)
+* Spatially-Constrained Clustering (ClustGeo)
+* Sparse InversE Covariance Estimation (SPIEC-EASI)
+* Spill Adjustment Optimization via Brent’s Method
+* Spline Quantile Regression
+* Split Learning (SL)
+* Stacked Ensembles (SE)
+* Statistical Threshold Analysis for TC Genesis
+* Stochastic and Deterministic ODEs
+* Swath Profiling
+* TC Detection via OWZP Method
+* Temporal Downscaling Algorithm Using Proxy Hydrological Data
+* Text Analysis Using Keyword-Based Sentence Classification
+* Time Series Cross-Correlation Analysis
+* Time-Nonhomogeneous Continuous-Time Markov Chain (CTMC)
+* Time-Series Temporal Lag Selection
+* Tracking-Driven Classification Algorithm
+* Trust Region Methods
+* Twin Delayed DDPG (TD3)
+* Two-Stage Robust Optimization
+* Urban Building Energy Modeling (UBEM)
+* Variational Inference (VI)
+* Vector Autoregression (VAR)
+* Virtual Screening
+* ViSIR Hybrid Architecture
+* Voigt Profile Fitting
+* Volume of Fluid (VOF) Method
+* Voronoi-Based Skeleton Extraction
+* Watershed Segmentation
+* Weighted Sampling for Class Imbalance
+* Word2Vec
