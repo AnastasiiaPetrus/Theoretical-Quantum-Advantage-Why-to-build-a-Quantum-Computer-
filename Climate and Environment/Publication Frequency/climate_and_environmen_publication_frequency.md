@@ -10,8 +10,8 @@ To ensure reproducibility and comparability of results on algorithm usage in cli
 - For each standardized method, we counted the number of times (**Total mentions**) the algorithm or method was referenced across all sources.
 - For every algorithm, we calculated the **normalized publication frequency (fpub)** as:
     - $$
-\text{fpub} = \frac{\text{Total mentions}}{687}
-$$
+    \text{fpub} = \frac{\text{Total mentions}}{687}
+    $$
     - Here, **Total mentions = 687** (sum of all *mentions* in the table).
     - The *fpub* value represents the share of total mentions and allows unbiased comparison of algorithm importance.
 - The resulting tables provide a deduplicated, standardized reference list with both *Total mentions* and *fpub* for each algorithm.
