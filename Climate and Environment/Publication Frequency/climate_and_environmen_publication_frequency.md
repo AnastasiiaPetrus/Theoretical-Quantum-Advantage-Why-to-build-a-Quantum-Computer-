@@ -6,12 +6,12 @@ To ensure reproducibility and comparability of results on algorithm usage in cli
 
 **Standardization Process:**
 - All extracted algorithm names were harmonized through manual review, with synonyms and abbreviations unified under a single standard label.
-- Algorithmic variants and closely related models were clustered together (e.g., all Random Forest modifications are grouped as “Random Forest” with variants listed in parentheses).
+- Algorithmic variants and closely related models were clustered together (e.g., all Random Forest modifications are grouped as "Random Forest," with variants listed in parentheses).
 - For each standardized method, we counted the number of times (**Total mentions**) the algorithm or method was referenced across all sources.
 - For every algorithm, we calculated the normalized publication frequency (**fpub**) as:
-    - **fpub** = *Total mentions* / 687
-    - Here, **Total mentions = 687** (sum of all *mentions* in the table).
-    - The *fpub* value represents the share of total mentions and allows unbiased comparison of algorithm importance.
+    - **fpub(A) = total mentions of A / Σ total mentions of A'**
+    - Here, **Total mentions = 687** (i.e., the sum of all *mentions* in the table).
+    - The *fpub* value represents the share of total mentions and enables unbiased comparison of algorithm importance.
 - The resulting tables provide a deduplicated, standardized reference list with both *Total mentions* and *fpub* for each algorithm.
 
 ---
