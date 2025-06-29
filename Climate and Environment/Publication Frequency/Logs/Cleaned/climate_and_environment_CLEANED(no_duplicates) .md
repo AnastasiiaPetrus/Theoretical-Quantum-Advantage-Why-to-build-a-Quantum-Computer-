@@ -367,3 +367,4 @@
 * Watershed Segmentation
 * Wavelength Division Multiplexing (WDM)
 * Xception (Xception-65)
+* Finite Mixture Quantile Regression Forests (FM-QRF)
