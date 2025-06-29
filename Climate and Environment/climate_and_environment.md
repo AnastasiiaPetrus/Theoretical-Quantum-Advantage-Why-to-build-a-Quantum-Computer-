@@ -15,23 +15,22 @@ _Other parameters, keywords, and platforms can be adjusted as needed._
 
 ## Selection Process Overview
 
-For each application domain \(D\), we compile a broad list of classical algorithms and methods \(A\) known to be used in that field. We then assign an **importance score** \(\mathcal{I}(A, D)\) to each algorithm or method based on:
+For each application domain D, we compile a broad list of classical algorithms and methods A known to be used in that field. We then assign an **importance score** I(A, D) to each algorithm or method based on:
 - its frequency in domain-specific scientific literature, and
 - whether it is confirmed to be practically used in that domain.
 
-Formally:
-\[
-\mathcal{I}(A, D) = \mathrm{fpub}(A, D) \times \mathrm{fuse}(A, D)
-\]
+Formally:  
+**I(A, D) = fpub(A, D) × fuse(A, D)**
+
 where  
-- \(\mathrm{fpub}(A, D)\) is the normalized frequency of mentions of \(A\) in the literature (see below),  
-- \(\mathrm{fuse}(A, D)\) is a binary indicator: 1 if \(A\) is in practical/operational use in domain \(D\), 0 otherwise.
+- `fpub(A, D)` is the normalized frequency of mentions of A in the literature (see below),  
+- `fuse(A, D)` is a binary indicator: 1 if A is in practical/operational use in domain D, 0 otherwise.
 
 ## Process Summary
 
 - Articles were collected and reviewed regardless of explicit mention of algorithms or methods in abstracts or titles.
 - All classical algorithms and methods were extracted, then clustered by name and application similarity.
-- For each cluster, practical use (\(\mathrm{fuse}\)) was assigned based on real-world applications found in open literature, best-practice reports, and regulatory documents.
+- For each cluster, practical use (`fuse`) was assigned based on real-world applications found in open literature, best-practice reports, and regulatory documents.
 - Quantum analogue status was mapped for each practically used cluster, based on current literature in quantum machine learning.
 
 ---
@@ -40,43 +39,60 @@ where
 
 - **Algorithm & Method:** Standardized cluster of related algorithms and methods (variants unified).
 - **mentions:** Number of literature references in the aggregated sample (2010–2024).
-- **fpub:** Normalized publication frequency (\( \mathrm{fpub}(A, D) = \frac{\text{mentions}}{\sum_{A'} \text{mentions}} \)).
+- **fpub:** Normalized publication frequency (fpub(A, D) = mentions / total mentions).
 - **fuse:** Practical use in climate/environmental practice (`1` = yes, `0` = no).
-- **\(\mathcal{I}(A, D)\):** Importance score; only methods with \(\mathcal{I}(A, D) \geq \theta\) (here, \(\theta = 0.01\)) are considered significant for quantum mapping.
+- **I(A, D):** Importance score; only methods with I(A, D) ≥ 0.015 are considered significant for quantum mapping.
 
 ---
 
 ## Results Table: Top-10 Classical Algorithms and Methods in Climate/Environment
 
-| Algorithm & Method                                                        | mentions | fpub  | fuse | \( \mathcal{I}(A, D) \) | Quantum Analogue             | Notes                                                                                       |
-|---------------------------------------------------------------------------|----------|-------|------|-------------------------|------------------------------|---------------------------------------------------------------------------------------------|
-| Random Forest (RF, DRF, VSURF, QRF, FM-QRF, MIDAS-QRF)                    | 63       | 0.061 | 1    | 0.061                   | Quantum Random Forest (QRF)* | Widely used for land use, air quality, drought, ecology. Quantum variant under development.  |
-| Linear Regression (LR, OLS, Multitask, Multivar, Least Squares, etc.)     | 21       | 0.020 | 1    | 0.020                   | Quantum Linear Regression    | Classic baseline for trend analysis and forecasting. Well-established quantum analogue exists.|
-| Gradient Boosting (GB, XGBoost, LightGBM, CatBoost, GBR)                  | 19       | 0.018 | 1    | 0.018                   | Quantum Gradient Boosting**  | Used for weather, pollution, satellite data. Quantum versions are experimental.              |
-| Convolutional Neural Network (CNN, CNN-LSTM, Mask R-CNN, etc.)            | 17       | 0.016 | 1    | 0.016                   | Quantum Convolutional Neural Network (QCNN) | For satellite image recognition, agriculture, hydrology. Quantum variants are actively researched. |
-| Long Short-Term Memory (LSTM and variants)                                | 15       | 0.015 | 1    | 0.015                   | Quantum LSTM**               | Time series: rainfall, temperature, hydrology. Quantum analogue is proposed in literature.   |
-| Logistic Regression (LogReg, Multilevel LogReg)                           | 15       | 0.015 | 1    | 0.015                   | Quantum Logistic Regression  | Used for event classification (drought, risk, pollution). Quantum version demonstrated.      |
-| Artificial Neural Network (ANN)                                           | 14       | 0.014 | 1    | 0.014                   | Quantum Neural Network (QNN) | Used in pollution, ecological risk, meteorology. QNNs are a rapidly growing field.           |
-| Monte Carlo Simulation (MCS, MCMC, MC-Integration)                        | 12       | 0.012 | 1    | 0.012                   | Quantum Monte Carlo          | For uncertainty, scenario, and risk analysis. Quantum versions provide speedup for sampling. |
-| Support Vector Machine (SVM, SVM-RBF)                                     | 12       | 0.012 | 1    | 0.012                   | Quantum SVM (QSVM)           | Used in case studies, less so in operations. Quantum SVM is a flagship application in QML.   |
-| Principal Component Analysis (PCA)                                        | 11       | 0.011 | 1    | 0.011                   | Quantum PCA                  | Used for dimensionality reduction and trend detection. Quantum analogue proven.              |
-
-
-**Legend:**  
-- `fpub`: Standardized publication frequency in climate/environment literature (2010–2024).  
-- `fuse`: Practical use in real-world/operational climate/environmental science (`1` = yes, `0` = no).  
-- \( \mathcal{I}(A, D) \): Importance score, see formula above.
-- *QRF = Quantum Random Forest (early research, not widely adopted yet).
-- **Quantum analogues for complex architectures (boosting, LSTM) are theoretical or experimental.
+| Algorithm & Method                                                        | mentions | fpub  | fuse | I (A, D) | Quantum Analogue                              | Notes                                                                                      |
+|---------------------------------------------------------------------------|----------|-------|------|----------|-----------------------------------------------|--------------------------------------------------------------------------------------------|
+| Distributed Random Forest (DRF, RF, RFR, VSURF, MIDAS-QRF, FM-QRF, Factor MIDAS-QRF) | 31       | 0.045 | 1    | 0.045    | Quantum Random Forest (QRF)                   | Widely used for land use, air quality, drought, ecology. QRF is proof-of-concept and under active research. |
+| Convolutional Neural Network (CNN, 3D-CNN, Deterministic CNN, EfficientNet, GVSAO-CNN, LSTM-CNN, Mask R-CNN, Multi-Head 1D CNN, SRCNN, CNN-BiLSTM, DeepLabV3+, PSPNet, U-Net, Attention U-Net, ResNet-34, Xception-65) | 22       | 0.032 | 1    | 0.032    | Quantum Convolutional Neural Network (QCNN)   | Used in satellite image analysis, agriculture, hydrology. QCNNs are at the prototype/research stage. |
+| Linear Regression Methods (LR, LSLR, MLR, Multivariate Linear Regression, Linear Quantile Mixed Model, Segmented Regression, Power-Law Regression, Quantile Regression) | 22       | 0.032 | 1    | 0.032    | Quantum Linear Regression (QLR, HHL, VQLS)    | Classic baseline for trend analysis and forecasting. Quantum linear regression (HHL, VQLS) is well studied. |
+| Gradient Boosting Methods (GB, GBM, GBR, ET, XRT, XGBoost, CatBoost, LightGBM) | 21       | 0.031 | 1    | 0.031    | Quantum Gradient Boosting (QGB, QXGBoost)     | Used for weather, pollution, satellite data. Quantum boosting is experimental; QXGBoost prototypes exist. |
+| Support Vector Machine (SVM, SVC, SVR, IPSO‑SVM, PSO‑SVM, SVM with RBF Kernel) | 19       | 0.028 | 1    | 0.028    | Quantum Support Vector Machine (QSVM)         | Kernel-based classification and regression. QSVM is one of the most mature quantum ML algorithms. |
+| Long Short-Term Memory (LSTM, CNN-LSTM, Transformer-LSTM, GAN-LSTM, LSTM-AE, TimesNet, Informer) | 16       | 0.023 | 1    | 0.023    | Quantum LSTM (QLSTM)                          | For time series (rainfall, temperature, hydrology). QLSTM is proof-of-concept; research ongoing. |
+| Principal Component Analysis (PCA)                                        | 11       | 0.016 | 1    | 0.016    | Quantum Principal Component Analysis (QPCA)    | Dimensionality reduction and trend detection. QPCA is one of the best studied quantum analogues. |
+| Logistic Regression Models (Logistic Regression, Multilevel Logistic Regression, Multinomial Logit Model) | 10       | 0.015 | 1    | 0.015    | Quantum Logistic Regression                   | Used in event/risk classification. Quantum versions implemented as prototypes; early experimental results. |
+| Markov Chain Monte Carlo (MCMC, Metropolis-Hastings, Gibbs Sampling)      | 10       | 0.015 | 1    | 0.015    | Quantum Monte Carlo, Quantum Amplitude Estimation (QAE) | Used for uncertainty, scenario, risk analysis. QMC and QAE offer quadratic speedup for sampling; mature theory. |
+| Transformer (MaskFormer, DETR, iTransformer, BEiT, DINOv2, ViT, Transformer Encoder, CNN-Transformer) | 10       | 0.015 | 1    | 0.015    | Quantum Transformer, Quantum Attention Models  | Attention-based sequence and spatial modeling. Quantum attention is an active and emerging research area. |
 
 ---
 
-## Quantum Analogy
+## Quantum Analogue Explanation
 
-Classical algorithms and methods that dominate climate and environmental modeling—such as Random Forest, Regression, PCA, SVM, and various neural networks—now all have corresponding quantum machine learning analogues, at least at the research or experimental stage.  
-Among them, **Quantum Linear Regression**, **Quantum SVM**, and **Quantum PCA** are the most mature and well-studied, with demonstrated polynomial or even exponential speedup on certain data encoding assumptions.
+1. **Quantum Random Forest (QRF):**  
+Quantum analogues of decision trees and ensemble methods have been proposed (see arXiv:2108.11084, 2212.02744). Implementations on NISQ platforms show potential speedup in split search and ensemble training. However, QRF is not yet an industry standard.
 
-For more complex ensemble or deep learning methods (Random Forest, Boosting, LSTM, CNN), quantum variants are proposed (e.g., QRF, Quantum Gradient Boosting, Quantum CNN), but these analogues are at proof-of-concept stage and not yet used in operational climate/environmental modeling. However, quantum algorithms promise significant future improvements in computational speed and capacity for high-dimensional data typical of environmental modeling.
+2. **Quantum Convolutional Neural Network (QCNN):**  
+QCNN architectures based on variational quantum circuits for convolutional filters and image classifiers have been demonstrated (Nature Communications 2022, arXiv:2109.15407). They show promise for satellite imagery and agricultural data processing.
+
+3. **Quantum Linear Regression (HHL, VQLS):**  
+The most notable quantum algorithm here is the Harrow-Hassidim-Lloyd (HHL) algorithm, providing exponential speedup on sparse linear systems. The Variational Quantum Linear Solver (VQLS) offers a NISQ-compatible implementation (Nature, arXiv:1909.05820).
+
+4. **Quantum Gradient Boosting (QGB):**  
+Theoretically described in arXiv:2101.09315 and related works on Quantum XGBoost. Initial implementations target problems with a small number of features, leveraging quantum search for tree combination.
+
+5. **Quantum Support Vector Machine (QSVM):**  
+One of the most mature QML fields (Schuld & Petruccione, 2021; IBM Qiskit tutorials). QSVM achieves speedup in kernel evaluation and already has experimental realizations.
+
+6. **Quantum LSTM (QLSTM):**  
+Hybrid quantum-classical recurrent neural networks (RNNs) based on parameterized quantum circuits have been proposed (arXiv:2012.10988, 2303.10647). This field is developing rapidly but remains experimental.
+
+7. **Quantum PCA (QPCA):**  
+The original algorithm by Lloyd et al. (2014) shows speedup for dimensionality reduction tasks. Implemented on small quantum devices with promising results.
+
+8. **Quantum Logistic Regression:**  
+Classical logistic regression extended with quantum feature maps; proof-of-concept implementations exist in Qiskit and PennyLane.
+
+9. **Quantum Monte Carlo, QAE:**  
+Quantum Amplitude Estimation (QAE) is a standard building block to accelerate Monte Carlo methods (arXiv:1412.3489, Qiskit Finance). It offers proven quadratic speedup in sample complexity.
+
+10. **Quantum Transformer, Quantum Attention:**  
+Quantum circuits to implement attention and self-attention mechanisms are actively being researched (arXiv:2304.01641, 2312.05768, IBM Qiskit, PennyLane). These remain experimental but are rapidly progressing.
 
 ---
 
@@ -91,12 +107,12 @@ For more complex ensemble or deep learning methods (Random Forest, Boosting, LST
 
 ## Supplementary Table: Full List of Algorithms and Methods
 
-| Algorithm & Method                                           | mentions | fpub  | fuse | \( \mathcal{I}(A, D) \) |
-|--------------------------------------------------------------|----------|-------|------|--------------------------|
-| ...                                                          | ...      | ...   | ...  | ...                      |
-| Random Forest (RF, DRF, VSURF, QRF, FM-QRF, MIDAS-QRF)       | 63       | 0.061 | 1    | 0.061                    |
-| Linear Regression (LR, OLS, Multitask, etc.)                 | 21       | 0.020 | 1    | 0.020                    |
-| ...                                                          | ...      | ...   | ...  | ...                      |
+| Algorithm & Method                                           | mentions | fpub  | fuse | I (A, D) |
+|--------------------------------------------------------------|----------|-------|------|----------|
+| ...                                                          | ...      | ...   | ...  | ...      |
+| Distributed Random Forest (DRF, RF, RFR, VSURF, MIDAS-QRF, FM-QRF)       | 31       | 0.045 | 1    | 0.045    |
+| Linear Regression Methods (LR, LSLR, MLR, ...)               | 22       | 0.032 | 1    | 0.032    |
+| ...                                                          | ...      | ...   | ...  | ...      |
 | (See full appendix for all extracted methods with frequency and practical use scores) | | | | |
 
 ---
@@ -112,4 +128,3 @@ For more complex ensemble or deep learning methods (Random Forest, Boosting, LST
 - Aggregated algorithm and method frequency data (2010–2024)  
 - Practical use mapping (fuse)  
 - Quantum analogue status based on recent quantum machine learning literature (2022–2024)
-
