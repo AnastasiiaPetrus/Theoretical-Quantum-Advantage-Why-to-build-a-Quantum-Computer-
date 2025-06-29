@@ -7,7 +7,7 @@
 - **Keyword(s):** healthcare and pharma AND algorithm
 - **Filter:** Free full text
 - **Date of search:** 2025-06-29
-- **Articles reviewed:** 16
+- **Articles reviewed:** 24
 — **Time window:** 2024-2025
 
 ---
@@ -161,5 +161,89 @@ Wafik S. El-Deiry et al.
 - N-of-1 precision oncology trial design  
 - Machine learning models for treatment response prediction  
 - Use of real-world data (RWD) in precision oncology  
+
+---
+
+**[Managing Select Immune-Related Adverse Events in Patients Treated with Immune Checkpoint Inhibitors](https://doi.org/10.3390/curroncol31100473)**  
+Parneet K. Cheema et al.  
+- Corticosteroid therapy  
+- Immunosuppressants (e.g., infliximab, vedolizumab, mycophenolate mofetil, tocilizumab, cyclophosphamide, anti-thymocyte globulin)  
+- Algorithms for managing immune-related adverse events (irAEs)  
+
+---
+
+**[Real-world multicentre cohort study on choices and effectiveness of immunotherapies in NMOSD and MOGAD](https://jnnp.bmj.com/content/early/2024/11/27/jnnp-2024-334764)**  
+Vivien Häußler et al.  
+- Rituximab  
+- Azathioprine  
+- Eculizumab  
+- Intravenous Immunoglobulin (IVIG)  
+- Methotrexate  
+- Mycophenolate mofetil  
+- Tocilizumab  
+- Satralizumab  
+
+---
+
+**[Machine learning prediction of tau-PET in Alzheimer’s disease using plasma, MRI, and clinical data](https://doi.org/10.1002/alz.14600)**  
+Linda Karlsson et al.  
+- Machine Learning Models (CatBoost, Random Forest, Support Vector Regression, Elastic Net, K-Nearest Neighbor, XGBoost)  
+- Feature Selection Methods (Recursive Feature Elimination, Random Forest feature importance, Percentile-based selection)  
+- Plasma Biomarkers (especially phosphorylated tau-217 [p-tau217])  
+- Structural MRI Features  
+
+---
+
+**[Self-supervised learning of wrist-worn daily living accelerometer data improves the automated detection of gait in older adults](https://doi.org/10.1038/s41598-024-71491-3)**  
+Yonatan E. Brand et al.  
+- Classical gait detection algorithms using signal processing techniques (peak detection, wavelet analysis)  
+- Supervised machine learning algorithms for gait detection (e.g., convolutional neural networks with U-Net architecture)  
+- Self-Supervised Learning (SSL) methods: Multi-task learning (MTL), Contrastive learning (SimCLR)  
+
+---
+
+**[Artificial Intelligence in Medical Affairs: A New Paradigm with Novel Opportunities](https://doi.org/10.1007/s40290-024-00536-9)**  
+Emma Fröling et al. 
+- Machine Learning (ML)  
+- Deep Learning (DL)  
+- Natural Language Processing (NLP)  
+- Clustering Algorithms  
+- Explainable AI (XAI)  
+- Generative AI (GenAI)  
+- Text Mining and Automated Text Summarization  
+- Propensity Score Matching  
+
+---
+
+**[What is associated with painful polyneuropathy? A cross-sectional analysis of symptoms and signs in patients with painful and painless polyneuropathy](https://doi.org/10.1097/j.pain.0000000000003310)**  
+Janne Gierthmühlen et al.  
+- Multivariate Logistic Regression (MLR)  
+- Random Forest  
+- Quantitative Sensory Testing (QST)  
+- Toronto Clinical Scoring System (TCSS)  
+- Neuropathic Pain Symptom Inventory (NPSI)  
+- Brief Pain Inventory (BPI)  
+- Pain Catastrophizing Scale (PCS)  
+- Patient-Reported Outcomes Measurement Information System (PROMIS)  
+
+---
+
+**[What is associated with painful polyneuropathy? A cross-sectional analysis of symptoms and signs in patients with painful and painless polyneuropathy](https://journals.lww.com/pain/Fulltext/2024/12000/What_is_associated_with_painful_polyneuropathy__A.23.aspx)**  
+Janne Gierthmühlen et al.  
+- Multivariate Logistic Regression (MLR)  
+- Random Forest  
+- Toronto Clinical Scoring System (TCSS)  
+- Quantitative Sensory Testing (QST)  
+- Pain Catastrophizing Scale (PCS)  
+- Patient-Reported Outcomes Measurement Information System (PROMIS)  
+- Neuropathic Pain Symptom Inventory (NPSI)  
+- Brief Pain Inventory (BPI)  
+
+---
+
+**[Impact of Previous Alopecia Areata Treatment on Efficacy Responses up to Week 48 Following Ritlecitinib Treatment: A Post Hoc Analysis](https://doi.org/10.1007/s13555-024-01260-7)**  
+Jennifer Fu et al.  
+- Multivariable Logistic Regression Analysis  
+- Severity of Alopecia Tool (SALT)  
 
 ---
