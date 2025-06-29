@@ -10,6 +10,7 @@
 * Adam Optimizer
 * Adams-Bashforth Two-Step Time Integration
 * Adaptive Multiple Importance Sampling (AMIS)
+* Adaptive Neuro-Fuzzy Inference System (ANFIS)
 * Additive Regression (AR)
 * Adjoint Method
 * Advantage Actor-Critic (A2C)
@@ -102,6 +103,7 @@
 * Distorted Born Approximation (DBA)
 * Distributed Random Forest (DRF)
 * DLinear
+* Dropout Regularization
 * Dynamic Mixed Data Sampling-Quantile Random Forest (Dynamic MIDAS-QRF)
 * Dynamic Programming
 * Dynamic Time Warping (DTW)
@@ -110,6 +112,8 @@
 * eDMD with Dictionary Learning (eDMD-DL)
 * ElasticNet
 * Empirical Normalization
+* Empirical Orthogonal Function (EOF)
+* Empirical Orthogonal Function (EOF)
 * End-Member Modeling Algorithm (EMMA)
 * Engle’s ARCH Test
 * Ensemble Averaging
@@ -142,6 +146,7 @@
 * Finite Differences Simulator
 * Factor MIDAS Quantile Random Forest (Factor MIDAS-QRF)
 * Fixed-Parameter Tractable (FPT)
+* Fully Connected Neural Network (FNN)
 * Fuzzy C-Means Clustering
 * Fuzzy C-Means Clustering
 * Fuzzy Overlay Analysis
@@ -284,6 +289,16 @@
 * Logistic Regression
 * Long Short-Term Memory (CNN-LSTM)
 * Long Short-Term Memory (CNN-LSTM)
+* Long Short-Term Memory (LSTM)
+* Long Short-Term Memory (LSTM)
+* Long Short-Term Memory (LSTM)
+* Long Short-Term Memory (LSTM)
+* Long Short-Term Memory (LSTM)
+* Long Short-Term Memory (LSTM)
+* Long Short-Term Memory (LSTM)
+* Long Short-Term Memory (LSTM)
+* Long Short-Term Memory (LSTM)
+* Long Short-Term Memory (LSTM)
 * Long Short-Term Memory (Transformer-LSTM)
 * Lossless Compression Algorithm (ZIP)
 * Lossy Compression Algorithm (ZFP)
@@ -520,6 +535,9 @@
 * Time-Weighted Dynamic Time Warping (TWDTW)
 * TimesNet
 * Tracking-Driven Classification Algorithm
+* Transformer
+* Transformer
+* Transformer
 * Transformer (CNN-Transformer)
 * Transformer (DETR)
 * Transformer (iTransformer)
