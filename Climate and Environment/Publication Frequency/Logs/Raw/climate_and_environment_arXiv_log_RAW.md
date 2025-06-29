@@ -5,7 +5,7 @@
 - **Keyword(s):** climate AND algorithm
 - **Date of search:** 2025-06-22
 - **Articles reviewed:** 50
-- **Time window:** 2024–2025
+- **Time window:** 2025–2025
 
 ---
 
