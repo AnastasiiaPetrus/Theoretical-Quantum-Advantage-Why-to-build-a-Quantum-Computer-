@@ -19,15 +19,15 @@ The evaluation is based on an extensive review of international and national age
 | Algorithm & Method                                                         | fuse | Brief Example/Reference                                                                                   |
 |---------------------------------------------------------------------------|------|-----------------------------------------------------------------------------------------------------------|
 | Random Forest (RF, DRF, VSURF, QRF, FM-QRF, MIDAS-QRF)                    | 1    | Used for land use, air quality, drought, ecology ([EPA 2024][7], [Cutler et al. 2007][3])                 |
-| Linear Regression (LR, OLS, Multilin R)                                   | 1    | Classic baseline for environmental trend analysis, criteria, and models ([Wilks 2011][5], [EPA 2018][6])  |
-| Gradient Boosting (GB, XGBoost, LightGBM, CatBoost, GBR)                  | 1    | Increasingly used for weather, pollution, satellite data ([EPA T.E.S.T.][7])                              |
 | Convolutional Neural Networks (CNN and variants)                          | 1    | For satellite image recognition, ice, agriculture ([Sinha et al. 2024][8])                                |
+| Linear Regression (LR, OLS, Multilin R and other variants)                | 1    | Classic baseline for environmental trend analysis, criteria, and models ([Wilks 2011][5], [EPA 2018][6])  |
+| Gradient Boosting (GB, XGBoost, LightGBM, CatBoost, GBR and other variants)| 1    | Increasingly used for weather, pollution, satellite data ([EPA T.E.S.T.][7])                              |
+| Support Vector Machine (SVM, SVM-RBF and other variants)                  | 1    | Used in case studies, less common in operational pipelines ([EPA T.E.S.T.][7])                            |
 | Long Short-Term Memory (LSTM and variants)                                | 1    | For time series (rainfall, temperature, hydrology) ([EPA 2023][9])                                        |
-| Logistic Regression (LogReg)                                              | 1    | Used in event classification (drought, risk, pollution) ([EPA PH 2020][10])                               |
-| Artificial Neural Networks (ANN)                                          | 1    | Pollution, ecological risk, meteorology ([DOE 2022][11], [JRC 2022][12])                                  |
-| Monte Carlo Simulation (MCS, MCMC)                                        | 1    | For uncertainty, scenario, risk analysis ([FOCUS 2001][13])                                               |
 | Principal Component Analysis (PCA)                                        | 1    | Dimensionality reduction, trend detection ([EPA ROE][14])                                                 |
-| Support Vector Machine (SVM, SVM-RBF)                                     | 1    | Used in case studies, less common in operational pipelines ([EPA T.E.S.T.][7])                            |
+| Logistic Regression (LogReg and variants)                                 | 1    | Used in event classification (drought, risk, pollution) ([EPA PH 2020][10])                               |
+| Markov Chain Monte Carlo (MCMC, Metropolis-Hastings, Gibbs Sampling)      | 1    | For uncertainty, scenario, risk analysis ([FOCUS 2001][13])                                               |
+| Transformer (MaskFormer, DETR, and other variants)                        | 1    | ...                                  |
 
 #### References (see section below for details)
 
@@ -41,8 +41,8 @@ The evaluation is based on an extensive review of international and national age
 8. [A Review of CNN Applications in Smart Agriculture Using Multimodal Data](https://pmc.ncbi.nlm.nih.gov/articles/PMC11768470/?utm_source=chatgpt.com)
 9. [Ammonia Emissions Enhancements with Deep Learning CTM (Forward-Backward) and Remote-sensing Observations](https://www.epa.gov/system/files/documents/2023-11/240pm_baek.pdf?utm_source=chatgpt.com)
 10. [Development of Logistic Regression Models for Portland Harbor](https://semspub.epa.gov/work/10/100013730.pdf?utm_source=chatgpt.com)
-11. [PROJECT Artificial Neural Networks for MSW Contamination Characterization](https://www.energy.gov/sites/default/files/2022-06/CX-025934.pdf?utm_source=chatgpt.com)
-12. [Technical Guidance Water Reuse Risk Management for Agricultural Irrigation Schemes in Europe](https://publications.jrc.ec.europa.eu/repository/bitstream/JRC129596/JRC129596_01.pdf?utm_source=chatgpt.com)
+11. ...
+12. ...
 13. [LANDSCAPE AND MITIGATION FACTORS IN AQUATIC ECOLOGICAL RISK ASSESSMENT: Monte Carlo assessments](https://esdac.jrc.ec.europa.eu/ESDB_Archive/eusoils_docs/other/FOCUS_Vol1.pdf?utm_source=chatgpt.com)
 14. [EPA's Report on the Environment](https://cfpub.epa.gov/roe/technical-documentation_pdf.cfm?i=28&utm_source=chatgpt.com)
 
