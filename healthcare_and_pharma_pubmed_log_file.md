@@ -247,3 +247,32 @@ Jennifer Fu et al.
 - Severity of Alopecia Tool (SALT)  
 
 ---
+
+**[A validated multivariable machine learning model to predict cardio-kidney risk in diabetic kidney disease](https://doi.org/10.1186/s12933-025-02779-5)**  
+James L. Jr. Januzzi et al. 
+- Least Angle Regression (LARS)  
+- Least Absolute Shrinkage and Selection Operator (LASSO) with Logistic Regression  
+- Cox Proportional Hazards Model  
+
+---
+
+**[Key summary of German national guideline for adult patients with nosocomial pneumonia - Update 2024](https://doi.org/10.1007/s15010-024-02358-y)**  
+Jessica Rademacher et al. 
+- Empiric antimicrobial therapy protocols based on risk factors for multidrug-resistant pathogens (MDRP)  
+- Prolonged infusion of beta-lactam antibiotics  
+- De-escalation and focusing of antibiotic therapy based on microbiological evidence  
+- Therapy duration typically 7–8 days  
+- Procalcitonin (PCT)-based algorithms to shorten antibiotic duration  
+
+---
+
+**[Diagnosis of Clostridioides difficile infection and impact of testing](https://doi.org/10.1099/jmm.0.001939)**  
+Virginie F. Viprey, Emma Clark, Kerrie A. Davies
+- Glutamate Dehydrogenase (GDH) Enzyme Immunoassay (EIA)  
+- Nucleic Acid Amplification Tests (NAATs), including PCR and Loop-mediated Isothermal Amplification (LAMP)  
+- Cell Cytotoxicity Neutralization Assays (CCNAs)  
+- Cytotoxigenic Culture (CT)  
+- Enzyme Immunoassays (EIA) for toxin detection  
+- Two-step diagnostic algorithms combining GDH/NAAT and toxin EIAs  
+
+---
