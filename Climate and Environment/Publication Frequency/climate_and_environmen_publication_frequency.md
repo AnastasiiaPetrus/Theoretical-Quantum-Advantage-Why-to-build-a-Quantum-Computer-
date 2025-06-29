@@ -32,16 +32,17 @@ To ensure reproducibility and comparability of results on algorithm usage in cli
 
 | Algorithm & Method | mentions | fpub |
 |------------------------------------------------------|---------|-------|
-| Random Forest (RF, DRF, VSURF, QRF, FM-QRF, MIDAS-QRF) | 63      | 0.061 |
-| Linear Regression (LR, Least-Squares LR, Multitask LR, Multivar LR, OLS, Multilin R) | 21 | 0.020 |
-| Gradient Boosting (GB, XGBoost, LightGBM, CatBoost, GBR) | 19 | 0.018 |
-| Convolutional Neural Network (CNN, CNN-BiLSTM-Attention Model, CNN-LSTM, LSTM-CNN, CNN-Transformer, GVSAO-CNN, Mask R-CNN, Multi-Head 1D CNN, 3D CNN) | 17 | 0.016 |
-| Long Short-Term Memory (LSTM, GAN-LSTM, Transformer-LSTM, LSTM-AE) | 15 | 0.015 |
-| Logistic Regression (LogR, Multilevel LogReg) | 15 | 0.015 |
-| Artificial Neural Network (ANN) | 14 | 0.014 |
-| Monte Carlo Simulation (MCS, MCMC, MC-Integration) | 12 | 0.012 |
-| Support Vector Machine (SVM, SVM with RBF) | 12 | 0.012 |
-| Principal Component Analysis (PCA) | 11 | 0.011 |
+| Distributed Random Forest (DRF, RF, RFR, VSURF, MIDAS-QRF, FM-QRF, Factor MIDAS-QRF)
+ | 63      | 0.061 |
+| Convolutional Neural Network (CNN, 3D-CNN, Deterministic CNN, EfficientNet, GVSAO-CNN, LSTM-CNN, Mask R-CNN, Multi-Head 1D CNN, SRCNN, CNN-BiLSTM, DeepLabV3+, PSPNet, U-Net, Attention U-Net, ResNet-34, Xception-65) | 21 | 0.020 |
+| Linear Regression Methods (LR, LSLR, MLR, Multivariate Linear Regression, Linear Quantile Mixed Model, Segmented Regression, Power-Law Regression, Quantile Regression) | 19 | 0.018 |
+| Gradient Boosting Methods (GB, GBM, GBR, ET, XRT, XGBoost, CatBoost, LightGBM) | 17 | 0.016 |
+| Support Vector Machine (SVM, SVC, SVR, IPSO‑SVM, PSO‑SVM, SVM with RBF Kernel) | 15 | 0.015 |
+| Long Short-Term Memory (LSTM, CNN-LSTM, Transformer-LSTM, GAN-LSTM, LSTM-AE, TimesNet, Informer) | 15 | 0.015 |
+| Principal Component Analysis (PCA) | 14 | 0.014 |
+| Logistic Regression Models (Logistic Regression, Multilevel Logistic Regression, Multinomial Logit Model) | 12 | 0.012 |
+| Markov Chain Monte Carlo (MCMC, Metropolis-Hastings, Gibbs Sampling) | 12 | 0.012 |
+| Transformer (MaskFormer, DETR, iTransformer, BEiT, DINOv2, ViT, Transformer Encoder, CNN-Transformer) | 11 | 0.011 |
 
 ---
 
