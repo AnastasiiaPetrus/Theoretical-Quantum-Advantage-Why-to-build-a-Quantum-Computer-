@@ -8,7 +8,7 @@ This file documents the full process and results of algorithm and method extract
 
 - **Keywords:** `climate AND algorithm`
 - **Platforms:** arXiv, Scopus, Springer
-- **Time window:** 2010–2024
+- **Time window:** 2025–2025
 - **Sample size:** 150 most relevant articles per keyword/platform combination
 
 _Other parameters, keywords, and platforms can be adjusted as needed._
