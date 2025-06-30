@@ -486,14 +486,14 @@ Ebunle Akupan Rene & Willy Stephen Tounsi Fokui
 
 ---
 
-**Rice Classification and Quality Detection Success with Artificial Intelligence Technologies (DOI:10.1590/1678-4324-2024220754)**  
-Gökalp Çınarer, Nizamettin Erbaş & Abdurrahman Öcal
-- k‑Nearest Neighbor (k‑NN)  
-- Decision Tree  
+**[Rice Classification and Quality Detection Success with Artificial Intelligence Technologies](https://doi.org/10.1590/1678-4324-2024220754)**  
+Gökalp Çınarer et al.  
+- Support Vector Machine (SVM)  
 - Logistic Regression (LR)  
-- Multilayer Perceptron (MLP)  
 - Random Forest (RF)  
-- Support Vector Machine (SVM)
+- Linear Discriminant Analysis (LDA)  
+- K-Nearest Neighbor (K-NN)  
+- Principal Component Analysis (PCA)  
 
 ---
 
