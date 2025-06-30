@@ -7,7 +7,7 @@
 - **Keyword(s):** healthcare and pharma AND algorithm
 - **Filter:** Free full text
 - **Date of search:** 2025-06-29
-- **Articles reviewed:** 50
+- **Articles reviewed:** 76
 — **Time window:** 2024-2025
 
 ---
@@ -505,6 +505,295 @@ Agaz H. Wani et al.
 - Logistic Regression  
 - Wilcoxon Rank-Sum Test  
 - Pearson and Point-Biserial Correlation  
+
+---
+
+**[A Review on Intervention of AI in Pharmaceutical Sector: Revolutionizing Drug Discovery and Manufacturing](https://doi.org/10.1016/j.ipha.2025.04.001)**  
+Vijeth N. Bhat et al.  
+- Artificial Neural Networks (ANN)  
+- Deep Neural Networks (DNN)  
+- Convolutional Neural Networks (CNN)  
+- Recurrent Neural Networks (RNN)  
+- Logistic Regression  
+- Support Vector Machines (SVM)  
+- Random Forest  
+- Variational Autoencoders  
+- Deep Reinforcement Learning  
+- Generative Adversarial Networks (GANs)  
+- Monte Carlo Tree Search  
+- Genetic Algorithms  
+- Quality by Design (QbD)  
+
+---
+
+**[Applying Deep Learning and Forecasting Techniques to the Pharmaceutical Supply Chain](https://doi.org/10.1016/j.procs.2025.02.003)**  
+Andrés Ivan Sierra Espinel et al. 
+- ARIMA (AutoRegressive Integrated Moving Average)  
+- Autocorrelation Function (ACF)  
+- Partial Autocorrelation Function (PACF)  
+- Ljung-Box test  
+- Mean Absolute Error (MAE)  
+- Mean Squared Error (MSE)  
+- Root Mean Squared Error (RMSE)  
+- Long Short-Term Memory (LSTM)  
+- MLOps framework  
+
+---
+
+**[A simulation–optimization approach for capacitated lot-sizing in a multi-level pharmaceutical tablets manufacturing process](https://doi.org/10.1016/j.ejor.2025.01.028)**  
+Michael Simonis, Stefan Nickel  
+- Mixed-Integer Programming (MIP)  
+- Two-stage Stochastic Programming (SP)  
+- Variable Neighborhood Search (VNS)  
+- Fix-and-Optimize (F&O) heuristic  
+- Hamming Distance  
+
+---
+
+**[Comparative Study of Random Forest, Gradient Boosted Trees, Feedforward Neural Networks and Convolutional Neural Networks Using Fingerprints and Molecular Descriptors for Adverse Drug Reaction Prediction](https://doi.org/10.1016/j.procs.2024.09.702)**  
+Ana-Maria Cucos et al.  
+- Random Forest (RF)  
+- Gradient Boosted Trees (GBT)  
+- Feedforward Neural Network (FNN)  
+- Convolutional Neural Network (CNN)  
+- Molecular Fingerprints (Morgan, Atom Pair, Torsion, Pattern)  
+- Molecular Descriptors (Molecular Weight, Number of Valence Electrons)  
+
+---
+
+**[Sales predictive analysis for improving supply chain drug sample](https://doi.org/10.1016/j.procs.2025.01.233)**  
+Susana Casy Téllez-Ballesteros et al.  
+- Multiple Linear Regression Analysis  
+- Analysis of Variance (ANOVA)  
+- F-test  
+- t-test  
+- Residual Analysis  
+- Correlation Analysis  
+
+---
+
+**[Heterogeneous ensemble machine learning to predict the asiaticoside concentration in Centella asiatica urban](https://doi.org/10.1016/j.iswa.2023.200319)**  
+Keartisak Sriprateep et al.  
+- Long Short-Term Memory (LSTM)  
+- Gated Recurrent Unit (GRU)  
+- Convolutional Long Short-Term Memory (ConvLSTM)  
+- Attention-Based LSTM (A-LSTM)  
+- Differential Evolution (DE) algorithm  
+
+---
+
+**[Pharmaceutical advances: Integrating artificial intelligence in QSAR, combinatorial and green chemistry practices](https://doi.org/10.1016/j.ipha.2024.05.005)**  
+Baljit Singh et al. 
+- Quantitative Structure–Activity Relationship (QSAR) modeling  
+- Machine Learning (ML) techniques  
+- Combinatorial Chemistry methods  
+- Statistical and regression models  
+
+---
+
+**[Evaluation of synthetic electronic health records: A systematic review and experimental assessment](https://doi.org/10.1016/j.neucom.2024.128253)**  
+Emmanuella Budu et al.  
+- Generative Adversarial Networks (GANs)  
+- Conditional GAN (CGAN)  
+- Wasserstein GAN (WGAN)  
+- Boundary-seeking GAN (BGAN)  
+- Federated GAN  
+- Variational Autoencoders (VAE)  
+- Autoencoders  
+- Bayesian Networks (BN)  
+- Dynamic Bayesian Networks (DBN)  
+- Principal Component Analysis (PCA)  
+- t-Distributed Stochastic Neighbor Embedding (t-SNE)  
+- Uniform Manifold Approximation and Projection (UMAP)  
+- Non-metric Multidimensional Scaling (NMDS)  
+- Kolmogorov–Smirnov (KS) test  
+- Kullback-Leibler Divergence (KLD)  
+- Jensen–Shannon Divergence (JSD)  
+- Maximum Mean Discrepancy (MMD)  
+- Cosine Similarity (CS)  
+- Jaccard Similarity (JS)  
+- Adversarial Accuracy (AA)  
+- Random Forest  
+- Recurrent Neural Networks (RNN)  
+- Differential Privacy (DP)  
+
+---
+
+**[Use of ML and AI in Cybersecurity- A Survey](https://doi.org/10.1016/j.procs.2024.09.552)**  
+Suman Karkia, A B M Mehedi Hasan, Cesar Saninc  
+- Supervised Learning  
+- Unsupervised Learning  
+- K-means Clustering  
+- Reinforcement Learning  
+- Logistic Regression  
+
+---
+
+**[Comprehensive Review of Generative Artificial Intelligence: Mechanisms, Models, and Applications](https://doi.org/10.1016/j.procs.2025.04.628)**  
+Shivani Pahuja, Sonal Kukreja, Akansha Singh  
+- Generative Pre-trained Transformer (GPT)  
+- BERT (Bidirectional Encoder Representations from Transformers)  
+- RoBERTa (Robustly Optimized BERT Pretraining Approach)  
+- Transformer architectures (including multi-head self-attention)  
+- Recurrent Neural Networks (RNN), including LSTM and GRU  
+- Generative Adversarial Networks (GANs)  
+- Variational Autoencoders (VAEs)  
+- Reinforcement Learning from Human Feedback (RLHF)  
+- Whisper (Automatic Speech Recognition transformer)  
+- T5 (Text-to-Text Transfer Transformer)  
+- M2M100 (Multilingual Machine Translation encoder-decoder model)  
+- MPNet (Masked and Permuted Language Modeling Pretrained Network)  
+- Visual Language Models (single-stream and dual-stream transformer architectures)  
+
+---
+
+**[Simulation optimization applied to production scheduling in the era of industry 4.0: A review and future roadmap](https://doi.org/10.1016/j.jii.2024.100599)**  
+Amir Ghasemi et al.  
+- Genetic Algorithm (GA)  
+- Ant Colony Optimization (ACO)  
+- Evolutionary Algorithms (EA)  
+- Non-dominated Sorting Genetic Algorithm II (NSGA-II)  
+
+---
+
+**[A review on full-, zero-, and partial-knowledge based predictive models for industrial applications](https://doi.org/10.1016/j.inffus.2025.102996)**  
+Stefano Zampini et al. 
+- Full-Knowledge Predictive Models (FKPMs)  
+- Zero-Knowledge Predictive Models (ZKPMs)  
+- Partial-Knowledge Predictive Models (PKPMs)  
+- Kernel Methods  
+- Ensemble Methods  
+- Neural Networks  
+
+---
+
+**[Circular economy application in pharmaceutical supply chains in the UK: a holistic evolutionary game approach](https://doi.org/10.1016/j.ejor.2025.05.009)**  
+Nazanin Nami et al. 
+- Evolutionary Game Theory (EGT)  
+- Stackelberg Game  
+- Profit-Sharing Contract  
+- Replicator Dynamics  
+
+---
+
+**[Predictors of adherence to exercise interventions in people with schizophrenia](https://doi.org/10.1007/s00406-024-01789-w)**  
+Rebecca Schwaiger et al. 
+- K-means Clustering  
+- Logistic Regression  
+- Random Forest  
+- Ridge Regression  
+
+---
+
+**[Converting PROMIS®-29 v2.0 profile data to SF-36 physical and mental component summary scores in patients with cardiovascular disorders](https://doi.org/10.1186/s12955-024-02277-4)**  
+Gregor Liegl et al. 
+- Linear Regression Models  
+- Principal Component Analysis (PCA)  
+- Correlated and Uncorrelated Factor Models  
+- Item Response Theory (IRT)  
+
+---
+
+**[Secukinumab Persistence in Patients with Psoriatic Arthritis: An Adalimumab-Matched Retrospective Cohort Database Study (FLYWAY)](https://doi.org/10.1007/s40744-025-00749-7)**  
+Hideto Kameda et al. 
+- Propensity Score Matching  
+- Kaplan–Meier Survival Analysis  
+- Medication Possession Ratio (MPR)  
+
+---
+
+**[Individualized transfusion decisions to minimize adverse cardiovascular outcomes in patients with acute myocardial infarction and anemia](https://doi.org/10.1016/j.ahj.2025.01.009)**  
+Gerard T. Portela et al.  
+Adaptive Least Absolute Shrinkage and Selection Operator (LASSO) Regression
+
+---
+
+**[Distinct brain atrophy progression subtypes underlie phenoconversion in isolated REM sleep behaviour disorder](https://doi.org/10.1016/j.ebiom.2025.105753)**  
+Stephen Joza et al.  
+- Subtype and Stage Inference (SuStaIn) algorithm  
+- Vertex-based cortical surface reconstruction and volumetric segmentation  
+- NeuroComBAT harmonization  
+- Logistic regression  
+- Linear regression  
+
+---
+
+**[Deployment of an Artificial Intelligence Histology Tool to Aid Qualitative Assessment of Histopathology Using the Nancy Histopathology Index in Ulcerative Colitis](https://doi.org/10.1093/ibd/izae204)**  
+David T. Rubin et al.  
+- Random Forest Classifier  
+- Intersection over Union (IoU)  
+- Confusion Matrix  
+- Intraclass Correlation Coefficient (ICC)  
+
+---
+
+**[A machine learning approach to stratify patients with hypermobile Ehlers‐Danlos Syndrome/hypermobility Spectrum Disorders according to disorders of gut brain interaction, comorbidities and quality of life](https://doi.org/10.1111/nmo.14957)**  
+Anisa Choudhary et al.  
+- Uniform Manifold Approximation and Projection (UMAP)  
+- Hierarchical Density-Based Spatial Clustering of Applications with Noise (HDBSCAN)  
+- Logistic Regression  
+- Patient Health Questionnaire (PHQ-9, PHQ-12)  
+- General Anxiety Disorder questionnaire (GAD-7)  
+- Short Form Survey (SF-8, SF-36)  
+- Composite Autonomic Symptom Score (COMPASS) questionnaire  
+
+---
+
+**[Identifying most important predictors for suicidal thoughts and behaviours among healthcare workers active during the Spain COVID-19 pandemic: a machine-learning approach](https://doi.org/10.1017/S2045796025000198)**  
+Itxaso Alayo et al.  
+- Support Vector Classifier (SVC) with L1 regularization  
+- Random Forest (RF) classifier  
+- Synthetic Minority Oversampling Technique (SMOTE)  
+- Shapley Additive Explanations (SHAP)  
+
+---
+
+**[Longitudinal Genomic Analysis to Fine-tune Targeted Therapy: Results of the Phase II LOGIC 2 Trial in Patients with BRAFV600-Mutant Metastatic Melanoma](https://aacrjournals.org/clincancerres/article/31/11/2097/729450/Longitudinal-Genomic-Analysis-to-Fine-tune-Targeted)**  
+Reinhard Dummer et al. 
+- BRAF Inhibitor (BRAFi) and MEK Inhibitor (MEKi) Combination Therapy  
+- Next-Generation Sequencing (NGS) for Genomic Profiling  
+- Droplet Digital PCR BEAMing Assay for ctDNA BRAFV600E/K Mutation Detection  
+- RECIST 1.1 Criteria for Tumor Response Assessment  
+
+---
+
+**[Deep learning model to identify and validate hypotension endotypes in surgical and critically ill patients](https://doi.org/10.1016/j.bja.2024.10.048)**  
+Zhongping Jian et al. 
+- Deep Learning Autoencoder  
+- Gaussian Mixture Model (GMM) Clustering  
+- K-means Clustering  
+
+---
+
+**[Scalable log-ratio lasso regression for enhanced microbial feature selection with FLORAL](https://doi.org/10.1016/j.crmeth.2024.100899)**  
+Teng Fei et al.  
+- Log-ratio Lasso Regression  
+- Two-step Variable Selection Procedure  
+- Differential Abundance (DA) Testing Methods  
+
+---
+
+**[A distributional reinforcement learning model for optimal glucose control after cardiac surgery](https://doi.org/10.1038/s41746-025-01709-9)**  
+Jacob M. Desman et al. 
+- Sliding Scale Insulin Regimens  
+- Supervised Machine Learning  
+- Seasonal Stochastic Local Modeling  
+- Reinforcement Learning (RL)  
+- Conservative Q-Learning (CQL)  
+- Distributional Reinforcement Learning  
+- Implicit Quantile Networks (IQN)  
+- Fitted Q Evaluation (FQE)  
+- SHapley Additive exPlanations (SHAP)  
+
+---
+
+**[Aggressiveness classification of clear cell renal cell carcinoma using registration-independent radiology-pathology correlation learning](https://doi.org/10.1002/mp.17476)**  
+Indrani Bhattacharya et al. 
+- Vision Transformer-based Feature Extraction (DinoV2, BiomedCLIP)  
+- Principal Component Analysis (PCA), Kernel PCA (KPCA)  
+- Correlational Neural Network (CorrNet)  
+- Multi-Layer Perceptron (MLP)  
+- Holistically Nested Edge Detection (HED)  
 
 ---
 
