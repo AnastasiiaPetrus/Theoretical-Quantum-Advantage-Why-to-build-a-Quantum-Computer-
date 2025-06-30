@@ -7,7 +7,7 @@
 - **Keyword(s):** healthcare and pharma AND algorithm
 - **Filter:** Free full text
 - **Date of search:** 2025-06-29
-- **Articles reviewed:** 41
+- **Articles reviewed:** 50
 — **Time window:** 2024-2025
 
 ---
@@ -410,9 +410,101 @@ Armand Mekontso Dessap et al.
 
 ---
 
-**[EMPATHY Life in Psoriasis: Embracing Patients’ Well-Being in Their Journey of Moderate-to-Severe Psoriasis](https://doi.org/10.3390/jcm13154469)**  
-Francesca Prignano et al.
-- EMPATHY Algorithm  
+**[Deep Learning–based Unsupervised Domain Adaptation via a Unified Model for Prostate Lesion Detection Using Multisite Biparametric MRI Datasets](https://doi.org/10.1148/ryai.230521)**  
+Hao Li et al.  
+- Supervised Learning (SL)  
+- Convolutional Neural Networks (CNNs)  
+- U-Net with residual blocks  
+- Contrastive learning for Unpaired image-to-image Translation (CUT)  
+- Unsupervised Domain Adaptation (UDA)  
+- Dynamic Filter Networks  
+
+---
+
+**[Rapid identification and phenotyping of nonalcoholic fatty liver disease patients using a machine-based approach in diverse healthcare systems](https://doi.org/10.1111/cts.70105)**  
+Anna O. Basile et al.  
+- Rule-based phenotyping algorithm  
+- SQL queries on OMOP Common Data Model (CDM)  
+- Fibrosis-4 (FIB-4)  
+- Aspartate transaminase to Platelet Ratio Index (APRI)  
+- NAFLD Fibrosis Score (NAFLD-FS)  
+
+---
+
+**[Estimated annual healthcare costs after acute pulmonary embolism: results from a prospective multicentre cohort study](https://doi.org/10.1093/ehjqcco/qcae050)**  
+Katharina Mohr et al.
+- Zero-Inflated Poisson (ZIP) Regression  
+- Hurdle Gamma Regression  
+- Logistic Regression  
+
+---
+
+**[Automated 24-sector grid-map algorithm for prostate mpMRI improves precision and efficacy of prostate lesion location reporting](https://doi.org/10.1016/j.ejrad.2024.111897)**  
+Thula C. Walter-Rittel et al.  
+- Deep Learning (DL)-based segmentation  
+- nnU-Net algorithm for prostate gland and zone segmentation  
+- Linear Regression  
+- Python scripting with SimpleITK and scikit-learn libraries  
+
+---
+
+**[Artificial intelligence for direct-to-physician reporting of ambulatory electrocardiography](https://doi.org/10.1038/s41591-025-03516-x)**  
+Linda S. Johnson et al.  
+- DeepRhythmAI ensemble model  
+- Convolutional Neural Networks (CNN)  
+- Transformer architecture  
+- AdamW optimization algorithm  
+- Supervised and self-supervised learning methods  
+
+---
+
+**[ORAKLE: Optimal Risk prediction for mAke30 in patients with sepsis associated AKI using deep LEarning](https://doi.org/10.1186/s13054-025-05457-w)**  
+Wonsuk Oh et al. 
+- Dynamic DeepHit framework  
+- Long Short-Term Memory (LSTM) networks  
+- Fully connected neural networks (cause-specific subnetworks)  
+- Cox proportional hazards model  
+- XGBoost  
+- SHapley Additive exPlanations (SHAP)  
+
+---
+
+**[The McMaster Cough Severity Questionnaire (MCSQ): a cough severity instrument for patients with refractory chronic cough](https://doi.org/10.1183/13993003.01565-2024)**  
+Elena Kum et al.  
+- Clinical Impact Method  
+- Exploratory Factor Analysis (EFA)  
+- Rasch Analysis  
+- Cronbach’s Alpha  
+- Pearson’s Correlation  
+
+---
+
+**[Extent and Topography of Subretinal Drusenoid Deposits Associate With Rod-Mediated Vision in Aging and AMD: ALSTAR2 Baseline](https://doi.org/10.1167/iovs.65.10.25)**  
+Lukas Goerdt et al.
+- U-Net Convolutional Neural Network (CNN)  
+- Linear Regression  
+- Spearman Correlation  
+- Data Augmentation Techniques  
+
+---
+
+**[Longitudinal trajectories of frailty are associated with short-term mortality in older people: a joint latent class models analysis using 2 UK primary care databases](https://doi.org/10.1016/j.jclinepi.2024.111442)**  
+Leena Elhussein et al.
+- Joint Latent Class Models (JLCMs)  
+- Bayesian Information Criterion (BIC)  
+- Linear Regression  
+
+---
+
+**[Blood-based DNA methylation and exposure risk scores predict PTSD with high accuracy in military and civilian cohorts](https://doi.org/10.1186/s12920-024-02002-6)**  
+Agaz H. Wani et al.
+- Elastic Net  
+- Random Forest  
+- Lasso Regression  
+- SelectKBest  
+- Logistic Regression  
+- Wilcoxon Rank-Sum Test  
+- Pearson and Point-Biserial Correlation  
 
 ---
 
