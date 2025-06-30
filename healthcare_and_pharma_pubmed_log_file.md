@@ -7,7 +7,7 @@
 - **Keyword(s):** healthcare and pharma AND algorithm
 - **Filter:** Free full text
 - **Date of search:** 2025-06-29
-- **Articles reviewed:** 24
+- **Articles reviewed:** 31
 — **Time window:** 2024-2025
 
 ---
@@ -187,18 +187,28 @@ Vivien Häußler et al.
 
 **[Machine learning prediction of tau-PET in Alzheimer’s disease using plasma, MRI, and clinical data](https://doi.org/10.1002/alz.14600)**  
 Linda Karlsson et al.  
-- Machine Learning Models (CatBoost, Random Forest, Support Vector Regression, Elastic Net, K-Nearest Neighbor, XGBoost)  
-- Feature Selection Methods (Recursive Feature Elimination, Random Forest feature importance, Percentile-based selection)  
-- Plasma Biomarkers (especially phosphorylated tau-217 [p-tau217])  
+- CatBoost  
+- Random Forest  
+- Support Vector Regression (SVR)  
+- Elastic Net  
+- K-Nearest Neighbor (KNN)  
+- XGBoost  
+- Recursive Feature Elimination  
+- Random Forest Feature Importance  
+- Percentile-based Feature Selection  
+- Plasma Biomarker: Phosphorylated tau-217 (p-tau217)  
 - Structural MRI Features  
 
 ---
 
 **[Self-supervised learning of wrist-worn daily living accelerometer data improves the automated detection of gait in older adults](https://doi.org/10.1038/s41598-024-71491-3)**  
 Yonatan E. Brand et al.  
-- Classical gait detection algorithms using signal processing techniques (peak detection, wavelet analysis)  
-- Supervised machine learning algorithms for gait detection (e.g., convolutional neural networks with U-Net architecture)  
-- Self-Supervised Learning (SSL) methods: Multi-task learning (MTL), Contrastive learning (SimCLR)  
+- Classical gait detection algorithms (signal processing techniques: peak detection, wavelet analysis)  
+- Convolutional Neural Networks (CNNs)  
+- U-Net architecture  
+- Self-Supervised Learning (SSL)  
+- Multi-Task Learning (MTL)  
+- Contrastive Learning (SimCLR)
 
 ---
 
@@ -261,7 +271,6 @@ Jessica Rademacher et al.
 - Empiric antimicrobial therapy protocols based on risk factors for multidrug-resistant pathogens (MDRP)  
 - Prolonged infusion of beta-lactam antibiotics  
 - De-escalation and focusing of antibiotic therapy based on microbiological evidence  
-- Therapy duration typically 7–8 days  
 - Procalcitonin (PCT)-based algorithms to shorten antibiotic duration  
 
 ---
@@ -276,3 +285,49 @@ Virginie F. Viprey, Emma Clark, Kerrie A. Davies
 - Two-step diagnostic algorithms combining GDH/NAAT and toxin EIAs  
 
 ---
+
+**[Artificial intelligence-assisted automated heart failure detection and classification from electronic health records](https://onlinelibrary.wiley.com/doi/10.1002/ehf2.14828)**  
+Mon Myat Oo et al. 
+- Keyword search algorithms
+- Deep Learning (DL) algorithms  
+- Convolutional Neural Networks (CNN) 
+
+---
+
+**[Beyond the status quo: when disease volume and metastatic timing are not enough to personalize treatment in mHSPC](https://doi.org/10.1080/14796694.2025.2468569)**  
+Ángel Borque-Fernando et al.  
+- CHAARTED criteria  
+- LATITUDE criteria  
+- Androgen Deprivation Therapy (ADT)  
+- Triplet therapy (ADT + novel hormonal agents + chemotherapy)  
+- Genomic classifiers (e.g., Decipher)  
+- Imaging techniques: PSMA PET/CT  
+
+---
+
+**[Definition and management of right ventricular injury in adult patients receiving extracorporeal membrane oxygenation for respiratory support using the Delphi method: a PRORVnet study. Expert position statements](https://doi.org/10.1007/s00134-024-07551-z)**  
+Vasileios Zochios et al. 
+- RVEDA/LVEDA ratio  
+- TAPSE  
+- RVFAC  
+- RV TDI S’ velocity  
+- Phosphodiesterase type III inhibitors  
+- Inhaled nitric oxide  
+- Levosimendan  
+- Epoprostenol  
+- Veno-pulmonary ECMO  
+- Multi-modal Diagnostic Approach
+
+---
+
+**[Society for Immunotherapy of Cancer: updates and best practices for multiplex immunohistochemistry (IHC) and immunofluorescence (IF) image analysis and data sharing](https://jitc.bmj.com/content/13/1/e008875)**  
+Janis M Taube et al.
+- Color Deconvolution Algorithms (e.g., Ruifrok and Johnston method)  
+- Spectral Unmixing Algorithms (e.g., Non-negative Matrix Factorization)  
+- Image Segmentation Methods (e.g., intensity thresholding, edge detection, AI-based segmentation including Mesmer algorithm)  
+- Machine Learning Classifiers for Phenotyping (e.g., random forests, boosted decision trees, k-nearest neighbors, support vector machines)  
+- Image Registration Algorithms (e.g., scale-invariant feature transform, speeded-up robust features, elastix)  
+- Batch Correction and Normalization Techniques  
+
+---
+
