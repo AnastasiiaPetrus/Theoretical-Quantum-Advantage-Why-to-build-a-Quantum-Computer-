@@ -7,7 +7,7 @@
 - **Keyword(s):** healthcare and pharma AND algorithm
 - **Filter:** Free full text
 - **Date of search:** 2025-06-29
-- **Articles reviewed:** 31
+- **Articles reviewed:** 41
 — **Time window:** 2024-2025
 
 ---
@@ -328,6 +328,91 @@ Janis M Taube et al.
 - Machine Learning Classifiers for Phenotyping (e.g., random forests, boosted decision trees, k-nearest neighbors, support vector machines)  
 - Image Registration Algorithms (e.g., scale-invariant feature transform, speeded-up robust features, elastix)  
 - Batch Correction and Normalization Techniques  
+
+---
+
+**[Navigating regulatory and policy challenges for AI enabled combination devices](https://www.frontiersin.org/articles/10.3389/fmedt.2024.1473350/full)**  
+Snigdha Santra et al. 
+- Color Deconvolution Algorithms (e.g., Ruifrok and Johnston method)  
+- Spectral Unmixing Algorithms (e.g., Non-negative Matrix Factorization)  
+- Image Segmentation Methods (e.g., intensity thresholding, edge detection, AI-based segmentation including Mesmer algorithm)  
+- Machine Learning Classifiers for Phenotyping (e.g., random forests, boosted decision trees, k-nearest neighbors, support vector machines)  
+- Image Registration Algorithms (e.g., scale-invariant feature transform, speeded-up robust features, elastix)  
+- Batch Correction and Normalization Techniques  
+
+---
+
+**[Meta-analysis of Individual Patient-level Data for a Multimodal Artificial Intelligence Biomarker in High-risk Prostate Cancer: Results from Six NRG/RTOG Phase 3 Randomized Trials](https://doi.org/10.1016/j.eururo.2024.06.019)**  
+Daniel E. Spratt et al. 
+- Multimodal Artificial Intelligence (MMAI)  
+- Fine-Gray Competing Risk Regression Model  
+- Multivariable Analysis (MVA)  
+- Bootstrapping  
+
+---
+
+**[Learnings from Implementation Strategies to Improve Lipid Management](https://doi.org/10.1007/s11886-024-02174-8)**  
+Nick S. R. Lan et al. 
+- Decision-Support Algorithms or Protocols  
+- Multidisciplinary Team-Based Care  
+- Electronic Health Record (EHR) Alerts and Nudges  
+- Implementation Science Framework  
+
+---
+
+**[Prediction of gastrointestinal bleeding hospitalization risk in hemodialysis using machine learning](https://doi.org/10.1186/s12882-024-03809-2)**  
+John W. Larkin et al. 
+- Logistic Regression  
+- eXtreme Gradient Boosting (XGBoost)  
+- SHAP (Shapley Additive Explanations)  
+
+---
+
+**[Added value of FDG-PET for detection of progressive supranuclear palsy](https://doi.org/10.1136/jnnp-2024-333590)**  
+Ralph Buchert et al. 
+- Support Vector Machine (SVM) classification  
+- Covariance Pattern Analysis  
+- Classification and Regression Trees (CART) decision tree models  
+
+---
+
+**[Neuroimaging-based data-driven subtypes of spatiotemporal atrophy due to Parkinson’s disease](https://doi.org/10.1093/braincomms/fcaf146)**  
+Zeena Shawa et al.  
+- SuStaIn algorithm (Subtype and Stage Inference)  
+- Hierarchical clustering  
+- K-means clustering  
+- Long Short-Term Memory (LSTM) networks  
+- Latent variable hidden Markov model  
+
+---
+
+**[Predict and Protect: Evaluating the Double-Layer Sign in Age-Related Macular Degeneration](https://doi.org/10.1007/s40123-024-01012-y)**  
+Sobha Sivaprasad et al.  
+- Deep-learning algorithms  
+- Optical Coherence Tomography (OCT) / OCT Angiography (OCTA)  
+
+---
+
+**[Comparative evaluation of multimarker algorithms for early-stage HCC detection in multicenter prospective studies](https://doi.org/10.1016/j.jhepr.2024.101263)**  
+Jinlin Hou et al. 
+- GAAD algorithm  
+- GALAD algorithm  
+- Logistic Regression  
+- Lasso Regression  
+
+---
+
+**[Guidelines for the management of emergencies and critical illness in pediatric and adult patients with sickle cell disease](https://doi.org/10.1186/s13613-025-01479-3)**  
+Armand Mekontso Dessap et al.  
+- Protocolized analgesic treatment algorithm  
+- Mekontso Dessap nomogram  
+- Narbey predictive score  
+
+---
+
+**[EMPATHY Life in Psoriasis: Embracing Patients’ Well-Being in Their Journey of Moderate-to-Severe Psoriasis](https://doi.org/10.3390/jcm13154469)**  
+Francesca Prignano et al.
+- EMPATHY Algorithm  
 
 ---
 
