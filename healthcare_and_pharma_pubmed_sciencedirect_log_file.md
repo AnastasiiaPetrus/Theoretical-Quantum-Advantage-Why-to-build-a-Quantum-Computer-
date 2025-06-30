@@ -1,13 +1,13 @@
 
-# Log: Healthcare and Pharma — PubMed - keyword: "healthcare and pharma AND algorithm"
+# Log: Healthcare and Pharma — PubMed, ScienceDirect - keyword: "healthcare and pharma AND algorithm"
 
 ## Search Metadata
 
-- **Platform:** PubMed
+- **Platform:** PubMed, ScienceDirect
 - **Keyword(s):** healthcare and pharma AND algorithm
 - **Filter:** Free full text
-- **Date of search:** 2025-06-29
-- **Articles reviewed:** 76
+- **Date of search:** 2025-06-30
+- **Articles reviewed:** 100
 — **Time window:** 2024-2025
 
 ---
@@ -797,3 +797,205 @@ Indrani Bhattacharya et al.
 
 ---
 
+**[The performance of AlphaMissense to identify genes influencing disease](https://doi.org/10.1016/j.xhgg.2024.100344)**  
+Yiheng Chen et al. 
+- Predicted Loss-of-Function (pLoF) Variants  
+- Gene-Based Association Tests (Exome-wide Association Studies, ExWAS)  
+- Missense Variant Annotation Methods  
+- AlphaMissense  
+- SIFT  
+- PolyPhen2 (HDIV and HVAR)  
+- MutationTaster  
+- LRT  
+
+---
+
+**[Cost-effectiveness of opportunistic osteoporosis screening using chest radiographs with deep learning in Germany](https://doi.org/10.1007/s40520-025-03048-x)**  
+Jean-Yves Reginster et al. 
+- Deep Learning Models  
+- Decision Tree Modeling  
+- Markov Microsimulation Model  
+- Alendronate (ALN) Monotherapy  
+- Romosozumab (ROMO) followed by ALN Sequential Therapy  
+
+---
+
+**[Cluster Analysis of Clinical Remission and Relapse Patterns in Chronic Urticaria: Results from the PREDICT-CU Study](https://doi.org/10.1007/s13555-025-01376-4)**  
+Maria-Magdalena Balp et al.  
+- K-prototype clustering algorithm  
+- Divisive hierarchical clustering  
+
+---
+
+**[Disease Onset and Burden in Patients With Chronic Bronchitis and COPD: A Real-World Evidence Study](https://journal.copdfoundation.org/jcopdf/article/view/656)**  
+Jamuna K. Krishnan et al.  
+- Electronic Health Record (EHR) data mining algorithm  
+- Use of ICD-10-CM codes for COPD identification  
+- Spirometry measurements (FEV1, FVC)  
+- Health Care Resource Utilization (HCRU) metrics  
+
+---
+
+**[Deep learning on CT scans to predict checkpoint inhibitor treatment outcomes in advanced melanoma](https://doi.org/10.1038/s41598-024-81188-2)**  
+Laurens S. Ter Maat et al.  
+- Logistic Regression
+
+---
+
+**[The Role of Small-Bowel Capsule Endoscopy in the Diagnostic Algorithm of Complicated Perianal Disease](https://www.mdpi.com/2075-4418/14/16/1733)**  
+Irit Avni-Biron et al. 
+- Lewis Score (LS)  
+- Fecal Calprotectin (FC)  
+- Small-Bowel Capsule Endoscopy (SBCE)  
+- Ileocolonoscopy  
+- Cross-sectional imaging (CT and MR enterography)  
+
+---
+
+**[Applying natural language processing to identify emergency department and observation encounters for worsening heart failure](https://doi.org/10.1002/ehf2.14829)**  
+Steven A. Hamilton et al.  
+- Rule-based Natural Language Processing (NLP) algorithms  
+- Standardized diagnostic criteria for WHF incorporated into NLP algorithms  
+- Diagnostic coding methods (ICD-10) for identifying WHF encounters  
+
+---
+
+**[Hybridizing mechanistic modeling and deep learning for personalized survival prediction after immune checkpoint inhibitor immunotherapy](https://doi.org/10.1038/s41540-024-00415-8)**  
+Joseph D. Butner et al.  
+- Mechanistic Mathematical Modeling  
+- Deep Learning Time-to-Event Prediction (using Artificial Neural Networks)  
+- Logistic Hazards Model  
+- Cox Proportional Hazards Model  
+- SHapley Additive exPlanations (SHAP)  
+- Integrated Gradients  
+- DeepLift  
+
+---
+
+**[Leveraging Comprehensive Echo Data to Power Artificial Intelligence Models for Handheld Cardiac Ultrasound](https://doi.org/10.1016/j.mcpdig.2025.100194)**  
+D.M. Anisuzzaman et al. 
+- Deep Learning Frameworks  
+- Regression Models  
+- Classification Models  
+
+---
+
+**[Machine Learning Model Predicts Abnormal Lymphocytosis Associated With Chronic Lymphocytic Leukemia](https://doi.org/10.1200/CCI-24-00197)**  
+Joseph Aoki et al. 
+- Random Forest (RF) Classifier  
+- Linear Regression  
+
+---
+
+**[Accurate, Robust, and Scalable Machine Abstraction of Mayo Endoscopic Subscores From Colonoscopy Reports](https://doi.org/10.1093/ibd/izae068)**  
+Anna L. Silverman et al.
+- cTAKES-based Concept Recognition  
+- Bag-of-Words Models  
+- Automated Machine Learning (autoML)  
+- Transformer-based Models (BERT, BioBERT, ClinicalBERT)  
+
+---
+
+**[Detection of focal cortical dysplasia: Development and multicentric evaluation of artificial intelligence models](https://doi.org/10.1111/epi.18240)**  
+Lennart N. Kersting et al. 
+- Morphometric Analysis Program version 2018 (MAP18)  
+- Multi-centre Epilepsy Lesion Detection (MELD)  
+- deepFCD  
+- nnUNet (2D and 3D versions)  
+- FastSurferCNN  
+
+---
+
+**[Utility of Candidate Genes From an Algorithm Designed to Predict Genetic Risk for Opioid Use Disorder](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2797741)**  
+Christal N. Davis et al. 
+- Logistic Regression  
+- Random Forest  
+- Support Vector Machine (SVM)  
+- Principal Component Analysis (PCA)  
+
+---
+
+**[Natural Language Processing to Adjudicate Heart Failure Hospitalizations in Global Clinical Trials](https://doi.org/10.1161/CIRCHEARTFAILURE.124.012514)**  
+Pablo M. Marti-Castellote et al. 
+- Clinical Longformer  
+- GPT-4o  
+- Hybrid AI+human adjudication approach  
+
+---
+
+**[Multidisciplinary Expert Guidance for the Management of Severe Bleeding on Oral Anticoagulation: An Algorithm for Practicing Clinicians](https://doi.org/10.1055/a-2464-2887)**  
+Siraj Mithoowani et al. 
+- Clinical decision algorithm  
+- Coagulation assays (INR, PT, aPTT, thrombin time, anti-Xa assays)  
+- Four-factor prothrombin complex concentrate (4F-PCC)  
+- Idarucizumab  
+- Andexanet alfa  
+
+---
+
+**[Artificial intelligence-assisted volume isotropic simultaneous interleaved bright- and black-blood examination for brain metastases](https://doi.org/10.1007/s00234-024-03454-4)**  
+Kazufumi Kikuchi et al.  
+- Convolutional Neural Network (CNN)  
+- DeepMedic Network (multi-scale 3D CNN)  
+
+---
+
+**[Phase recognition in manual Small-Incision Cataract Surgery with MS-TCN++ on the novel SICS-105 dataset](https://doi.org/10.1038/s41598-025-00303-z)**  
+Simon Mueller et al. 
+- Multi-Stage Temporal Convolutional Network (MS-TCN++)  
+- Cross-Entropy Loss  
+- Mean Squared Error (MSE) Loss  
+
+---
+
+**[Early prediction of functional impairment at hospital discharge in patients with osteoporotic vertebral fracture: a machine learning approach](https://doi.org/10.1038/s41598-024-82359-x)**  
+Soichiro Masuda et al. 
+- Logistic Regression (LR)  
+- Random Forest (RF)  
+- Gradient-Boosting Decision Tree (GBDT)  
+- Deep Neural Network (DNN)
+
+---
+
+**[Real-world faricimab switch in France: artificial intelligence-based detection of changes in exudative signs in difficult-to-treat neovascular age-related macular degeneration](https://bmjophth.bmj.com/content/10/1/e002267)**  
+Vincent Gualino et al. 
+- Convolutional Neural Network (CNN)-based AI algorithm  
+- Logistic Regression  
+
+---
+
+**[Evaluation of the performance of both machine learning models using PET and CT radiomics for predicting recurrence following lung stereotactic body radiation therapy: A single-institutional study](https://doi.org/10.1002/acm2.14322)**  
+Hikaru Nemoto et al.  
+- Support Vector Machine (SVM)  
+- Naïve Bayes (NB)  
+- Random Forest (RF)  
+- k-Nearest Neighbor (KNN)  
+- Chi-square Test (CST)  
+- Minimum Redundancy Maximum Relevance (MRMR)  
+- Relief (RLF)  
+- Radiomic Feature Extraction  
+
+---
+
+**[Application of the defect distribution index to functional lung MRI of pediatric cystic fibrosis lung disease and controls](https://doi.org/10.1016/j.jcf.2025.02.015)**  
+Elisabeth Kieninger et al. 
+- K-means Clustering  
+- Defect Distribution Index (DDI)  
+
+---
+
+**[Model-informed approach to estimate treatment effect in placebo-controlled clinical trials using an artificial intelligence-based propensity weighting methodology to account for non-specific responses to treatment](https://doi.org/10.1007/s10928-024-09950-7)**  
+Roberto Gomeni, F. Bressolle-Gomeni  
+- Artificial Neural Network (ANN)  
+- Propensity Score Weighting (PSW)  
+- Nonlinear Mixed-Effect Model for Repeated Measures (NLMMRM)  
+- Stepwise Covariate Model (SCM)  
+
+---
+
+**[Identifying Mild-to-Moderate Atopic Dermatitis Using a Generic Machine Learning Approach: A Danish National Health Register Study](https://doi.org/10.2340/actadv.v105.42250)**  
+Mie Sylow Liljendahl et al.  
+- Random Forest (RF)  
+- Recursive Feature Elimination (RFE)  
+- Univariate Linear Regression  
+- One-hot Encoding  
