@@ -52,7 +52,7 @@ The methodology is currently being applied to the following domains, with furthe
    Each domain is covered by two to four relevant scientific platforms or databases, as listed above.
 
 4. **Initial Sample Size**  
-   For every platform and keyword combination, the top 50 most relevant articles are selected. The expected total is 300 to 900 articles per domain.
+   For every platform and keyword combination, the top 50 most relevant articles are selected. The expected total is 150 articles per domain.
 
 ---
 
