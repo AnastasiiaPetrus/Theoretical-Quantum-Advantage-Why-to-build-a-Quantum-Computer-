@@ -52,7 +52,7 @@ The methodology is currently being applied to the following domains, with furthe
    Each domain is covered by two to four relevant scientific platforms or databases, as listed above.
 
 4. **Initial Sample Size**  
-   For every platform and keyword combination, the top 100 most relevant articles are selected. The expected total is 300 to 900 articles per domain.
+   For every platform and keyword combination, the top 50 most relevant articles are selected. The expected total is 300 to 900 articles per domain.
 
 ---
 
@@ -86,7 +86,7 @@ For each cluster with `fuse = 1`, the importance score is computed:
 
 I(A, D) = α * fpub(A, D)
 
-A significance threshold `τ` (for example, 0.3) may be applied to highlight only the most relevant clusters for further analysis.
+A significance threshold `τ` (for example, 0.015) may be applied to highlight only the most relevant clusters for further analysis.
 
 ---
 
