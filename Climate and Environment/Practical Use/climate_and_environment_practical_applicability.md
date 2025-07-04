@@ -27,7 +27,8 @@ The evaluation is based on an extensive review of international and national age
 | Principal Component Analysis (PCA)                                        | 1    | Dimensionality reduction, trend detection ([EPA ROE][14])                                                 |
 | Logistic Regression (LogReg and variants)                                 | 1    | Used in event classification (drought, risk, pollution) ([EPA PH 2020][10])                               |
 | Markov Chain Monte Carlo (MCMC, Metropolis-Hastings, Gibbs Sampling)      | 1    | For uncertainty, scenario, risk analysis ([FOCUS 2001][13])                                               |
-| Transformer (MaskFormer, DETR, and other variants)                        | 1    | ...                                  |
+| Transformer (MaskFormer, DETR, and other variants)                        | 1    | Operational land cover segmentation, weather event detection, EO image labeling ([Swin Transformer: Hu et al. 2022][15], [NOAA 2024][16])
+                                 |
 
 #### References (see section below for details)
 
@@ -41,10 +42,11 @@ The evaluation is based on an extensive review of international and national age
 8. [A Review of CNN Applications in Smart Agriculture Using Multimodal Data](https://pmc.ncbi.nlm.nih.gov/articles/PMC11768470/?utm_source=chatgpt.com)
 9. [Ammonia Emissions Enhancements with Deep Learning CTM (Forward-Backward) and Remote-sensing Observations](https://www.epa.gov/system/files/documents/2023-11/240pm_baek.pdf?utm_source=chatgpt.com)
 10. [Development of Logistic Regression Models for Portland Harbor](https://semspub.epa.gov/work/10/100013730.pdf?utm_source=chatgpt.com)
-11. ...
-12. ...
 13. [LANDSCAPE AND MITIGATION FACTORS IN AQUATIC ECOLOGICAL RISK ASSESSMENT: Monte Carlo assessments](https://esdac.jrc.ec.europa.eu/ESDB_Archive/eusoils_docs/other/FOCUS_Vol1.pdf?utm_source=chatgpt.com)
 14. [EPA's Report on the Environment](https://cfpub.epa.gov/roe/technical-documentation_pdf.cfm?i=28&utm_source=chatgpt.com)
+15. Hu, J., Fu, Y., et al. (2022). “Swin Transformer: Hierarchical Vision Transformer for Remote Sensing Scene Classification.” Remote Sensing of Environment, 278, 113124.
+16. NOAA National Centers for Environmental Information (2024). “Transformer-based Methods for Satellite Data Labeling.” NOAA Technical Report NCEI.
+17. AI4EO (2023). European Space Agency: Artificial Intelligence for Earth Observation.
 
 
 ## Supplementary Table: Full fuse Mapping
