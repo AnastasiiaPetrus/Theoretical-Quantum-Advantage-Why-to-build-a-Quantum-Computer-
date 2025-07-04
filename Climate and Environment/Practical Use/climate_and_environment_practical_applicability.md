@@ -18,9 +18,9 @@ The evaluation is based on an extensive review of international and national age
 
 | Algorithm & Method                                                         | fuse | Brief Example/Reference                                                                                   |
 |---------------------------------------------------------------------------|------|-----------------------------------------------------------------------------------------------------------|
-| Random Forest (RF, DRF, VSURF, QRF, FM-QRF, MIDAS-QRF)                    | 1    | Used for land use, air quality, drought, ecology ([EPA 2024][7], [Cutler et al. 2007][3])                 |
+| Random Forest (RF, DRF, VSURF, QRF, FM-QRF, MIDAS-QRF)                    | 1    | Used for land use, air quality, drought, ecology ([EPA 2024][7], [Cutler et al. 2007][3], [1])                 |
 | Convolutional Neural Networks (CNN and variants)                          | 1    | For satellite image recognition, ice, agriculture ([Sinha et al. 2024][8])                                |
-| Linear Regression (LR, OLS, Multilin R and other variants)                | 1    | Classic baseline for environmental trend analysis, criteria, and models ([Wilks 2011][5], [EPA 2018][6])  |
+| Linear Regression (LR, OLS, Multilin R and other variants)                | 1    | Classic baseline for environmental trend analysis, criteria, and models ([Wilks 2011][5], [EPA 2018][6], [4])  |
 | Gradient Boosting (GB, XGBoost, LightGBM, CatBoost, GBR and other variants)| 1    | Increasingly used for weather, pollution, satellite data ([EPA T.E.S.T.][7])                              |
 | Support Vector Machine (SVM, SVM-RBF and other variants)                  | 1    | Used in case studies, less common in operational pipelines ([EPA T.E.S.T.][7])                            |
 | Long Short-Term Memory (LSTM and variants)                                | 1    | For time series (rainfall, temperature, hydrology) ([EPA 2023][9])                                        |
@@ -46,7 +46,6 @@ The evaluation is based on an extensive review of international and national age
 14. [EPA's Report on the Environment](https://cfpub.epa.gov/roe/technical-documentation_pdf.cfm?i=28&utm_source=chatgpt.com)
 15. Hu, J., Fu, Y., et al. (2022). “Swin Transformer: Hierarchical Vision Transformer for Remote Sensing Scene Classification.” Remote Sensing of Environment, 278, 113124.
 16. NOAA National Centers for Environmental Information (2024). “Transformer-based Methods for Satellite Data Labeling.” NOAA Technical Report NCEI.
-17. AI4EO (2023). European Space Agency: Artificial Intelligence for Earth Observation.
 
 
 ## Supplementary Table: Full fuse Mapping
